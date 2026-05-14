@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2"
+    xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+    xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"
+    xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1"
+    xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1"
+    xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1"
+    xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+    <ext:UBLExtensions>
+        <ext:UBLExtension>
+            <ext:ExtensionContent>
+                <efext:EformsExtension>
+                    <efbc:TransmissionDate>2025-06-27+00:00</efbc:TransmissionDate>
+                    <efbc:TransmissionTime>13:00:50+00:00</efbc:TransmissionTime>
+                    <efac:NoticeResult>
+                        <cbc:TotalAmount currencyID="DKK">1450000</cbc:TotalAmount>
+                        <efac:LotResult>
+                            <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                            <efac:LotTender>
+                                <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                            </efac:LotTender>
+                            <efac:LotTender>
+                                <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                            </efac:LotTender>
+                            <efac:SettledContract>
+                                <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                            </efac:SettledContract>
+                            <efac:TenderLot>
+                                <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+                            </efac:TenderLot>
+                        </efac:LotResult>
+                        <efac:LotTender>
+                            <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                            <efac:TenderingParty>
+                                <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                            </efac:TenderingParty>
+                            <efac:TenderLot>
+                                <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+                            </efac:TenderLot>
+                            <efac:TenderReference>
+                                <cbc:ID>10147 - Indkøb af kryostat</cbc:ID>
+                            </efac:TenderReference>
+                        </efac:LotTender>
+                        <efac:LotTender>
+                            <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                            <efac:TenderingParty>
+                                <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                            </efac:TenderingParty>
+                            <efac:TenderLot>
+                                <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+                            </efac:TenderLot>
+                            <efac:TenderReference>
+                                <cbc:ID>10147 - Indkøb af kryostat</cbc:ID>
+                            </efac:TenderReference>
+                        </efac:LotTender>
+                        <efac:SettledContract>
+                            <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                            <efac:ContractReference>
+                                <cbc:ID>10147 - Indkøb af kryostat</cbc:ID>
+                            </efac:ContractReference>
+                            <efac:LotTender>
+                                <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                            </efac:LotTender>
+                        </efac:SettledContract>
+                        <efac:TenderingParty>
+                            <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                            <efac:Tenderer>
+                                <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                            </efac:Tenderer>
+                        </efac:TenderingParty>
+                    </efac:NoticeResult>
+                    <efac:NoticeSubType>
+                        <cbc:SubTypeCode listName="notice-subtype">25</cbc:SubTypeCode>
+                    </efac:NoticeSubType>
+                    <efac:Organizations>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>https://www.dtu.dk</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DAN">Danmarks Tekniske Universitet - DTU</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Anker Engelunds Vej 1</cbc:StreetName>
+                                    <cbc:CityName>Kgs. Lyngby</cbc:CityName>
+                                    <cbc:PostalZone>2800</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">DK012</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">DNK</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID schemeID="002">30060946</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Name>John Jepsen</cbc:Name>
+                                    <cbc:Telephone>+45 20233324</cbc:Telephone>
+                                    <cbc:ElectronicMail>johjep@dtu.dk</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>http://www.klfu.dk</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DAN">Klagenævnet for Udbud</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Nævnenes hus, Toldboden 2</cbc:StreetName>
+                                    <cbc:CityName>Viborg</cbc:CityName>
+                                    <cbc:PostalZone>8800</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">DK042</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">DNK</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID schemeID="002">37795526</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>+45 35291000</cbc:Telephone>
+                                    <cbc:ElectronicMail>klfu@erst.dk</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>http://www.kfst.dk</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DAN">Konkurrence- og Forbrugerstyrelsen</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Carl Jacobsens Vej 35</cbc:StreetName>
+                                    <cbc:CityName>Valby</cbc:CityName>
+                                    <cbc:PostalZone>2500</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">DK011</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">DNK</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID schemeID="002">10294819</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>+45 41715000</cbc:Telephone>
+                                    <cbc:ElectronicMail>kfst@kfst.dk</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efbc:ListedOnRegulatedMarketIndicator>true</efbc:ListedOnRegulatedMarketIndicator>
+                            <efac:Company>
+                                <cbc:WebsiteURI>https://nanoscience.oxinst.com/</cbc:WebsiteURI>
+                                <efbc:CompanySizeCode listName="economic-operator-size">medium</efbc:CompanySizeCode>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DAN">Oxford Instruments GmbH</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Borsigstraße 15a</cbc:StreetName>
+                                    <cbc:CityName>Wiesbaden</cbc:CityName>
+                                    <cbc:PostalZone>65205</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">DE714</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID schemeID="002">DE113869215</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Name>Merlin Müller</cbc:Name>
+                                    <cbc:Telephone>+4915110611688</cbc:Telephone>
+                                    <cbc:Telefax>+44 (0) 1865 393333</cbc:Telefax>
+                                    <cbc:ElectronicMail>merlin.mueller@oxinst.com</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>http://mercell.com/</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DAN">Mercell Holding ASA</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Askekroken 11</cbc:StreetName>
+                                    <cbc:CityName>Oslo</cbc:CityName>
+                                    <cbc:PostalZone>0277</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">NO081</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID schemeID="002">980921565</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Name>eSender</cbc:Name>
+                                    <cbc:Telephone>+47 21018800</cbc:Telephone>
+                                    <cbc:Telefax>+47 21018801</cbc:Telefax>
+                                    <cbc:ElectronicMail>publication@mercell.com</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                    </efac:Organizations>
+                    <efac:Publication>
+                        <efbc:NoticePublicationID schemeName="ojs-notice-id">00422765-2025</efbc:NoticePublicationID>
+                        <efbc:GazetteID schemeName="ojs-id">123/2025</efbc:GazetteID>
+                        <efbc:PublicationDate>2025-07-01+02:00</efbc:PublicationDate>
+                    </efac:Publication>
+                </efext:EformsExtension>
+            </ext:ExtensionContent>
+        </ext:UBLExtension>
+    </ext:UBLExtensions>
+    <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+    <cbc:CustomizationID>eforms-sdk-1.11</cbc:CustomizationID>
+    <cbc:ID schemeName="notice-id">aa671cf1-653c-46c8-b5b9-53f0f10e1f70</cbc:ID>
+    <cbc:ContractFolderID>b7cd6d63-0038-40f5-9624-a25519dc50f4</cbc:ContractFolderID>
+    <cbc:IssueDate>2025-06-27+00:00</cbc:IssueDate>
+    <cbc:IssueTime>11:23:13+00:00</cbc:IssueTime>
+    <cbc:VersionID>01</cbc:VersionID>
+    <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+    <cbc:NoticeTypeCode listName="dir-awa-pre">veat</cbc:NoticeTypeCode>
+    <cbc:NoticeLanguageCode>DAN</cbc:NoticeLanguageCode>
+    <cac:ContractingParty>
+        <cbc:BuyerProfileURI>https://eu.eu-supply.com/ctm/company/companyinformation/index/165863</cbc:BuyerProfileURI>
+        <cac:ContractingPartyType>
+            <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+        </cac:ContractingPartyType>
+        <cac:ContractingActivity>
+            <cbc:ActivityTypeCode listName="authority-activity">education</cbc:ActivityTypeCode>
+        </cac:ContractingActivity>
+        <cac:Party>
+            <cac:PartyIdentification>
+                <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+            <cac:ServiceProviderParty>
+                <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+                <cac:Party>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:Party>
+            </cac:ServiceProviderParty>
+        </cac:Party>
+    </cac:ContractingParty>
+    <cac:TenderingProcess>
+        <cbc:ProcedureCode listName="procurement-procedure-type">neg-wo-call</cbc:ProcedureCode>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+        <cbc:ID schemeName="InternalID">10147</cbc:ID>
+        <cbc:Name languageID="DAN">Indkøb af kryostat</cbc:Name>
+        <cbc:Description languageID="DAN">DTU har til hensigt at bestille en kryostat med henblik på
+            at foretage elektriske målinger på 2D-systemer under lave temperaturer og ved forhøjede
+            magnetfelter. Kryostaten skal supplere vores eksisterende TestlatronPT 12T system som
+            allerede er i drift. Vi har valgt en TeslatronPT 8T fra Oxford Instruments, da vi mener
+            at den er det eneste produkt på markedet som indenfor vores budget kan levere den
+            ønskede ydelse som er: At rutinemæssigt kunne nå under 1.5K med en variabel-temperatur
+            komponent som kan holde og scanne brugervalgte temperaturer mellem lavest opnåelige
+            temperatur og 300K, at kunne scanne magnetfelt fra 0 til 8T på under 30 minutter med en
+            variation henover prøveområdet på mindre end 0.1%, at tillade prøver på op til 50mm i
+            diameter og med tilkøb af indsats opnå temperaturer ned til 25mK. Da systemet forventes
+            at få mange prøver, er det også nødvendigt med hurtig nedkøling af prøver - det er
+            derfor en stor fordel at dette system kan køle prøver fra stuetemperatur til under 5K på
+            mindre end to timer. Desuden skal systemet være designet til foretage lav-signal
+            målinger og muliggøre at holde prøven elektrisk isoleret fra kryostaten selv. Maskinen
+            er desuden kompatibelt med vores eksisterende kryostat både med hensyn til service,
+            hardware og træning af brugere.</cbc:Description>
+        <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+        <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">38000000</cbc:ItemClassificationCode>
+        </cac:MainCommodityClassification>
+        <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">38430000</cbc:ItemClassificationCode>
+        </cac:AdditionalCommodityClassification>
+        <cac:RealizedLocation>
+            <cac:Address>
+                <cbc:Region>anyw</cbc:Region>
+            </cac:Address>
+        </cac:RealizedLocation>
+    </cac:ProcurementProject>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+        <cac:TenderingTerms>
+            <cac:AppealTerms>
+                <cac:AppealInformationParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:AppealInformationParty>
+                <cac:AppealReceiverParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:AppealReceiverParty>
+                <cac:MediationParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:MediationParty>
+            </cac:AppealTerms>
+        </cac:TenderingTerms>
+        <cac:TenderingProcess>
+            <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+        </cac:TenderingProcess>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="InternalID">10147</cbc:ID>
+            <cbc:Name languageID="DAN">Indkøb af kryostat</cbc:Name>
+            <cbc:Description languageID="DAN">DTU har til hensigt at bestille en kryostat med
+                henblik på at foretage elektriske målinger på 2D-systemer under lave temperaturer og
+                ved forhøjede magnetfelter. Kryostaten skal supplere vores eksisterende TestlatronPT
+                12T system som allerede er i drift. Vi har valgt en TeslatronPT 8T fra Oxford
+                Instruments, da vi mener at den er det eneste produkt på markedet som indenfor vores
+                budget kan levere den ønskede ydelse som er: At rutinemæssigt kunne nå under 1.5K
+                med en variabel-temperatur komponent som kan holde og scanne brugervalgte
+                temperaturer mellem lavest opnåelige temperatur og 300K, at kunne scanne magnetfelt
+                fra 0 til 8T på under 30 minutter med en variation henover prøveområdet på mindre
+                end 0.1%, at tillade prøver på op til 50mm i diameter og med tilkøb af indsats opnå
+                temperaturer ned til 25mK. Da systemet forventes at få mange prøver, er det også
+                nødvendigt med hurtig nedkøling af prøver - det er derfor en stor fordel at dette
+                system kan køle prøver fra stuetemperatur til under 5K på mindre end to timer.
+                Desuden skal systemet være designet til foretage lav-signal målinger og muliggøre at
+                holde prøven elektrisk isoleret fra kryostaten selv. Maskinen er desuden kompatibelt
+                med vores eksisterende kryostat både med hensyn til service, hardware og træning af
+                brugere.</cbc:Description>
+            <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+            <cac:MainCommodityClassification>
+                <cbc:ItemClassificationCode listName="cpv">38000000</cbc:ItemClassificationCode>
+            </cac:MainCommodityClassification>
+            <cac:AdditionalCommodityClassification>
+                <cbc:ItemClassificationCode listName="cpv">38430000</cbc:ItemClassificationCode>
+            </cac:AdditionalCommodityClassification>
+            <cac:RealizedLocation>
+                <cac:Address>
+                    <cbc:Region>anyw</cbc:Region>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:TenderResult>
+        <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+    </cac:TenderResult>
+</ContractAwardNotice>

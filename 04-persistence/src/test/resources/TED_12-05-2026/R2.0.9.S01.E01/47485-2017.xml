@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+    VERSION="R2.0.9.S01.E01"
+    xsi:schemaLocation="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01 TED_EXPORT.xsd"
+    DOC_ID="047485-2017" EDITION="2017027">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>17-050793-001</RECEPTION_ID>
+        <DELETION_DATE>20170517</DELETION_DATE>
+        <FORM_LG_LIST>EN </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:title="TED WEBSITE" xlink:href="http://ted.europa.eu"
+            xlink:type="simple" />
+        <OFFICIAL_FORMS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple" />
+        <FORMS_LABELS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple" />
+        <ORIGINAL_CPV_LINK xlink:href="http://ted.europa.eu" xlink:type="simple" />
+        <ORIGINAL_NUTS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>27</NO_OJ>
+            <DATE_PUB>20170208</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2017/S 027-047485</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:047485-2017:TEXT:EN:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>EN</LG_ORIG>
+            <ISO_COUNTRY VALUE="NL" />
+            <IA_URL_GENERAL>http://www.tudelft.nl</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="38000000">Laboratory, optical and precision equipments (excl.
+                glasses)</ORIGINAL_CPV>
+            <ORIGINAL_NUTS CODE="NL">NEDERLAND</ORIGINAL_NUTS>
+            <CA_CE_NUTS CODE="NL">NEDERLAND</CA_CE_NUTS>
+            <TENDERER_NUTS CODE="NL">NEDERLAND</TENDERER_NUTS>
+            <VALUES>
+                <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">360980.00</VALUE>
+            </VALUES>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20170206</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+            <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="L">Education</MA_MAIN_ACTIVITIES>
+            <HEADING>01B03</HEADING>
+            <INITIATOR>01</INITIATOR>
+            <DIRECTIVE VALUE="2014/24/EU" />
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Холандия</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Лабораторно, оптично и прецизно оборудване (без стъклени изделия)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Nizozemsko</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorní, optické a přesné přístroje a zařízení (mimo skel)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Nederlandene</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorieudstyr, optisk udstyr og præcisionsudstyr (ikke briller)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>die Niederlande</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Κάτω Χώρες</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Εξοπλισμός εργαστηριακός, οπτικός και ακριβείας (εκτός από γυαλιά)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Netherlands</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory, optical and precision equipments (excl. glasses)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Países Bajos</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipo de laboratorio, óptico y de precisión (excepto gafas)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Madalmaad</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboriseadmed, optika- ja täppisinstrumendid (v.a klaasid)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Alankomaat</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriolaitteet, optiset ja tarkkuuslaitteet (lukuun ottamatta
+                        silmälaseja)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Pays-Bas</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Équipements de laboratoire, d'optique et de précision (excepté les lunettes)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Ísiltír, an</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory, optical and precision equipments (excl. glasses)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Nizozemska</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijska, optička i precizna oprema (osim naočala)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Hollandia</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratóriumi, optikai és precíziós felszerelések (kivéve szemüvegek)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Paesi Bassi</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Attrezzature da laboratorio, ottiche e di precisione (escluso vetri)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Nyderlandai, Olandija</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Nīderlande</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijas, optiskās un precīzijas ierīces (izņemot brilles)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>in-Netherlands</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Tagħmir tal-laboratorju, ottiku u ta' preċiżjoni (minbarra nuċċalijiet)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Nederland</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd
+                        brillen)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Niderlandy</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Países Baixos</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipamento laboratorial, óptico e de precisão (exc. óculos)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Ţările de Jos</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Echipamente de laborator, optice şi de precizie (cu excepţia ochelarilor)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Holandsko</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratórne, optické a presné prístroje a vybavenie (s výnimkou skiel)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Nizozemska</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijska, optična in precizna oprema (razen očal)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Nederländerna</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorieutrustning, optisk utrustning och precisionsutrustning (exkl.
+                        glas)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="EN">Technische Universiteit Delft</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Technische Universiteit Delft</OFFICIALNAME>
+                    <NATIONALID>102183628</NATIONALID>
+                    <ADDRESS>Stevinweg 1</ADDRESS>
+                    <TOWN>Delft</TOWN>
+                    <POSTAL_CODE>2628 CN</POSTAL_CODE>
+                    <COUNTRY VALUE="NL" />
+                    <CONTACT_POINT>Koert Riemslag</CONTACT_POINT>
+                    <PHONE>+31 152788577</PHONE>
+                    <E_MAIL>procurement@tudelft.nl</E_MAIL>
+                    <NUTS CODE="NL" />
+                    <URL_GENERAL>http://www.tudelft.nl</URL_GENERAL>
+                    <URL_BUYER>https://platform.negometrix.com/PublishedTenders.aspx?tenderid=55934</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="BODY_PUBLIC" />
+                <CA_ACTIVITY VALUE="EDUCATION" />
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Cryo-free dilution refrigerator with the maximum level of vibration
+                        isolation.</P>
+                </TITLE>
+                <REFERENCE_NUMBER>2016 - 100</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="38000000" />
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SUPPLIES" />
+                <SHORT_DESCR>
+                    <P>In order to be able to execute the ERC Project ‘Quantum Optomechanics in 3D’
+                        properly, a cryogen-free dilution refrigerator with the maximum level of
+                        vibration isolation will be required. The device will be specially designed
+                        and built for the subsidized research and will therefore be part of the
+                        overall research. Continuous adjustments will be executed based on the
+                        research results and therefore the Cryo-free dilution fridge will be in
+                        on-going development.</P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="EUR">360980.00</VAL_TOTAL>
+                <NO_LOT_DIVISION />
+                <OBJECT_DESCR ITEM="1">
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <NUTS CODE="NL" />
+                    <MAIN_SITE>
+                        <P>Delft.</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>The purchase concerns a Cryo-free dilution refrigerator with the maximum
+                            level of vibration isolation for Quantum Nanoscience of the TU Delft.
+                            The Cryo-free dilution refrigerator will be required in order to be able
+                            to execute the ERC Project ‘Quantum Optomechanics in 3D’ properly. The
+                            device will be specially designed and built for the subsidized research
+                            and will therefore be part of the overall research. Continuous
+                            adjustments will be executed based on the research results and therefore
+                            the Cryo-free dilution fridge will be in on-going development. Market
+                            research has shown that only one supplier is qualified for the
+                            collaboration in this research project.</P>
+                    </SHORT_DESCR>
+                    <AC_QUALITY>
+                        <AC_CRITERION>Technical specifications</AC_CRITERION>
+                        <AC_WEIGHTING>100</AC_WEIGHTING>
+                    </AC_QUALITY>
+                    <AC_PRICE>
+                        <AC_WEIGHTING>0</AC_WEIGHTING>
+                    </AC_PRICE>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>The ERC project ‘Quantum Optomechanics 3D’.</EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <PT_AWARD_CONTRACT_WITHOUT_CALL>
+                    <D_ACCORDANCE_ARTICLE>
+                        <D_MANUF_FOR_RESEARCH CTYPE="SUPPLIES" />
+                        <D_TECHNICAL />
+                    </D_ACCORDANCE_ARTICLE>
+                    <D_JUSTIFICATION>
+                        <P>In order to be able to execute the research proposed the ERC project
+                            ‘Quantum Optomechanics in 3D’ grated to Dr. Steele, a cryogen-free
+                            dilution refrigerator will be required with vibration levels that are
+                            significantly below what is currently available on the market.</P>
+                        <P>In order to make the implementation of the ERC research possible, Dr.
+                            Steele seeks to begin a research and development project in order to
+                            co-develop an ultra-low vibration cryogen-free system for the ERC
+                            project. This research will be conducted as an active collaboration
+                            between the researchers in Delft and the supplier, with the researchers
+                            in Delft using the ultra-senstive devices developed in the ERC to
+                            characterize vibrations and provide feedback into modifications of the
+                            design that will occur during the project. The developments and results
+                            that will arise in this collaboration will form an integral part of the
+                            research in the ERC project.</P>
+                        <P>Initial market research into possible collaborators for such a project
+                            led to the company BlueFors located in Helsinki. BlueFors is currently
+                            the market leader in vibration isolation, and currently offers three
+                            levels of vibration isolation in their standard product line. The
+                            highest level of vibration isolation that is offered as a standard
+                            product option by BlueFors is not yet available in the standard product
+                            line of other suppliers, making BlueFors well suited to this project
+                            where we aim to develop the next step beyond the current
+                            state-of-the-art, in synergy with the research in the ERC.</P>
+                        <P>In addition to their market position as leader in delivering
+                            low-vibration systems, BlueFors has a well-established reputation in the
+                            community for reliable and trustworthy products and customer service.
+                            This is also support by Dr. Steele's direct experience with BlueFors,
+                            establishing a relationship of trust that will be an important
+                            cornerstone for implementing such a project, in which BlueFors will act
+                            as an active participating partner in the ERC research.</P>
+                    </D_JUSTIFICATION>
+                </PT_AWARD_CONTRACT_WITHOUT_CALL>
+                <CONTRACT_COVERED_GPA />
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <CONTRACT_NO>2016 — 100</CONTRACT_NO>
+                <TITLE>
+                    <P>Cryo-free dilution refrigerator with the maximum level of vibration isolation</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2017-01-03</DATE_CONCLUSION_CONTRACT>
+                    <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+                    <NO_AWARDED_TO_GROUP />
+                    <CONTRACTOR>
+                        <ADDRESS_CONTRACTOR>
+                            <OFFICIALNAME>BlueFors Cryogenics Oy Ltd</OFFICIALNAME>
+                            <ADDRESS>Arinatie 10</ADDRESS>
+                            <TOWN>Helsinki</TOWN>
+                            <POSTAL_CODE>00370</POSTAL_CODE>
+                            <COUNTRY VALUE="FI" />
+                            <NUTS CODE="NL" />
+                        </ADDRESS_CONTRACTOR>
+                        <NO_SME />
+                    </CONTRACTOR>
+                    <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+                    <VAL_TOTAL CURRENCY="EUR">360980.00</VAL_TOTAL>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Delft University of Technology</OFFICIALNAME>
+                    <TOWN>Delft</TOWN>
+                    <COUNTRY VALUE="NL" />
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2017-02-06</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F03_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

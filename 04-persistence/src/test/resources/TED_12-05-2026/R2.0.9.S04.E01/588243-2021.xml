@@ -1,0 +1,3497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+    xmlns:n2021="http://publications.europa.eu/resource/schema/ted/2021/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+    VERSION="R2.0.9.S04.E01" DOC_ID="588243-2021" EDITION="2021223">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>21-606559-001</RECEPTION_ID>
+        <DELETION_DATE>20211213</DELETION_DATE>
+        <FORM_LG_LIST>EN </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="https://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>223</NO_OJ>
+            <DATE_PUB>20211117</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2021/S 223-588243</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="EN">https://ted.europa.eu/udl?uri=TED:NOTICE:588243-2021:TEXT:EN:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>EN</LG_ORIG>
+            <ISO_COUNTRY VALUE="MK" />
+            <IA_URL_GENERAL>http://www.medf.ukim.edu.mk/</IA_URL_GENERAL>
+            <IA_URL_ETENDERING>https://www.e-nabavki.gov.mk/</IA_URL_ETENDERING>
+            <ORIGINAL_CPV CODE="33696500">Laboratory reagents</ORIGINAL_CPV>
+            <n2021:PERFORMANCE_NUTS CODE="MK">Северна Македонија / Severna Makedonija </n2021:PERFORMANCE_NUTS>
+            <n2021:CA_CE_NUTS CODE="MK">Северна Македонија / Severna Makedonija </n2021:CA_CE_NUTS>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20211112</DS_DATE_DISPATCH>
+            <DT_DATE_FOR_SUBMISSION>20211213 10:00</DT_DATE_FOR_SUBMISSION>
+            <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="1">Open procedure</PR_PROC>
+            <RP_REGULATION CODE="8">Other</RP_REGULATION>
+            <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="L">Education</MA_MAIN_ACTIVITIES>
+            <HEADING>02B02</HEADING>
+            <INITIATOR>02</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Северна Македония</TI_CY>
+                <TI_TOWN>Скопие</TI_TOWN>
+                <TI_TEXT>
+                    <P>Лабораторни реактиви</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Severní Makedonie</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorní činidla</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Nordmakedonien</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriereagenser</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Nordmazedonien</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laborreagenzien</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Βόρεια Μακεδονία</TI_CY>
+                <TI_TOWN>Σκόπια</TI_TOWN>
+                <TI_TEXT>
+                    <P>Αντιδραστήρια εργαστηρίων</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>North Macedonia</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory reagents</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Macedonia del Norte</TI_CY>
+                <TI_TOWN>Skopie</TI_TOWN>
+                <TI_TEXT>
+                    <P>Reactivos de laboratorio</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Põhja-Makedoonia </TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratooriumireaktiivid</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Pohjois-Makedonia</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorioreagenssit</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Macédoine du Nord</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Réactifs de laboratoire</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>an Mhacadóin Thuaidh</TI_CY>
+                <TI_TOWN>Scóipé</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory reagents</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Sjeverna Makedonija</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijski reagensi</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Észak-Macedónia</TI_CY>
+                <TI_TOWN>Szkopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratóriumi reagensek</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Macedonia del Nord</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Reattivi per laboratorio</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Šiaurės Makedonija</TI_CY>
+                <TI_TOWN>Skopjė</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriniai reagentai</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Ziemeļmaķedonija</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijas reaģenti</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>Il-Maċedonja ta' Fuq</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Reaġenti tal-laboratorju</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Noord-Macedonië</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriumreagentia</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Macedonia Północna</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Odczynniki laboratoryjne</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Macedónia do Norte</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Reagentes de laboratório</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Macedonia de Nord</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Reactivi de laborator</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Severné Macedónsko</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratórne činidlá</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Severna Makedonija</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijski reagenti</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Nordmakedonien</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriereagenser</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="EN">Ss. Cyril and Methodius University Faculty of Medicine Skopje</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="EN">
+            <LEGAL_BASIS VALUE="32014L0024" />
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Ss. Cyril and Methodius University Faculty of Medicine Skopje</OFFICIALNAME>
+                    <ADDRESS>50 Divizija, No.6</ADDRESS>
+                    <TOWN>Skopje</TOWN>
+                    <POSTAL_CODE>1000</POSTAL_CODE>
+                    <COUNTRY VALUE="MK" />
+                    <CONTACT_POINT>Tatjana Veljanovska</CONTACT_POINT>
+                    <PHONE>+389 3103728</PHONE>
+                    <E_MAIL>j.nabavki@medf.ukim.edu.mk</E_MAIL>
+                    <n2021:NUTS CODE="MK" />
+                    <URL_GENERAL>http://www.medf.ukim.edu.mk/</URL_GENERAL>
+                </ADDRESS_CONTRACTING_BODY>
+                <DOCUMENT_FULL />
+                <URL_DOCUMENT>https://www.e-nabavki.gov.mk/</URL_DOCUMENT>
+                <ADDRESS_FURTHER_INFO_IDEM />
+                <URL_PARTICIPATION>https://www.e-nabavki.gov.mk/</URL_PARTICIPATION>
+                <CA_TYPE VALUE="BODY_PUBLIC" />
+                <CA_ACTIVITY VALUE="EDUCATION" />
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Kits, reagents, tests and supplies</P>
+                </TITLE>
+                <REFERENCE_NUMBER>19300/2021</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="33696500" />
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SUPPLIES" />
+                <SHORT_DESCR>
+                    <P>Kits, reagents, tests and supplies</P>
+                </SHORT_DESCR>
+                <LOT_DIVISION>
+                    <LOT_ALL />
+                </LOT_DIVISION>
+                <OBJECT_DESCR ITEM="1">
+                    <TITLE>
+                        <P>Enzyme proteinase K in solution form with a concentration of at least 20
+                            mg / ml</P>
+                    </TITLE>
+                    <LOT_NO>1</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <MAIN_SITE>
+                        <P>Ss. Cyril and Methodius University, Faculty of</P>
+                        <P>Medicine,Skopje — 50 Divizija No 6, 1000, Skopje, R. MACEDONIA</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Enzyme proteinase K in solution form with a concentration of at least 20
+                            mg / ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="2">
+                    <TITLE>
+                        <P>DNA polymerase with an activity of up to 250 units, including a minimum
+                            of 10 times the concentrated solution of Tris-HCL, KCL and MgCl2</P>
+                    </TITLE>
+                    <LOT_NO>2</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>DNA polymerase with an activity of up to 250 units, including a minimum
+                            of 10 times the concentrated solution </P>
+                        <P>of Tris-HCL, KCL and MgCl2</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="3">
+                    <TITLE>
+                        <P>Gold DNA, polymerase with gold buffer 1000 U</P>
+                    </TITLE>
+                    <LOT_NO>3</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Gold DNA, polymerase with gold buffer 1000 U</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="4">
+                    <TITLE>
+                        <P>Deoxynucleotide triphosphates with Ph 7.0 (dGTP, dATP, dCTP, dTTP) for
+                            polymerase chain reaction, with a minimum of 320 µl of each nucleotide
+                            in one package</P>
+                    </TITLE>
+                    <LOT_NO>4</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Deoxynucleotide triphosphates with Ph 7.0 (dGTP, dATP, dCTP, dTTP) for
+                            polymerase chain reaction, with a </P>
+                        <P>minimum of 320 µl of each nucleotide in one package</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="5">
+                    <TITLE>
+                        <P>Marker for PCR products with fragment spacing of 50 base pairs</P>
+                    </TITLE>
+                    <LOT_NO>5</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Marker for PCR products with fragment spacing of 50 base pairs</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="6">
+                    <TITLE>
+                        <P>Set of reagents for purification of polymerase chain reaction products
+                            (from 70 base pairs to 40 kg pairs), to include: mini spin columns,
+                            sample collection tubes and all necessary solutions </P>
+                    </TITLE>
+                    <LOT_NO>6</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Set of reagents for purification of polymerase chain reaction products
+                            (from 70 base pairs to 40 kg pairs), to </P>
+                        <P>include: mini spin columns, sample collection tubes and all necessary
+                            solutions and Ph indicator with minimum 50 tests</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="7">
+                    <TITLE>
+                        <P>Sanger-based sequencing reagent comprising a reaction buffer with
+                            fluorescently labeled dideoxyribonucleotide triphosphates for sequencing
+                            of polymerase chain reaction products and positive control </P>
+                    </TITLE>
+                    <LOT_NO>7</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Sanger-based sequencing reagent comprising a reaction buffer with
+                            fluorescently labeled dideoxyribonucleotide </P>
+                        <P>triphosphates for sequencing of polymerase chain reaction products and
+                            positive control pGEM and forward </P>
+                        <P>control primer M13 validated with ISO 18385:2016 certificate or
+                            equivalent </P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="8">
+                    <TITLE>
+                        <P>Pure formamide for molecular biological analysis for denaturation of
+                            sequence reaction products, for genetic analyzer, minimum 25 ml</P>
+                    </TITLE>
+                    <LOT_NO>8</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Pure formamide for molecular biological analysis for denaturation of
+                            sequence reaction products, for genetic </P>
+                        <P>analyzer, minimum 25 ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="9">
+                    <TITLE>
+                        <P>Test tubes with reagents for pure binding purification of polymerase
+                            chain reactions</P>
+                    </TITLE>
+                    <LOT_NO>9</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Test tubes with reagents for pure binding purification of polymerase
+                            chain reactions</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="10">
+                    <TITLE>
+                        <P>Fluorescently labeled primers with a minimum of 10 nmol, one unlabeled
+                            and one 5 'labeled, marked with: VIC, TET, 6FAM, HEX, NED, PET or
+                            equivalent HPLC purified</P>
+                    </TITLE>
+                    <LOT_NO>10</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Fluorescently labeled primers with a minimum of 10 nmol, one unlabeled
+                            and one 5 'labeled, marked with: VIC, </P>
+                        <P>TET, 6FAM, HEX, NED, PET or equivalent HPLC purified</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="11">
+                    <TITLE>
+                        <P>A set of reagents for the extraction of DNA from bones, teeth and
+                            substrates containing adhesive materials, validated for forensic
+                            analysis, to include at least the following reagents: BTA lysing sol</P>
+                    </TITLE>
+                    <LOT_NO>11</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>A set of reagents for the extraction of DNA from bones, teeth and
+                            substrates containing adhesive materials, </P>
+                        <P>validated for forensic analysis, to include at least the following
+                            reagents: BTA lysing solution of at least 13 ml, </P>
+                        <P>at least 52 ready-made cartridges, at least 52 tubes for collecting
+                            sample, at least 52 elution tubes, at least </P>
+                        <P>52 columns, at least 52 extension reagents and extension brackets, at
+                            least 52 bone / tooth lysate tubes and </P>
+                        <P>bone / tooth lysate tube caps, and a minimum of 400 400L proteinase K,
+                            compatible on an Automate Express </P>
+                        <P>apparatus for automatic DNA extraction or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="12">
+                    <TITLE>
+                        <P>Reagent kit for DNA extraction from liquid samples (blood and saliva),
+                            blood from FTA cards or textiles, body fluids (saliva, semen) from
+                            textiles, body fluids from swabs (buccal or other body fluids</P>
+                    </TITLE>
+                    <LOT_NO>12</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reagent kit for DNA extraction from liquid samples (blood and saliva),
+                            blood from FTA cards or textiles, body </P>
+                        <P>fluids (saliva, semen) from textiles, body fluids from swabs (buccal or
+                            other body fluids), pieces of tissue, </P>
+                        <P>validated for forensic analysis, include at least the following reagents:
+                            at least 27 ml lysing solution, at least 52 </P>
+                        <P>pre-made cartridges, at least 52 sample collection tubes, at least 52
+                            elution tubes, at least 52 columns, at least </P>
+                        <P>52 extensions and holders for extensions, compatible with Automate
+                            Express apparatus for automatic DNA </P>
+                        <P>extraction or equivalent, validated for forensic analysis</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="13">
+                    <TITLE>
+                        <P>Low electrorendosmosis (EEO) agarose for molecular biology in a package
+                            of min 100 g.</P>
+                    </TITLE>
+                    <LOT_NO>13</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Low electrorendosmosis (EEO) agarose for molecular biology in a package
+                            of min 100 g.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="14">
+                    <TITLE>
+                        <P>Taq DNA polymerase, a thermostable enzyme from the thermophilic bacterium
+                            Thermus aquaticus at a concentration of at least 5 units / microliter at
+                            20 mM</P>
+                    </TITLE>
+                    <LOT_NO>14</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Taq DNA polymerase, a thermostable enzyme from the thermophilic bacterium
+                            Thermus aquaticus at a </P>
+                        <P>concentration of at least 5 units / microliter at 20 mM</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="15">
+                    <TITLE>
+                        <P>A complete reagent containing at least 6 dyes for amplification of at
+                            least 21 autosomal STR loci, at least one Y STR locus, amelogenin locus
+                            for sex determination</P>
+                    </TITLE>
+                    <LOT_NO>15</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>A complete reagent containing at least 6 dyes for amplification of at
+                            least 21 autosomal STR loci, at least one </P>
+                        <P>Y STR locus, amelogenin locus for sex determination, must include at
+                            least the following reagents: reaction </P>
+                        <P>solution, primer set, control DNA and marker alleles, validated for
+                            forensic analysis and paternity with certificate </P>
+                        <P>МКС ISO18385: 2016 or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="16">
+                    <TITLE>
+                        <P>Complete multiplex PCR reaction reagent without additional optimization,
+                            including at least the following PCR reaction reagents: 2x multiplex PCR
+                            amplification mixture containing HotStarTaq DNA </P>
+                    </TITLE>
+                    <LOT_NO>16</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Complete multiplex PCR reaction reagent without additional optimization,
+                            including at least the following PCR </P>
+                        <P>reaction reagents: 2x multiplex PCR amplification mixture containing
+                            HotStarTaq DNA polymerase, Multiplex </P>
+                        <P>PCR solution and a mixture of dNTP, 5xsolution and water without RNA,
+                            validated for forensic analysis with certificate МКС </P>
+                        <P>ISO 18385: 2016 or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="17">
+                    <TITLE>
+                        <P>alkaline phosphatase isolated from Pandalus borealis for purification of
+                            PCR sequencing products, with a minimum of 500 IE</P>
+                    </TITLE>
+                    <LOT_NO>17</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>alkaline phosphatase isolated from Pandalus borealis for purification of
+                            PCR sequencing products, with a </P>
+                        <P>minimum of 500 IE</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="18">
+                    <TITLE>
+                        <P>purification enzyme (exonuclease) of PCR products to remove excess
+                            primers in one step, for a maximum of 100 reactions</P>
+                    </TITLE>
+                    <LOT_NO>18</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>purification enzyme (exonuclease) of PCR products to remove excess
+                            primers in one step, for a maximum of </P>
+                        <P>100 reactions</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="19">
+                    <TITLE>
+                        <P>primers with a synthesis scale of 0.025 mol and purification desalt, from
+                            20-30 base pairs</P>
+                    </TITLE>
+                    <LOT_NO>19</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>primers with a synthesis scale of 0.025 mol and purification desalt, from
+                            20-30 base pairs</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="20">
+                    <TITLE>
+                        <P>color orange G, certified for biological dyes in a package of at least
+                            0.5 ml</P>
+                    </TITLE>
+                    <LOT_NO>20</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>color orange G, certified for biological dyes in a package of at least
+                            0.5 ml
+</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="21">
+                    <TITLE>
+                        <P>Internal standard for capillary electrophoresis for analysis of multiplex
+                            amplified short repetitive sequences of autosomes and X-chromosome
+                            labeled with fluorescent dye (BTO) fluorophore, validated </P>
+                    </TITLE>
+                    <LOT_NO>21</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Internal standard for capillary electrophoresis for analysis of multiplex
+                            amplified short repetitive sequences of </P>
+                        <P>autosomes and X-chromosome labeled with fluorescent dye (BTO)
+                            fluorophore, validated for forensic analysis </P>
+                        <P>with certificate МКС ISO 18385 : 2016 or equvalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="22">
+                    <TITLE>
+                        <P>Oligonucleotide reagent, one unlabeled and the other 5 'labeled
+                            oligonucleotide (minimum 20 to maximum 25 bases with one 5' of the
+                            following fluorescent dyes: absorbance 538 nm and emission 554 nm; </P>
+                    </TITLE>
+                    <LOT_NO>22</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Oligonucleotide reagent, one unlabeled and the other 5 'labeled
+                            oligonucleotide (minimum 20 to maximum </P>
+                        <P>25 bases with one 5' of the following fluorescent dyes: absorbance 538 nm
+                            and emission 554 nm; absorption </P>
+                        <P>a 555nm and 55nm and emission 536nm; absorption 495nm and emission 520nm;
+                            absorption 535nm and emission 556nm; or absorption 546nm and emission
+                            575nm;) up to a minimum of 6 nmol, purified by high pressure liquid
+                            chromatography</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="23">
+                    <TITLE>
+                        <P>Reagent for multiplex amplification of at least 23 loci for short
+                            repetitive Y chromosome sequences, validated for forensic analysis, in a
+                            package containing amplification mixture, control DNA, prime</P>
+                    </TITLE>
+                    <LOT_NO>23</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reagent for multiplex amplification of at least 23 loci for short
+                            repetitive Y chromosome sequences, validated for </P>
+                        <P>forensic analysis, in a package containing amplification mixture, control
+                            DNA, primers and allele marker</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="24">
+                    <TITLE>
+                        <P>reaction solution for quantitative PCR, containing EvaGreen®
+                            intercalating dye (or equivalent) for DNA amplification detection,
+                            containing DNA polymerase, ultrapure dNTP, MgCl2, ROX dye</P>
+                    </TITLE>
+                    <LOT_NO>24</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>reaction solution for quantitative PCR, containing EvaGreen®
+                            intercalating dye (or equivalent) for DNA </P>
+                        <P>amplification detection, containing DNA polymerase, ultrapure dNTP,
+                            MgCl2, ROX color</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="25">
+                    <TITLE>
+                        <P>Antibody-coated magnetic beam cytokine set for at least 3 cytokines
+                            (Interleukin 1, Interleukin 6, Tumor necrotic factor alpha) by the
+                            Luminex method. Includes: ready-made antibody-coated magnetic be</P>
+                    </TITLE>
+                    <LOT_NO>25</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Antibody-coated magnetic beam cytokine set for at least 3 cytokines
+                            (Interleukin 1, Interleukin 6, Tumor </P>
+                        <P>necrotic factor alpha) by the Luminex method. Includes: ready-made
+                            antibody-coated magnetic bead mixture, </P>
+                        <P>biotinylated detection antibody mixture, standardized antibody solutions,
+                            magnetic bead solvent, biotinylated </P>
+                        <P>antibody solvent, rinsing buffer, Streptavidin-RE 96 cover sticker for
+                            the tile, to contain the necessary chemicals </P>
+                        <P>to perform at least 96 tests.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="26">
+                    <TITLE>
+                        <P>Total human DNA and male human DNA quantification system in forensic
+                            specimens using real-time PCR and TaqMan probes, detecting at least two
+                            autosomal loci and at least one Y-chromosome locus, capable</P>
+                    </TITLE>
+                    <LOT_NO>26</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Total human DNA and male human DNA quantification system in forensic
+                            specimens using real-time PCR and TaqMan probes, detecting at least two
+                            autosomal loci and at least one Y-chromosome locus, capable of detecting
+                            PCR inhibitors and evaluating DNA of DNA. Must include a reaction
+                            mixture with a passive reference color, a mixture of primers and samples
+                            and standard sogenomic DNA and be a 7500 Real-Time System compatible
+                            instrument or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="27">
+                    <TITLE>
+                        <P>Kit for detection of interferon gamma concentration in human plasma
+                            sample compatible with ELISA technique. The kit should contain: 2 sets
+                            of 12x8 microplate comics, INF Y standard lyophilized, 30 ml </P>
+                    </TITLE>
+                    <LOT_NO>27</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Kit for detection of interferon gamma concentration in human plasma
+                            sample compatible with ELISA technique. The kit should contain: 2 sets
+                            of 12x8 microplate comics, INF Y standard lyophilized, 30 ml green
+                            diluent, conjugate 100x concentrated lyophilized, rinsing solution 20x
+                            concentrated 100ml, enzyme substrate solution 30ml, enzyme stopping
+                            solution15ml, instructions for the test.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="28">
+                    <TITLE>
+                        <P>Lymphocyte stimulation kit in heparinized whole blood to determine
+                            cellular immunity, from which plasma is extracted to determine
+                            interferon gamma concentration. The kit should contain: 100 tubes for </P>
+                    </TITLE>
+                    <LOT_NO>28</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Lymphocyte stimulation kit in heparinized whole blood to determine
+                            cellular immunity, from which plasma is extracted to determine
+                            interferon gamma concentration. The kit should contain: 100 tubes for
+                            blood collection with SARS-CoV2 Ag1, 100 tubes for blood collection with
+                            SARS-CoV2 Ag2, 100 tubes with Nill, 100 tubes with Mitogen.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="29">
+                    <TITLE>
+                        <P>Ten-fold solution with EDTA (containing approximately 1 molar NaOH) for
+                            sequencing, compatible with ABI 310 genetic analyzer or equivalent, in a
+                            package of at least 25 ml</P>
+                    </TITLE>
+                    <LOT_NO>29</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Ten-fold solution with EDTA (containing approximately 1 molar NaOH) for
+                            sequencing, compatible with ABI 310 genetic analyzer or equivalent, in a
+                            package of at least 25 ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="30">
+                    <TITLE>
+                        <P>Denaturing polymer type 4 (separation matrix) for short and long DNA
+                            sequences and fragment assays, compatible with ABI 310 genetic analyzer
+                            or equivalent (container of at least 380 barcode assays)</P>
+                    </TITLE>
+                    <LOT_NO>30</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Denaturing polymer type 4 (separation matrix) for short and long DNA
+                            sequences and fragment assays, compatible with ABI 310 genetic analyzer
+                            or equivalent (container of at least 380 barcode assays)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="31">
+                    <TITLE>
+                        <P>DNA sequencing reagents based on fluorescent dideoxynucleotide
+                            termination which include a minimum of 1 tube of a minimum of 800µl
+                            ready mix of dideoxynucleotides for use, a minimum of 1 tube of M13 (</P>
+                    </TITLE>
+                    <LOT_NO>31</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>DNA sequencing reagents based on fluorescent dideoxynucleotide
+                            termination which include a minimum of 1 tube of a minimum of 800µl
+                            ready mix of dideoxynucleotides for use, a minimum of 1 tube of M13
+                            (-21) primers, a minimum of 1 tube of 1 μg of control five times
+                            concentrated sequencing buffer, compatible with ABI 310 genetic analyzer
+                            or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="32">
+                    <TITLE>
+                        <P>Purification reagent for the DNA sequencing reaction that removes
+                            unincorporated chemicals from other whales and salts compatible with the
+                            ABI 310 sequence or equivalent, containing the chemicals requ</P>
+                    </TITLE>
+                    <LOT_NO>32</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Purification reagent for the DNA sequencing reaction that removes
+                            unincorporated chemicals from other whales and salts compatible with the
+                            ABI 310 sequence or equivalent, containing the chemicals required to
+                            perform at least 100 tests</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="33">
+                    <TITLE>
+                        <P>Unmarked oligonucleotides up to 20 bases, minimum concentration 10 nmol,
+                            HPLC purified compatible with ABI 310 genetic analyzer or equivalent</P>
+                    </TITLE>
+                    <LOT_NO>33</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Unmarked oligonucleotides up to 20 bases, minimum concentration 10 nmol,
+                            HPLC purified compatible with ABI 310 genetic analyzer or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="34">
+                    <TITLE>
+                        <P>Multiplex ligation probes for detection of deletions and duplications of
+                            genes compatible with ABI 310 genetic analyzer or equivalent, validated
+                            for forensic applications with ISO 18385: 2016 certific</P>
+                    </TITLE>
+                    <LOT_NO>34</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Multiplex ligation probes for detection of deletions and duplications of
+                            genes compatible with ABI 310 genetic analyzer or equivalent, validated
+                            for forensic applications with ISO 18385: 2016 certification or
+                            equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="35">
+                    <TITLE>
+                        <P>Reagents required to perform multiplex ligation amplification, compatible
+                            with ABI 310 genetic analyzer or equivalent, containing base solution,
+                            ligase, ligase solution, mix of fluorescent dye primers</P>
+                    </TITLE>
+                    <LOT_NO>35</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reagents required to perform multiplex ligation amplification, compatible
+                            with ABI 310 genetic analyzer or equivalent, containing base solution,
+                            ligase, ligase solution, mix of fluorescent dye primers, polymerase
+                            polymer and solution</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="36">
+                    <TITLE>
+                        <P>Fluorescent colored marker for determining the size of fragments in
+                            capillary electrophoresis compatible with ABI 310 genetic analyzer or
+                            equivalent, fragment size: 50, 75, 100, 139, 150, 160, 200, 25</P>
+                    </TITLE>
+                    <LOT_NO>36</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Fluorescent colored marker for determining the size of fragments in
+                            capillary electrophoresis compatible with ABI 310 genetic analyzer or
+                            equivalent, fragment size: 50, 75, 100, 139, 150, 160, 200, 250, 300,
+                            340, 350, 400, 450, 490 and 500 base pairs, in a package of at least 100
+                            tests</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="37">
+                    <TITLE>
+                        <P>A set of reagents for sequencing short DNA fragments using an
+                            electrophoresis fast flow module compatible with an ABI 310 genetic
+                            analyzer or equivalent, containing fluorescent dideoxyribonucleotides,</P>
+                    </TITLE>
+                    <LOT_NO>37</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>A set of reagents for sequencing short DNA fragments using an
+                            electrophoresis fast flow module compatible with an ABI 310 genetic
+                            analyzer or equivalent, containing fluorescent dideoxyribonucleotides,
+                            in a package of at least 100 tests</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="38">
+                    <TITLE>
+                        <P>Reagent kits and consumables for isolation and purification of whole
+                            blood DNA on an automated nucleic acid extraction system MagCore Super,
+                            min 96 tests</P>
+                    </TITLE>
+                    <LOT_NO>38</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reagent kits and consumables for isolation and purification of whole
+                            blood DNA on an automated nucleic acid extraction system MagCore Super,
+                            min 96 tests</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="39">
+                    <TITLE>
+                        <P>Denaturing polymer type 7 (separation matrix) for short and long DNA
+                            sequences and fragment analyzes, compatible with ABI 3500 genetic
+                            analyzer or equivalent (container of at least 380 barcode analyze</P>
+                    </TITLE>
+                    <LOT_NO>39</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Denaturing polymer type 7 (separation matrix) for short and long DNA
+                            sequences and fragment analyzes, compatible with ABI 3500 genetic
+                            analyzer or equivalent (container of at least 380 barcode analyzes)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="40">
+                    <TITLE>
+                        <P>Conditioning reagent compatible with ABI 3500 genetic analyzer or
+                            equivalent</P>
+                    </TITLE>
+                    <LOT_NO>40</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Conditioning reagent compatible with ABI 3500 genetic analyzer or
+                            equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="41">
+                    <TITLE>
+                        <P>Highly deionized formamide with stabilizer compatible with ABI 3500
+                            genetic analyzer or equivalent, max 5ml</P>
+                    </TITLE>
+                    <LOT_NO>41</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Highly deionized formamide with stabilizer compatible with ABI 3500
+                            genetic analyzer or equivalent, max 5ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="42">
+                    <TITLE>
+                        <P>Reagent for standardization and reproduction of fragments with size from
+                            20 to 600 base pairs for capillary electrophoresis compatible with ABI
+                            3500 genetic analyzer or equivalent valid for forensic a</P>
+                    </TITLE>
+                    <LOT_NO>42</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reagent for standardization and reproduction of fragments with size from
+                            20 to 600 base pairs for capillary electrophoresis compatible with ABI
+                            3500 genetic analyzer or equivalent valid for forensic applications with
+                            MKC ISO 18385: 2016 certification for a minimum of 800 reactions</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="43">
+                    <TITLE>
+                        <P>polymer intended for analysis for human identification and forensic
+                            application compatible with capillary electrophoresis sequence ABI 3500
+                            or equivalent valid for forensic analysis Reagent for standa</P>
+                    </TITLE>
+                    <LOT_NO>43</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>polymer intended for analysis for human identification and forensic
+                            application compatible with capillary electrophoresis sequence ABI 3500
+                            or equivalent valid for forensic analysis Reagent for standardization
+                            and reproduction of fragments of size 20 to 600 base pairs of
+                            equilibrium in capillaries validated for forensic applications with MKC
+                            ISO 18385: 2016 certification or equivalent, for a minimum of 384
+                            analyzes / piece</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="44">
+                    <TITLE>
+                        <P>Anode solution ready for use, in a minimum of 4 disposable containers
+                            with radiofrequency identification mark (reading barcode) compatible
+                            with ABI 3500 genetic analyzer or equivalent, validated for f</P>
+                    </TITLE>
+                    <LOT_NO>44</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Anode solution ready for use, in a minimum of 4 disposable containers
+                            with radiofrequency identification mark (reading barcode) compatible
+                            with ABI 3500 genetic analyzer or equivalent, validated for forensic
+                            analysis with certificate МКС ISO 18385: 2016 or equvalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="45">
+                    <TITLE>
+                        <P>Cathode solution in max 4 container compatible with ABI 3500 genetic
+                            analyzer or equivalent, with barcode reading, validated for forensic
+                            analysis with certificate МКС ISO 18385: 2016 or equivalent</P>
+                    </TITLE>
+                    <LOT_NO>45</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Cathode solution in max 4 container compatible with ABI 3500 genetic
+                            analyzer or equivalent, with barcode reading, validated for forensic
+                            analysis with certificate МКС ISO 18385: 2016 or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="46">
+                    <TITLE>
+                        <P>reagents and enzymes suitable for the multiple detection of
+                            mononucleotide polymorphisms based on a single nucleotide extension
+                            process, capable of testing up to 10 polymorphisms in a single reaction,</P>
+                    </TITLE>
+                    <LOT_NO>46</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>reagents and enzymes suitable for the multiple detection of
+                            mononucleotide polymorphisms based on a single nucleotide extension
+                            process, capable of testing up to 10 polymorphisms in a single reaction,
+                            compatible with ABI 3500 genetic analyzer</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="47">
+                    <TITLE>
+                        <P>Trizol reagent or equivalent</P>
+                    </TITLE>
+                    <LOT_NO>47</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Trizol reagent or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="48">
+                    <TITLE>
+                        <P>Set of reagents for automated tissue RNA extraction, instrument
+                            compatible with MagCore Automated Nucleic Acid Extractor Plus II or
+                            equivalent</P>
+                    </TITLE>
+                    <LOT_NO>48</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Set of reagents for automated tissue RNA extraction, instrument
+                            compatible with MagCore Automated Nucleic Acid Extractor Plus II or
+                            equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="49">
+                    <TITLE>
+                        <P>-mercaptoethanol</P>
+                    </TITLE>
+                    <LOT_NO>49</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>-mercaptoethanol</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="50">
+                    <TITLE>
+                        <P>Enzyme DNase I, without RNase, compatible with MagCore Automated Nucleic
+                            Acid Extractor Plus II instrument or equivalent</P>
+                    </TITLE>
+                    <LOT_NO>50</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Enzyme DNase I, without RNase, compatible with MagCore Automated Nucleic
+                            Acid Extractor Plus II instrument or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="51">
+                    <TITLE>
+                        <P>DEPC-treated water for molecular analysis</P>
+                    </TITLE>
+                    <LOT_NO>51</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>DEPC-treated water for molecular analysis</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="52">
+                    <TITLE>
+                        <P>TE solution (10 mM Tris-HCl; 1 mM EDTA), free of DNase and RNase</P>
+                    </TITLE>
+                    <LOT_NO>52</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>TE solution (10 mM Tris-HCl; 1 mM EDTA), free of DNase and RNase</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="53">
+                    <TITLE>
+                        <P>A set of reagents and enzyme for reverse RNA transcription</P>
+                    </TITLE>
+                    <LOT_NO>53</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>A set of reagents and enzyme for reverse RNA transcription</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="54">
+                    <TITLE>
+                        <P>Double-labeled TaqMan samples, with a minimum of 6 nmol, 5 'modification
+                            with FAM, VIC or TET, purified by HPLC, or equivalent</P>
+                    </TITLE>
+                    <LOT_NO>54</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Double-labeled TaqMan samples, with a minimum of 6 nmol, 5 'modification
+                            with FAM, VIC or TET, purified by HPLC, or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="55">
+                    <TITLE>
+                        <P>Reaction mix for real-time PCR performance with TaqMan probes, compatible
+                            with 7500 Real-Time PCR System or equivalent</P>
+                    </TITLE>
+                    <LOT_NO>55</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reaction mix for real-time PCR performance with TaqMan probes, compatible
+                            with 7500 Real-Time PCR System or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="56">
+                    <TITLE>
+                        <P>A complete set of reagents and columns for purification of DNA fragments
+                            and PCR products from agarose gel using silica membrane columns</P>
+                    </TITLE>
+                    <LOT_NO>56</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>A complete set of reagents and columns for purification of DNA fragments
+                            and PCR products from agarose gel using silica membrane columns</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="57">
+                    <TITLE>
+                        <P>High-sensitivity kit for determining the initial concentration of
+                            double-stranded DNA in solution at a concentration range of 0.2 pg /
+                            µl-100 ng / µl for use with the Qubit 3.0 fluorometer. The kit sh</P>
+                    </TITLE>
+                    <LOT_NO>57</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>High-sensitivity kit for determining the initial concentration of
+                            double-stranded DNA in solution at a concentration range of 0.2 pg /
+                            µl-100 ng / µl for use with the Qubit 3.0 fluorometer. The kit should
+                            contain a concentrated buffer and dissolved standards, Qubit dsDNA HS
+                            Assay kit (100 / pkg) or equivalent.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="58">
+                    <TITLE>
+                        <P>High sensitivity kit for determining initial RNA concentration in
+                            solution in 20 ng / -l-1000 ng / l concentration range for use with
+                            Qubit 4.0 fluorometer. Kit contains concentrated fluorescent dye, </P>
+                    </TITLE>
+                    <LOT_NO>58</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>High sensitivity kit for determining initial RNA concentration in
+                            solution in 20 ng / -l-1000 ng / l concentration range for use with
+                            Qubit 4.0 fluorometer. Kit contains concentrated fluorescent dye, buffer
+                            diluted standards, Qubit RNA BR Assay kit (100 / pkg), or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="59">
+                    <TITLE>
+                        <P>Complete set of reagents for differential isolation of DNA from sperm and
+                            epithelial fraction from forensic samples, must contain digestive buffer
+                            and separating solution, in a package of up to 50 tes</P>
+                    </TITLE>
+                    <LOT_NO>59</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Complete set of reagents for differential isolation of DNA from sperm and
+                            epithelial fraction from forensic samples, must contain digestive buffer
+                            and separating solution, in a package of up to 50 tests</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="60">
+                    <TITLE>
+                        <P>Reagent mixture (master mix) for real-time polymerase chain reaction,
+                            with ROX reference color compatible for use with co-notation typing
+                            essays using TaqMan methodology or equivalent in a pack of min</P>
+                    </TITLE>
+                    <LOT_NO>60</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reagent mixture (master mix) for real-time polymerase chain reaction,
+                            with ROX reference color compatible for use with co-notation typing
+                            essays using TaqMan methodology or equivalent in a pack of min of 5 ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="61">
+                    <TITLE>
+                        <P>Essay for detection of mononucleotide polymorphisms with real-time
+                            polymerase chain reaction, based on TaqMan methodology</P>
+                    </TITLE>
+                    <LOT_NO>61</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Essay for detection of mononucleotide polymorphisms with real-time
+                            polymerase chain reaction, based on TaqMan methodology</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="62">
+                    <TITLE>
+                        <P>Unlabeled oligonucleotides, maximum 25 bases, minimum 40nmol, standard
+                            purification (DSL)</P>
+                    </TITLE>
+                    <LOT_NO>62</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Unlabeled oligonucleotides, maximum 25 bases, minimum 40nmol, standard
+                            purification (DSL)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="63">
+                    <TITLE>
+                        <P>5 'FAM labeled oligonucleotides, maximum 25 bases, minimum 40 nmol,
+                            purified by high pressure liquid chromatography (HPLC)</P>
+                    </TITLE>
+                    <LOT_NO>63</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>5 'FAM labeled oligonucleotides, maximum 25 bases, minimum 40 nmol,
+                            purified by high pressure liquid chromatography (HPLC)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="64">
+                    <TITLE>
+                        <P>Mix of equimolar amounts of deoxyribonucleotide triphosphates (dATP,
+                            dCTP, dGTP and dTTP), total concentration of at least 40 nM individually
+                            for each nucleotide of at least 10 mM) to a minimum of 0.2</P>
+                    </TITLE>
+                    <LOT_NO>64</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Mix of equimolar amounts of deoxyribonucleotide triphosphates (dATP,
+                            dCTP, dGTP and dTTP), total concentration of at least 40 nM individually
+                            for each nucleotide of at least 10 mM) to a minimum of 0.25 ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="65">
+                    <TITLE>
+                        <P>Ready-to-use polymerase chain reaction mixture with activation
+                            temperature above 94 ° C, compatible with real-time polymerase chain
+                            reaction apparatus ABI 7500 or equivalent, packaging minimum 1 ml</P>
+                    </TITLE>
+                    <LOT_NO>65</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Ready-to-use polymerase chain reaction mixture with activation
+                            temperature above 94 ° C, compatible with real-time polymerase chain
+                            reaction apparatus ABI 7500 or equivalent, packaging minimum 1 ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="66">
+                    <TITLE>
+                        <P>Test to determine LCT -13910C&gt; T with real-time PVR compatible on
+                            real-time PCR apparatus ABI 7500 or equivalent. To contain minimum: 2x
+                            genotyping mix, LCT -13910C&gt; T essay mix, LCT -13910C&gt; T SS con</P>
+                    </TITLE>
+                    <LOT_NO>66</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Test to determine LCT -13910C&gt; T with real-time PVR compatible on
+                            real-time PCR apparatus ABI 7500 or equivalent. To contain minimum: 2x
+                            genotyping mix, LCT -13910C&gt; T essay mix, LCT -13910C&gt; T SS
+                            control, LCT -13910C&gt; T TT control.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="67">
+                    <TITLE>
+                        <P>TA polymorphism kit in the UGT1A1 gene for Gilbert with real-time RIA
+                            compatible PC real-time PCR apparatus ABI 7500 or equivalent. Contains:
+                            detective essay for UGT1A1, deionized water, standard wild</P>
+                    </TITLE>
+                    <LOT_NO>67</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>TA polymorphism kit in the UGT1A1 gene for Gilbert with real-time RIA
+                            compatible PC real-time PCR apparatus ABI 7500 or equivalent. Contains:
+                            detective essay for UGT1A1, deionized water, standard wild type UGT1A1
+                            6TA, standard mutated UGT1A1 7TA and standard heterozygous UGT1A1 6TA /
+                            7TA.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="68">
+                    <TITLE>
+                        <P>Mutation kit for mutations A149P, A174D, N334K and del4E4 deletion in the
+                            ALDOB gene with real-time PVR compatible on a real-time PCR apparatus
+                            ABI 7500 or equivalent. Contains: detective essay qPCR A</P>
+                    </TITLE>
+                    <LOT_NO>68</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Mutation kit for mutations A149P, A174D, N334K and del4E4 deletion in the
+                            ALDOB gene with real-time PVR compatible on a real-time PCR apparatus
+                            ABI 7500 or equivalent. Contains: detective essay qPCR ALDOB (A149P),
+                            qPCR ALDOB (A174D), qPCR ALDOB (N334K) and qPCR ALDOB (del4E4), wild
+                            type standard ALDOB, standard for mutated ALDOB, water for ALDOB and
+                            standard for water</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="69">
+                    <TITLE>
+                        <P>Real-time PCR spectral calibration kit ABI 7500 or equivalent. To contain
+                            a minimum of: one back plate, seven spectral calibration plates with FAM
+                            / SYBR Green I, VIC / JOE and NED / TAMRA / ROX color</P>
+                    </TITLE>
+                    <LOT_NO>69</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Real-time PCR spectral calibration kit ABI 7500 or equivalent. To contain
+                            a minimum of: one back plate, seven spectral calibration plates with FAM
+                            / SYBR Green I, VIC / JOE and NED / TAMRA / ROX color standards and one
+                            ROI (region of interest) calibration plate.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="70">
+                    <TITLE>
+                        <P>Reagent detection kit for at least 12 genes (FII Prothrombin, FV Leiden,
+                            FV 1299, FV Cambridge, FV Y1702C, MTHFR 677, MTHFR 1298, MTR 2756, MTRR
+                            66, FXIII Val34Leu, Beta-Fibrinogen 455 G&gt; A and PAI-1 </P>
+                    </TITLE>
+                    <LOT_NO>70</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reagent detection kit for at least 12 genes (FII Prothrombin, FV Leiden,
+                            FV 1299, FV Cambridge, FV Y1702C, MTHFR 677, MTHFR 1298, MTR 2756, MTRR
+                            66, FXIII Val34Leu, Beta-Fibrinogen 455 G&gt; A and PAI-1 4G / 5G) with
+                            real-time RIA compatible on real-time PCR apparatus ABI 7500 or
+                            equivalent. Contains a minimum of 8 reaction tubes in a pair of two
+                            ready-to-use Mastermixes (with a maximum volume of 400µL) for wild and
+                            mutated type of all genes, Hot stat Taq DNA polymerase enzyme or
+                            equivalent and internal performance control of at least 20 reactions at
+                            once.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="71">
+                    <TITLE>
+                        <P>Reagent kit for automatic isolation of genomic DNA from FFRE samples
+                            applicable to nucleic acid extractor InnuPrep C16 touch system or
+                            equivalent</P>
+                    </TITLE>
+                    <LOT_NO>71</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reagent kit for automatic isolation of genomic DNA from FFRE samples
+                            applicable to nucleic acid extractor InnuPrep C16 touch system or
+                            equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="72">
+                    <TITLE>
+                        <P>Reagent kit and consumables for extraction and purification of genomic
+                            DNA from human material: fresh or frozen whole blood. The extraction
+                            process must be internal lysis and fully automated, without </P>
+                    </TITLE>
+                    <LOT_NO>72</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reagent kit and consumables for extraction and purification of genomic
+                            DNA from human material: fresh or frozen whole blood. The extraction
+                            process must be internal lysis and fully automated, without additional
+                            steps. Transfer samples and MAG suspension from the outset to prefilled
+                            comics or plates containing all auto-extraction reagents, including at
+                            least the following components: MAG suspension, proteinase K, filter
+                            types, and elution tubes validated and compatible for clinical use. for
+                            nucleic acids InnuPure C16 touch or equivalent.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="73">
+                    <TITLE>
+                        <P>Qualitative high-affinity antibody test (Anti-SARS-COV-2) for the
+                            SARS-COV-2 virus including IgG, using a recombinant protein representing
+                            the nucleocapsid antigen by the dual antigen sandwich princip</P>
+                    </TITLE>
+                    <LOT_NO>73</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Qualitative high-affinity antibody test (Anti-SARS-COV-2) for the
+                            SARS-COV-2 virus including IgG, using a recombinant protein representing
+                            the nucleocapsid antigen by the dual antigen sandwich principle in serum
+                            or plasma. The kit should contain all controls, calibrators and
+                            consumables for performing the tests. The test must be on the WHO list
+                            of emergency in vitro diagnostics associated with the detection of
+                            SARS-COV-2</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="74">
+                    <TITLE>
+                        <P>Urine test strips suitable for detecting at least the following
+                            parameters: specific gravity, leucocytes, nitrites, proteins, glucose,
+                            ketone bodies, pH, urobilinogen, bilirubin, erythrocytes and / or</P>
+                    </TITLE>
+                    <LOT_NO>74</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Urine test strips suitable for detecting at least the following
+                            parameters: specific gravity, leucocytes, nitrites, proteins, glucose,
+                            ketone bodies, pH, urobilinogen, bilirubin, erythrocytes and / or
+                            hemoglobin</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="75">
+                    <TITLE>
+                        <P>blood lactate test strips</P>
+                    </TITLE>
+                    <LOT_NO>75</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>blood lactate test strips</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="76">
+                    <TITLE>
+                        <P>Immunochromatographic test reagents for rapid detection of the presence
+                            of PSA-prostate specific antigen, ie presence of semen in biological
+                            traces during forensic analysis, for laboratory application</P>
+                    </TITLE>
+                    <LOT_NO>76</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Immunochromatographic test reagents for rapid detection of the presence
+                            of PSA-prostate specific antigen, ie presence of semen in biological
+                            traces during forensic analysis, for laboratory application,
+                            individually packaged, to contain an appropriate solution for dissolving
+                            the biological material of the capsule and capsule solid-phase
+                            substrate, to give the result for max.15 min</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="77">
+                    <TITLE>
+                        <P>Immunochromatographic test to rapidly detect the presence of
+                            alpha-amylase in biological traces of human saliva with a maximum
+                            dilution of 1/1000 (saliva / solution) for forensic analysis,
+                            individuall</P>
+                    </TITLE>
+                    <LOT_NO>77</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Immunochromatographic test to rapidly detect the presence of
+                            alpha-amylase in biological traces of human saliva with a maximum
+                            dilution of 1/1000 (saliva / solution) for forensic analysis,
+                            individually packaged, to contain an appropriate solution for dissolving
+                            the caps, biologically and test carrageenan unit based on solid-phase
+                            substrate, to give the result for max.15 min.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="78">
+                    <TITLE>
+                        <P>Immunochromatographic test for rapid determination of blood type
+                            according to the ABO system from biological traces for forensic
+                            analysis, individually packaged, to contain an appropriate solution for</P>
+                    </TITLE>
+                    <LOT_NO>78</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Immunochromatographic test for rapid determination of blood type
+                            according to the ABO system from biological traces for forensic
+                            analysis, individually packaged, to contain an appropriate solution for
+                            dissolving the biological material, dropper and test of a reagent unit
+                            based on solid-phase substrate, to give the result max.15 min, the
+                            tested trace should remain suitable for DNA analysis.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="79">
+                    <TITLE>
+                        <P>Immunoassay test strips for the presence of amphetamines, cocaine /
+                            benzoylecgonone, opiates, TNS / cannabinoids, methadone and
+                            benzodiazepines in urine</P>
+                    </TITLE>
+                    <LOT_NO>79</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Immunoassay test strips for the presence of amphetamines, cocaine /
+                            benzoylecgonone, opiates, TNS / cannabinoids, methadone and
+                            benzodiazepines in urine</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="80">
+                    <TITLE>
+                        <P>external quality control solution for immunoassays of the following
+                            hormones, minimum: free thyroxine, free triiodothyronine,
+                            thyroid-stimulating hormone and parathyroid hormone, minimum 5 ml</P>
+                    </TITLE>
+                    <LOT_NO>80</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>external quality control solution for immunoassays of the following
+                            hormones, minimum: free thyroxine, free triiodothyronine,
+                            thyroid-stimulating hormone and parathyroid hormone, minimum 5 ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="81">
+                    <TITLE>
+                        <P>Reverse transcription polymerase chain reaction reagents performed in 1
+                            tube, compatible with real-time polymerase chain reaction apparatus ABI
+                            7500 or equivalent, in a package of at least 50 tests</P>
+                    </TITLE>
+                    <LOT_NO>81</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reverse transcription polymerase chain reaction reagents performed in 1
+                            tube, compatible with real-time polymerase chain reaction apparatus ABI
+                            7500 or equivalent, in a package of at least 50 tests</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="82">
+                    <TITLE>
+                        <P>DNA scale marker in fragments from a minimum of 100 bp to a maximum of
+                            2000 bp, in a volume of a maximum of 1 ml</P>
+                    </TITLE>
+                    <LOT_NO>82</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>DNA scale marker in fragments from a minimum of 100 bp to a maximum of
+                            2000 bp, in a volume of a maximum of 1 ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="83">
+                    <TITLE>
+                        <P>Deoxynucleotide mix for polymerase chain reaction for a minimum of 1000
+                            reactions with purity for molecular biology with a concentration of 80
+                            mM, a concentration of the mix of a minimum of 80 mM</P>
+                    </TITLE>
+                    <LOT_NO>83</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Deoxynucleotide mix for polymerase chain reaction for a minimum of 1000
+                            reactions with purity for molecular biology with a concentration of 80
+                            mM, a concentration of the mix of a minimum of 80 mM</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="84">
+                    <TITLE>
+                        <P>Set of reagents for amplification of the whole genome: DNA polymerase,
+                            reaction buffer, denaturation buffer, neutralization buffer, phosphate
+                            buffer</P>
+                    </TITLE>
+                    <LOT_NO>84</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Set of reagents for amplification of the whole genome: DNA polymerase,
+                            reaction buffer, denaturation buffer, neutralization buffer, phosphate
+                            buffer</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="85">
+                    <TITLE>
+                        <P>Qualitative test on the principle of immunochromatography for pregnancy
+                            for examination of biological material: urine</P>
+                    </TITLE>
+                    <LOT_NO>85</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Qualitative test on the principle of immunochromatography for pregnancy
+                            for examination of biological material: urine</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="86">
+                    <TITLE>
+                        <P>immunochromatography test for qualitative proof of hepatitis C antibodies
+                            (anti HCV)</P>
+                    </TITLE>
+                    <LOT_NO>86</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>immunochromatography test for qualitative proof of hepatitis C antibodies
+                            (anti HCV)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="87">
+                    <TITLE>
+                        <P>immunochromatography test for qualitative proof of human immunodeficiency
+                            virus (anti HIV 1/2)</P>
+                    </TITLE>
+                    <LOT_NO>87</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>immunochromatography test for qualitative proof of human immunodeficiency
+                            virus (anti HIV 1/2)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="88">
+                    <TITLE>
+                        <P>immunochromatography test for qualitative proof of marijuana /
+                            (cannabinoids) in urine</P>
+                    </TITLE>
+                    <LOT_NO>88</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>immunochromatography test for qualitative proof of marijuana /
+                            (cannabinoids) in urine</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="89">
+                    <TITLE>
+                        <P>immunochromatography test for qualitative proof of amphetamines /
+                            methamphetamine in urine</P>
+                    </TITLE>
+                    <LOT_NO>89</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>immunochromatography test for qualitative proof of amphetamines /
+                            methamphetamine in urine</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="90">
+                    <TITLE>
+                        <P>immunochromatography test for qualitative evidence of opiates / morphine
+                            in urine</P>
+                    </TITLE>
+                    <LOT_NO>90</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>immunochromatography test for qualitative evidence of opiates / morphine
+                            in urine</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="91">
+                    <TITLE>
+                        <P>immunochromatography test for qualitative proof of benzodiazepines in
+                            urine</P>
+                    </TITLE>
+                    <LOT_NO>91</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>immunochromatography test for qualitative proof of benzodiazepines in
+                            urine</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="92">
+                    <TITLE>
+                        <P>immunochromatography test for qualitative proof of ecstasy in urine</P>
+                    </TITLE>
+                    <LOT_NO>92</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>immunochromatography test for qualitative proof of ecstasy in urine</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="93">
+                    <TITLE>
+                        <P>immunochromatography test for qualitative proof of methadone in urine</P>
+                    </TITLE>
+                    <LOT_NO>93</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>immunochromatography test for qualitative proof of methadone in urine</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="94">
+                    <TITLE>
+                        <P>Alcohol test</P>
+                    </TITLE>
+                    <LOT_NO>94</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Alcohol test</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="95">
+                    <TITLE>
+                        <P>immunochromatography test for qualitative proof of barbiturates in urine</P>
+                    </TITLE>
+                    <LOT_NO>95</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>immunochromatography test for qualitative proof of barbiturates in urine</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="96">
+                    <TITLE>
+                        <P>immunochromatography test for qualitative proof of cocaine in urine</P>
+                    </TITLE>
+                    <LOT_NO>96</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>immunochromatography test for qualitative proof of cocaine in urine</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="97">
+                    <TITLE>
+                        <P>immunochromatography test for qualitative demonstration of tricyclic
+                            antidepressants in urine</P>
+                    </TITLE>
+                    <LOT_NO>97</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>immunochromatography test for qualitative demonstration of tricyclic
+                            antidepressants in urine</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="98">
+                    <TITLE>
+                        <P>Immunochromatography test for qualitative proof of hepatitis B virus
+                            (HBsAg) antigen</P>
+                    </TITLE>
+                    <LOT_NO>98</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Immunochromatography test for qualitative proof of hepatitis B virus
+                            (HBsAg) antigen</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="99">
+                    <TITLE>
+                        <P>Tissue sample processing reagent set (reagent and wax) compatible with
+                            Tissue Tek Xpressx50 tissue processor or equivalent</P>
+                    </TITLE>
+                    <LOT_NO>99</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Tissue sample processing reagent set (reagent and wax) compatible with
+                            Tissue Tek Xpressx50 tissue processor or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="100">
+                    <TITLE>
+                        <P>Molecular fixative for tissue samples compatible with Tissue Tek
+                            Xpressx50 tissue processor or equivalent in a suitable package of a
+                            maximum of 3.8 liters</P>
+                    </TITLE>
+                    <LOT_NO>100</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Molecular fixative for tissue samples compatible with Tissue Tek
+                            Xpressx50 tissue processor or equivalent in a suitable package of a
+                            maximum of 3.8 liters</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="101">
+                    <TITLE>
+                        <P>Tissue sample preparation reagent for tissue processing compatible with
+                            Tissue Tek Xpressx50 tissue processor or equivalent in a suitable
+                            package of a maximum of 3.8 liters</P>
+                    </TITLE>
+                    <LOT_NO>101</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Tissue sample preparation reagent for tissue processing compatible with
+                            Tissue Tek Xpressx50 tissue processor or equivalent in a suitable
+                            package of a maximum of 3.8 liters</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="102">
+                    <TITLE>
+                        <P>Group: 304. REAGENTS AND CONSUMABLES MATERIAL COMPATIBLE FOR ELECTROLYTTE
+                            ANALYZER HUMALYTE PLUS 5 OR EQUIVALENT (Lot is not divisible)</P>
+                    </TITLE>
+                    <LOT_NO>102</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Group: 304. REAGENTS AND CONSUMABLES MATERIAL COMPATIBLE FOR ELECTROLYTTE
+                            ANALYZER HUMALYTE PLUS 5 OR EQUIVALENT (Lot is not divisible)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="103">
+                    <TITLE>
+                        <P>Group: 304-A. Group: 304. REAGENTS AND CONSUMABLES MATERIAL COMPATIBLE
+                            FOR CORLYTE / SMARTLYTE ELECTRIC ANALYZER OR EQUIVALENT (Lot is not
+                            divisible)</P>
+                    </TITLE>
+                    <LOT_NO>103</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Group: 304-A. Group: 304. REAGENTS AND CONSUMABLES MATERIAL COMPATIBLE
+                            FOR CORLYTE / SMARTLYTE ELECTRIC ANALYZER OR EQUIVALENT (Lot is not
+                            divisible)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="104">
+                    <TITLE>
+                        <P>Group: 310. KITS, REAGENTS AND CONSUMABLES MATERIAL COMPATIBLE TO SYSMEX
+                            XS-800I OR EQUIVALENT (Lot is not divisible)</P>
+                    </TITLE>
+                    <LOT_NO>104</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Group: 310. KITS, REAGENTS AND CONSUMABLES MATERIAL COMPATIBLE TO SYSMEX
+                            XS-800I OR EQUIVALENT (Lot is not divisible)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="105">
+                    <TITLE>
+                        <P>serum alkaline phosphatase reagent (IFCC method), compatible with Chem
+                            200 biochemical analyzer or equivalent, max 100 ml</P>
+                    </TITLE>
+                    <LOT_NO>105</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>serum alkaline phosphatase reagent (IFCC method), compatible with Chem
+                            200 biochemical analyzer or equivalent, max 100 ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="106">
+                    <TITLE>
+                        <P>urine microalbumin assay control solution compatible with Chem 200
+                            biochemical analyzer or equivalent</P>
+                    </TITLE>
+                    <LOT_NO>106</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>urine microalbumin assay control solution compatible with Chem 200
+                            biochemical analyzer or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="107">
+                    <TITLE>
+                        <P>urine microalbumin determination reagent compatible with Chem 200
+                            biochemical analyzer or equivalent</P>
+                    </TITLE>
+                    <LOT_NO>107</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>urine microalbumin determination reagent compatible with Chem 200
+                            biochemical analyzer or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="108">
+                    <TITLE>
+                        <P>Auto-multicalibrator for a minimum of the following parameters: albumin,
+                            total protein, glucose, AST, ALT, gamma GT, alpha amylase, alkaline
+                            phosphatase, iron, creatine kinase, creatinine, urea, uric </P>
+                    </TITLE>
+                    <LOT_NO>108</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Auto-multicalibrator for a minimum of the following parameters: albumin,
+                            total protein, glucose, AST, ALT, gamma GT, alpha amylase, alkaline
+                            phosphatase, iron, creatine kinase, creatinine, urea, uric acid,
+                            cholesterol, triacylglycerol, L , chlorides, total bilirubin, direct
+                            bilirubin, device compatible with biochemical analyzer Chem 200 or
+                            equivalent, max 5 ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="109">
+                    <TITLE>
+                        <P>System cleaner, compatible with Chem 200 biochemical analyzer or
+                            equivalent, max 50 ml</P>
+                    </TITLE>
+                    <LOT_NO>109</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>System cleaner, compatible with Chem 200 biochemical analyzer or
+                            equivalent, max 50 ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="110">
+                    <TITLE>
+                        <P>Concentrated cleaning agent, compatible with Chem 2oo biochemical
+                            analyzer or equivalent (max. 50 ml)</P>
+                    </TITLE>
+                    <LOT_NO>110</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Concentrated cleaning agent, compatible with Chem 2oo biochemical
+                            analyzer or equivalent (max. 50 ml)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="111">
+                    <TITLE>
+                        <P>Annual international external biochemical quality control with normal
+                            values for biochemical analyzer CHEM 200 or equivalent, designed for
+                            minimum parameters: ALP, AST, ALT, LDN, GGT, CK, AMY, GLUCOSE</P>
+                    </TITLE>
+                    <LOT_NO>111</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Annual international external biochemical quality control with normal
+                            values for biochemical analyzer CHEM 200 or equivalent, designed for
+                            minimum parameters: ALP, AST, ALT, LDN, GGT, CK, AMY, GLUCOSE, UREA,
+                            CREA, URIC ACID, TP, AL DBIL, TBIL, CA, PHOSPHORUS, Mg, Na, K, Cl,
+                            CHOLINESTERAZA, CHOL, TRIG, HDL, LDL, IRON, TOTAL ACID PHOSPHATASE,
+                            LYPASE, in a package of 12 vials of 5 ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="112">
+                    <TITLE>
+                        <P>urine alcohol reagent (enzyme photometric method with enzyme alcohol
+                            dehydrogenase) compatible with apparatus biochemical analyzer Chem 200
+                            or equivalent, max 200 test</P>
+                    </TITLE>
+                    <LOT_NO>112</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>urine alcohol reagent (enzyme photometric method with enzyme alcohol
+                            dehydrogenase) compatible with apparatus biochemical analyzer Chem 200
+                            or equivalent, max 200 test</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="113">
+                    <TITLE>
+                        <P>urine alcohol calibrator compatible with biochemical analyzer Chem 200 or
+                            equivalent, max 40 ml</P>
+                    </TITLE>
+                    <LOT_NO>113</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>urine alcohol calibrator compatible with biochemical analyzer Chem 200 or
+                            equivalent, max 40 ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="114">
+                    <TITLE>
+                        <P>Annual international external control for hematological parameters, for a
+                            minimum of the following parameters: hemoglobin, erythrocytes,
+                            leukocytes, platelets, MCH, MCHC, MCV, in a package of 12 vials</P>
+                    </TITLE>
+                    <LOT_NO>114</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Annual international external control for hematological parameters, for a
+                            minimum of the following parameters: hemoglobin, erythrocytes,
+                            leukocytes, platelets, MCH, MCHC, MCV, in a package of 12 vials of 5 ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="115">
+                    <TITLE>
+                        <P>Reagent for the determination of Lp (a) (CIR)</P>
+                    </TITLE>
+                    <LOT_NO>115</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reagent for the determination of Lp (a) (CIR)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="116">
+                    <TITLE>
+                        <P>Reagent for the determination of Apolipoprotein A1 (CIR)</P>
+                    </TITLE>
+                    <LOT_NO>116</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reagent for the determination of Apolipoprotein A1 (CIR)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="117">
+                    <TITLE>
+                        <P>Reagent for the determination of Apolipoprotein B (CIR)</P>
+                    </TITLE>
+                    <LOT_NO>117</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reagent for the determination of Apolipoprotein B (CIR)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="118">
+                    <TITLE>
+                        <P>Reagent for the determination of lactate dehydrogenase (LDH) by the IFCC
+                            method (KIR)</P>
+                    </TITLE>
+                    <LOT_NO>118</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reagent for the determination of lactate dehydrogenase (LDH) by the IFCC
+                            method (KIR)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="119">
+                    <TITLE>
+                        <P>Reagent for the determination of N-acetyl-beta-D-glucosaminidase (NAG),
+                            photometric method (KIR)</P>
+                    </TITLE>
+                    <LOT_NO>119</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Reagent for the determination of N-acetyl-beta-D-glucosaminidase (NAG),
+                            photometric method (KIR)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="120">
+                    <TITLE>
+                        <P>Targeted Forensic Panel for Precision Identification which includes 35
+                            markers consisting of 21 STR markers plus 9 multi-allelic STR Reaction
+                            markers and 4 new generation sequencing poles compatible w</P>
+                    </TITLE>
+                    <LOT_NO>120</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Targeted Forensic Panel for Precision Identification which includes 35
+                            markers consisting of 21 STR markers plus 9 multi-allelic STR Reaction
+                            markers and 4 new generation sequencing poles compatible with the S5 /
+                            Ion Chef platform compatible. Have a sensitivity&gt; 99% with a minimum
+                            amount of DNA of 125 pg.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="121">
+                    <TITLE>
+                        <P>Set for use of Ion Chef system, for automatic preparation of libraries
+                            for targeted forensic panels for precise identification of isolated DNA.
+                            The kit contains reagents, solutions and consumables suf</P>
+                    </TITLE>
+                    <LOT_NO>121</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Set for use of Ion Chef system, for automatic preparation of libraries
+                            for targeted forensic panels for precise identification of isolated DNA.
+                            The kit contains reagents, solutions and consumables sufficient to
+                            prepare at least 32 barcode libraries or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="122">
+                    <TITLE>
+                        <P>Sequencing kit for preparation of templates and input of reagents in
+                            library chips for precise identification. The kit should be for 8
+                            initializations and 8 sequences. The kit consists of ready-made s</P>
+                    </TITLE>
+                    <LOT_NO>122</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Sequencing kit for preparation of templates and input of reagents in
+                            library chips for precise identification. The kit should be for 8
+                            initializations and 8 sequences. The kit consists of ready-made
+                            sequencing cartridges compatible with the new generation sequence
+                            compatible on the S5 platform</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="123">
+                    <TITLE>
+                        <P>Barcode chips compatible for use with Ion Chef systems and the Ion S5
+                            system, which allows sequencing up to 3-5 million chip readings to
+                            perform at least 4 sequencing reactions or equivalent</P>
+                    </TITLE>
+                    <LOT_NO>123</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Enzyme proteinase K in solution form with a concentration of at least 20
+                            mg / ml</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="124">
+                    <TITLE>
+                        <P>Group: 486-A. KIT REAGENTS -TESTOVI for molecular identification and
+                            detection of SARS CoV 2 and at least 15 other viral agents, compatible
+                            with the kit for automatic extraction of DNA and RNA from vi</P>
+                    </TITLE>
+                    <LOT_NO>124</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Group: 486-A. KIT REAGENTS -TESTOVI for molecular identification and
+                            detection of SARS CoV 2 and at least 15 other viral agents, compatible
+                            with the kit for automatic extraction of DNA and RNA from viruses
+                            abGenix or equivalent, and complete reagent for SARS-CoV-2 viruses
+                            Influenza A and Influenza B compatible with kit for automatic extraction
+                            of DNA and RNA from abGenix viruses or equivalent BIOLOGICAL SAMPLES
+                            applicable and compatible with Real-Time PCR DTPrime instrument
+                            equivalent (Lot is not divisible)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="125">
+                    <TITLE>
+                        <P>Group: 494. KITS, REAGENTS AND CONSUMABLES MATERIAL COMPATIBLE ON
+                            HUMASTAR 100 OR EQUIVALENT (Lot is not divisible)</P>
+                    </TITLE>
+                    <LOT_NO>125</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Group: 494. KITS, REAGENTS AND CONSUMABLES MATERIAL COMPATIBLE ON
+                            HUMASTAR 100 OR EQUIVALENT (Lot is not divisible)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="126">
+                    <TITLE>
+                        <P>Kit for molecular RNA detection of SARS-CoV-2 in clinical specimens using
+                            RT-PCR in real time, with detection of at least two targets (genes) from
+                            the viral genome, must include positive control, reac</P>
+                    </TITLE>
+                    <LOT_NO>126</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33696500" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>Kit for molecular RNA detection of SARS-CoV-2 in clinical specimens using
+                            RT-PCR in real time, with detection of at least two targets (genes) from
+                            the viral genome, must include positive control, reaction mixture and
+                            enzymes, be CE IVD certified and compatible with 7500Real-Time PCR
+                            System or equivalent.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <LEFTI>
+                <SUITABILITY>
+                    <P>In order to prove its personal situation, the economic operator should
+                        provide the following documents</P>
+                    <P>— statement that in the last 5 years no effective court verdict has been
+                        pronounced for committed criminal act</P>
+                    <P>from Article 88 paragraph 1 of the PPL,</P>
+                    <P>— certificate that it is not subject to bankruptcy procedure issued by
+                        competent authority,</P>
+                    <P>— certificate that it is not subject to liquidation procedure issued by
+                        competent authority,</P>
+                    <P>— certificate for paid taxes, contributions and other public duties by the
+                        competent authority in the country</P>
+                    <P>where that economic operator is established,</P>
+                    <P>— certificate from the legal entities penal registry that it is not being
+                        imposed a side sanction – prohibition to</P>
+                    <P>participate in public competitions, contract award procedures and PPP award
+                        procedures,</P>
+                    <P>— certificate from the legal entities penal registry that it is not being
+                        imposed a side sanction — temporary or</P>
+                    <P>permanent prohibition to perform certain professional activity,</P>
+                    <P>— certificate that it is not being sanctioned for misdemeanor with an
+                        effective court decision, resulting in</P>
+                    <P>prohibition for pursuing professional activity or duty, i.e. temporary
+                        prohibition for performing professional activity</P>
+                    <P>IV.2.2) ability of the economic operator to perform business activity —
+                        document for registered activity, certificate</P>
+                    <P>for wholesale of medical products in accordance with the law on medicines and
+                        medical devices.</P>
+                </SUITABILITY>
+                <TECHNICAL_PROFESSIONAL_INFO>
+                    <P>samples, description and / or photographs of products that are subject to
+                        delivery, and the authenticity of which the economic operator is obliged to
+                        confirm if requested by the contracting authority: description and / or
+                        photographs (catalogs) of products with clearly marked catalog numbers from
+                        the items are offered, and the reliability of which the economic operator is
+                        obliged to confirm if requested by the contracting authority.</P>
+                </TECHNICAL_PROFESSIONAL_INFO>
+                <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+                    <P>samples, description and / or photographs of products that are subject to
+                        delivery, and the authenticity of which the economic operator is obliged to
+                        confirm if requested by the contracting authority: description and / or
+                        photographs (catalogs) of products with clearly marked catalog numbers from
+                        the items are offered, and the reliability of which the economic operator is
+                        obliged to confirm if requested by the contracting authority.</P>
+                </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+                <PERFORMANCE_CONDITIONS>
+                    <P>Guarantee for quality performance of the contract: Yes [10.00%]</P>
+                    <P>Condition for signing the contract with the selected most favorable bidder is
+                        providing a guarantee by the selected most favorable bidder for quality
+                        performance of the contract in the amount of 10% of the value of the
+                        contract including VAT, for contracts whose total value is over 30,000.00
+                        denars including VAT.</P>
+                </PERFORMANCE_CONDITIONS>
+            </LEFTI>
+            <PROCEDURE>
+                <PT_OPEN />
+                <NO_CONTRACT_COVERED_GPA />
+                <DATE_RECEIPT_TENDERS>2021-12-13</DATE_RECEIPT_TENDERS>
+                <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+                <LANGUAGES>
+                    <LANGUAGE VALUE="MK" />
+                </LANGUAGES>
+                <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+                <OPENING_CONDITION>
+                    <DATE_OPENING_TENDERS>2021-12-13</DATE_OPENING_TENDERS>
+                    <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+                    <PLACE>
+                        <P>Electronically, ESJN (https://www.e-nabavki.gov.mk/); Ss. Cyril and
+                            Methodius University, Faculty of</P>
+                        <P>Medicine,Skopje — 50 Divizija No 6, 1000, Skopje, R. MACEDONIA</P>
+                    </PLACE>
+                </OPENING_CONDITION>
+            </PROCEDURE>
+            <COMPLEMENTARY_INFO>
+                <RECURRENT_PROCUREMENT />
+                <ESTIMATED_TIMING>
+                    <P>1 year</P>
+                </ESTIMATED_TIMING>
+                <INFO_ADD>
+                    <P>
+                        https://www.e-nabavki.gov.mk/PublicAccess/home.aspx#/dossie/eecdef0f-74e7-491f-beef-5602fa37a28b/1</P>
+                </INFO_ADD>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>State Appeals Commission for Public Procurement</OFFICIALNAME>
+                    <TOWN>Skopje</TOWN>
+                    <COUNTRY VALUE="MK" />
+                    <URL>http://www.dkzjn.gov.mk/</URL>
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2021-11-12</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F02_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

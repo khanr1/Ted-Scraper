@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2"
+    xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+    xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"
+    xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1"
+    xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1"
+    xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1"
+    xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+    <ext:UBLExtensions>
+        <ext:UBLExtension>
+            <ext:ExtensionContent>
+                <efext:EformsExtension>
+                    <efbc:TransmissionDate>2025-05-12+00:00</efbc:TransmissionDate>
+                    <efbc:TransmissionTime>11:50:13+00:00</efbc:TransmissionTime>
+                    <efac:NoticeResult>
+                        <cbc:TotalAmount currencyID="EUR">655523</cbc:TotalAmount>
+                        <efac:LotResult>
+                            <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                            <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                            <efac:LotTender>
+                                <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                            </efac:LotTender>
+                            <efac:ReceivedSubmissionsStatistics>
+                                <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                                <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                            </efac:ReceivedSubmissionsStatistics>
+                            <efac:SettledContract>
+                                <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                            </efac:SettledContract>
+                            <efac:TenderLot>
+                                <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+                            </efac:TenderLot>
+                        </efac:LotResult>
+                        <efac:LotTender>
+                            <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                            <cac:LegalMonetaryTotal>
+                                <cbc:PayableAmount currencyID="EUR">655523</cbc:PayableAmount>
+                            </cac:LegalMonetaryTotal>
+                            <efac:TenderingParty>
+                                <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                            </efac:TenderingParty>
+                            <efac:TenderLot>
+                                <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+                            </efac:TenderLot>
+                            <efac:TenderReference>
+                                <cbc:ID>Quote OFO8666/02</cbc:ID>
+                            </efac:TenderReference>
+                        </efac:LotTender>
+                        <efac:SettledContract>
+                            <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                            <cbc:AwardDate>2025-02-21Z</cbc:AwardDate>
+                            <cbc:IssueDate>2025-03-23Z</cbc:IssueDate>
+                            <efac:ContractReference>
+                                <cbc:ID>043-1416/24-7000</cbc:ID>
+                            </efac:ContractReference>
+                            <efac:LotTender>
+                                <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                            </efac:LotTender>
+                        </efac:SettledContract>
+                        <efac:TenderingParty>
+                            <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                            <efac:Tenderer>
+                                <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                            </efac:Tenderer>
+                        </efac:TenderingParty>
+                    </efac:NoticeResult>
+                    <efac:NoticeSubType>
+                        <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+                    </efac:NoticeSubType>
+                    <efac:Organizations>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>http://www.ku.dk/</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DAN">Københavns Universitet</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Nørregade 10</cbc:StreetName>
+                                    <cbc:CityName>København K</cbc:CityName>
+                                    <cbc:PostalZone>1165</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">DK011</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">DNK</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID schemeID="002">29979812</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Name>Bettina Petersen</cbc:Name>
+                                    <cbc:Telephone>+45 35327223</cbc:Telephone>
+                                    <cbc:ElectronicMail>bettina.dion@adm.ku.dk</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>
+                                    https://naevneneshus.dk/start-din-klage/klagenaevnet-for-udbud/</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DAN">Klagenævnet for Udbud</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Nævnenes Hus, Toldboden 2</cbc:StreetName>
+                                    <cbc:CityName>Viborg</cbc:CityName>
+                                    <cbc:PostalZone>8800</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">DK041</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">DNK</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID schemeID="002">37795526</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>+45 72405600</cbc:Telephone>
+                                    <cbc:ElectronicMail>klfu@naevneneshus.dk</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>https://www.kfst.dk</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DAN">Konkurrence- og Forbrugerstyrelsen</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Carl Jacobsens vej 35</cbc:StreetName>
+                                    <cbc:CityName>Valby</cbc:CityName>
+                                    <cbc:PostalZone>2500</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">DK011</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">DNK</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID schemeID="002">10294819</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>+45 41715000</cbc:Telephone>
+                                    <cbc:ElectronicMail>kfst@kfst.dk</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DAN">Bluefors Oy</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:CityName>Helsinki</cbc:CityName>
+                                    <cbc:PostalZone>00370</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID schemeID="002">FI 2183 2199</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>358956174800</cbc:Telephone>
+                                    <cbc:ElectronicMail>info@bluefors.com</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>http://mercell.com/</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DAN">Mercell Holding ASA</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Askekroken 11</cbc:StreetName>
+                                    <cbc:CityName>Oslo</cbc:CityName>
+                                    <cbc:PostalZone>0277</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">NO081</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID schemeID="002">980921565</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Name>eSender</cbc:Name>
+                                    <cbc:Telephone>+47 21018800</cbc:Telephone>
+                                    <cbc:Telefax>+47 21018801</cbc:Telefax>
+                                    <cbc:ElectronicMail>publication@mercell.com</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                    </efac:Organizations>
+                    <efac:Publication>
+                        <efbc:NoticePublicationID schemeName="ojs-notice-id">00304861-2025</efbc:NoticePublicationID>
+                        <efbc:GazetteID schemeName="ojs-id">91/2025</efbc:GazetteID>
+                        <efbc:PublicationDate>2025-05-13+02:00</efbc:PublicationDate>
+                    </efac:Publication>
+                </efext:EformsExtension>
+            </ext:ExtensionContent>
+        </ext:UBLExtension>
+    </ext:UBLExtensions>
+    <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+    <cbc:CustomizationID>eforms-sdk-1.11</cbc:CustomizationID>
+    <cbc:ID schemeName="notice-id">3a669155-eb0e-4794-9301-f59849d1d194</cbc:ID>
+    <cbc:ContractFolderID>588d7a44-04a0-4577-b016-2850463a49a7</cbc:ContractFolderID>
+    <cbc:IssueDate>2025-05-12+00:00</cbc:IssueDate>
+    <cbc:IssueTime>11:49:29+00:00</cbc:IssueTime>
+    <cbc:VersionID>01</cbc:VersionID>
+    <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+    <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+    <cbc:NoticeLanguageCode>DAN</cbc:NoticeLanguageCode>
+    <cac:ContractingParty>
+        <cbc:BuyerProfileURI>https://eu.eu-supply.com/ctm/company/companyinformation/index/166597</cbc:BuyerProfileURI>
+        <cac:ContractingPartyType>
+            <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+        </cac:ContractingPartyType>
+        <cac:ContractingActivity>
+            <cbc:ActivityTypeCode listName="authority-activity">education</cbc:ActivityTypeCode>
+        </cac:ContractingActivity>
+        <cac:Party>
+            <cac:PartyIdentification>
+                <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+            <cac:ServiceProviderParty>
+                <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+                <cac:Party>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:Party>
+            </cac:ServiceProviderParty>
+        </cac:Party>
+    </cac:ContractingParty>
+    <cac:TenderingProcess>
+        <cbc:ProcedureCode listName="procurement-procedure-type">neg-wo-call</cbc:ProcedureCode>
+        <cac:NoticeDocumentReference>
+            <cbc:ID schemeName="notice-id-ref">8ed8298a-cf8c-42d0-9a07-b9b653a56e59-01</cbc:ID>
+        </cac:NoticeDocumentReference>
+        <cac:ProcessJustification>
+            <cbc:ProcessReasonCode listName="direct-award-justification">technical</cbc:ProcessReasonCode>
+            <cbc:ProcessReason languageID="DAN">There are two companies selling dilution
+                refrigerators with the necessary base temperatures, cooling power, density of wiring
+                options and superconducting vector magnets. Oxford Instruments and Bluefors Oy. As a
+                training lab, we want to be as hardware agnostic as possible for cryogenic setups,
+                thus getting one fridge from each of the suppliers is something we are working on.
+                For this setup the cooling power at base temperature and the maximum number of RF
+                lines to the fast sample exchange stage will allow to maximise the fridge space and
+                number of samples that can be measured at the same time. The 32 lines possible for
+                the given size of fridge considered, is the maximum available on the market when
+                considering the compatibility of the fast sample exchange system with a
+                superconducting vector magnet.
+                Furthermore, since the setup is intended for a training laboratory the included
+                control cart that allows for hands on control, additional to the industry standard
+                computer interface, increases the use of this setup for training purposes.</cbc:ProcessReason>
+        </cac:ProcessJustification>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+        <cbc:ID schemeName="InternalID">043-1416/24-7000</cbc:ID>
+        <cbc:Name languageID="DAN">Dilution Refrigerator</cbc:Name>
+        <cbc:Description languageID="DAN">1 dilution refrigerator with bottom loading lock for fast
+            sample exchange</cbc:Description>
+        <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+        <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">38000000</cbc:ItemClassificationCode>
+        </cac:MainCommodityClassification>
+        <cac:RealizedLocation>
+            <cac:Address>
+                <cbc:CountrySubentityCode listName="nuts">DK011</cbc:CountrySubentityCode>
+                <cac:Country>
+                    <cbc:IdentificationCode listName="country">DNK</cbc:IdentificationCode>
+                </cac:Country>
+            </cac:Address>
+        </cac:RealizedLocation>
+    </cac:ProcurementProject>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+            <cac:AwardingTerms>
+                <cac:AwardingCriterion>
+                    <cbc:Description languageID="DAN">Kun en leverandør mulig</cbc:Description>
+                    <cac:SubordinateAwardingCriterion>
+                        <ext:UBLExtensions>
+                            <ext:UBLExtension>
+                                <ext:ExtensionContent>
+                                    <efext:EformsExtension>
+                                        <efac:AwardCriterionParameter>
+                                            <efbc:ParameterCode listName="number-weight">ord-imp</efbc:ParameterCode>
+                                            <efbc:ParameterNumeric>1</efbc:ParameterNumeric>
+                                        </efac:AwardCriterionParameter>
+                                    </efext:EformsExtension>
+                                </ext:ExtensionContent>
+                            </ext:UBLExtension>
+                        </ext:UBLExtensions>
+                        <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                        <cbc:Name languageID="DAN">kun en leverandør mulig</cbc:Name>
+                        <cbc:Description languageID="DAN">There are two companies selling dilution
+                            refrigerators with the necessary base temperatures, cooling power,
+                            density of wiring options and superconducting vector magnets. Oxford
+                            Instruments and Bluefors Oy. As a training lab, we want to be as
+                            hardware agnostic as possible for cryogenic setups, thus getting one
+                            fridge from each of the suppliers is something we are working on.
+                            For this setup the cooling power at base temperature and the maximum
+                            number of RF lines to the fast sample exchange stage will allow to
+                            maximise the fridge space and number of samples that can be measured at
+                            the same time. The 32 lines possible for the given size of fridge
+                            considered, is the maximum available on the market when considering the
+                            compatibility of the fast sample exchange system with a superconducting
+                            vector magnet.
+                            Furthermore, since the setup is intended for a training laboratory the
+                            included control cart that allows for hands on control, additional to
+                            the industry standard computer interface, increases the use of this
+                            setup for training purposes.</cbc:Description>
+                    </cac:SubordinateAwardingCriterion>
+                </cac:AwardingCriterion>
+            </cac:AwardingTerms>
+            <cac:AppealTerms>
+                <cac:AppealInformationParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:AppealInformationParty>
+                <cac:AppealReceiverParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:AppealReceiverParty>
+            </cac:AppealTerms>
+        </cac:TenderingTerms>
+        <cac:TenderingProcess>
+            <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+            <cac:AuctionTerms>
+                <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+            </cac:AuctionTerms>
+            <cac:ContractingSystem>
+                <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+            </cac:ContractingSystem>
+            <cac:ContractingSystem>
+                <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+            </cac:ContractingSystem>
+        </cac:TenderingProcess>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="InternalID">043-1416/24-7000</cbc:ID>
+            <cbc:Name languageID="DAN">Dilution Refrigerator</cbc:Name>
+            <cbc:Description languageID="DAN">1 dilution refrigerator with bottom loading lock for
+                fast sample exchange</cbc:Description>
+            <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+            <cbc:EstimatedOverallContractQuantity>1</cbc:EstimatedOverallContractQuantity>
+            <cac:MainCommodityClassification>
+                <cbc:ItemClassificationCode listName="cpv">38000000</cbc:ItemClassificationCode>
+            </cac:MainCommodityClassification>
+            <cac:RealizedLocation>
+                <cac:Address>
+                    <cbc:CountrySubentityCode listName="nuts">DK011</cbc:CountrySubentityCode>
+                    <cac:Country>
+                        <cbc:IdentificationCode listName="country">DNK</cbc:IdentificationCode>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:TenderResult>
+        <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+    </cac:TenderResult>
+</ContractAwardNotice>

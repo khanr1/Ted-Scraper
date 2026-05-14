@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.8/publication"
+    xmlns:n2016="http://publications.europa.eu/resource/schema/ted/2016/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.8/publication TED_EXPORT.xsd"
+    DOC_ID="328218-2018" EDITION="2018143">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>18-332316-001</RECEPTION_ID>
+        <DELETION_DATE>20181101</DELETION_DATE>
+        <FORM_LG_LIST>EN </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple " xlink:href="http://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>143</NO_OJ>
+            <DATE_PUB>20180727</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2018/S 143-328218</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:328218-2018:TEXT:EN:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>EN</LG_ORIG>
+            <ISO_COUNTRY VALUE="DE" />
+            <IA_URL_GENERAL>http://www.uni-koeln.de</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="38400000">Instruments for checking physical characteristics</ORIGINAL_CPV>
+            <n2016:PERFORMANCE_NUTS CODE="DEA23">Köln, Kreisfreie Stadt</n2016:PERFORMANCE_NUTS>
+            <VALUES_LIST>
+                <VALUES TYPE="GLOBAL">
+                    <SINGLE_VALUE>
+                        <VALUE CURRENCY="EUR">448 000,00</VALUE>
+                    </SINGLE_VALUE>
+                </VALUES>
+            </VALUES_LIST>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20180724</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="V">Voluntary ex ante transparency notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+            <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="L">Education</MA_MAIN_ACTIVITIES>
+            <HEADING>01215</HEADING>
+            <DIRECTIVE VALUE="2004/18/EC" />
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Гepмaния</TI_CY>
+                <TI_TOWN>Кьолн</TI_TOWN>
+                <TI_TEXT>
+                    <P>Уреди за контрол на физически характеристики</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Německo</TI_CY>
+                <TI_TOWN>Kolín</TI_TOWN>
+                <TI_TEXT>
+                    <P>Nástroje pro kontrolu fyzických vlastností</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Tyskland</TI_CY>
+                <TI_TOWN>Köln</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumenter til kontrol af fysiske karakteristika</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Deutschland</TI_CY>
+                <TI_TOWN>Köln</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumente zum Prüfen von physikalischen Eigenschaften</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Γερμανία</TI_CY>
+                <TI_TOWN>Κολωνία</TI_TOWN>
+                <TI_TEXT>
+                    <P>Όργανα ελέγχου φυσικών χαρακτηριστικών</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Germany</TI_CY>
+                <TI_TOWN>Cologne</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instruments for checking physical characteristics</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Alemania</TI_CY>
+                <TI_TOWN>Colonia</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumentos de medida o control de características físicas</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Saksamaa</TI_CY>
+                <TI_TOWN>Köln</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumendid füüsikaliste näitajate kontrollimiseks</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Saksa</TI_CY>
+                <TI_TOWN>Köln</TI_TOWN>
+                <TI_TEXT>
+                    <P>Fysikaalisten ominaisuuksien mittausvälineet</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Allemagne</TI_CY>
+                <TI_TOWN>Cologne</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instruments de contrôle de propriétés physiques</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Ghearmáin, an</TI_CY>
+                <TI_TOWN>Köln</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instruments for checking physical characteristics</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Njemačka</TI_CY>
+                <TI_TOWN>Köln</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumenti za provjeru fizičkih značajki</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Németország</TI_CY>
+                <TI_TOWN>Köln</TI_TOWN>
+                <TI_TEXT>
+                    <P>Fizikai jellemzők ellenőrzésére szolgáló műszerek</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Germania</TI_CY>
+                <TI_TOWN>Colonia</TI_TOWN>
+                <TI_TEXT>
+                    <P>Strumenti per il controllo di caratteristiche fisiche</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Vokietija, VFR</TI_CY>
+                <TI_TOWN>Kelnas</TI_TOWN>
+                <TI_TEXT>
+                    <P>Fizinių savybių nustatymo prietaisai</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Vācija</TI_CY>
+                <TI_TOWN>Ķelne</TI_TOWN>
+                <TI_TEXT>
+                    <P>Fizikālo rādītāju pārbaudes instrumenti</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>il-Ġermanja</TI_CY>
+                <TI_TOWN>Kolonn</TI_TOWN>
+                <TI_TEXT>
+                    <P>Strumenti għall-verifika tal-karatteristiċi fiżiċi</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Duitsland</TI_CY>
+                <TI_TOWN>Keulen</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumenten voor het controleren van fysische eigenschappen</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Niemcy</TI_CY>
+                <TI_TOWN>Kolonia</TI_TOWN>
+                <TI_TEXT>
+                    <P>Przyrządy do badania właściwości fizycznych</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Alemanha</TI_CY>
+                <TI_TOWN>Colónia</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumentos para controlo de propriedades físicas</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Germania</TI_CY>
+                <TI_TOWN>Köln</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumente de verificare a proprietăţilor fizice</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Nemecko</TI_CY>
+                <TI_TOWN>Kolín</TI_TOWN>
+                <TI_TEXT>
+                    <P>Nástroje na kontrolu fyzikálnych vlastností</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Nemčija</TI_CY>
+                <TI_TOWN>Köln</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumenti za preverjanje fizikalnih značilnosti</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Tyskland</TI_CY>
+                <TI_TOWN>Köln</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrument för kontroll av fysikaliska egenskaper</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="EN">Universität zu Köln, Der Kanzler</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <VOLUNTARY_EX_ANTE_TRANSPARENCY_NOTICE CATEGORY="ORIGINAL" FORM="15" LG="EN"
+            VERSION="R2.0.8.S04.E01">
+            <FD_VOLUNTARY_EX_ANTE_TRANSPARENCY_NOTICE CTYPE="SUPPLIES">
+                <NOTICE_PUBLISHED NOTICE="CONTRACTING_AUTHORITY" />
+                <CONTRACTING_AUTHORITY_VEAT>
+                    <NAME_ADDRESSES_CONTACT_VEAT>
+                        <CA_CE_CONCESSIONAIRE_PROFILE>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Universität zu Köln, Der Kanzler</OFFICIALNAME>
+                            </ORGANISATION>
+                            <ADDRESS>Albertus-Magnus-Platz</ADDRESS>
+                            <TOWN>Köln</TOWN>
+                            <POSTAL_CODE>50923</POSTAL_CODE>
+                            <COUNTRY VALUE="DE" />
+                            <CONTACT_POINT>Universität zu Köln, Abt. Einkauf</CONTACT_POINT>
+                            <ATTENTION>J. Buffy</ATTENTION>
+                            <PHONE>+49 2214701908</PHONE>
+                            <E_MAILS>
+                                <E_MAIL>j.buffy@verw.uni-koeln.de</E_MAIL>
+                            </E_MAILS>
+                            <FAX>+49 2214705155</FAX>
+                        </CA_CE_CONCESSIONAIRE_PROFILE>
+                        <INTERNET_ADDRESSES_VEAT>
+                            <URL_GENERAL>http://www.uni-koeln.de</URL_GENERAL>
+                        </INTERNET_ADDRESSES_VEAT>
+                    </NAME_ADDRESSES_CONTACT_VEAT>
+                    <TYPE_AND_ACTIVITIES_OR_CONTRACTING_ENTITY_AND_PURCHASING_ON_BEHALF>
+                        <TYPE_AND_ACTIVITIES>
+                            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="BODY_PUBLIC" />
+                            <TYPE_OF_ACTIVITY VALUE="EDUCATION" />
+                        </TYPE_AND_ACTIVITIES>
+                        <PURCHASING_ON_BEHALF>
+                            <PURCHASING_ON_BEHALF_NO />
+                        </PURCHASING_ON_BEHALF>
+                    </TYPE_AND_ACTIVITIES_OR_CONTRACTING_ENTITY_AND_PURCHASING_ON_BEHALF>
+                </CONTRACTING_AUTHORITY_VEAT>
+                <OBJECT_VEAT>
+                    <DESCRIPTION_VEAT>
+                        <TITLE_CONTRACT>
+                            <P>Cryofree Dilution Refrigerator Systems</P>
+                        </TITLE_CONTRACT>
+                        <TYPE_CONTRACT_LOCATION>
+                            <TYPE_CONTRACT VALUE="SUPPLIES" />
+                            <TYPE_SUPPLIES_CONTRACT VALUE="PURCHASE" />
+                        </TYPE_CONTRACT_LOCATION>
+                        <LOCATION_NUTS>
+                            <LOCATION>
+                                <P>University of Cologne</P>
+                            </LOCATION>
+                            <n2016:NUTS CODE="DEA23" />
+                        </LOCATION_NUTS>
+                        <SHORT_CONTRACT_DESCRIPTION>
+                            <P>Delivery, Installation and Briefing of a Cryfree Dilution
+                                Refrigerator Systems</P>
+                        </SHORT_CONTRACT_DESCRIPTION>
+                        <CPV>
+                            <CPV_MAIN>
+                                <CPV_CODE CODE="38400000" />
+                            </CPV_MAIN>
+                        </CPV>
+                        <CONTRACT_COVERED_GPA VALUE="YES" />
+                    </DESCRIPTION_VEAT>
+                    <TOTAL_FINAL_VALUE>
+                        <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="EUR">
+                            <VALUE_COST FMTVAL="448000.00">448 000,00</VALUE_COST>
+                            <EXCLUDING_VAT />
+                        </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+                    </TOTAL_FINAL_VALUE>
+                </OBJECT_VEAT>
+                <PROCEDURE_DEFINITION_VEAT>
+                    <TYPE_OF_PROCEDURE_DEF_F15>
+                        <F15_PT_NEGOTIATED_WITHOUT_COMPETITION>
+                            <ANNEX_D_F15>
+                                <ANNEX_D1>
+                                    <NO_OPEN_RESTRICTED VALUE="RESTRICTED_PROCEDURE" />
+                                    <NO_MANUFACTURED_BY_DIRECTIVE />
+                                    <JUSTIFICATION_CHOICE_NEGOCIATED_PROCEDURE>
+                                        <REASONS_PROVIDED_PARTICULAR_TENDERER>
+                                            <REASONS_PROVIDED_PARTICULAR_TENDERER_TECHNICAL />
+                                        </REASONS_PROVIDED_PARTICULAR_TENDERER>
+                                        <NO_EXTREME_URGENCY_EVENTS_UNFORESEEABLE />
+                                        <NO_ADDITIONAL_WORKS />
+                                        <NO_SUPPLIES_QUOTED_PURCHASED_COMMODITY_MARKET />
+                                    </JUSTIFICATION_CHOICE_NEGOCIATED_PROCEDURE>
+                                    <NO_ONLY_IRREGULAR_INACCEPTABLE_TENDERERS />
+                                    <REASON_CONTRACT_LAWFUL>
+                                        <P>— technically compatible with the existing Oxford
+                                            Instruments Triton 200 machine, so that the existing
+                                            hardware (sample holders, measurement cables, noise
+                                            filters, etc.) and software built for this machine, as
+                                            well as the accumulated know-hows to modify and operate
+                                            the cryofree dilution, will be effectively utilized
+                                            without any compatibility problem,</P>
+                                        <P>— integrated superconducting vector magnet and
+                                            cryogen-free dilution refrigerator must be designed,
+                                            manufactured, systemized and guaranteed by a single
+                                            vendor. The magnet must be capable of producing at least
+                                            6/1/1 tesla along the z/x/y direction, and the magnetic
+                                            field orientation should be easily controlled in the 3D
+                                            space with a suitable magnet power supply,</P>
+                                        <P>— Base Temperature: &lt;10 mK measured in vacuum on the
+                                            base of the mixing chamber, not in liquid or inside
+                                            mixing chamber,</P>
+                                        <P>— Continuous temperature control from base temperature to
+                                            30 K with the integrated magnet at full field,</P>
+                                        <P>— The temperature stability: +/-1 mK for 1–100 mK and
+                                            +/-1 % for 0.1–30 K or better,</P>
+                                        <P>— For efficient precooling, precooling line which
+                                            utilizes the Helium mixture,</P>
+                                        <P>— Cooling Power: &gt;250 μW at 100 mK measured in vacuum
+                                            on the base of the mixing chamber,</P>
+                                        <P>— Diameter of the mixing chamber plate: at least 290 mm,</P>
+                                        <P>— System must include integrated, cryogen-free cool down
+                                            accelerator for time-efficient operation (In the case of
+                                            Oxford Instrument Triton system, this is realized by UK
+                                            Patent GB248567B and US patent US20130319019),</P>
+                                        <P>— The vibrations caused by the pulse tube stage must be
+                                            sufficiently dumped or isolated, so that the
+                                            displacement measured at the Mixing Chamber Plate is
+                                            &lt;100 nm at 0.1, 1.0, 10 and 100 Hz. Measured data
+                                            must be provided by the vendor in the form of an
+                                            amplitude spectrum (μm) or spectral density function
+                                            (μm/sqrt-Hz) as a function of frequency from 0.1–500 Hz.
+                                            The measured data should have sampling frequency of 1
+                                            kHz with frequency resolution of 0.01 Hz or better,</P>
+                                        <P>— The System must incorporate a bottom-loading sample
+                                            exchange mechanism with the sample in vacuum using a
+                                            load-lock sample puck. The loading arm must be
+                                            removable. Usage of an electro-motor for sample loading
+                                            is not accepted. Wiring to the sample puck must be
+                                            heat-sunk to the dilution refrigerator’s low-temperature
+                                            plates. Suitable radiation baffles must be permanently
+                                            mounted on the dilution insert radiation shields. (In
+                                            the case of Oxford Instrument Triton system, this is
+                                            realized by US Patent No US2012/0102975A1 and
+                                            US2014/0202179A1, EU Patent No EP2742299A2 and
+                                            EP2409096A2). Because the reliability of the
+                                            bottom-loading mechanism is crucial for protecting the
+                                            delicate nanodevice samples, the vendor must show the
+                                            track record of delivering more than 50 such systems.</P>
+                                    </REASON_CONTRACT_LAWFUL>
+                                </ANNEX_D1>
+                            </ANNEX_D_F15>
+                        </F15_PT_NEGOTIATED_WITHOUT_COMPETITION>
+                    </TYPE_OF_PROCEDURE_DEF_F15>
+                    <AWARD_CRITERIA_VEAT_INFORMATION>
+                        <AWARD_CRITERIA_DETAIL_F15>
+                            <LOWEST_PRICE />
+                        </AWARD_CRITERIA_DETAIL_F15>
+                        <F15_IS_ELECTRONIC_AUCTION_USABLE VALUE="NO" />
+                    </AWARD_CRITERIA_VEAT_INFORMATION>
+                    <ADMINISTRATIVE_INFORMATION_VEAT>
+                        <FILE_REFERENCE_NUMBER>
+                            <P>102/4300040295</P>
+                        </FILE_REFERENCE_NUMBER>
+                        <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F15>
+                            <NO_PREVIOUS_PUBLICATION_EXISTS_F15 />
+                        </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F15>
+                    </ADMINISTRATIVE_INFORMATION_VEAT>
+                </PROCEDURE_DEFINITION_VEAT>
+                <AWARD_OF_CONTRACT_DEFENCE>
+                    <CONTRACT_NUMBER>102/4300040295</CONTRACT_NUMBER>
+                    <CONTRACT_AWARD_DATE>
+                        <DAY>20</DAY>
+                        <MONTH>07</MONTH>
+                        <YEAR>2018</YEAR>
+                    </CONTRACT_AWARD_DATE>
+                    <OFFERS_RECEIVED_NUMBER>1</OFFERS_RECEIVED_NUMBER>
+                    <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                        <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Oxford Instruments GmbH</OFFICIALNAME>
+                            </ORGANISATION>
+                            <ADDRESS>Borsigstraße 15</ADDRESS>
+                            <TOWN>Wiesbaden</TOWN>
+                            <POSTAL_CODE>65205</POSTAL_CODE>
+                            <COUNTRY VALUE="DE" />
+                        </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    </ECONOMIC_OPERATOR_NAME_ADDRESS>
+                    <CONTRACT_VALUE_INFORMATION>
+                        <INITIAL_ESTIMATED_TOTAL_VALUE_CONTRACT CURRENCY="EUR">
+                            <VALUE_COST FMTVAL="515000.00">515 000,00</VALUE_COST>
+                            <EXCLUDING_VAT />
+                        </INITIAL_ESTIMATED_TOTAL_VALUE_CONTRACT>
+                        <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="EUR">
+                            <VALUE_COST FMTVAL="448000.00">448 000,00</VALUE_COST>
+                            <EXCLUDING_VAT />
+                        </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+                    </CONTRACT_VALUE_INFORMATION>
+                    <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                        <NO_CONTRACT_LIKELY_SUB_CONTRACTED />
+                    </MORE_INFORMATION_TO_SUB_CONTRACTED>
+                </AWARD_OF_CONTRACT_DEFENCE>
+                <COMPLEMENTARY_INFORMATION_VEAT>
+                    <RELATES_TO_EU_PROJECT_NO />
+                    <PROCEDURES_FOR_APPEAL>
+                        <APPEAL_PROCEDURE_BODY_RESPONSIBLE>
+                            <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                                <ORGANISATION>
+                                    <OFFICIALNAME>Vergabekammer bei der Bezirksregierung Köln</OFFICIALNAME>
+                                </ORGANISATION>
+                                <ADDRESS>Zeughausstraße 2-10</ADDRESS>
+                                <TOWN>Köln</TOWN>
+                                <POSTAL_CODE>50667</POSTAL_CODE>
+                                <COUNTRY VALUE="DE" />
+                            </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                        </APPEAL_PROCEDURE_BODY_RESPONSIBLE>
+                        <LODGING_INFORMATION_FOR_SERVICE>
+                            <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                                <ORGANISATION>
+                                    <OFFICIALNAME>Vergabekammer bei der Bezirksregierung Köln</OFFICIALNAME>
+                                </ORGANISATION>
+                                <ADDRESS>Zeughausstraße 2-10</ADDRESS>
+                                <TOWN>Köln</TOWN>
+                                <POSTAL_CODE>50667</POSTAL_CODE>
+                                <COUNTRY VALUE="DE" />
+                            </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                        </LODGING_INFORMATION_FOR_SERVICE>
+                    </PROCEDURES_FOR_APPEAL>
+                    <NOTICE_DISPATCH_DATE>
+                        <DAY>24</DAY>
+                        <MONTH>07</MONTH>
+                        <YEAR>2018</YEAR>
+                    </NOTICE_DISPATCH_DATE>
+                </COMPLEMENTARY_INFORMATION_VEAT>
+            </FD_VOLUNTARY_EX_ANTE_TRANSPARENCY_NOTICE>
+        </VOLUNTARY_EX_ANTE_TRANSPARENCY_NOTICE>
+    </FORM_SECTION>
+</TED_EXPORT>

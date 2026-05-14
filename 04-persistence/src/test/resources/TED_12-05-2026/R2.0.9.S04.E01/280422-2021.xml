@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+    xmlns:n2021="http://publications.europa.eu/resource/schema/ted/2021/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+    VERSION="R2.0.9.S04.E01" DOC_ID="280422-2021" EDITION="2021107">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>21-285766-001</RECEPTION_ID>
+        <DELETION_DATE>20210908</DELETION_DATE>
+        <FORM_LG_LIST>EN </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="https://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>107</NO_OJ>
+            <DATE_PUB>20210604</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2021/S 107-280422</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="EN">https://ted.europa.eu/udl?uri=TED:NOTICE:280422-2021:TEXT:EN:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>EN</LG_ORIG>
+            <ISO_COUNTRY VALUE="NL" />
+            <IA_URL_GENERAL>http://www.tudelft.nl</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="38000000">Laboratory, optical and precision equipments (excl.
+                glasses)</ORIGINAL_CPV>
+            <n2021:PERFORMANCE_NUTS CODE="NL">Nederland</n2021:PERFORMANCE_NUTS>
+            <n2021:CA_CE_NUTS CODE="NL">Nederland</n2021:CA_CE_NUTS>
+            <n2021:TENDERER_NUTS CODE="FI">Suomi / Finland</n2021:TENDERER_NUTS>
+            <VALUES>
+                <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">380790.00</VALUE>
+            </VALUES>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20210531</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+            <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="L">Education</MA_MAIN_ACTIVITIES>
+            <HEADING>01B03</HEADING>
+            <INITIATOR>01</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Холандия</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Лабораторно, оптично и прецизно оборудване (без стъклени изделия)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Nizozemsko</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorní, optické a přesné přístroje a zařízení (mimo skel)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Nederlandene</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorieudstyr, optisk udstyr og præcisionsudstyr (ikke briller)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>die Niederlande</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Κάτω Χώρες</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Εξοπλισμός εργαστηριακός, οπτικός και ακριβείας (εκτός από γυαλιά)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Netherlands</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory, optical and precision equipments (excl. glasses)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Países Bajos</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipo de laboratorio, óptico y de precisión (excepto gafas)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Madalmaad</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboriseadmed, optika- ja täppisinstrumendid (v.a klaasid)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Alankomaat</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriolaitteet, optiset ja tarkkuuslaitteet (lukuun ottamatta
+                        silmälaseja)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Pays-Bas</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Équipements de laboratoire, d'optique et de précision (excepté les lunettes)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Ísiltír, an</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory, optical and precision equipments (excl. glasses)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Nizozemska</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijska, optička i precizna oprema (osim naočala)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Hollandia</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratóriumi, optikai és precíziós felszerelések (kivéve szemüvegek)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Paesi Bassi</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Attrezzature da laboratorio, ottiche e di precisione (escluso vetri)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Nyderlandai, Olandija</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Nīderlande</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijas, optiskās un precīzijas ierīces (izņemot brilles)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>in-Netherlands</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Tagħmir tal-laboratorju, ottiku u ta' preċiżjoni (minbarra nuċċalijiet)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Nederland</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd
+                        brillen)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Niderlandy</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Países Baixos</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipamento laboratorial, óptico e de precisão (exc. óculos)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Ţările de Jos</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Echipamente de laborator, optice şi de precizie (cu excepţia ochelarilor)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Holandsko</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratórne, optické a presné prístroje a vybavenie (s výnimkou skiel)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Nizozemska</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijska, optična in precizna oprema (razen očal)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Nederländerna</TI_CY>
+                <TI_TOWN>Delft</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorieutrustning, optisk utrustning och precisionsutrustning (exkl.
+                        glas)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="EN">Technische Universiteit Delft</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+            <LEGAL_BASIS VALUE="32014L0024" />
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Technische Universiteit Delft</OFFICIALNAME>
+                    <NATIONALID>102183628</NATIONALID>
+                    <ADDRESS>Stevinweg 1</ADDRESS>
+                    <TOWN>Delft</TOWN>
+                    <POSTAL_CODE>2628 CN</POSTAL_CODE>
+                    <COUNTRY VALUE="NL" />
+                    <CONTACT_POINT>Rick Veraar</CONTACT_POINT>
+                    <PHONE>+31 152788577</PHONE>
+                    <E_MAIL>D.A.Veraar@tudelft.nl</E_MAIL>
+                    <n2021:NUTS CODE="NL" />
+                    <URL_GENERAL>http://www.tudelft.nl</URL_GENERAL>
+                    <URL_BUYER>https://platform.negometrix.com/PublishedTenders.aspx?tenderid=178661</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="BODY_PUBLIC" />
+                <CA_ACTIVITY VALUE="EDUCATION" />
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>DILUTION Refrigerator System</P>
+                </TITLE>
+                <REFERENCE_NUMBER>2020-9918</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="38000000" />
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SUPPLIES" />
+                <SHORT_DESCR>
+                    <P>The Department Quantum Nanoscience of the Faculty TNW needs a closedcycle
+                        dilution refrigerator that allows for continuous, uninterrupted operation at
+                        base temperature for &gt;2 years, without the requirement for any liquid
+                        cryogenics (helium or nitrogen) and with ultra-low vibrations. This cryostat
+                        is a backup/replacement for an existing cryostat. The specifications are
+                        therefore required to be identical in order to guarantee an uninterrupted
+                        transfer between the cryostats. In order to continue and expand the current
+                        capabilities, detailed specifications are laid out, highlighting the need
+                        for an equal replacement cryostat to the existing two.</P>
+                    <P>It is not only crucial that their specifications are identical (cooling
+                        power, base temperature, hold time, etc.) but also that their components are
+                        fully interchangeable. It is therefore insurmountable to purchase another
+                        dilution refrigerator identical to the existing once.</P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="EUR">380790.00</VAL_TOTAL>
+                <NO_LOT_DIVISION />
+                <OBJECT_DESCR ITEM="1">
+                    <n2021:NUTS CODE="NL" />
+                    <SHORT_DESCR>
+                        <P>The Department Quantum Nanoscience of the Faculty TNW needs a closedcycle
+                            dilution refrigerator that allows for continuous, uninterrupted
+                            operation at base temperature for &gt;2 years, without the requirement
+                            for any liquid cryogenics (helium or nitrogen) and with ultra-low
+                            vibrations. This cryostat is a backup/replacement for an existing
+                            cryostat. The specifications are therefore required to be identical in
+                            order to guarantee an uninterrupted transfer between the cryostats. In
+                            order to continue and expand the current capabilities, detailed
+                            specifications are laid out, highlighting the need for an equal
+                            replacement cryostat to the existing two.</P>
+                        <P>It is not only crucial that their specifications are identical (cooling
+                            power, base temperature, hold time, etc.) but also that their components
+                            are fully interchangeable. It is therefore insurmountable to purchase
+                            another dilution refrigerator identical to the existing once.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Meet the requirements</AC_CRITERION>
+                            <AC_WEIGHTING>100</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>0</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <PT_AWARD_CONTRACT_WITHOUT_CALL>
+                    <D_ACCORDANCE_ARTICLE>
+                        <D_TECHNICAL />
+                    </D_ACCORDANCE_ARTICLE>
+                    <D_JUSTIFICATION>
+                        <P>The Department Quantum Nanoscience of the Faculty TNW would needs a
+                            closedcycle dilution refrigerator that allows for continuous,
+                            uninterrupted operation at base temperature for &gt;2 years, without the
+                            requirement for any liquid cryogenics (helium or nitrogen) and with
+                            ultra-low vibrations. This cryostat is a backup / replacement for an
+                            existing cryostat.</P>
+                        <P>After internal consultation en research, the faculty has identified the
+                            Bluefors type LD-250 as the only instrument that features all of the
+                            requirements. It is required to purchase a dilution refrigerator that is
+                            identical to the first two that were purchased from Bluefors in 2016
+                            (consultation showd Bluefors to be the sole instrument to meet the
+                            requirements) and 2018, as they will be used in the same experiment and
+                            setup. This new cryostat is a backup/replacement for an existing
+                            Bluefors LD-250 cryostat, which is slowly coming to the end of its life
+                            cycle. The specifications are therefore required to be identical in
+                            order to guarantee an uninterrupted transfer between the cryostats. In
+                            order to continue and expand the current capabilities, detailed
+                            specifications are laid out, highlighting the need for an equal
+                            replacement cryostat to the existing two.</P>
+                        <P>It is not only crucial that their specifications are identical (cooling
+                            power, base temperature, hold time, etc.) but also that their components
+                            are fully interchangeable. It is therefore insurmountable to purchase
+                            another Bluefors dilution refrigerator identical to the existing once.</P>
+                    </D_JUSTIFICATION>
+                </PT_AWARD_CONTRACT_WITHOUT_CALL>
+                <CONTRACT_COVERED_GPA />
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2021-05-03</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bluefors Oy</OFFICIALNAME>
+                                <ADDRESS>Arinatie 10</ADDRESS>
+                                <TOWN>Helsinki</TOWN>
+                                <POSTAL_CODE>00370</POSTAL_CODE>
+                                <COUNTRY VALUE="FI" />
+                                <n2021:NUTS CODE="FI" />
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_TOTAL CURRENCY="EUR">380790.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Rechtbank Den Haag</OFFICIALNAME>
+                    <TOWN>Den Haag</TOWN>
+                    <COUNTRY VALUE="NL" />
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2021-05-31</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F03_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

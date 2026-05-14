@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+    xmlns:n2021="http://publications.europa.eu/resource/schema/ted/2021/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+    VERSION="R2.0.9.S05.E01" DOC_ID="669903-2021" EDITION="2021252">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>21-693024-001</RECEPTION_ID>
+        <DELETION_DATE>20220402</DELETION_DATE>
+        <FORM_LG_LIST>DE </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="https://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>252</NO_OJ>
+            <DATE_PUB>20211228</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2021/S 252-669903</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="DE">https://ted.europa.eu/udl?uri=TED:NOTICE:669903-2021:TEXT:DE:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>DE</LG_ORIG>
+            <ISO_COUNTRY VALUE="DE" />
+            <IA_URL_GENERAL>www.physik.uni-muenchen.de</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="38300000">Measuring instruments</ORIGINAL_CPV>
+            <n2021:PERFORMANCE_NUTS CODE="DE212">München, Kreisfreie Stadt</n2021:PERFORMANCE_NUTS>
+            <n2021:CA_CE_NUTS CODE="DE212">München, Kreisfreie Stadt</n2021:CA_CE_NUTS>
+            <n2021:TENDERER_NUTS CODE="DE212">München, Kreisfreie Stadt</n2021:TENDERER_NUTS>
+            <VALUES>
+                <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">359300.00</VALUE>
+            </VALUES>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20211223</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+            <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="L">Education</MA_MAIN_ACTIVITIES>
+            <HEADING>01B03</HEADING>
+            <INITIATOR>01</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Гepмaния</TI_CY>
+                <TI_TOWN>Мюнхен</TI_TOWN>
+                <TI_TEXT>
+                    <P>Измервателни инструменти</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Německo</TI_CY>
+                <TI_TOWN>Mnichov</TI_TOWN>
+                <TI_TEXT>
+                    <P>Měřicí přístroje</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Tyskland</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>
+                    <P>Måleudstyr</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Deutschland</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>
+                    <P>Messinstrumente</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Γερμανία</TI_CY>
+                <TI_TOWN>Μόναχο</TI_TOWN>
+                <TI_TEXT>
+                    <P>Όργανα μετρήσεων</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Germany</TI_CY>
+                <TI_TOWN>Munich</TI_TOWN>
+                <TI_TEXT>
+                    <P>Measuring instruments</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Alemania</TI_CY>
+                <TI_TOWN>Múnich</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumentos de medición</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Saksamaa</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>
+                    <P>Mõõteriistad</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Saksa</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>
+                    <P>Mittalaitteet</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Allemagne</TI_CY>
+                <TI_TOWN>Munich</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instruments de mesure</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Ghearmáin, an</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>
+                    <P>Measuring instruments</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Njemačka</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>
+                    <P>Mjerni instrumenti</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Németország</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>
+                    <P>Mérőeszközök</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Germania</TI_CY>
+                <TI_TOWN>Monaco di Baviera</TI_TOWN>
+                <TI_TEXT>
+                    <P>Strumenti di misurazione</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Vokietija, VFR</TI_CY>
+                <TI_TOWN>Miunchenas</TI_TOWN>
+                <TI_TEXT>
+                    <P>Matuokliai</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Vācija</TI_CY>
+                <TI_TOWN>Minhene</TI_TOWN>
+                <TI_TEXT>
+                    <P>Mērinstrumenti</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>il-Ġermanja</TI_CY>
+                <TI_TOWN>Munich</TI_TOWN>
+                <TI_TEXT>
+                    <P>Strumenti tal-kejl</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Duitsland</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumenten voor metingen</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Niemcy</TI_CY>
+                <TI_TOWN>Monachium</TI_TOWN>
+                <TI_TEXT>
+                    <P>Przyrządy do pomiaru</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Alemanha</TI_CY>
+                <TI_TOWN>Munique</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumentos de medição</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Germania</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumente de măsurare</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Nemecko</TI_CY>
+                <TI_TOWN>Mníchov</TI_TOWN>
+                <TI_TEXT>
+                    <P>Meracie prístroje</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Nemčija</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>
+                    <P>Merilni instrumenti</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Tyskland</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>
+                    <P>Mätutrustning</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="DE">LMU München, Fakultät für Physik</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="DE">
+            <LEGAL_BASIS VALUE="32014L0024" />
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>LMU München, Fakultät für Physik</OFFICIALNAME>
+                    <ADDRESS>Geschwister-Scholl-Platz 1</ADDRESS>
+                    <TOWN>München</TOWN>
+                    <POSTAL_CODE>80539</POSTAL_CODE>
+                    <COUNTRY VALUE="DE" />
+                    <CONTACT_POINT>Lehrstuhl Prof. Efetov</CONTACT_POINT>
+                    <E_MAIL>bert.lorenz@physik.uni-muenchen.de</E_MAIL>
+                    <n2021:NUTS CODE="DE212" />
+                    <URL_GENERAL>www.physik.uni-muenchen.de</URL_GENERAL>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="BODY_PUBLIC" />
+                <CA_ACTIVITY VALUE="EDUCATION" />
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Lieferung eines Tieftemperaturkryostaten für elektronische Transportmessungen</P>
+                </TITLE>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="38300000" />
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SUPPLIES" />
+                <SHORT_DESCR>
+                    <P>Lieferung eines Tieftemperaturkryostaten mit schneller Bearbeitungszeit für
+                        elektronische Transportmessungen, im Besonderen zur Charakterisierung von
+                        Supraleitenden Eigenschaften von „Magic angle bilayer graphene“.</P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="EUR">359300.00</VAL_TOTAL>
+                <NO_LOT_DIVISION />
+                <OBJECT_DESCR ITEM="1">
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38300000" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="DE212" />
+                    <MAIN_SITE>
+                        <P>LMU München</P>
+                        <P>Fakultät für Physik </P>
+                        <P>Lehrstuhl Prof. Efetov</P>
+                        <P>Geschwister-Scholl-Platz 1</P>
+                        <P>80539 München</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Tieftemperaturkryostate sind unverzichtbare Geräte, um Materialproben
+                            nahe dem absoluten Nullpunkt abzukühlen, wo ihre Quanteneigenschaften
+                            beobachtbar werden. Diese Geräte erwiesen sich als entscheidend für die
+                            Untersuchung supraleitender Materialien, bei denen die supraleitenden
+                            Eigenschaften oft nur bei Temperaturen unterhalb von 1 K oder sogar 100
+                            mK auftreten. Um die supraleitenden Eigenschaften zu untersuchen, sind
+                            solche Kryostate mit modernsten gefilterten elektronischen Leitungen
+                            ausgestattet, die es ermöglichen, den widerstandsfreien Zustand eines
+                            supraleitenden Zustands zu messen. Im Rahmen des ERC Starting Grant
+                            SuperTwist wird der Lehrstuhl Efetov eine Vielzahl neuartiger
+                            Moiré-Materialien herstellen und diese auf ihre supraleitenden
+                            Eigenschaften bis zu Temperaturen von 100 mK untersuchen.</P>
+                        <P>In diesem Zusammenhang werden wir einen Tieftemperatur-Kryostat kaufen,
+                            der das Abkühlen von nanoskaligen Bauelementen auf Temperaturen von 100
+                            mK und deren sofortige elektronische Transportmessungen ermöglicht. Hier
+                            ist es unbedingt erforderlich, dass der Kryostat über einen
+                            ultraschnellen Lademechanismus der Proben verfügt, der es ermöglicht,
+                            die Probe in wenigen Stunden zu laden, abzukühlen und wieder
+                            aufzuwärmen. Dies ist entscheidend, da wir viele Proben herstellen
+                            werden und eine sehr schnelle Rückkopplungsschleife benötigen, um diese
+                            für ein positives Ergebnis zu charakterisieren – zu testen ob die
+                            hergestellten Proben also tatsächlich supraleitend sind. Zudem ist es
+                            extrem wichtig, dass man die Temperatur kontinuierlich von 100 mK bis
+                            300 K kontrollieren kann, da hochauflösende Temperaturkurven aufgenommen
+                            werden, die Aufschluss über den Mechanismus der Supraleitung
+                            ermöglichen.</P>
+                        <P>Die Anforderungen an den Tieftemperaturkryostaten sind:</P>
+                        <P>• A1. Abkühlzeit und Probenwechselzeit </P>
+                        <P>Die Proben sollen in weniger als 10 Minuten einzuschleusen und in weniger
+                            als 3 Stunden ohne Thermalisierung bei Zwischentemperaturen von 300 K
+                            auf 100 mK abzukühlen sein. Das Einbringen des Probenträgers soll
+                            weitestgehend automatisch durch einen Software-gesteuerten
+                            Lademechanismus erfolgen und deshalb weder das Abschalten oder die
+                            Demontage des Bauelements noch besondere Fachkenntnis erfordern. Der
+                            Probenträger soll nach Beendigung des Experiments durch einen
+                            automatisierten Lade- und Entlademechanismus auch im kalten Zustand
+                            extrahiert werden können, sodass das Gerät schon nach weniger als 10
+                            Minuten für das nächste Experiment zur Verfügung steh, um so Messreihen
+                            mit außergewöhnlich hohem Durchsatz zu realisieren. Dabei soll die
+                            komplette Installations-, Abkühl- und Extraktionszeit pro Versuch in
+                            Summe weniger als 4 Stunden betragen. </P>
+                        <P>• A2. Minimaltemperatur und zugänglicher Temperaturbereich </P>
+                        <P>Tieftemperaturmessungen sollen im Bereich zwischen 100 mK und 300 K
+                            kontinuierlich geregelt und werden können. </P>
+                        <P>• A3. Probenträger-System </P>
+                        <P>Der Aufbau eines Experiments oder einer Materialprobe soll außerhalb des
+                            Kryostaten erfolgen. </P>
+                        <P>• A4. Probenmagnet </P>
+                        <P>Das System soll mit einem supraleitenden Probenmagneten ausgerüstet
+                            werden, der ein Feld von mindestens 5 T am Probenort erzeugt. Der
+                            Probenmagnet soll über den gesamten spezifizierten Temperaturbereich
+                            betrieben werden können. </P>
+                        <P>• A5. Systemgröße und Ergonomie </P>
+                        <P>Das System soll auch in Räumen mit geringer Deckenhöhe (&lt; 2,30 m)
+                            genutzt werden können. </P>
+                        <P>• A6. Kryogenfreies Kühlsystem </P>
+                        <P>Da die geringe Verfügbarkeit von Helium-4 und insbesondere von Helium-3
+                            in letzter Zeit zu einem starken Anstieg der Betriebs- und
+                            Anschaffungskosten von Tieftemperatur-Kryogenausrüstungen geführt hat,
+                            soll das System ein kryogenfreies Kühlsystem enthalten.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Abkühl- und Probenwechselzeit</AC_CRITERION>
+                            <AC_WEIGHTING>0.2</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>zugänglicher Temperaturbereich</AC_CRITERION>
+                            <AC_WEIGHTING>0.2</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Systemgröße</AC_CRITERION>
+                            <AC_WEIGHTING>0.1</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Kryogenfreies Kühlsystem</AC_CRITERION>
+                            <AC_WEIGHTING>0.2</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>0.3</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>ERC StG SuperTwist GA 852927 </P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <PT_AWARD_CONTRACT_WITHOUT_CALL>
+                    <D_ACCORDANCE_ARTICLE>
+                        <D_PROTECT_RIGHTS />
+                    </D_ACCORDANCE_ARTICLE>
+                    <D_JUSTIFICATION>
+                        <P>Auf mehrere Schlüsseltechnologien des Tieftemperaturkryostaten besitzt
+                            kiutra GmbH mehrere nicht-lizensierte Patente (IPR: EP3163222A1,
+                            EP3632560A1, WO2021008679A1), die nur zusammengenommen die
+                            erforderlichen Leistungen ermöglichen. Für diese IPR gibt es aus der
+                            Sicht des Auftraggebers keinerlei Alternativen oder Ersatzlösungen, die
+                            in diesem hochtechnologischen Bereich gleich leistungsfähige Verfahren
+                            kommerziell anbieten würden. </P>
+                        <P>Die kiutra GmbH hält das Eigentum an den o.g. IPRs und ist alleinig in
+                            der Lage, die geforderte technische Leistung auf der Basis dieser zu
+                            erbringen. Bis zum Zeitpunkt der Auftragsvergabe wurden keinerlei
+                            Verwertungsrechte oder Lizenzen nach außen z.B. an andere Unternehmen
+                            vergeben, auf die zurückgegriffen werden könnte. Ein Erwerb der Lizenzen
+                            bzw. der Rechte durch Dritte ist bis zur geplanten Vergabe
+                            ausgeschlossen. (Quelle: Bestätigung bzgl. Patent EP3163222A1,
+                            EP3632560A1, WO2021008679A1, Schreiben vom 20.12.2021).</P>
+                    </D_JUSTIFICATION>
+                </PT_AWARD_CONTRACT_WITHOUT_CALL>
+                <NO_CONTRACT_COVERED_GPA />
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <TITLE>
+                    <P>Lieferung eines Tieftemperaturkryostaten</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>kiutra GmbH</OFFICIALNAME>
+                                <TOWN>München</TOWN>
+                                <POSTAL_CODE>81379</POSTAL_CODE>
+                                <COUNTRY VALUE="DE" />
+                                <n2021:NUTS CODE="DE212" />
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_TOTAL CURRENCY="EUR">359300.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Vergabekammer Südbayern</OFFICIALNAME>
+                    <ADDRESS>Maximiliansstr. 39</ADDRESS>
+                    <TOWN>München</TOWN>
+                    <POSTAL_CODE>80538</POSTAL_CODE>
+                    <COUNTRY VALUE="DE" />
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2021-12-23</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F03_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

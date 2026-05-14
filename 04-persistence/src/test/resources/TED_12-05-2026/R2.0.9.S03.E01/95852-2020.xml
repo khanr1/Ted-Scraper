@@ -1,0 +1,2974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+    xmlns:n2016="http://publications.europa.eu/resource/schema/ted/2016/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+    VERSION="R2.0.9.S03.E01" DOC_ID="095852-2020" EDITION="2020040">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>20-097245-001</RECEPTION_ID>
+        <DELETION_DATE>20200603</DELETION_DATE>
+        <FORM_LG_LIST>EN </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>40</NO_OJ>
+            <DATE_PUB>20200226</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2020/S 040-095852</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:095852-2020:TEXT:EN:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>EN</LG_ORIG>
+            <ISO_COUNTRY VALUE="UK" />
+            <IA_URL_GENERAL>www.nwupc.ac.uk</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="38000000">Laboratory, optical and precision equipments (excl.
+                glasses)</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="38433000">Spectrometers</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="38511000">Electron microscopes</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="38511100">Scanning electron microscopes</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="33113000">Magnetic resonance imaging equipment</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="33114000">Spectroscopy devices</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="38510000">Microscopes</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="42300000">Industrial or laboratory furnaces, incinerators and ovens</ORIGINAL_CPV>
+            <n2016:PERFORMANCE_NUTS CODE="UK">UNITED KINGDOM</n2016:PERFORMANCE_NUTS>
+            <n2016:CA_CE_NUTS CODE="UK">UNITED KINGDOM</n2016:CA_CE_NUTS>
+            <n2016:TENDERER_NUTS CODE="UK">UNITED KINGDOM</n2016:TENDERER_NUTS>
+            <VALUES>
+                <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">193181123.78</VALUE>
+            </VALUES>
+            <REF_NOTICE>
+                <NO_DOC_OJS>2019/S 169-412877</NO_DOC_OJS>
+            </REF_NOTICE>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20200224</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="8">Other</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="1">Open procedure</PR_PROC>
+            <RP_REGULATION CODE="Z">Not specified</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="L">Education</MA_MAIN_ACTIVITIES>
+            <HEADING>08B03</HEADING>
+            <INITIATOR>08</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Обединено кралство</TI_CY>
+                <TI_TOWN>Манчестър</TI_TOWN>
+                <TI_TEXT>
+                    <P>Лабораторно, оптично и прецизно оборудване (без стъклени изделия)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Spojené království/Velká Británie</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorní, optické a přesné přístroje a zařízení (mimo skel)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Forenede Kongerige, Det</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorieudstyr, optisk udstyr og præcisionsudstyr (ikke briller)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>das Vereinigte Königreich</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Ηνωμένο Βασίλειο</TI_CY>
+                <TI_TOWN>Μάντσεστερ</TI_TOWN>
+                <TI_TEXT>
+                    <P>Εξοπλισμός εργαστηριακός, οπτικός και ακριβείας (εκτός από γυαλιά)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>United Kingdom</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory, optical and precision equipments (excl. glasses)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Reino Unido</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipo de laboratorio, óptico y de precisión (excepto gafas)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Suurbritannia / Ühendkuningriik</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboriseadmed, optika- ja täppisinstrumendid (v.a klaasid)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Yhdistynyt kuningaskunta</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriolaitteet, optiset ja tarkkuuslaitteet (lukuun ottamatta
+                        silmälaseja)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Royaume-Uni</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Équipements de laboratoire, d'optique et de précision (excepté les lunettes)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Ríocht Aontaithe, an</TI_CY>
+                <TI_TOWN>Manchain</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory, optical and precision equipments (excl. glasses)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Ujedinjena Kraljevina</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijska, optička i precizna oprema (osim naočala)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Egyesült Királyság</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratóriumi, optikai és precíziós felszerelések (kivéve szemüvegek)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Regno Unito</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Attrezzature da laboratorio, ottiche e di precisione (escluso vetri)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Jungtinė Karalystė, Didžioji Britanija</TI_CY>
+                <TI_TOWN>Mančesteris</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Apvienotā Karaliste</TI_CY>
+                <TI_TOWN>Mančestera</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijas, optiskās un precīzijas ierīces (izņemot brilles)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>Ir-Renju Unit</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Tagħmir tal-laboratorju, ottiku u ta' preċiżjoni (minbarra nuċċalijiet)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Verenigd Koninkrijk</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd
+                        brillen)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Zjednoczone Królestwo</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Reino Unido</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipamento laboratorial, óptico e de precisão (exc. óculos)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Regatul Unit</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Echipamente de laborator, optice şi de precizie (cu excepţia ochelarilor)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Spojené kráľovstvo</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratórne, optické a presné prístroje a vybavenie (s výnimkou skiel)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Združeno kraljestvo</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijska, optična in precizna oprema (razen očal)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Förenade kungariket</TI_CY>
+                <TI_TOWN>Manchester</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorieutrustning, optisk utrustning och precisionsutrustning (exkl.
+                        glas)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="EN">NWUPC Ltd</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+            <LEGAL_BASIS VALUE="32014L0024" />
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>NWUPC Ltd</OFFICIALNAME>
+                    <ADDRESS>Albert House, 17 Bloom Street</ADDRESS>
+                    <TOWN>Manchester</TOWN>
+                    <POSTAL_CODE>M1 3HZ</POSTAL_CODE>
+                    <COUNTRY VALUE="UK" />
+                    <CONTACT_POINT>David Canham</CONTACT_POINT>
+                    <PHONE>+44 1612348013</PHONE>
+                    <E_MAIL>david.canham@manchester.ac.uk</E_MAIL>
+                    <n2016:NUTS CODE="UK" />
+                    <URL_GENERAL>www.nwupc.ac.uk</URL_GENERAL>
+                    <URL_BUYER>www.nwupc.ac.uk</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE_OTHER>Sub-central contracting authority</CA_TYPE_OTHER>
+                <CA_ACTIVITY VALUE="EDUCATION" />
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>High Value Laboratory Equipment (HVLE) and Associated Products and Services</P>
+                </TITLE>
+                <REFERENCE_NUMBER>LAB3123 NW</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="38000000" />
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SUPPLIES" />
+                <SHORT_DESCR>
+                    <P>The NWUPC is seeking to establish a multi-provider framework agreement on
+                        behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for the
+                        supply and installation of high value laboratory equipment. This framework
+                        agreement will commence on 1.8.2019 for an initial period of 24 months until
+                        31.7.2021 with the option to extend the agreement for 12 months until
+                        31.7.2022 and a further 12 months until 31.7.2023 subject to satisfactory
+                        economic operator performance. The framework agreement will be split into 23
+                        lots for members:</P>
+                    <P>NWUPC https://www.nwupc.ac.uk/ourmembers</P>
+                    <P>APUC https://www.apuc-scot.ac.uk/#!/members</P>
+                    <P>HEPCW http://www.hepcw.ac.uk/about-us2/</P>
+                    <P>LUPC https://www.lupc.ac.uk/member-list</P>
+                    <P>NEUPC https://www.neupc.ac.uk/our-members</P>
+                    <P>SUPC https://www.supc.ac.uk/about-us/our-members/our-members</P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="EUR">193181123.78</VAL_TOTAL>
+                <LOT_DIVISION />
+                <OBJECT_DESCR ITEM="1">
+                    <TITLE>
+                        <P>Lot 1: Sequencers</P>
+                    </TITLE>
+                    <LOT_NO>1</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider framework agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the supply and installation of high value laboratory equipment. Economic
+                            operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any tender and reserves the right not to
+                            conclude a framework agreement for high value laboratory equipment for
+                            which tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a tender are to be borne by the economic operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            economic operators. This framework agreement will commence on 1.8.2019
+                            for an initial period of 24 months until 31.7.2021 with the option to
+                            extend the agreement for 12 months until 31.7.2022 and a further 12
+                            months until 31.7.2023 subject to satisfactory economic operator
+                            performance. Lot 1: Sequencers.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="2">
+                    <TITLE>
+                        <P>Lot 2: NMR Spectrometers</P>
+                    </TITLE>
+                    <LOT_NO>2</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38433000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 2: NMR Spectrometers</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="3">
+                    <TITLE>
+                        <P>Lot 3: Transmission Electron Microscopes (TEMs)</P>
+                    </TITLE>
+                    <LOT_NO>3</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38511000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 3: Transmission Electron Microscopes (TEMs)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="4">
+                    <TITLE>
+                        <P>Lot 4: Micro-array Equipment</P>
+                    </TITLE>
+                    <LOT_NO>4</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 4: Micro-array Equipment)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="5">
+                    <TITLE>
+                        <P>Lot 5: Scanning Electron Microscopes (SEMs)</P>
+                    </TITLE>
+                    <LOT_NO>5</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38511100" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 5: Scanning Electron Microscopes (SEMs)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="6">
+                    <TITLE>
+                        <P>Lot 6 - MRI Scanners for Clinical Use</P>
+                    </TITLE>
+                    <LOT_NO>6</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33113000" />
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 6 - MRI Scanners for Clinical Use</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="7">
+                    <TITLE>
+                        <P>Lot 7: Diffraction Apparatus</P>
+                    </TITLE>
+                    <LOT_NO>7</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 7: Diffraction Apparatus</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="8">
+                    <TITLE>
+                        <P>Lot 8: MRI Scanners for Research Use</P>
+                    </TITLE>
+                    <LOT_NO>8</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33113000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 8: MRI Scanners for Research Use</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="9">
+                    <TITLE>
+                        <P>Lot 9: Molecular Spectrophotometers</P>
+                    </TITLE>
+                    <LOT_NO>9</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 9: Molecular Spectrophotometers</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="10">
+                    <TITLE>
+                        <P>Lot 10: Polycrystalline &amp; single crystal X-Ray analysis equipment</P>
+                    </TITLE>
+                    <LOT_NO>10</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 10: Polycrystalline &amp; single crystal X-Ray analysis
+                            equipment</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="11">
+                    <TITLE>
+                        <P>Lot 11: Image based High Content Screening and Analysis Equipment</P>
+                    </TITLE>
+                    <LOT_NO>11</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 11: Image based High Content Screening and Analysis
+                            Equipment</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="12">
+                    <TITLE>
+                        <P>Lot 12: Atomic Spectrophotometers</P>
+                    </TITLE>
+                    <LOT_NO>12</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33114000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 12: Atomic Spectrophotometers</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="13">
+                    <TITLE>
+                        <P>Lot 13: Real Time Polymerase Chain Reaction (RT-PCR) and (QPCR)</P>
+                    </TITLE>
+                    <LOT_NO>13</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 13: Real Time Polymerase Chain Reaction (RT-PCR) and
+                            (QPCR)</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="14">
+                    <TITLE>
+                        <P>Lot 14: Raman Microscopes</P>
+                    </TITLE>
+                    <LOT_NO>14</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38510000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 14: Raman Microscopes</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="15">
+                    <TITLE>
+                        <P>Lot 15: X-Ray Microscopes</P>
+                    </TITLE>
+                    <LOT_NO>15</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38510000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance.Lot 15: X-Ray Microscopes</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="16">
+                    <TITLE>
+                        <P>Lot 16: X-Ray elemental analysis equipment</P>
+                    </TITLE>
+                    <LOT_NO>16</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 16: X-Ray elemental analysis equipment</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="17">
+                    <TITLE>
+                        <P>Lot 17: Raman Spectrophotometers</P>
+                    </TITLE>
+                    <LOT_NO>17</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 17: Raman Spectrophotometers</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="18">
+                    <TITLE>
+                        <P>Lot 18: Focused Ion Beam Microscopes</P>
+                    </TITLE>
+                    <LOT_NO>18</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38510000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 18: Focused Ion Beam Microscopes</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="19">
+                    <TITLE>
+                        <P>Lot 19: MRI Scanners for Veterinary Use</P>
+                    </TITLE>
+                    <LOT_NO>19</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33113000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 19: MRI Scanners for Veterinary Use</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="20">
+                    <TITLE>
+                        <P>Lot 20: Scanning Probe Microscopes</P>
+                    </TITLE>
+                    <LOT_NO>20</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38510000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 20: Scanning Probe Microscopes</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="21">
+                    <TITLE>
+                        <P>Lot 21: Sintering Furnaces</P>
+                    </TITLE>
+                    <LOT_NO>21</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="42300000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 21: Sintering Furnaces</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="22">
+                    <TITLE>
+                        <P>Lot 22: Dilution Refrigerators</P>
+                    </TITLE>
+                    <LOT_NO>22</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 22: Dilution Refrigerators</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="23">
+                    <TITLE>
+                        <P>Lot 23: EPR (ESR) Spectrometers</P>
+                    </TITLE>
+                    <LOT_NO>23</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38433000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="UK" />
+                    <SHORT_DESCR>
+                        <P>The NWUPC is seeking to establish a multi-provider Framework Agreement on
+                            behalf of the members of NWUPC, APUC, HEPCW, LUPC, NEUPC and SUPC for
+                            the Supply and Installation of High Value Laboratory Equipment. Economic
+                            Operators shall accept and acknowledge that by issuing this ITT NWUPC
+                            shall not be bound to accept any Tender and reserves the right not to
+                            conclude a Framework Agreement for High Value Laboratory Equipment for
+                            which Tenders are invited nor does it constitute an offer to enter into
+                            a contractual relationship. All costs incurred in relation to preparing
+                            and submitting a Tender are to be borne by the Economic Operator. NWUPC
+                            shall not accept liability for any associated costs sustained by
+                            Economic Operators. This Framework Agreement will commence on 01/08/2019
+                            for an initial period of 24 months until 31/07/2021 with the option to
+                            extend the Agreement for 12 months until 31/07/2022 and a further 12
+                            months until 31/07/2023 subject to satisfactory Economic Operator
+                            performance. Lot 23: EPR (ESR) Spectrometers</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Customer Requirements</AC_CRITERION>
+                            <AC_WEIGHTING>55</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>45</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <EU_PROGR_RELATED>
+                        <P>This project may be used for ERDF-funded projects.</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <PT_OPEN />
+                <FRAMEWORK />
+                <CONTRACT_COVERED_GPA />
+                <NOTICE_NUMBER_OJ>2019/S 169-412877</NOTICE_NUMBER_OJ>
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>1</LOT_NO>
+                <TITLE>
+                    <P>Lot 1: Sequencers</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-11-11</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>4</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Agilent Technologies LDA UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Lakeside, Cheadle Royal Business Park, Cheadle</ADDRESS>
+                                <TOWN>Stockport</TOWN>
+                                <POSTAL_CODE>SK8 3GR</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7900135538</PHONE>
+                                <E_MAIL>jake.brown@agilent.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.agilent.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Becton Dickinson UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Building 1030 Eskdale Road, Winnersh Triangle</ADDRESS>
+                                <TOWN>Wokingham</TOWN>
+                                <POSTAL_CODE>RG41 4TS</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 8009178776</PHONE>
+                                <E_MAIL>faraia.shah@bd.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>www.bd.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">77173313.82</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">77173313.82</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="2">
+                <CONTRACT_NO>AB3123 NW</CONTRACT_NO>
+                <LOT_NO>2</LOT_NO>
+                <TITLE>
+                    <P>Lot 2: NMR Spectrometers</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-11</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>2</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bruker UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Banner Lane</ADDRESS>
+                                <TOWN>Coventry</TOWN>
+                                <POSTAL_CODE>CV4 9GH</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 2476855232</PHONE>
+                                <E_MAIL>Andrew.Gibbs@bruker.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.bruker.com/uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">42438626.21</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">42438626.21</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="3">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>3</LOT_NO>
+                <TITLE>
+                    <P>Lot 3 - Transmission Electron Microscopes (TEMs)</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-09-26</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>11</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>11</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>FEI UK Limited</OFFICIALNAME>
+                                <ADDRESS>c/o Taylor Vinters LLP, Merlin Place, Milton Road</ADDRESS>
+                                <TOWN>Cambridge</TOWN>
+                                <POSTAL_CODE>CB4 0DP</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 2079490374</PHONE>
+                                <E_MAIL>robbie.oconnell@thermofisher.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.fei.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Hitachi High-Technologies Europe GmbH</OFFICIALNAME>
+                                <ADDRESS>Whitebrook Park, Lower Cookham Road</ADDRESS>
+                                <TOWN>Maidenhead</TOWN>
+                                <POSTAL_CODE>SL6 8YA</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1628585426</PHONE>
+                                <E_MAIL>steve.wilson.sw@hitachi-hightech.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.hht-eu.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>HORIBA UK Limited</OFFICIALNAME>
+                                <ADDRESS>2 Dalston Gardens</ADDRESS>
+                                <TOWN>Stanmore</TOWN>
+                                <POSTAL_CODE>HA7 1BQ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7831717576</PHONE>
+                                <E_MAIL>david.sheppard@horiba.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.horiba.com/uk/scientific</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>JEOL (UK) Ltd</OFFICIALNAME>
+                                <ADDRESS>Jeol House, 1-2 Silver Court, Watchmead</ADDRESS>
+                                <TOWN>WELWYN GARDEN CITY</TOWN>
+                                <POSTAL_CODE>AL7 1LT</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1707377117</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.jeoluk.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Lambda Photometrics Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit 1, Lambda House, Batford Mill, Lower Luton Road</ADDRESS>
+                                <TOWN>Harpenden</TOWN>
+                                <POSTAL_CODE>AL5 5BZ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1582764334</PHONE>
+                                <E_MAIL>graeme.gibbons@lambdaphoto.co.uk</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://www.lambdaphoto.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Moorfield Nanotechnology Limited</OFFICIALNAME>
+                                <ADDRESS>112-114 Witton Street</ADDRESS>
+                                <TOWN>Northwich</TOWN>
+                                <POSTAL_CODE>CW9 5NW</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1565722609</PHONE>
+                                <E_MAIL>sales@moorfield.co.uk</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://moorfield.co.uk/</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Tescan UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit 2, Wellbrook Court, Girton</ADDRESS>
+                                <TOWN>Cambridge</TOWN>
+                                <POSTAL_CODE>CB3 0NA</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7958626569</PHONE>
+                                <E_MAIL>paul.wood@tescan-uk.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://tescan-uk.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">15185030.40</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">15185030.40</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="4">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>4</LOT_NO>
+                <TITLE>
+                    <P>Lot 4 - Micro-Array Equipment</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-11-11</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>4</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Agilent Technologies LDA UK Limited</OFFICIALNAME>
+                                <ADDRESS>Lakeside, Cheadle Royal Business Park, Cheadle</ADDRESS>
+                                <TOWN>Stockport</TOWN>
+                                <POSTAL_CODE>SK8 3GR</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7900135538</PHONE>
+                                <E_MAIL>jake.brown@agilent.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.agilent.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">11289608.22</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">11289608.22</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="5">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>5</LOT_NO>
+                <TITLE>
+                    <P>Lot 5: Scanning Electron Microscopes (SEMs)</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>12</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>12</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Carl Zeiss Ltd</OFFICIALNAME>
+                                <ADDRESS>511 Coldhams Lane, Cambridge</ADDRESS>
+                                <TOWN>Cambridge</TOWN>
+                                <POSTAL_CODE>CB1 3JS</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1223401556</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>FEI UK Limited</OFFICIALNAME>
+                                <ADDRESS>c/o Taylor Vinters LLP, Merlin Place, Milton Road</ADDRESS>
+                                <TOWN>Cambridge</TOWN>
+                                <POSTAL_CODE>CB4 0DP</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 2079490374</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.fei.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Hitachi High-Technologies Europe GmbH</OFFICIALNAME>
+                                <ADDRESS>Whitebrook Park, Lower Cookham Road, Maidenhead, Berkshire</ADDRESS>
+                                <TOWN>Maidenhead</TOWN>
+                                <POSTAL_CODE>SL6 8YA</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1628585426</PHONE>
+                                <E_MAIL>steve.wilson.sw@hitachi-hightech.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.hht-eu.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>HORIBA UK Limited</OFFICIALNAME>
+                                <ADDRESS>2 Dalston Gardens, Stanmore, Middlesex</ADDRESS>
+                                <TOWN>Stanmore</TOWN>
+                                <POSTAL_CODE>HA7 1BQ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7831717576</PHONE>
+                                <E_MAIL>david.sheppard@horiba.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.horiba.com/uk/scientific</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>JEOL (UK) Ltd</OFFICIALNAME>
+                                <ADDRESS>Jeol House, 1-2 Silver Court, Watchmead</ADDRESS>
+                                <TOWN>WELWYN GARDEN CITY</TOWN>
+                                <POSTAL_CODE>AL7 1LT</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1707377117</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.jeoluk.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Lambda Photometrics Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit 1, Lambda House, Batford Mill, Lower Luton Road</ADDRESS>
+                                <TOWN>Harpenden</TOWN>
+                                <POSTAL_CODE>AL5 5BZ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1582764334</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://www.lambdaphoto.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Moorfield Nanotechnology Limited</OFFICIALNAME>
+                                <ADDRESS>112-114 Witton Street</ADDRESS>
+                                <TOWN>Northwhich</TOWN>
+                                <POSTAL_CODE>CW9 5NW</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1565722609</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://moorfield.co.uk/</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Tescan UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit 2, Wellbrook Court, Girton</ADDRESS>
+                                <TOWN>Cambridge</TOWN>
+                                <POSTAL_CODE>CB3 0NA</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1223276262</PHONE>
+                                <E_MAIL>paul.wood@tescan-uk.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://tescan-uk.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9766215.68</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">9766215.68</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="6">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>6</LOT_NO>
+                <TITLE>
+                    <P>Lot 6 - MRI Scanners for Clinical Use</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-08-01</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>3</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Philips Healthcare</OFFICIALNAME>
+                                <ADDRESS>Philips Centre, Guildford Business Park</ADDRESS>
+                                <TOWN>Guildford</TOWN>
+                                <POSTAL_CODE>GU2 8XH</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7917184132</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.medical.philips.com/gb_en/</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">4732720.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">4732720.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="7">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>7</LOT_NO>
+                <TITLE>
+                    <P>Lot 7 - Diffraction Apparatus</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2020-02-10</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>8</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>5</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>8</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bruker UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Banner Lane, Coventry</ADDRESS>
+                                <TOWN>Coventry</TOWN>
+                                <POSTAL_CODE>CV4 9GH</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 2476855232</PHONE>
+                                <E_MAIL>Andrew.Gibbs@bruker.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.bruker.com/uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Rigaku SE</OFFICIALNAME>
+                                <ADDRESS>Hugenottenallee 167</ADDRESS>
+                                <TOWN>Neu Isenburg</TOWN>
+                                <POSTAL_CODE>63263</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7725432370</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.Rigaku.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>SciMed Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit B4, Riverview The Embankment Business Park, Heaton
+                                    Mersey</ADDRESS>
+                                <TOWN>Stockport</TOWN>
+                                <POSTAL_CODE>SK4 3GN</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1614429963</PHONE>
+                                <E_MAIL>paul@scimed.co.uk</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.scimed.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Tescan UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit 2 Wellbrook Court, Girton</ADDRESS>
+                                <TOWN>Cambridge</TOWN>
+                                <POSTAL_CODE>CB3 0NA</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7958626569</PHONE>
+                                <E_MAIL>paul.wood@tescan-uk.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://tescan-uk.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Thermo Electron Manufacturing Ltd t/a Thermo Fisher
+                                    Scientific</OFFICIALNAME>
+                                <ADDRESS>30 Fountain Drive, Inchinnan</ADDRESS>
+                                <TOWN>Renfrew</TOWN>
+                                <POSTAL_CODE>PA4 9RF</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1442413657</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://www.thermofisher.com/uk/en/home.html</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3294166.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">3294166.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="8">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>8</LOT_NO>
+                <TITLE>
+                    <P>Lot 8 - MRI Scanners for Research Use</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-11</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>5</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bruker UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Banner Lane, Coventry</ADDRESS>
+                                <TOWN>Coventry</TOWN>
+                                <POSTAL_CODE>CV4 9GH</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 2476855232</PHONE>
+                                <E_MAIL>Andrew.Gibbs@bruker.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.bruker.com/uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>MR Solutions Ltd</OFFICIALNAME>
+                                <ADDRESS>Ashbourne House, The Guildway, Old Portsmouth Road</ADDRESS>
+                                <TOWN>Guildford</TOWN>
+                                <POSTAL_CODE>GU3 1LR</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1483532146</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.mrsolutions.com/</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Philips Healthcare UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Philips Centre, Guildford Business Park</ADDRESS>
+                                <TOWN>Guildford</TOWN>
+                                <POSTAL_CODE>GU2 8XH</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7917184132</PHONE>
+                                <E_MAIL>george.obrien@philips.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.medical.philips.com/gb_en/</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3294166.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">3294166.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="9">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>9</LOT_NO>
+                <TITLE>
+                    <P>Lot 9 - Molecular Spectrophotometers</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2020-02-10</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>13</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>9</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>13</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Agilent Technologies LDA UK Limited</OFFICIALNAME>
+                                <ADDRESS>Lakeside, Cheadle Royal Business Park, Cheadle</ADDRESS>
+                                <TOWN>Stockport</TOWN>
+                                <POSTAL_CODE>SK8 3GR</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7900135538</PHONE>
+                                <E_MAIL>jake.brown@agilent.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.agilent.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bruker UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Banner Lane, Coventry</ADDRESS>
+                                <TOWN>Coventry</TOWN>
+                                <POSTAL_CODE>CV4 9GH</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 2476855232</PHONE>
+                                <E_MAIL>Andrew.Gibbs@bruker.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.bruker.com/uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>HORIBA UK Limited</OFFICIALNAME>
+                                <ADDRESS>2 Dalston Gardens</ADDRESS>
+                                <TOWN>Stanmore</TOWN>
+                                <POSTAL_CODE>HA7 1BQ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7831717576</PHONE>
+                                <E_MAIL>david.sheppard@horiba.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.horiba.com/uk/scientific</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Jasco UK Ltd</OFFICIALNAME>
+                                <ADDRESS>18 Oak Industrial Park, Chelmsford Road</ADDRESS>
+                                <TOWN>Great Dunmow</TOWN>
+                                <POSTAL_CODE>CM6 1XN</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1371876988</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://www.jasco.co.uk/</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>PerkinElmer LAS (UK) Ltd</OFFICIALNAME>
+                                <ADDRESS>Chalfont Road, Seer Green</ADDRESS>
+                                <TOWN>Beaconsfield</TOWN>
+                                <POSTAL_CODE>HP9 2FX</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+3 5312501100</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://las.perkinelmer.co.uk/default.htm</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>SciMed Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit B4 Riverview, The Embankment Business Park</ADDRESS>
+                                <TOWN>Stockport</TOWN>
+                                <POSTAL_CODE>SK4 3GN</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1614429963</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.scimed.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Spectronic Camspec Limited</OFFICIALNAME>
+                                <ADDRESS>Tudor House, Barleyhill Road, Garforth</ADDRESS>
+                                <TOWN>Leeds</TOWN>
+                                <POSTAL_CODE>LS25 1DX</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7435967106</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.spectronic.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Thermo Electron Manufacturing Ltd t/a Thermo Fisher
+                                    Scientific</OFFICIALNAME>
+                                <ADDRESS>30 Fountain Drive, Inchinnan</ADDRESS>
+                                <TOWN>Renfrew</TOWN>
+                                <POSTAL_CODE>PA4 9RF</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1442413657</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://www.thermofisher.com/uk/en/home.html</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3108375.58</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">3108375.58</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="10">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>10</LOT_NO>
+                <TITLE>
+                    <P>Lot 10 - Polycrystalline &amp; Single Crystal X-Ray Analysis Equipment</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-11</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>5</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>6</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bruker UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Banner Lane</ADDRESS>
+                                <TOWN>Coventry</TOWN>
+                                <POSTAL_CODE>CV4 9GH</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 2476855232</PHONE>
+                                <E_MAIL>Andrew.Gibbs@bruker.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.bruker.com/uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Lambda Photometrics Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit 1, Lambda House, Batford Mill, Lower Luton Road</ADDRESS>
+                                <TOWN>Harpenden</TOWN>
+                                <POSTAL_CODE>AL5 5BZ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1582764334</PHONE>
+                                <E_MAIL>graeme.gibbons@lambdaphoto.co.uk</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://www.lambdaphoto.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Rigaku SE</OFFICIALNAME>
+                                <ADDRESS>Hugenottenallee 167</ADDRESS>
+                                <TOWN>Neu Isenburg</TOWN>
+                                <POSTAL_CODE>63263</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7725432370</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.Rigaku.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>SciMed Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit B4 Riverview, The Embankment Business Park</ADDRESS>
+                                <TOWN>STOCKPORT</TOWN>
+                                <POSTAL_CODE>SK4 3GN</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1614429963</PHONE>
+                                <E_MAIL>paul@scimed.co.uk</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.scimed.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2672470.40</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">2672470.40</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="11">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>11</LOT_NO>
+                <TITLE>
+                    <P>Lot 11 - Image Based High Content Screening &amp; Analysis Equipment</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-08-23</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>5</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>HORIBA UK Limited</OFFICIALNAME>
+                                <ADDRESS>2 Dalston Gardens, Stanmore, Middlesex, HA7 1BQ</ADDRESS>
+                                <TOWN>Stanmore</TOWN>
+                                <POSTAL_CODE>HA7 1BQ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7831717576</PHONE>
+                                <E_MAIL>david.sheppard@horiba.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.horiba.com/uk/scientific</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>PerkinElmer LAS (UK) Ltd</OFFICIALNAME>
+                                <ADDRESS>Chalfont Road, Seer Green, Beaconsfield, Buckinghamshire</ADDRESS>
+                                <TOWN>Beaconsfield</TOWN>
+                                <POSTAL_CODE>HP9 2FX</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+3 5312501100</PHONE>
+                                <E_MAIL>peter.carolan@perkinelmer.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://las.perkinelmer.co.uk/default.htm</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2600344.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">2600344.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="12">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>12</LOT_NO>
+                <TITLE>
+                    <P>Lot 12 - Atomic Spectrophotometers</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2020-02-10</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>7</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>4</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>7</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Agilent Technologies LDA UK Limited</OFFICIALNAME>
+                                <ADDRESS>Lakeside, Cheadle Royal Business Park, Cheadle</ADDRESS>
+                                <TOWN>Stockport</TOWN>
+                                <POSTAL_CODE>SK8 3GR</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7900135538</PHONE>
+                                <E_MAIL>jake.brown@agilent.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.agilent.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>HORIBA UK Ltd</OFFICIALNAME>
+                                <ADDRESS>2 Dalston Gardens, Stanmore, Middlesex</ADDRESS>
+                                <TOWN>Stanmore</TOWN>
+                                <POSTAL_CODE>HA7 1BQ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7831717576</PHONE>
+                                <E_MAIL>david.sheppard@horiba.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.horiba.com/uk/scientific</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>PerkinElmer LAS (UK) Ltd</OFFICIALNAME>
+                                <ADDRESS>Chalfont Road, Seer Green, Beaconsfield, Buckinghamshire</ADDRESS>
+                                <TOWN>Beaconsfield</TOWN>
+                                <POSTAL_CODE>HP9 2FX</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+3 5312501100</PHONE>
+                                <E_MAIL>peter.carolan@perkinelmer.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://las.perkinelmer.co.uk/default.htm</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>SciMed Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit B4 Riverview, The Embankment Business Park</ADDRESS>
+                                <TOWN>STOCKPORT</TOWN>
+                                <POSTAL_CODE>SK4 3GN</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1614429963</PHONE>
+                                <E_MAIL>paul@scimed.co.uk</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.scimed.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Thermo Electron Manufacturing Ltd t/a Thermo Fisher
+                                    Scientific</OFFICIALNAME>
+                                <ADDRESS>30 Fountain Drive, Inchinnan</ADDRESS>
+                                <TOWN>Renfrew</TOWN>
+                                <POSTAL_CODE>PA4 9RF</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1442413657</PHONE>
+                                <E_MAIL>tenders.cmd.hemel@thermofisher.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://www.thermofisher.com/uk/en/home.html</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2189800.62</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">2189800.62</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="13">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>13</LOT_NO>
+                <TITLE>
+                    <P>Lot 13 - Real Time Polymerase Chain Reaction (RT-PCR) &amp; (QPCR)</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-11-11</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>4</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Agilent Technologies LDA UK Limited</OFFICIALNAME>
+                                <ADDRESS>Lakeside, Cheadle Royal Business Park, Cheadle</ADDRESS>
+                                <TOWN>Stockport</TOWN>
+                                <POSTAL_CODE>SK8 3GR</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7900135538</PHONE>
+                                <E_MAIL>jake.brown@agilent.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.agilent.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Becton Dickinson UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Building 1030 Eskdale Road, Winnersh Triangle</ADDRESS>
+                                <TOWN>Wokingham</TOWN>
+                                <POSTAL_CODE>RG41 5TS</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 8009178776</PHONE>
+                                <E_MAIL>faraia.shah@bd.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>www.bd.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1728846.85</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">1728846.85</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="14">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>14</LOT_NO>
+                <TITLE>
+                    <P>Lot 14 - Raman Microscopes</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2020-02-10</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>8</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>8</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bruker UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Banner Lane</ADDRESS>
+                                <TOWN>Coventry</TOWN>
+                                <POSTAL_CODE>CV49GH</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 2476855251</PHONE>
+                                <E_MAIL>Andrew.Gibbs@bruker.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.bruker.com/uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>HORIBA UK Limited</OFFICIALNAME>
+                                <ADDRESS>2 Dalston Gardens, Stanmore, Middlesex</ADDRESS>
+                                <TOWN>Stanmore</TOWN>
+                                <POSTAL_CODE>HA7 1BQ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7831717576</PHONE>
+                                <E_MAIL>david.sheppard@horiba.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.horiba.com/uk/scientific</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Renishaw PLC</OFFICIALNAME>
+                                <ADDRESS>New Mills</ADDRESS>
+                                <TOWN>Wotton-Under-Edge</TOWN>
+                                <POSTAL_CODE>GL12 8JR</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1453523834</PHONE>
+                                <E_MAIL>martin.davies@renishaw.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>www.renishaw.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>SciMed Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit B4 Riverview, The Embankment Business Park</ADDRESS>
+                                <TOWN>STOCKPORT</TOWN>
+                                <POSTAL_CODE>SK4 3GN</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1614429963</PHONE>
+                                <E_MAIL>paul@scimed.co.uk</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.scimed.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Thermo Electron Manufacturing Ltd t/a Thermo Fisher
+                                    Scientific</OFFICIALNAME>
+                                <ADDRESS>30 Fountain Drive, Inchinnan</ADDRESS>
+                                <TOWN>Renfrew</TOWN>
+                                <POSTAL_CODE>PA4 9RF</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1442413657</PHONE>
+                                <E_MAIL>tenders.cmd.hemel@thermofisher.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://www.thermofisher.com/uk/en/home.html</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1525859.60</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">1525859.60</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="15">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>15</LOT_NO>
+                <TITLE>
+                    <P>Lot 15 - X-Ray Microscopes</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-09-26</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>9</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>7</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>7</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bruker UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Banner Lane, Coventry</ADDRESS>
+                                <TOWN>Coventry</TOWN>
+                                <POSTAL_CODE>CV4 9GH</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 2476855232</PHONE>
+                                <E_MAIL>Andrew.Gibbs@bruker.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.bruker.com/uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Carl Zeiss Ltd</OFFICIALNAME>
+                                <ADDRESS>511 Coldhams Lane</ADDRESS>
+                                <TOWN>Cambridge</TOWN>
+                                <POSTAL_CODE>CB1 3JS</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1223401556</PHONE>
+                                <E_MAIL>tenders@Zeiss.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.zeiss.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>FEI UK Limited</OFFICIALNAME>
+                                <ADDRESS>c/o Taylor Vinters LLP, Merlin Place, Milton Road</ADDRESS>
+                                <TOWN>Cambridge</TOWN>
+                                <POSTAL_CODE>CB4 0DP</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 2079490374</PHONE>
+                                <E_MAIL>robbie.oconnell@thermofisher.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.fei.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>HORIBA UK Limited</OFFICIALNAME>
+                                <ADDRESS>2 Dalston Gardens</ADDRESS>
+                                <TOWN>Stanmore</TOWN>
+                                <POSTAL_CODE>HA7 1BQ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7831717576</PHONE>
+                                <E_MAIL>david.sheppard@horiba.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.horiba.com/uk/scientific</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>SciMed Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit B4 Riverview, The Embankment Business Park, Heaton
+                                    Mersey</ADDRESS>
+                                <TOWN>STOCKPORT</TOWN>
+                                <POSTAL_CODE>SK4 3GN</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1614429963</PHONE>
+                                <E_MAIL>paul@scimed.co.uk</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.scimed.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1227200.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">1227200.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="16">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>16</LOT_NO>
+                <TITLE>
+                    <P>Lot 16 - X-Ray Elemental Analysis Equipment</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2020-02-10</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>12</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>6</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>12</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bruker UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Banner Lane</ADDRESS>
+                                <TOWN>Coventry</TOWN>
+                                <POSTAL_CODE>CV4 9GH</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 2476855251</PHONE>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.bruker.com/uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Hitachi High-Technologies Europe GmbH</OFFICIALNAME>
+                                <ADDRESS>Whitebrook Park, Lower Cookham Road, Maidenhead, Berkshire</ADDRESS>
+                                <TOWN>Maidenhead</TOWN>
+                                <POSTAL_CODE>SL6 8YA</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1628585426</PHONE>
+                                <E_MAIL>steve.wilson.sw@hitachi-hightech.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.hht-eu.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>HORIBA UK Limited</OFFICIALNAME>
+                                <ADDRESS>2 Dalston Gardens, Stanmore, Middlesex</ADDRESS>
+                                <TOWN>Stanmore</TOWN>
+                                <POSTAL_CODE>HA7 1BQ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7831717576</PHONE>
+                                <E_MAIL>david.sheppard@horiba.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.horiba.com/uk/scientific</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>JEOL (UK) Ltd</OFFICIALNAME>
+                                <ADDRESS>Jeol House, 1-2 Silver Court, Watchmead</ADDRESS>
+                                <TOWN>WELWYN GARDEN CITY</TOWN>
+                                <POSTAL_CODE>AL7 1LT</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1707377117</PHONE>
+                                <E_MAIL>jason.dalby@jeoluk.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.jeoluk.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Lambda Photometrics Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit 1, Lambda House, Batford Mill, Lower Luton Road</ADDRESS>
+                                <TOWN>Harpenden</TOWN>
+                                <POSTAL_CODE>AL5 5BZ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1582764334</PHONE>
+                                <E_MAIL>graeme.gibbons@lambdaphoto.co.uk</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://www.lambdaphoto.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Oxford Instruments Nanotechnology Ltd</OFFICIALNAME>
+                                <ADDRESS>Halifax Road, Cressex Business Park</ADDRESS>
+                                <TOWN>High Wycombe</TOWN>
+                                <POSTAL_CODE>HP12 3SE</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7918766890</PHONE>
+                                <E_MAIL>colin.edwards@oxinst.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://www.oxford-instruments.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>SciMed Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit B4 Riverview, The Embankment Business Park, Heaton
+                                    Mersey</ADDRESS>
+                                <TOWN>STOCKPORT</TOWN>
+                                <POSTAL_CODE>SK4 3GN</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1614429963</PHONE>
+                                <E_MAIL>paul@scimed.co.uk</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.scimed.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Thermo Electron Manufacturing Ltd t/a Thermo Fisher
+                                    Scientific</OFFICIALNAME>
+                                <ADDRESS>30 Fountain Drive, Inchinnan</ADDRESS>
+                                <TOWN>Renfrew</TOWN>
+                                <POSTAL_CODE>PA4 9RF</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1442413657</PHONE>
+                                <E_MAIL>tenders.cmd.hemel@thermofisher.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://www.thermofisher.com/uk/en/home.html</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1002397.19</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">1002397.19</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="17">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>17</LOT_NO>
+                <TITLE>
+                    <P>: Lot 17 - Raman Spectrophotometers</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2020-02-10</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>8</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>5</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>8</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bruker UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Banner Lane</ADDRESS>
+                                <TOWN>Coventry</TOWN>
+                                <POSTAL_CODE>CV4 9GH</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+55 2476855251</PHONE>
+                                <E_MAIL>Andrew.Gibbs@bruker.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.bruker.com/uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>HORIBA UK Limited</OFFICIALNAME>
+                                <ADDRESS>2 Dalston Gardens, Stanmore, Middlesex</ADDRESS>
+                                <TOWN>Stanmore</TOWN>
+                                <POSTAL_CODE>HA7 1BQ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7831717576</PHONE>
+                                <E_MAIL>david.sheppard@horiba.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.horiba.com/uk/scientific</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Renishaw Plc</OFFICIALNAME>
+                                <ADDRESS>New Mills</ADDRESS>
+                                <TOWN>Wotton-Under-Edge</TOWN>
+                                <POSTAL_CODE>GL12 8JR</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1453523834</PHONE>
+                                <E_MAIL>martin.davies@renishaw.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>www.renishaw.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>SciMed Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit B4 Riverview, The Embankment Business Park</ADDRESS>
+                                <TOWN>STOCKPORT</TOWN>
+                                <POSTAL_CODE>SK4 3GN</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1614429963</PHONE>
+                                <E_MAIL>paul@scimed.co.uk</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.scimed.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Thermo Electron Manufacturing Ltd t/a Thermo Fisher
+                                    Scientific</OFFICIALNAME>
+                                <ADDRESS>30 Fountain Drive, Inchinnan</ADDRESS>
+                                <TOWN>Renfrew</TOWN>
+                                <POSTAL_CODE>PA4 9RF</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1442413657</PHONE>
+                                <E_MAIL>tenders.cmd.hemel@thermofisher.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://www.thermofisher.com/uk/en/home.html</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">193181123.78</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">193181123.78</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="18">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>18</LOT_NO>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-09-26</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>7</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>7</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Carl Zeiss Ltd</OFFICIALNAME>
+                                <ADDRESS>511 Coldhams Lane, Cambridge</ADDRESS>
+                                <TOWN>Cambridge</TOWN>
+                                <POSTAL_CODE>CB1 3JS</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1223401556</PHONE>
+                                <E_MAIL>tenders@Zeiss.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.zeiss.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>FEI UK Limited</OFFICIALNAME>
+                                <ADDRESS>c/o Taylor Vinters LLP, Merlin Place, Milton Road</ADDRESS>
+                                <TOWN>Cambridge</TOWN>
+                                <POSTAL_CODE>CB4 0DP</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 2079490374</PHONE>
+                                <E_MAIL>robbie.oconnell@thermofisher.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.fei.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Hitachi High-Technologies Europe GmbH</OFFICIALNAME>
+                                <ADDRESS>Whitebrook Park, Lower Cookham Road, Maidenhead, Berkshire</ADDRESS>
+                                <TOWN>Maidenhead</TOWN>
+                                <POSTAL_CODE>SL6 8YA</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1628585426</PHONE>
+                                <E_MAIL>steve.wilson.sw@hitachi-hightech.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.hht-eu.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>JEOL (UK) Ltd</OFFICIALNAME>
+                                <ADDRESS>Jeol House, 1-2 Silver Court, Watchmead</ADDRESS>
+                                <TOWN>WELWYN GARDEN CITY</TOWN>
+                                <POSTAL_CODE>AL7 1LT</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1707377117</PHONE>
+                                <E_MAIL>jason.dalby@jeoluk.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.jeoluk.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Lambda Photometrics Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit 1, Lambda House, Batford Mill, Lower Luton Road</ADDRESS>
+                                <TOWN>Harpenden</TOWN>
+                                <POSTAL_CODE>AL5 5BZ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1582764334</PHONE>
+                                <E_MAIL>graeme.gibbons@lambdaphoto.co.uk</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://www.lambdaphoto.co.uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Tescan UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit 2, Wellbrook Court, Girton</ADDRESS>
+                                <TOWN>Cambridge</TOWN>
+                                <POSTAL_CODE>CB3 0NA</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7958626569</PHONE>
+                                <E_MAIL>paul.wood@tescan-uk.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://tescan-uk.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">96000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">96000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="19">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>19</LOT_NO>
+                <TITLE>
+                    <P>Lot 19 - MRI Scanners for Veterinary Use</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-08-01</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>4</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>IMV Imaging UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Imaging House, Phoenix Crescent, Strathclyde Business Park</ADDRESS>
+                                <TOWN>Bellshill</TOWN>
+                                <POSTAL_CODE>ML4 3NJ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1506460023</PHONE>
+                                <E_MAIL>nigel.perry@imv-imaging.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>https://www.imv-imaging.com/</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Philips Healthcare</OFFICIALNAME>
+                                <ADDRESS>Philips Electronics UK Ltd, Philips Centre, Guildford
+                                    Business Park</ADDRESS>
+                                <TOWN>Guildford</TOWN>
+                                <POSTAL_CODE>GU2 8XH</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7917184132</PHONE>
+                                <E_MAIL>george.obrien@philips.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.medical.philips.com/gb_en/</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="20">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>20</LOT_NO>
+                <TITLE>
+                    <P>Lot 20 - Scanning Probe Microscopes</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-11</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>3</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>5</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bruker UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Banner Lane, Coventry</ADDRESS>
+                                <TOWN>Coventry</TOWN>
+                                <POSTAL_CODE>CV4 9GH</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 2476855232</PHONE>
+                                <E_MAIL>Andrew.Gibbs@bruker.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.bruker.com/uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Hitachi High-Technologies Europe GmbH</OFFICIALNAME>
+                                <ADDRESS>Whitebrook Park, Lower Cookham Road, Maidenhead, Berkshire</ADDRESS>
+                                <TOWN>Maidenhead</TOWN>
+                                <POSTAL_CODE>SL6 8YA</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1628585426</PHONE>
+                                <E_MAIL>steve.wilson.sw@hitachi-hightech.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.hht-eu.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>HORIBA UK Ltd</OFFICIALNAME>
+                                <ADDRESS>2 Dalston Gardens, Stanmore, Middlesex</ADDRESS>
+                                <TOWN>Stanmore</TOWN>
+                                <POSTAL_CODE>HA7 1BQ</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7831717576</PHONE>
+                                <E_MAIL>david.sheppard@horiba.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.horiba.com/uk/scientific</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Tescan UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit 2, Wellbrook Court, Girton</ADDRESS>
+                                <TOWN>Cambridge</TOWN>
+                                <POSTAL_CODE>CB3 0NA</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7958626569</PHONE>
+                                <E_MAIL>paul.wood@tescan-uk.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://tescan-uk.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <AWARD_CONTRACT ITEM="21">
+                <CONTRACT_NO>LAB3123 NW</CONTRACT_NO>
+                <LOT_NO>23</LOT_NO>
+                <TITLE>
+                    <P>Lot 23 - EPR (ESR) Spectrometers</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-10-11</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>3</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bruker UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Banner Lane, Coventry</ADDRESS>
+                                <TOWN>Coventry</TOWN>
+                                <POSTAL_CODE>CV4 9GH</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 2476855232</PHONE>
+                                <E_MAIL>Andrew.Gibbs@bruker.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://www.bruker.com/uk</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Tescan UK Ltd</OFFICIALNAME>
+                                <ADDRESS>Unit 2, Wellbrook Court, Girton</ADDRESS>
+                                <TOWN>Cambridge</TOWN>
+                                <POSTAL_CODE>CB3 0NA</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 7958626569</PHONE>
+                                <E_MAIL>paul.wood@tescan-uk.com</E_MAIL>
+                                <n2016:NUTS CODE="UK" />
+                                <URL>http://tescan-uk.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <INFO_ADD>
+                    <P>The award process is still being finalized with additional suppliers. Once
+                        this has been finalized an addendum to this notice will be made.</P>
+                </INFO_ADD>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>NWUPC Ltd</OFFICIALNAME>
+                    <ADDRESS>17, Albert House</ADDRESS>
+                    <TOWN>Manchester</TOWN>
+                    <POSTAL_CODE>M1 3HZ</POSTAL_CODE>
+                    <COUNTRY VALUE="UK" />
+                    <PHONE>+44 1612348013</PHONE>
+                    <E_MAIL>helen.dodd-williams@manchester.ac.uk</E_MAIL>
+                    <URL>www.nwupc.ac.uk</URL>
+                </ADDRESS_REVIEW_BODY>
+                <ADDRESS_MEDIATION_BODY>
+                    <OFFICIALNAME>NWUPC Ltd</OFFICIALNAME>
+                    <ADDRESS>Albert House, 17 Bloom Street</ADDRESS>
+                    <TOWN>Manchester</TOWN>
+                    <POSTAL_CODE>M1 3HZ</POSTAL_CODE>
+                    <COUNTRY VALUE="UK" />
+                    <PHONE>+44 1612348000</PHONE>
+                    <E_MAIL>david.canham@manchester.ac.uk</E_MAIL>
+                    <URL>www.nwupc.ac.uk</URL>
+                </ADDRESS_MEDIATION_BODY>
+                <ADDRESS_REVIEW_INFO>
+                    <OFFICIALNAME>NWUPC Ltd</OFFICIALNAME>
+                    <ADDRESS>Albert House, 17 Bloom Street</ADDRESS>
+                    <TOWN>NWUPC Ltd</TOWN>
+                    <POSTAL_CODE>+44 1612348012</POSTAL_CODE>
+                    <COUNTRY VALUE="UK" />
+                    <PHONE>+44 1612348013</PHONE>
+                    <E_MAIL>david.canham@manchester.ac.uk</E_MAIL>
+                    <URL>www.nwupc.ac.uk</URL>
+                </ADDRESS_REVIEW_INFO>
+                <DATE_DISPATCH_NOTICE>2020-02-24</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F03_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+####################################################################################
+#  XSD name : TED_EXPORT (.xsd)
+#  RELEASE : "R2.0.8.S05.E01"
+#  Intermediate release number 002-20201027
+#  Last update :08/10/2020
+####################################################################################
+ -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.8/publication" targetNamespace="http://publications.europa.eu/resource/schema/ted/R2.0.8/publication" elementFormDefault="qualified" attributeFormDefault="unqualified" version="R2.0.8.S05.E01">
+	<!-- *********************************** -->
+	<!-- include schemas                    -->
+	<!-- *********************************** -->
+	<xs:include schemaLocation="TED_EXPORT.xd"/>
+</xs:schema>

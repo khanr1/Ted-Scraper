@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+####################################################################################
+#  XSD name : EEIG
+#  RELEASE : "R2.0.8.S04.E01"
+#  Intermediate release number 003-20180515
+#  Last update :15/05/2018
+####################################################################################
+ -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" version="R2.0.8.S04.E01">
+	<xs:include schemaLocation="common_prod.xsd"/>
+	<!-- group eeig_elements declaration -->
+	<xs:group name="eeig_elements">
+		<xs:sequence>
+			<xs:element ref="NO_MARK"/>
+			<xs:element ref="TI_MARK" minOccurs="0"/>
+			<xs:element ref="TXT_MARK" minOccurs="0"/>
+		</xs:sequence>
+	</xs:group>
+	<!-- date_publication declaration -->
+	<xs:complexType name="date_publication">
+		<xs:sequence>
+			<xs:group ref="eeig_elements"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- publisher declaration -->
+	<xs:complexType name="publisher">
+		<xs:sequence>
+			<xs:group ref="eeig_elements"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- ti_publication declaration -->
+	<xs:complexType name="ti_publication">
+		<xs:sequence>
+			<xs:group ref="eeig_elements"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- publications declaration -->
+	<xs:complexType name="publications">
+		<xs:sequence>
+			<xs:group ref="eeig_elements"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- nbr_registration declaration -->
+	<xs:complexType name="nbr_registration">
+		<xs:sequence>
+			<xs:group ref="eeig_elements"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- place declaration -->
+	<xs:complexType name="place">
+		<xs:sequence>
+			<xs:group ref="eeig_elements"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- member_state declaration -->
+	<xs:complexType name="member_state">
+		<xs:sequence>
+			<xs:group ref="eeig_elements"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- place_registration declaration -->
+	<xs:complexType name="place_registration">
+		<xs:sequence>
+			<xs:group ref="eeig_elements"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- date_registration declaration -->
+	<xs:complexType name="date_registration">
+		<xs:sequence>
+			<xs:group ref="eeig_elements"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- group_name declaration -->
+	<xs:complexType name="group_name">
+		<xs:sequence>
+			<xs:group ref="eeig_elements"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!--fd_oth_not declaration -->
+	<xs:complexType name="fd_eeig">
+		<xs:sequence>
+			<xs:element name="GROUP_NAME" type="group_name"/>
+			<xs:element name="DATE_REGISTRATION" type="date_registration"/>
+			<xs:element name="PLACE_REGISTRATION" type="place_registration"/>
+			<xs:element name="MEMBER_STATE" type="member_state"/>
+			<xs:element name="PLACE" type="place"/>
+			<xs:element name="NBR_REGISTRATION" type="nbr_registration"/>
+			<xs:element name="PUBLICATIONS" type="publications"/>
+			<xs:element name="TI_PUBLICATION" type="ti_publication"/>
+			<xs:element name="PUBLISHER" type="publisher"/>
+			<xs:element name="DATE_PUBLICATION" type="date_publication"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!--oth_not declaration -->
+	<xs:complexType name="eeig">
+		<xs:sequence>
+			<xs:element name="FD_EEIG" type="fd_eeig"/>
+		</xs:sequence>
+		<xs:attribute name="LG" type="languages" use="required"/>
+		<xs:attribute name="CATEGORY" type="category" use="required"/>
+		<xs:attribute name="VERSION" use="required" fixed="R2.0.8.S04.E01"/>
+	</xs:complexType>
+	<!-- Root element -->
+	<xs:element name="EEIG" type="eeig">
+		<xs:annotation>
+			<xs:documentation>EEIG root element</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+</xs:schema>

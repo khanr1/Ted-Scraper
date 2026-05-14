@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+    xmlns:n2021="http://publications.europa.eu/resource/schema/ted/2021/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+    VERSION="R2.0.9.S05.E01" DOC_ID="587804-2022" EDITION="2022206">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>22-608852-001</RECEPTION_ID>
+        <DELETION_DATE>20230128</DELETION_DATE>
+        <FORM_LG_LIST>DE </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="https://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>206</NO_OJ>
+            <DATE_PUB>20221025</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2022/S 206-587804</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="DE">https://ted.europa.eu/udl?uri=TED:NOTICE:587804-2022:TEXT:DE:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>DE</LG_ORIG>
+            <ISO_COUNTRY VALUE="DE" />
+            <IA_URL_GENERAL>www.uni-hamburg.de</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="38000000">Laboratory, optical and precision equipments (excl.
+                glasses)</ORIGINAL_CPV>
+            <n2021:PERFORMANCE_NUTS CODE="DE600">Hamburg</n2021:PERFORMANCE_NUTS>
+            <n2021:CA_CE_NUTS CODE="DE600">Hamburg</n2021:CA_CE_NUTS>
+            <n2021:TENDERER_NUTS CODE="FI1B1">Helsinki-Uusimaa</n2021:TENDERER_NUTS>
+            <VALUES>
+                <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">215000.00</VALUE>
+            </VALUES>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20221020</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="3">Regional or local authority</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="V">Voluntary ex ante transparency notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+            <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="L">Education</MA_MAIN_ACTIVITIES>
+            <HEADING>01B15</HEADING>
+            <INITIATOR>01</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Гepмaния</TI_CY>
+                <TI_TOWN>Хамбург</TI_TOWN>
+                <TI_TEXT>
+                    <P>Лабораторно, оптично и прецизно оборудване (без стъклени изделия)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Německo</TI_CY>
+                <TI_TOWN>Hamburk</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorní, optické a přesné přístroje a zařízení (mimo skel)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Tyskland</TI_CY>
+                <TI_TOWN>Hamburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorieudstyr, optisk udstyr og præcisionsudstyr (ikke briller)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Deutschland</TI_CY>
+                <TI_TOWN>Hamburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Γερμανία</TI_CY>
+                <TI_TOWN>Αμβούργο</TI_TOWN>
+                <TI_TEXT>
+                    <P>Εξοπλισμός εργαστηριακός, οπτικός και ακριβείας (εκτός από γυαλιά)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Germany</TI_CY>
+                <TI_TOWN>Hamburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory, optical and precision equipments (excl. glasses)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Alemania</TI_CY>
+                <TI_TOWN>Hamburgo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipo de laboratorio, óptico y de precisión (excepto gafas)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Saksamaa</TI_CY>
+                <TI_TOWN>Hamburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboriseadmed, optika- ja täppisinstrumendid (v.a klaasid)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Saksa</TI_CY>
+                <TI_TOWN>Hampuri</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriolaitteet, optiset ja tarkkuuslaitteet (lukuun ottamatta
+                        silmälaseja)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Allemagne</TI_CY>
+                <TI_TOWN>Hambourg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Équipements de laboratoire, d'optique et de précision (excepté les lunettes)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Ghearmáin, an</TI_CY>
+                <TI_TOWN>Hamburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory, optical and precision equipments (excl. glasses)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Njemačka</TI_CY>
+                <TI_TOWN>Hamburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijska, optička i precizna oprema (osim naočala)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Németország</TI_CY>
+                <TI_TOWN>Hamburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratóriumi, optikai és precíziós felszerelések (kivéve szemüvegek)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Germania</TI_CY>
+                <TI_TOWN>Amburgo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Attrezzature da laboratorio, ottiche e di precisione (escluso vetri)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Vokietija, VFR</TI_CY>
+                <TI_TOWN>Hamburgas</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Vācija</TI_CY>
+                <TI_TOWN>Hamburga</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijas, optiskās un precīzijas ierīces (izņemot brilles)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>il-Ġermanja</TI_CY>
+                <TI_TOWN>Ħamburgu</TI_TOWN>
+                <TI_TEXT>
+                    <P>Tagħmir tal-laboratorju, ottiku u ta' preċiżjoni (minbarra nuċċalijiet)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Duitsland</TI_CY>
+                <TI_TOWN>Hamburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd
+                        brillen)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Niemcy</TI_CY>
+                <TI_TOWN>Hamburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Alemanha</TI_CY>
+                <TI_TOWN>Hamburgo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipamento laboratorial, óptico e de precisão (exc. óculos)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Germania</TI_CY>
+                <TI_TOWN>Hamburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Echipamente de laborator, optice şi de precizie (cu excepţia ochelarilor)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Nemecko</TI_CY>
+                <TI_TOWN>Hamburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratórne, optické a presné prístroje a vybavenie (s výnimkou skiel)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Nemčija</TI_CY>
+                <TI_TOWN>Hamburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijska, optična in precizna oprema (razen očal)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Tyskland</TI_CY>
+                <TI_TOWN>Hamburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorieutrustning, optisk utrustning och precisionsutrustning (exkl.
+                        glas)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="DE">Universität Hamburg</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F15_2014 CATEGORY="ORIGINAL" FORM="F15" LG="DE">
+            <LEGAL_BASIS VALUE="32014L0024" />
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Universität Hamburg</OFFICIALNAME>
+                    <ADDRESS>Mittelweg 124</ADDRESS>
+                    <TOWN>Hamburg</TOWN>
+                    <POSTAL_CODE>20148</POSTAL_CODE>
+                    <COUNTRY VALUE="DE" />
+                    <CONTACT_POINT>Universität Hamburg</CONTACT_POINT>
+                    <E_MAIL>strategischereinkauf@uni-hamburg.de</E_MAIL>
+                    <n2021:NUTS CODE="DE600" />
+                    <URL_GENERAL>www.uni-hamburg.de</URL_GENERAL>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="REGIONAL_AUTHORITY" />
+                <CA_ACTIVITY VALUE="EDUCATION" />
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Lieferung eines völlig kryogenfreien Verdünnungskühlschranks mit Vektormagnet</P>
+                </TITLE>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="38000000" />
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SUPPLIES" />
+                <SHORT_DESCR>
+                    <P>Die Universität Hamburg führt im Forschungsbetrieb ein Experiment durch, in
+                        dem nanophotonische Strukturen mit eingebetteten Quantenstrahlern bei
+                        ultra-tiefen Temperaturen untersucht werden. Die Forschung konzentriert
+                        sichauf die Quantenkontrolle von Emittern und Kernspins in ihrer Nähe sowie
+                        deren Wechselwirkung mit Photonen. Dabei müssen die Proben auf etwa 100 mK
+                        gekühlt werden, damit der phononische Dekohärenzkanal unterdrückt wird.
+                        Darüber hinaus muss das Magnetfeld eine bestimmte Beziehung zur Geometrie
+                        des Festkörperdefekts haben, z. B. eine nahezu perfekte Ausrichtung auf
+                        seine Symmetrieachse. Um den Erfolg des Forschungsvorhabens zu
+                        gewährleisten, wird ein vollständig kroygen-freies System benötigt.</P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="EUR">215000.00</VAL_TOTAL>
+                <NO_LOT_DIVISION />
+                <OBJECT_DESCR ITEM="1">
+                    <n2021:NUTS CODE="DE600" />
+                    <SHORT_DESCR>
+                        <P>Einmalige Lieferung eines völlig kryogenfreien Verdünnungskühlschranks
+                            mit Vektormagnet, der die hohen technischen Anforderungen der
+                            Universität Hamburg erfüllen kann. Dies erfolgt in enger Abstimmung mit
+                            Center for Optical Quantum Technology der Universität Hamburg.</P>
+                    </SHORT_DESCR>
+                    <DIRECTIVE_2014_24_EU>
+                        <AC>
+                            <AC_PRICE />
+                        </AC>
+                    </DIRECTIVE_2014_24_EU>
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <DIRECTIVE_2014_24_EU>
+                    <PT_NEGOTIATED_WITHOUT_PUBLICATION>
+                        <D_ACCORDANCE_ARTICLE>
+                            <D_TECHNICAL />
+                        </D_ACCORDANCE_ARTICLE>
+                        <D_JUSTIFICATION>
+                            <P>Die umfangreichen technischen Anforderungen verhindern einen fairen
+                                Wettbewerb, da einzig an die zu vergebende Firma, die folgenden
+                                technischen Anforderungen erfüllen kann:- Ein supraleitender
+                                Vektormagnet mit einem Feld von mindestens Z-X-Y = 2-0,5-0,5T und
+                                rauscharmer</P>
+                            <P>Dauerstromschalter. Der Durchmesser der Bohrung (ausgerichtet auf die
+                                Z-Achse) muss 95 mm</P>
+                            <P>oder mehr betragen, um zwei Faserkopplungsanordnungen, ein
+                                Gasabstimmungssystem und ein Mikroskop</P>
+                            <P>Objektiv.</P>
+                            <P>- Ein zentraler Sichtlinienanschluss für ein optisches konfokales
+                                Mikroskop, ausgerichtet auf die Bohrung</P>
+                            <P>des Magneten ausgerichtet ist, so dass die optischen Komponenten
+                                nicht entfernt werden müssen,</P>
+                            <P>wenn der Kryostat geöffnet wird.</P>
+                            <P>- eine praxiserprobte integrierte interne Kühlfalle für die
+                                Mischungsleitung, die lange Messzeiten (2</P>
+                            <P>Jahre) ohne Zufuhr von flüssigem Stickstoff oder anderen flüssigen
+                                Kryogenen</P>
+                            <P>Weitere Anforderungen sind:</P>
+                            <P>- Mehr als 330uW Kühlleistung bei 100mK in der Mischkammer.</P>
+                            <P>- Kryokühler mit geschlossenem Kreislauf mit 2 W Kühlleistung bei 4K,
+                                betrieben von einem Kompres-sor mit nicht mehr als 15 kW Leistung,
+                                3-Phasen-Anschluss und einem Kühlwasserbedarf von nicht mehr als 10
+                                L/min bei 14°C Eintrittstemperatur, nicht größer als 62 x70 x 100cm.</P>
+                            <P>- Schwingungsisolierung vom Boden und vom Kühlkopf des Kryokühlers.</P>
+                            <P>- Entkoppelter Kaltkopf des Kryokühlers vom Kryostaten</P>
+                            <P>- Passive luftgedämpfte Aufhängung (bei Bedarf auf aktive
+                                Schwingungsisolierung aufrüstbar)</P>
+                            <P>- Fernsteuerung des Kryostaten und des Magneten sowie eine API zur
+                                Überwachung der Temperatu-ren von Probe, Mischkammer und Magnet.</P>
+                            <P>- Das Öffnen und Schließen des Kryostaten sollten von einer einzigen
+                                Person möglich sein</P>
+                            <P>- Lange Lebensdauer des Systems, wartbares Teilsystem</P>
+                            <P>- Kryo-Kühler: 20 000 Stunden</P>
+                            <P>- Pumpen und Kompressoren: 3 Jahre</P>
+                            <P>- Dauerstromschalter für alle 3 Achsen, mit Drift &lt;30ppm/h</P>
+                            <P>- 6 thermische Koaxialleitungen von der Raumtemperatur zur
+                                Mischkammer, von denen zwei für hohe Leistungen bis zu 18 GHz
+                                geeignet sind.</P>
+                            <P>- Thermalisierte Gleichstromleitungen zum Betrieb von 9
+                                Nanopositionierern in der Mischkammer</P>
+                            <P>- Ein zusätzlicher Sichtanschluss für das Gasabstimmungssystem bis
+                                hinunter zur Mischkammer.</P>
+                            <P>Unter Berücksichtigung der o. g. besonderen technischen Aspekte kann
+                                in der Gesamtschau und unter Abwägung aller vorliegenden Tatsachen
+                                nur ein Verhandlungsverfahren ohne Teilnahmewettbewerb gem. § 14
+                                Abs. 4 Nr. 2b, 2c, 4 VgV i. V. m. § 17 Abs. 5 VgV erfolgen, da die
+                                geplanten Forschungsarbeiten nur mit diesem Gerät erfüllt werden
+                                können. Insbesondere die hiesigen technischen Anforderungen führen
+                                in der Konsequenz dazu, dass ein Offenes Verfahren für dieses
+                                geplante Beschaffungsverfahren weder möglich, noch wirtschaftlich
+                                vertretbar erscheint.</P>
+                        </D_JUSTIFICATION>
+                    </PT_NEGOTIATED_WITHOUT_PUBLICATION>
+                </DIRECTIVE_2014_24_EU>
+                <CONTRACT_COVERED_GPA />
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2022-10-20</DATE_CONCLUSION_CONTRACT>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bluefors Oy</OFFICIALNAME>
+                                <TOWN>Helsinki</TOWN>
+                                <COUNTRY VALUE="FI" />
+                                <n2021:NUTS CODE="FI1B1" />
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_TOTAL CURRENCY="EUR">215000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Universität Hamburg - Strategischer Einkauf</OFFICIALNAME>
+                    <TOWN>Hamburg</TOWN>
+                    <POSTAL_CODE>20148</POSTAL_CODE>
+                    <COUNTRY VALUE="DE" />
+                </ADDRESS_REVIEW_BODY>
+                <ADDRESS_MEDIATION_BODY>
+                    <OFFICIALNAME>Vergabekammer Hamburg</OFFICIALNAME>
+                    <ADDRESS>Caffamacherreihe 1-3</ADDRESS>
+                    <TOWN>Hamburg</TOWN>
+                    <POSTAL_CODE>20306</POSTAL_CODE>
+                    <COUNTRY VALUE="DE" />
+                    <PHONE>+49 40428231690</PHONE>
+                    <E_MAIL>vergabekammer@fb.hamburg.de</E_MAIL>
+                    <FAX>+49 40427923080</FAX>
+                </ADDRESS_MEDIATION_BODY>
+                <REVIEW_PROCEDURE>
+                    <P>Es wird auf § 160 Abs. 3 GWB hingewiesen. Ein Antrag ist demnach unzulässig,
+                        soweit 1. der Antragsteller den geltend gemachten Verstoß gegen
+                        Vergabevorschriften vor Einreichen des Nachprüfungsantrags erkannt und
+                        gegenüber dem Auftraggeber nicht innerhalb einer Frist von zehn
+                        Kalendertagen gerügt hat; der Ablauf der Frist nach § 134 Absatz 2 GWB
+                        bleibt unberührt, 2. Verstöße gegen Vergabevorschriften, die aufgrund der
+                        Bekanntmachung erkennbar sind, nicht spätestens bis zum Ablauf der in der
+                        Bekanntmachung benannten Frist zur Bewerbung oder zur Angebotsabgabe
+                        gegenüber dem Auftraggeber gerügt werden, 3. Verstöße gegen
+                        Vergabevorschriften, die erst in den Vergabeunterlagen erkennbar sind, nicht
+                        spätestens bis zum Ablauf der Frist zur Bewerbung oder zur Angebotsabgabe
+                        gegenüber dem Auftraggeber gerügt werden, 4. mehr als 15 Kalendertage nach
+                        Eingang der Mitteilung des Auftraggebers, einer Rüge nicht abhelfen zu
+                        wollen, vergangen sind.</P>
+                </REVIEW_PROCEDURE>
+                <ADDRESS_REVIEW_INFO>
+                    <OFFICIALNAME>Vergabekammer bei der Fianzbehörde</OFFICIALNAME>
+                    <TOWN>Hamburg</TOWN>
+                    <POSTAL_CODE>20306</POSTAL_CODE>
+                    <COUNTRY VALUE="DE" />
+                    <PHONE>+49 40428231690</PHONE>
+                    <FAX>+49 40427923080</FAX>
+                </ADDRESS_REVIEW_INFO>
+                <DATE_DISPATCH_NOTICE>2022-10-20</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F15_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

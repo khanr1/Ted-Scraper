@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+    xmlns:n2016="http://publications.europa.eu/resource/schema/ted/2016/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+    VERSION="R2.0.9.S03.E01" DOC_ID="151361-2019" EDITION="2019065">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>19-153942-001</RECEPTION_ID>
+        <DELETION_DATE>20190706</DELETION_DATE>
+        <FORM_LG_LIST>FR </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>65</NO_OJ>
+            <DATE_PUB>20190402</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2019/S 065-151361</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:151361-2019:TEXT:FR:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>FR</LG_ORIG>
+            <ISO_COUNTRY VALUE="FR" />
+            <IA_URL_GENERAL>http://www.cnrs.fr</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="38970000">Research, testing and scientific technical simulator</ORIGINAL_CPV>
+            <n2016:PERFORMANCE_NUTS CODE="FR101">Paris</n2016:PERFORMANCE_NUTS>
+            <n2016:CA_CE_NUTS CODE="FR101">Paris</n2016:CA_CE_NUTS>
+            <n2016:TENDERER_NUTS CODE="FI20">Åland</n2016:TENDERER_NUTS>
+            <VALUES>
+                <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">183500.00</VALUE>
+            </VALUES>
+            <REF_NOTICE>
+                <NO_DOC_OJS>2019/S 005-006184</NO_DOC_OJS>
+            </REF_NOTICE>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20190328</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="1">Open procedure</PR_PROC>
+            <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+            <HEADING>01B03</HEADING>
+            <INITIATOR>01</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Фpaнция</TI_CY>
+                <TI_TOWN>Париж</TI_TOWN>
+                <TI_TEXT>
+                    <P>Изследователски, изпитвателен и научнотехнически симулатор</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Francie</TI_CY>
+                <TI_TOWN>Paříž</TI_TOWN>
+                <TI_TEXT>
+                    <P>Výzkumné, testovací a vědecké technické simulátory</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Frankrig</TI_CY>
+                <TI_TOWN>Paris</TI_TOWN>
+                <TI_TEXT>
+                    <P>Simulatorer til forskning, prøvning eller teknisk-videnskabelig brug</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Frankreich</TI_CY>
+                <TI_TOWN>Paris</TI_TOWN>
+                <TI_TEXT>
+                    <P>Technischer Simulator für Forschung, Prüfungen und Wissenschaft</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Γαλλία</TI_CY>
+                <TI_TOWN>Παρίσι</TI_TOWN>
+                <TI_TEXT>
+                    <P>Τεχνικοί προσομοιωτές για ερευνητική, δοκιμαστική και επιστημονική χρήση</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>France</TI_CY>
+                <TI_TOWN>Paris</TI_TOWN>
+                <TI_TEXT>
+                    <P>Research, testing and scientific technical simulator</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Francia</TI_CY>
+                <TI_TOWN>París</TI_TOWN>
+                <TI_TEXT>
+                    <P>Investigación, ensayos y simuladores científico-técnicos</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Prantsusmaa</TI_CY>
+                <TI_TOWN>Pariis</TI_TOWN>
+                <TI_TEXT>
+                    <P>Teadusuuringute, katsete ja teadustehnika simulaatorid</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Ranska</TI_CY>
+                <TI_TOWN>Pariisi</TI_TOWN>
+                <TI_TEXT>
+                    <P>Tekniset simulaattorit tutkimus-, testaus- ja tieteelliseen käyttöön</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>France</TI_CY>
+                <TI_TOWN>Paris</TI_TOWN>
+                <TI_TEXT>
+                    <P>Simulateur de recherche, d'essai et scientifique et technique</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Fhrainc, an</TI_CY>
+                <TI_TOWN>Páras</TI_TOWN>
+                <TI_TEXT>
+                    <P>Research, testing and scientific technical simulator</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Francuska</TI_CY>
+                <TI_TOWN>Pariz</TI_TOWN>
+                <TI_TEXT>
+                    <P>Simulator za istraživanje, ispitivanje i znanstveno-tehnički simulator</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Franciaország</TI_CY>
+                <TI_TOWN>Párizs</TI_TOWN>
+                <TI_TEXT>
+                    <P>Kutatási, tesztelési és tudományos-műszaki szimulátor</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Francia</TI_CY>
+                <TI_TOWN>Parigi</TI_TOWN>
+                <TI_TEXT>
+                    <P>Ricerca, sperimentazione e simulatori tecnico-scientifici</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Prancūzija</TI_CY>
+                <TI_TOWN>Paryžius</TI_TOWN>
+                <TI_TEXT>
+                    <P>Tyrimų, bandymų ir moksliniai techniniai imituokliai</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Francija</TI_CY>
+                <TI_TOWN>Parīze</TI_TOWN>
+                <TI_TEXT>
+                    <P>Pētniecības un testēšanas, zinātniskie un tehniskie simulatori</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>Franza</TI_CY>
+                <TI_TOWN>Pariġi</TI_TOWN>
+                <TI_TEXT>
+                    <P>Simulaturi tekniċi ta' riċerka, ittestjar u xjentifiċi</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Frankrijk</TI_CY>
+                <TI_TOWN>Parijs</TI_TOWN>
+                <TI_TEXT>
+                    <P>Wetenschappelijk-technische simulator voor onderzoek en testen</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Francja</TI_CY>
+                <TI_TOWN>Paryż</TI_TOWN>
+                <TI_TEXT>
+                    <P>Badawcze, testowe i naukowe symulatory techniczne</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>França</TI_CY>
+                <TI_TOWN>Paris</TI_TOWN>
+                <TI_TEXT>
+                    <P>Simulador de investigação e ensaio técnico-científico</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Franţa</TI_CY>
+                <TI_TOWN>Paris</TI_TOWN>
+                <TI_TEXT>
+                    <P>Simulator tehnic de cercetare, de testare şi ştiinţific</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Francúzsko</TI_CY>
+                <TI_TOWN>Paríž</TI_TOWN>
+                <TI_TEXT>
+                    <P>Výskumný, testovací a vedecký technický simulátor</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Francija</TI_CY>
+                <TI_TOWN>Pariz</TI_TOWN>
+                <TI_TEXT>
+                    <P>Raziskovalni simulator, simulator za testiranje in znanstveno-tehnični
+                        simulator</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Frankrike</TI_CY>
+                <TI_TOWN>Paris</TI_TOWN>
+                <TI_TEXT>
+                    <P>Forskningssimulatorer, testsimulatorer och simulatorer för vetenskapligt bruk</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="FR">CNRS Délégation Paris-Centre</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="FR">
+            <LEGAL_BASIS VALUE="32014L0024" />
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>CNRS Délégation Paris-Centre</OFFICIALNAME>
+                    <NATIONALID>180 089 013 03282</NATIONALID>
+                    <ADDRESS>16 rue Pierre et Marie Curie</ADDRESS>
+                    <TOWN>Paris</TOWN>
+                    <POSTAL_CODE>75005</POSTAL_CODE>
+                    <COUNTRY VALUE="FR" />
+                    <CONTACT_POINT>Secteur politique d’achats</CONTACT_POINT>
+                    <PHONE>+33 142349400</PHONE>
+                    <E_MAIL>marchesdr2@dr2.cnrs.fr</E_MAIL>
+                    <FAX>+33 143268723</FAX>
+                    <n2016:NUTS CODE="FR101" />
+                    <URL_GENERAL>http://www.cnrs.fr</URL_GENERAL>
+                    <URL_BUYER>https://www.marches-publics.gouv.fr/</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="BODY_PUBLIC" />
+                <CA_ACTIVITY_OTHER>Recherche</CA_ACTIVITY_OTHER>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Acquisition d’un réfrigérateur à hélium en circuit ferme</P>
+                </TITLE>
+                <REFERENCE_NUMBER>AOO-2018-IRCP</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="38970000" />
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SUPPLIES" />
+                <SHORT_DESCR>
+                    <P>Cet achat se fait dans le contexte d'expériences sur des cristaux dopés par
+                        des ions de terres rares pour des applications dans les technologies
+                        quantiques. Ces matériaux présentent des propriétés uniques dans l’état
+                        solide en termes de durée de vie des états quantiques optiques et de spins,
+                        un point clé pour les applications visées comme les mémoires et les
+                        processeurs quantiques. Ces propriétés sont grandement améliorées à très
+                        basses températures, conditions dans lesquelles ces systèmes sont
+                        actuellement étudiés au laboratoire. Un cryostat ayant les caractéristiques
+                        décrites dans le CCP permettra d’atteindre des températures plus basses,
+                        d’éliminer la consommation en hélium liquide, et de pouvoir conduire des
+                        mesures sur des temps très longs.</P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="EUR">183500.00</VAL_TOTAL>
+                <NO_LOT_DIVISION />
+                <OBJECT_DESCR ITEM="1">
+                    <n2016:NUTS CODE="FR101" />
+                    <MAIN_SITE>
+                        <P>Institut de recherche de chimie Paris — IRCP, UMR 8247 CNRS/chimie
+                            ParisTech, 11 rue Pierre et Marie Curie, 75005 Paris.</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Voir cahier des charges CPP nº CCP — AOO — 2018 – acquisition d’un
+                            réfrigérateur à hélium en circuit fermé– UMR 8247 – CNRS.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Valeur technique</AC_CRITERION>
+                            <AC_WEIGHTING>40</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Délai livraison</AC_CRITERION>
+                            <AC_WEIGHTING>10</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Qualité du service après vente</AC_CRITERION>
+                            <AC_WEIGHTING>10</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>40</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS />
+                    <OPTIONS_DESCR>
+                        <P>Tranche optionnelle: transformation vers un système à dilution avec une
+                            température de base inférieure ou égale à 50 mK à affermir dans un délai
+                            6 mois à compter de la date d’admission définitive de la tranche ferme.</P>
+                    </OPTIONS_DESCR>
+                    <EU_PROGR_RELATED>
+                        <P>UE 7ème PCRD/H2020: SQUARE</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <PT_OPEN />
+                <CONTRACT_COVERED_GPA />
+                <NOTICE_NUMBER_OJ>2019/S 005-006184</NOTICE_NUMBER_OJ>
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <CONTRACT_NO>2021432</CONTRACT_NO>
+                <TITLE>
+                    <P>Acquisition d’un réfrigérateur à hélium en circuit ferme</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2019-03-07</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>1</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>3</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bluefors OY</OFFICIALNAME>
+                                <ADDRESS>Arinatie 10</ADDRESS>
+                                <TOWN>Helsinki</TOWN>
+                                <COUNTRY VALUE="FI" />
+                                <PHONE>+358 956174800</PHONE>
+                                <FAX>+358 93867335</FAX>
+                                <n2016:NUTS CODE="FI20" />
+                                <URL>www.BlueFors.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">183500.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <INFO_ADD>
+                    <P>Le contrat est consultable dans le respect des secrets protégés par la loi nº
+                        78-753 du 17.7.1978 portant diverses mesures d'amélioration des relations
+                        entre l'administration et le public et diverses dispositions d'ordre
+                        administratif, social et fiscal, sur place à l'adresse indiquée à la
+                        rubrique 1.1) après une demande écrite adressée par mail à:
+                        marchesdr2@dr2.cnrs.fr et uniquement sur prise de rendez-vous du lundi au
+                        vendredi de 9:30 à 12:00 et de 14:00 à 16:00, hors jours fériés et jours de
+                        fermeture du site.</P>
+                </INFO_ADD>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Tribunal administratif de Paris</OFFICIALNAME>
+                    <ADDRESS>7 rue de Jouy</ADDRESS>
+                    <TOWN>Paris Cedex 04</TOWN>
+                    <POSTAL_CODE>75181</POSTAL_CODE>
+                    <COUNTRY VALUE="FR" />
+                    <PHONE>+33 144594400</PHONE>
+                    <E_MAIL>greffe.ta-paris@juradm.fr</E_MAIL>
+                    <FAX>+33 144594646</FAX>
+                    <URL>http://paris.tribunal-administratif.fr/</URL>
+                </ADDRESS_REVIEW_BODY>
+                <REVIEW_PROCEDURE>
+                    <P>«Précisions concernant les recours susceptibles d’être introduits à
+                        l’encontre de la procédure ou du marché, ainsi que sur les délais
+                        d’introduction de ces recours:</P>
+                    <P>— référé précontractuel prévu aux articles L. 551-1à L. 551-12 du Code de
+                        justice administrative (CJA), pouvant être introduit depuis le début de la
+                        procédure de passation jusqu’à la signature du marché,</P>
+                    <P>— référé contractuel prévu aux articles L. 551-13 à L. 551-23 du CJA, pouvant
+                        être exercé dans les délais prévus à l'article R. 551-7 du CJA,</P>
+                    <P>— recours de pleine juridiction contestant la validité du marché dans un
+                        délai de 2 mois à compter de l'accomplissement des mesures de publicité
+                        appropriées au sens de la décision département de Tarn-et-Garonne (CE, Ass.,
+                        4.4.2014, nº 358994). Ce recours en contestation de validité peut être
+                        assorti d'une demande tendant, sur le fondement de l'article L. 521-1 du
+                        code de justice administrative, à la suspension de l'exécution du contrat.»</P>
+                </REVIEW_PROCEDURE>
+                <ADDRESS_REVIEW_INFO>
+                    <OFFICIALNAME>Tribunal administratif de Paris</OFFICIALNAME>
+                    <ADDRESS>7 rue de Jouy</ADDRESS>
+                    <TOWN>Paris Cedex 04</TOWN>
+                    <POSTAL_CODE>75181</POSTAL_CODE>
+                    <COUNTRY VALUE="FR" />
+                    <PHONE>+33 144594400</PHONE>
+                    <E_MAIL>greffe.ta-paris@juradm.fr</E_MAIL>
+                    <FAX>+33 144594646</FAX>
+                    <URL>http://paris.tribunal-administratif.fr/</URL>
+                </ADDRESS_REVIEW_INFO>
+                <DATE_DISPATCH_NOTICE>2019-03-28</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F03_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

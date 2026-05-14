@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2"
+    xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+    xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"
+    xmlns:ccts-cct="urn:un:unece:uncefact:data:specification:CoreComponentTypeSchemaModule:2"
+    xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1"
+    xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1"
+    xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1"
+    xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2"
+    xmlns:qdt="urn:oasis:names:specification:ubl:schema:xsd:QualifiedDataTypes-2"
+    xmlns:udt="urn:oasis:names:specification:bdndr:schema:xsd:UnqualifiedDataTypes-1">
+    <ext:UBLExtensions>
+        <ext:UBLExtension>
+            <ext:ExtensionContent>
+                <efext:EformsExtension>
+                    <efac:NoticeResult><!--BT-161-NoticeResult
+                        (Order: 02)-->
+                        <cbc:TotalAmount currencyID="EUR">0.01</cbc:TotalAmount>
+                        <efac:LotResult><!--OPT-322-LotResult
+                            (Order: 02)-->
+                            <cbc:ID>RES-0001</cbc:ID><!--BT-711-LotResult
+                            (Order: 03)-->
+                            <cbc:HigherTenderAmount currencyID="EUR">0.01</cbc:HigherTenderAmount><!--BT-710-LotResult
+                            (Order: 04)-->
+                            <cbc:LowerTenderAmount currencyID="EUR">0.01</cbc:LowerTenderAmount><!--BT-142-LotResult
+                            (Order: 05)-->
+                            <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                            <efac:LotTender><!--OPT-320-LotResult
+                                (Order: 02)-->
+                                <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                            </efac:LotTender>
+                            <efac:ReceivedSubmissionsStatistics><!--BT-760-LotResult
+                                (Order: 02)-->
+                                <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode><!--BT-759-LotResult
+                                (Order: 03)-->
+                                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+                            </efac:ReceivedSubmissionsStatistics>
+                            <efac:SettledContract><!--OPT-315-LotResult
+                                (Order: 01)-->
+                                <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                            </efac:SettledContract>
+                            <efac:TenderLot><!--BT-13713-LotResult
+                                (Order: 01)-->
+                                <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                            </efac:TenderLot>
+                        </efac:LotResult>
+                        <efac:LotTender><!--OPT-321-Tender
+                            (Order: 02)-->
+                            <cbc:ID>TEN-0001</cbc:ID><!--BT-193-Tender
+                            (Order: 06)-->
+                            <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                            <efac:TenderingParty><!--OPT-310-Tender
+                                (Order: 01)-->
+                                <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                            </efac:TenderingParty>
+                            <efac:TenderLot><!--BT-13714-Tender
+                                (Order: 01)-->
+                                <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                            </efac:TenderLot>
+                            <efac:TenderReference><!--BT-3201-Tender
+                                (Order: 01)-->
+                                <cbc:ID>2024121594</cbc:ID>
+                            </efac:TenderReference>
+                        </efac:LotTender>
+                        <efac:SettledContract><!--OPT-316-Contract
+                            (Order: 01)-->
+                            <cbc:ID>CON-0001</cbc:ID><!--BT-1451-Contract
+                            (Order: 02)-->
+                            <cbc:AwardDate>2024-03-25+01:00</cbc:AwardDate><!--BT-145-Contract
+                            (Order: 03)-->
+                            <cbc:IssueDate>2024-04-05+01:00</cbc:IssueDate>
+                            <efac:ContractReference><!--BT-150-Contract
+                                (Order: 01)-->
+                                <cbc:ID>CON-0001 - BlueFors</cbc:ID>
+                            </efac:ContractReference>
+                            <efac:LotTender><!--BT-3202-Contract
+                                (Order: 02)-->
+                                <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                            </efac:LotTender>
+                        </efac:SettledContract>
+                        <efac:TenderingParty><!--OPT-210-Tenderer
+                            (Order: 01)-->
+                            <cbc:ID>TPA-0001</cbc:ID>
+                            <efac:Tenderer><!--OPT-300-Tenderer
+                                (Order: 01)-->
+                                <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                            </efac:Tenderer>
+                        </efac:TenderingParty>
+                    </efac:NoticeResult>
+                    <efac:NoticeSubType><!--OPP-070-notice
+                        (Order: 01)-->
+                        <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+                    </efac:NoticeSubType>
+                    <efac:Organizations>
+                        <efac:Organization>
+                            <efac:Company><!--BT-505-Organization-Company
+                                (Order: 01)-->
+                                <cbc:WebsiteURI>https://www.auftraege.bayern.de/</cbc:WebsiteURI>
+                                <cac:PartyIdentification><!--OPT-200-Organization-Company
+                                    (Order: 02)-->
+                                    <cbc:ID>ORG-0001</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName><!--BT-500-Organization-Company
+                                    (Order: 02)-->
+                                    <cbc:Name languageID="DEU">Lehrstuhl für Experimentalphysik
+                                        (Prof. Eichler)</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress><!--BT-510(a)-Organization-Company
+                                    (Order: 08)-->
+                                    <cbc:StreetName>Staudtstr. 7/B2</cbc:StreetName><!--BT-513-Organization-Company
+                                    (Order: 20)-->
+                                    <cbc:CityName>Erlangen</cbc:CityName><!--BT-512-Organization-Company
+                                    (Order: 21)-->
+                                    <cbc:PostalZone>91058</cbc:PostalZone><!--BT-507-Organization-Company
+                                    (Order: 23)-->
+                                    <cbc:CountrySubentityCode listName="nuts">DE252</cbc:CountrySubentityCode>
+                                    <cac:Country><!--BT-514-Organization-Company
+                                        (Order: 02)-->
+                                        <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity><!--BT-501-Organization-Company
+                                    (Order: 03)-->
+                                    <cbc:CompanyID>2870d6f4-909c-4799-a4bc-5f8ab4e71a25</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact><!--BT-503-Organization-Company
+                                    (Order: 06)-->
+                                    <cbc:Telephone>+49 91318528371</cbc:Telephone><!--BT-506-Organization-Company
+                                    (Order: 08)-->
+                                    <cbc:ElectronicMail>christopher.eichler@fau.de</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company><!--BT-505-Organization-Company
+                                (Order: 01)-->
+                                <cbc:WebsiteURI>
+                                    https://www.regierung.mittelfranken.bayern.de/service/vergabekammer/index.html</cbc:WebsiteURI>
+                                <cac:PartyIdentification><!--OPT-200-Organization-Company
+                                    (Order: 02)-->
+                                    <cbc:ID>ORG-0002</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName><!--BT-500-Organization-Company
+                                    (Order: 02)-->
+                                    <cbc:Name languageID="DEU">Regierung von Mittelfranken -
+                                        Vergabekammer Nordbayern</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress><!--BT-510(a)-Organization-Company
+                                    (Order: 08)-->
+                                    <cbc:StreetName>Promenade 27</cbc:StreetName><!--BT-513-Organization-Company
+                                    (Order: 20)-->
+                                    <cbc:CityName>Ansbach</cbc:CityName><!--BT-512-Organization-Company
+                                    (Order: 21)-->
+                                    <cbc:PostalZone>91522</cbc:PostalZone><!--BT-507-Organization-Company
+                                    (Order: 23)-->
+                                    <cbc:CountrySubentityCode listName="nuts">DE251</cbc:CountrySubentityCode>
+                                    <cac:Country><!--BT-514-Organization-Company
+                                        (Order: 02)-->
+                                        <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity><!--BT-501-Organization-Company
+                                    (Order: 03)-->
+                                    <cbc:CompanyID>c0f12e87-76f1-4468-90ef-036d199560d7</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact><!--BT-503-Organization-Company
+                                    (Order: 06)-->
+                                    <cbc:Telephone>+49 981531277</cbc:Telephone><!--BT-739-Organization-Company
+                                    (Order: 07)-->
+                                    <cbc:Telefax>+49 981531837</cbc:Telefax><!--BT-506-Organization-Company
+                                    (Order: 08)-->
+                                    <cbc:ElectronicMail>vergabekammer.nordbayern@reg-mfr.bayern.de</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company><!--BT-505-Organization-Company
+                                (Order: 01)-->
+                                <cbc:WebsiteURI>https://www.auftraege.bayern.de/</cbc:WebsiteURI>
+                                <cac:PartyIdentification><!--OPT-200-Organization-Company
+                                    (Order: 02)-->
+                                    <cbc:ID>ORG-0003</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName><!--BT-500-Organization-Company
+                                    (Order: 02)-->
+                                    <cbc:Name languageID="DEU">Freistaat Bayern, vertreten durch die
+                                        Universität Erlangen-Nürnberg</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress><!--BT-510(a)-Organization-Company
+                                    (Order: 08)-->
+                                    <cbc:StreetName>Staudtstr. 7/B2</cbc:StreetName><!--BT-16-Organization-Company
+                                    (Order: 15)-->
+                                    <cbc:Department>Lehrstuhl für Experimentalphysik (Prof. Eichler)</cbc:Department><!--BT-513-Organization-Company
+                                    (Order: 20)-->
+                                    <cbc:CityName>Erlangen</cbc:CityName><!--BT-512-Organization-Company
+                                    (Order: 21)-->
+                                    <cbc:PostalZone>91058</cbc:PostalZone><!--BT-507-Organization-Company
+                                    (Order: 23)-->
+                                    <cbc:CountrySubentityCode listName="nuts">DE252</cbc:CountrySubentityCode>
+                                    <cac:Country><!--BT-514-Organization-Company
+                                        (Order: 02)-->
+                                        <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity><!--BT-501-Organization-Company
+                                    (Order: 03)-->
+                                    <cbc:CompanyID>b46b483c-f9d4-48a5-a92d-7d9e778ebb2d</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact><!--BT-502-Organization-Company
+                                    (Order: 03)-->
+                                    <cbc:Name>Lehrstuhl für Experimentalphysik (Prof. Eichler)</cbc:Name><!--BT-503-Organization-Company
+                                    (Order: 06)-->
+                                    <cbc:Telephone>+49 91318528371</cbc:Telephone><!--BT-506-Organization-Company
+                                    (Order: 08)-->
+                                    <cbc:ElectronicMail>christopher.eichler@fau.de</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company><!--BT-165-Organization-Company
+                                (Order: 03)-->
+                                <efbc:CompanySizeCode listName="economic-operator-size">large</efbc:CompanySizeCode>
+                                <cac:PartyIdentification><!--OPT-200-Organization-Company
+                                    (Order: 02)-->
+                                    <cbc:ID>ORG-0004</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName><!--BT-500-Organization-Company
+                                    (Order: 02)-->
+                                    <cbc:Name languageID="DEU">BlueFors</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress><!--BT-510(a)-Organization-Company
+                                    (Order: 08)-->
+                                    <cbc:StreetName>Straßfeldring 33</cbc:StreetName><!--BT-513-Organization-Company
+                                    (Order: 20)-->
+                                    <cbc:CityName>Oberding</cbc:CityName><!--BT-512-Organization-Company
+                                    (Order: 21)-->
+                                    <cbc:PostalZone>85445</cbc:PostalZone><!--BT-507-Organization-Company
+                                    (Order: 23)-->
+                                    <cbc:CountrySubentityCode listName="nuts">DE21A</cbc:CountrySubentityCode>
+                                    <cac:Country><!--BT-514-Organization-Company
+                                        (Order: 02)-->
+                                        <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity><!--BT-501-Organization-Company
+                                    (Order: 03)-->
+                                    <cbc:CompanyID>52aa8854-78a4-428a-b98a-3881145a98f8</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact><!--BT-503-Organization-Company
+                                    (Order: 06)-->
+                                    <cbc:Telephone>+491718183158</cbc:Telephone><!--BT-739-Organization-Company
+                                    (Order: 07)-->
+                                    <cbc:Telefax>+35893867335</cbc:Telefax><!--BT-506-Organization-Company
+                                    (Order: 08)-->
+                                    <cbc:ElectronicMail>vojko.kunej@bluefors.com</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DEU">Beschaffungsamt des BMI</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:CityName>Bonn</cbc:CityName>
+                                    <cbc:PostalZone>53119</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">DEA22</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID schemeID="002">994-DOEVD-83</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>+49228996100</cbc:Telephone>
+                                    <cbc:ElectronicMail>esender_hub@bescha.bund.de</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                    </efac:Organizations>
+                    <efac:Publication>
+                        <efbc:NoticePublicationID schemeName="ojs-notice-id">00207710-2024</efbc:NoticePublicationID>
+                        <efbc:GazetteID schemeName="ojs-id">70/2024</efbc:GazetteID>
+                        <efbc:PublicationDate>2024-04-09Z</efbc:PublicationDate>
+                    </efac:Publication>
+                </efext:EformsExtension>
+            </ext:ExtensionContent>
+        </ext:UBLExtension>
+    </ext:UBLExtensions><!--OPT-001-notice
+    (Order: 02)-->
+    <cbc:UBLVersionID>2.3</cbc:UBLVersionID><!--OPT-002-notice
+    (Order: 03)-->
+    <cbc:CustomizationID>eforms-sdk-1.7</cbc:CustomizationID><!--BT-701-notice
+    (Order: 06)-->
+    <cbc:ID schemeName="notice-id">4c9b9c77-ca37-4eec-995e-f000f301777c</cbc:ID><!--BT-04-notice
+    (Order: 09)-->
+    <cbc:ContractFolderID>15414a4d-4643-4681-bb67-c92c28ee7d48</cbc:ContractFolderID><!--BT-05(a)-notice
+    (Order: 10)-->
+    <cbc:IssueDate>2024-04-08+02:00</cbc:IssueDate><!--BT-05(b)-notice
+    (Order: 11)-->
+    <cbc:IssueTime>09:15:10+02:00</cbc:IssueTime><!--BT-757-notice
+    (Order: 14)-->
+    <cbc:VersionID>01</cbc:VersionID><!--BT-738-notice
+    (Order: 16)-->
+    <cbc:RequestedPublicationDate>2024-04-08+02:00</cbc:RequestedPublicationDate><!--BT-01-notice
+    (Order: 18)-->
+    <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain><!--BT-02-notice
+    (Order: 19)-->
+    <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode><!--BT-702(a)-notice
+    (Order: 21)-->
+    <cbc:NoticeLanguageCode>DEU</cbc:NoticeLanguageCode>
+    <cac:ContractingParty>
+        <cac:ContractingPartyType><!--BT-11-Procedure-Buyer
+            (Order: 02)-->
+            <cbc:PartyTypeCode listName="buyer-legal-type">body-pl-ra</cbc:PartyTypeCode>
+        </cac:ContractingPartyType>
+        <cac:ContractingActivity><!--BT-10-Procedure-Buyer
+            (Order: 02)-->
+            <cbc:ActivityTypeCode listName="authority-activity">education</cbc:ActivityTypeCode>
+        </cac:ContractingActivity>
+        <cac:Party>
+            <cac:PartyIdentification><!--OPT-300-Procedure-Buyer
+                (Order: 02)-->
+                <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+            <cac:ServiceProviderParty>
+                <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+                <cac:Party>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:Party>
+            </cac:ServiceProviderParty>
+        </cac:Party>
+    </cac:ContractingParty>
+    <cac:TenderingTerms>
+        <cac:ProcurementLegislationDocumentReference><!--BT-01(e)-Procedure
+            (Order: 02)-->
+            <cbc:ID>vgv</cbc:ID>
+        </cac:ProcurementLegislationDocumentReference>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess><!--BT-105-Procedure
+        (Order: 06)-->
+        <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+        <cac:ProcessJustification><!--BT-106-Procedure
+            (Order: 03)-->
+            <cbc:ProcessReasonCode listName="accelerated-procedure">true</cbc:ProcessReasonCode><!--BT-1351-Procedure
+            (Order: 04)-->
+            <cbc:ProcessReason languageID="DEU">Der zu beschaffende Kryostat wird für
+                Forschungsarbeiten in einem Drittmittelprojekt mit zeitlich klar definierten
+                Zielvorgaben benötigt.
+                Insbesondere für die Zusammenarbeit mit Projektpartnern, die auf die an der FAU
+                erzielten Forschungsergebnisse angewiesen sind, ist ein schnellstmöglicher Beginn
+                der Experimente mit dem zu beschaffenden Kryostaten erforderlich.</cbc:ProcessReason>
+        </cac:ProcessJustification>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject><!--BT-22-Procedure
+        (Order: 02)-->
+        <cbc:ID>2023000731</cbc:ID><!--BT-21-Procedure
+        (Order: 03)-->
+        <cbc:Name languageID="DEU">Kryostat</cbc:Name><!--BT-24-Procedure
+        (Order: 04)-->
+        <cbc:Description languageID="DEU">Die Forschung an supraleitenden Schaltkreisen erfordert
+            zur Durchführung der Experimente einen Kryostaten, der die zu untersuchenden Proben auf
+            wenige Tausendstel Grad oberhalb des absoluten Temperaturnullpunkts abkühlen kann
+            (Millikelvin-Bereich). Die hierzu ausgeschriebene Apparatur ist daher eine
+            Grundvoraussetzung für die Umsetzung am Lehrstuhl geplanter Forschungsvorhaben. Es wird
+            insbesondere ein Kryostat mit hinreichend großem Experimentierbereich gesucht, um
+            Experimente zu skalierbaren Architekturen für das Quantencomputing durchzuführen. </cbc:Description><!--BT-23-Procedure
+        (Order: 05)-->
+        <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+        <cac:MainCommodityClassification><!--BT-262-Procedure
+            (Order: 05)-->
+            <cbc:ItemClassificationCode listName="cpv">42943500</cbc:ItemClassificationCode>
+        </cac:MainCommodityClassification>
+        <cac:RealizedLocation>
+            <cac:Address><!--BT-5131-Procedure
+                (Order: 20)-->
+                <cbc:CityName>Erlangen</cbc:CityName><!--BT-5121-Procedure
+                (Order: 21)-->
+                <cbc:PostalZone>91058</cbc:PostalZone><!--BT-5071-Procedure
+                (Order: 23)-->
+                <cbc:CountrySubentityCode listName="nuts">DE252</cbc:CountrySubentityCode>
+                <cac:Country><!--BT-5141-Procedure
+                    (Order: 02)-->
+                    <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                </cac:Country>
+            </cac:Address>
+        </cac:RealizedLocation>
+    </cac:ProcurementProject>
+    <cac:ProcurementProjectLot><!--BT-137-Lot
+        (Order: 02)-->
+        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+        <cac:TenderingTerms>
+            <ext:UBLExtensions>
+                <ext:UBLExtension>
+                    <ext:ExtensionContent>
+                        <efext:EformsExtension>
+                            <efac:StrategicProcurement><!--BT-717-Lot
+                                (Order: )-->
+                                <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                            </efac:StrategicProcurement>
+                        </efext:EformsExtension>
+                    </ext:ExtensionContent>
+                </ext:UBLExtension>
+            </ext:UBLExtensions><!--BT-60-Lot
+            (Order: 09)-->
+            <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+            <cac:AwardingTerms>
+                <cac:AwardingCriterion>
+                    <cac:SubordinateAwardingCriterion>
+                        <ext:UBLExtensions>
+                            <ext:UBLExtension>
+                                <ext:ExtensionContent>
+                                    <efext:EformsExtension>
+                                        <efac:AwardCriterionParameter><!--BT-5421-Lot
+                                            (Order: 02)-->
+                                            <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode><!--BT-541-Lot
+                                            (Order: 03)-->
+                                            <efbc:ParameterNumeric>50</efbc:ParameterNumeric>
+                                        </efac:AwardCriterionParameter>
+                                    </efext:EformsExtension>
+                                </ext:ExtensionContent>
+                            </ext:UBLExtension>
+                        </ext:UBLExtensions><!--BT-539-Lot
+                        (Order: 03)-->
+                        <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode><!--BT-734-Lot
+                        (Order: 04)-->
+                        <cbc:Name languageID="DEU">Preis</cbc:Name>
+                    </cac:SubordinateAwardingCriterion>
+                    <cac:SubordinateAwardingCriterion>
+                        <ext:UBLExtensions>
+                            <ext:UBLExtension>
+                                <ext:ExtensionContent>
+                                    <efext:EformsExtension>
+                                        <efac:AwardCriterionParameter><!--BT-5421-Lot
+                                            (Order: 02)-->
+                                            <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode><!--BT-541-Lot
+                                            (Order: 03)-->
+                                            <efbc:ParameterNumeric>50</efbc:ParameterNumeric>
+                                        </efac:AwardCriterionParameter>
+                                    </efext:EformsExtension>
+                                </ext:ExtensionContent>
+                            </ext:UBLExtension>
+                        </ext:UBLExtensions><!--BT-539-Lot
+                        (Order: 03)-->
+                        <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><!--BT-734-Lot
+                        (Order: 04)-->
+                        <cbc:Name languageID="DEU">Leistungsbewertung gemäß Kriterienkatalog</cbc:Name><!--BT-540-Lot
+                        (Order: 05)-->
+                        <cbc:Description languageID="DEU">
+                            https://www.evergabe.bayern.de/evergabe.bieter/api/external/subproject/b28709f2-0d0f-4224-9cd5-d7eb3f47aa24/awardcriteria</cbc:Description>
+                    </cac:SubordinateAwardingCriterion>
+                </cac:AwardingCriterion>
+            </cac:AwardingTerms>
+            <cac:AdditionalInformationParty>
+                <cac:PartyIdentification><!--OPT-301-Lot-AddInfo
+                    (Order: 02)-->
+                    <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                </cac:PartyIdentification>
+            </cac:AdditionalInformationParty>
+            <cac:AppealTerms>
+                <cac:AppealReceiverParty>
+                    <cac:PartyIdentification><!--OPT-301-Lot-ReviewOrg
+                        (Order: 02)-->
+                        <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:AppealReceiverParty>
+            </cac:AppealTerms>
+        </cac:TenderingTerms>
+        <cac:TenderingProcess><!--BT-115-Lot
+            (Order: 13)-->
+            <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+            <cac:AuctionTerms><!--BT-767-Lot
+                (Order: 02)-->
+                <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+            </cac:AuctionTerms>
+            <cac:ContractingSystem><!--BT-765-Lot
+                (Order: 03)-->
+                <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+            </cac:ContractingSystem>
+            <cac:ContractingSystem><!--BT-766-Lot
+                (Order: 03)-->
+                <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+            </cac:ContractingSystem>
+        </cac:TenderingProcess>
+        <cac:ProcurementProject><!--BT-22-Lot
+            (Order: 02)-->
+            <cbc:ID>b87b5e2e-7674-4d14-9376-e3633b75a31b</cbc:ID><!--BT-21-Lot
+            (Order: 03)-->
+            <cbc:Name languageID="DEU">Kryostat</cbc:Name><!--BT-24-Lot
+            (Order: 04)-->
+            <cbc:Description languageID="DEU">Die Forschung an supraleitenden Schaltkreisen
+                erfordert zur Durchführung der Experimente einen Kryostaten, der die zu
+                untersuchenden Proben auf wenige Tausendstel Grad oberhalb des absoluten
+                Temperaturnullpunkts abkühlen kann (Millikelvin-Bereich). Die hierzu ausgeschriebene
+                Apparatur ist daher eine Grundvoraussetzung für die Umsetzung am Lehrstuhl geplanter
+                Forschungsvorhaben. Es wird insbesondere ein Kryostat mit hinreichend großem
+                Experimentierbereich gesucht, um Experimente zu skalierbaren Architekturen für das
+                Quantencomputing durchzuführen. </cbc:Description><!--BT-23-Lot
+            (Order: 05)-->
+            <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+            <cac:ProcurementAdditionalType><!--BT-06-Lot
+                (Order: 02)-->
+                <cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+            </cac:ProcurementAdditionalType>
+            <cac:MainCommodityClassification><!--BT-262-Lot
+                (Order: 05)-->
+                <cbc:ItemClassificationCode listName="cpv">42943500</cbc:ItemClassificationCode>
+            </cac:MainCommodityClassification>
+            <cac:PlannedPeriod><!--BT-536-Lot
+                (Order: 02)-->
+                <cbc:StartDate>2024-04-08+02:00</cbc:StartDate><!--BT-537-Lot
+                (Order: 04)-->
+                <cbc:EndDate>2024-12-06+01:00</cbc:EndDate>
+            </cac:PlannedPeriod>
+            <cac:ContractExtension>
+                <cac:Renewal>
+                    <cac:Period><!--BT-57-Lot
+                        (Order: 08)-->
+                        <cbc:Description languageID="DEU">Garantieleistungen, spezielle Verkabelung
+                            (RF-/DC-Leitungen)</cbc:Description>
+                    </cac:Period>
+                </cac:Renewal>
+            </cac:ContractExtension>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:TenderResult><!--OPT-999
+        (Order: 06)-->
+        <cbc:AwardDate>2024-04-05+02:00</cbc:AwardDate>
+    </cac:TenderResult>
+</ContractAwardNotice>

@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+    xmlns:n2016="http://publications.europa.eu/resource/schema/ted/2016/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+    VERSION="R2.0.9.S03.E01" DOC_ID="449580-2020" EDITION="2020187">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>20-464135-001</RECEPTION_ID>
+        <DELETION_DATE>20201230</DELETION_DATE>
+        <FORM_LG_LIST>FR </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>187</NO_OJ>
+            <DATE_PUB>20200925</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2020/S 187-449580</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:449580-2020:TEXT:FR:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>FR</LG_ORIG>
+            <ISO_COUNTRY VALUE="FR" />
+            <IA_URL_GENERAL>http://www.dr6.cnrs.fr/centre-est/</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="38400000">Instruments for checking physical characteristics</ORIGINAL_CPV>
+            <n2016:PERFORMANCE_NUTS CODE="FRC21">Doubs</n2016:PERFORMANCE_NUTS>
+            <n2016:CA_CE_NUTS CODE="FRF3">Lorraine</n2016:CA_CE_NUTS>
+            <n2016:TENDERER_NUTS CODE="UKJ14">Oxfordshire</n2016:TENDERER_NUTS>
+            <VALUES>
+                <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">437947.30</VALUE>
+            </VALUES>
+            <REF_NOTICE>
+                <NO_DOC_OJS>2020/S 112-271235</NO_DOC_OJS>
+            </REF_NOTICE>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20200921</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="1">Open procedure</PR_PROC>
+            <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+            <HEADING>01B03</HEADING>
+            <INITIATOR>01</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Фpaнция</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Уреди за контрол на физически характеристики</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Francie</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Nástroje pro kontrolu fyzických vlastností</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Frankrig</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumenter til kontrol af fysiske karakteristika</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Frankreich</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumente zum Prüfen von physikalischen Eigenschaften</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Γαλλία</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Όργανα ελέγχου φυσικών χαρακτηριστικών</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>France</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instruments for checking physical characteristics</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Francia</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumentos de medida o control de características físicas</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Prantsusmaa</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumendid füüsikaliste näitajate kontrollimiseks</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Ranska</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Fysikaalisten ominaisuuksien mittausvälineet</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>France</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instruments de contrôle de propriétés physiques</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Fhrainc, an</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instruments for checking physical characteristics</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Francuska</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumenti za provjeru fizičkih značajki</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Franciaország</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Fizikai jellemzők ellenőrzésére szolgáló műszerek</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Francia</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Strumenti per il controllo di caratteristiche fisiche</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Prancūzija</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Fizinių savybių nustatymo prietaisai</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Francija</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Fizikālo rādītāju pārbaudes instrumenti</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>Franza</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Strumenti għall-verifika tal-karatteristiċi fiżiċi</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Frankrijk</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumenten voor het controleren van fysische eigenschappen</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Francja</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Przyrządy do badania właściwości fizycznych</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>França</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumentos para controlo de propriedades físicas</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Franţa</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumente de verificare a proprietăţilor fizice</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Francúzsko</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Nástroje na kontrolu fyzikálnych vlastností</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Francija</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumenti za preverjanje fizikalnih značilnosti</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Frankrike</TI_CY>
+                <TI_TOWN>Vandoeuvre-lès-Nancy</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrument för kontroll av fysikaliska egenskaper</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="FR">CNRS — Délégation Centre Est</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="FR">
+            <LEGAL_BASIS VALUE="32014L0024" />
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>CNRS — Délégation Centre Est</OFFICIALNAME>
+                    <NATIONALID>18008901303993</NATIONALID>
+                    <ADDRESS>17 rue Notre-Dame-des-Pauvres, BP 10075</ADDRESS>
+                    <TOWN>Vandoeuvre-lès-Nancy</TOWN>
+                    <POSTAL_CODE>54519</POSTAL_CODE>
+                    <COUNTRY VALUE="FR" />
+                    <CONTACT_POINT>Pôle achats</CONTACT_POINT>
+                    <PHONE>+33 83856077</PHONE>
+                    <E_MAIL>dr06.liste.achats@cnrs.fr</E_MAIL>
+                    <FAX>+33 83856058</FAX>
+                    <n2016:NUTS CODE="FRF3" />
+                    <URL_GENERAL>http://www.dr6.cnrs.fr/centre-est/</URL_GENERAL>
+                    <URL_BUYER>https://www.marches-publics.gouv.fr</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="BODY_PUBLIC" />
+                <CA_ACTIVITY_OTHER>Recherche</CA_ACTIVITY_OTHER>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Réfrigérateur à dilution</P>
+                </TITLE>
+                <REFERENCE_NUMBER>20.06.07</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="38400000" />
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SUPPLIES" />
+                <SHORT_DESCR>
+                    <P>La présente consultation a pour objet la fourniture, la livraison et
+                        l'installation d'un réfrigérateur à dilution au laboratoire FEMTO-ST — CNRS.</P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="EUR">437947.30</VAL_TOTAL>
+                <NO_LOT_DIVISION />
+                <OBJECT_DESCR ITEM="1">
+                    <n2016:NUTS CODE="FRC21" />
+                    <MAIN_SITE>
+                        <P>FEMTO-ST-CNRS, TEMIS SCIENCES, 15B, avenue des Montboucons, 25 030
+                            Besançon</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>La présente consultation a pour objet la fourniture, la livraison et
+                            l'installation d'un réfrigérateur à dilution au laboratoire FEMTO-ST.</P>
+                        <P>Une prestation supplémentaire éventuelle obligatoire devra être proposée:</P>
+                        <P>— solution permettant de maintenir la chambre expérimentale à une
+                            température &lt; 50 mk sur une durée ≥ 30 minutes sans recourir au tube
+                            pulsé.</P>
+                        <P>Des prestations supplémentaires éventuelles facultatives peuvent être
+                            proposées:</P>
+                        <P>— un (1) kit de plateaux de chauffage permettant d'accélérer le retour à
+                            température ambiante de l'équipement,</P>
+                        <P>— des fenêtres optiques permettant d'équiper les «horizontal optical
+                            lines of sight»,</P>
+                        <P>— deux(2) passes-cloisons hermétiques pour fibres optiques en connectique
+                            FC/APC ou, à défaut, FC/PC supplémentaires,</P>
+                        <P>— des cordons de fibres optiques (fiber optics patchcords) monomodes à
+                            633 nm permettant d'équiper deux (2) des passes-cloisons hermétiques,</P>
+                        <P>— des cordons de fibres optiques (fiber optics patchcords) monomodes à
+                            1.55 μm, de type SMF28 ou équivalent, permettant d'équiper deux (2) des
+                            passes-cloisons hermétiques,</P>
+                        <P>— quatre (4) lignes coaxiales semi-rigides supplémentaires, présentant
+                            les caractéristiques suivantes: opération jusqu'à 18 GHz, section 4
+                            K-MXC constituée de câbles en Nb-Ti, non atténuées,</P>
+                        <P>— quatre (4) lignes coaxiales semi-rigides supplémentaires, présentant
+                            les caractéristiques suivantes: opération jusqu'à 18 GHz, munies
+                            d'atténuateurs, permettant de réduire le bruit thermique de photons
+                            générés par le signal micro-onde transmis,</P>
+                        <P>— un (1) kit d'atténuateurs radiofréquences,</P>
+                        <P>— fourniture et installation d'une seconde pompe indépendante,
+                            spécifiquement dédiée au pompage de l'Outer Vacuum Can (OVC).</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Valeur technique</AC_CRITERION>
+                            <AC_WEIGHTING>50</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Délai de livraison</AC_CRITERION>
+                            <AC_WEIGHTING>10</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Service après-vente — maintenance</AC_CRITERION>
+                            <AC_WEIGHTING>10</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>30</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <OPTIONS />
+                    <OPTIONS_DESCR>
+                        <P>Le CNRS se réserve la possibilité de recourir aux marchés négociés visés
+                            à l'article R. 2322-8 du code de la commande publique, portant sur
+                            l'acquisition de prestations ou fournitures complémentaires sans mise en
+                            concurrence.</P>
+                    </OPTIONS_DESCR>
+                    <EU_PROGR_RELATED>
+                        <P>ERC-COG unique (865724).</P>
+                    </EU_PROGR_RELATED>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <PT_OPEN />
+                <CONTRACT_COVERED_GPA />
+                <NOTICE_NUMBER_OJ>2020/S 112-271235</NOTICE_NUMBER_OJ>
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <CONTRACT_NO>2023361</CONTRACT_NO>
+                <TITLE>
+                    <P>Réfrigérateur à dilution</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2020-09-09</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Oxford Instruments Nanoscience PLC</OFFICIALNAME>
+                                <NATIONALID>704320</NATIONALID>
+                                <ADDRESS>Tubney Woods</ADDRESS>
+                                <TOWN>Abingdon, Oxon</TOWN>
+                                <POSTAL_CODE>OX13 5QX</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 1865393200</PHONE>
+                                <n2016:NUTS CODE="UKJ14" />
+                                <URL>www.oxford-instruments.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">380000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">437947.30</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <INFO_ADD>
+                    <P>Les options retenues et comprises dans le montant du marché sont les
+                        prestations supplémentaires n<FT TYPE="SUP">o</FT> 1 (kit de plateaux de
+                        chauffage), n<FT TYPE="SUP">o</FT> 2 (solution permettant de maintenir la
+                        chambre expérimentale à une température &lt; à 50 mK sur une durée ≥ à 30
+                        minutes, sans avoir recours au tube pulsé), n<FT TYPE="SUP">o</FT> 3
+                        (fenêtres optiques permettant d'équiper les accès optiques), n<FT TYPE="SUP">
+                        o</FT> 5 (des cordons de fibres optiques), n<FT TYPE="SUP">o</FT> 9 (un kit
+                        d'atténuateurs radiofréquences) et n<FT TYPE="SUP">o</FT> 10 (fourniture et
+                        installation d'une seconde pompe indépendante spécifiquement dédiée au
+                        pompage de l'Outer Vacuum Can (OVC).</P>
+                    <P>Le marché a été signé le 9.9.2020 et notifié au titulaire le 9.9.2020.</P>
+                    <P>Un recours de pleine juridiction contestant sa validité peut être introduit
+                        dans un délai de deux mois à compter de l'accomplissement des mesures de
+                        publicité appropriées au sens de la décision département de Tarn-et-Garonne
+                        (CE, ASS., 4.4.2014, n<FT TYPE="SUP">o</FT> 358994). Ce recours peut être
+                        assorti d'une demande tendant, sur le fondement de l'article L. 521-1 du
+                        code de justice administrative, à la suspension de l'exécution du contrat.
+                        Le présent avis d'attribution correspond à l'accomplissement des mesures de
+                        publicité appropriées au sens de la décision précitée. Le contrat est
+                        consultable dans le respect des secrets protégés par la loi n<FT TYPE="SUP">
+                        o</FT> 78-753 du 17.7.1978 codifiée dans le livre III du code des relations
+                        entre le public et l'administration, sur place à l'adresse indiquée à la
+                        rubrique I.1), après demande écrite adressée par télécopie ou courrier
+                        électronique (fax: +33 383856058 ou dr06.liste.achats@cnrs.fr) au service
+                        financier et comptable de la délégation, uniquement sur prise de rendez-vous
+                        du lundi au vendredi de 9:30 à 11:30 et de 14:30 à 16:00, hors jours fériés.</P>
+                </INFO_ADD>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Tribunal administratif de Nancy</OFFICIALNAME>
+                    <ADDRESS>5 place de la Carrière, CO n° 20038</ADDRESS>
+                    <TOWN>Nancy Cedex</TOWN>
+                    <POSTAL_CODE>54036</POSTAL_CODE>
+                    <COUNTRY VALUE="FR" />
+                    <PHONE>+33 383174343</PHONE>
+                    <E_MAIL>greffe.ta-nancy@juradm.fr</E_MAIL>
+                    <FAX>+33 383174350</FAX>
+                    <URL>www.nancy.tribunal-administratif.fr</URL>
+                </ADDRESS_REVIEW_BODY>
+                <REVIEW_PROCEDURE>
+                    <P>Précisions concernant les recours susceptibles d’être introduits à l’encontre
+                        de la procédure ou du marché, ainsi que sur les délais d’introduction de ces
+                        recours:</P>
+                    <P>— Référé précontractuel prévus aux articles L. 551-1 à L.551-12 du code de
+                        justice administrative (CJA) pouvant être introduit depuis le début de la
+                        procédure de passation jusqu'à la signature du marché; </P>
+                    <P>— Référé contractuel prévu aux articles L. 551-13 à L. 551-23 du CJA pouvant
+                        être exercé dans les délais prévus à l'article R. 551-7 du CJA;</P>
+                    <P>— Recours de pleine juridiction contestant la validité du marché dans un
+                        délai de deux mois à compter de l'accomplissement des mesures de publicité
+                        appropriées au sens de la décision Département de Tarn-et-Garonne (CE, Ass.,
+                        4 avril 2014, n<FT TYPE="SUP">o</FT> 358994). Ce recours en contestation de
+                        validité peut être assorti d'une demande tendant, sur le fondement de
+                        l'article L. 521-1 du code de justice administrative, à la suspension de
+                        l'exécution du contrat.</P>
+                </REVIEW_PROCEDURE>
+                <ADDRESS_REVIEW_INFO>
+                    <OFFICIALNAME>Tribunal administratif de Nancy</OFFICIALNAME>
+                    <ADDRESS>5 place de la Carrière, CO n° 20038</ADDRESS>
+                    <TOWN>Nancy Cedex</TOWN>
+                    <POSTAL_CODE>54036</POSTAL_CODE>
+                    <COUNTRY VALUE="FR" />
+                    <PHONE>+33 383174343</PHONE>
+                    <E_MAIL>greffe.ta-nancy@juradm.fr</E_MAIL>
+                    <FAX>+33 383174350</FAX>
+                    <URL>www.nancy.tribunal-administratif.fr</URL>
+                </ADDRESS_REVIEW_INFO>
+                <DATE_DISPATCH_NOTICE>2020-09-21</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F03_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

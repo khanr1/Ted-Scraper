@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+####################################################################################
+#  XSD name : TED_EXPORT (.xsd)
+#  RELEASE : "R2.0.8.S03.E01"
+#  Intermediate release number 002-20171128
+#  Last update :10/11/2016
+####################################################################################
+ -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="ted/R2.0.8.S03/publication" targetNamespace="ted/R2.0.8.S03/publication" elementFormDefault="qualified" attributeFormDefault="unqualified" version="R2.0.8.S03.E01">
+	<!-- *********************************** -->
+	<!-- include schemas                    -->
+	<!-- *********************************** -->
+	<xs:include schemaLocation="TED_EXPORT.xd"/>
+</xs:schema>

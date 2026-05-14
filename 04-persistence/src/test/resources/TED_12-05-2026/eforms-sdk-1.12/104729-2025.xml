@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2"
+   xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+   xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"
+   xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1"
+   xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1"
+   xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1"
+   xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="EUR">678000.27</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0002</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0002</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="EUR">196590.27</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Offre de QUANTUM DESIGN</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="EUR">481410</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0002</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Offre de QINU GmBH</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2025-01-22+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2025-01-27+01:00</cbc:IssueDate>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>2029531</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0002</cbc:ID>
+                     <cbc:AwardDate>2024-12-02+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2025-01-22+01:00</cbc:IssueDate>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>2029385</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>QUANTUM DESIGN</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+                     <cbc:Name>QINU GmBH</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.paris-centre.cnrs.fr</cbc:WebsiteURI>
+                        <cbc:EndpointID>http://www.marches-publics.gouv.fr</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA"> CNRS Délégation Paris-Centre</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>16 rue Pierre et Marie Curie</cbc:StreetName>
+                           <cbc:Department>Paris</cbc:Department>
+                           <cbc:CityName>75005 Paris</cbc:CityName>
+                           <cbc:PostalZone>75005</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">FR101</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>18008901303282</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Pôle Achats</cbc:Name>
+                           <cbc:Telephone>+33 1 42 34 94 00</cbc:Telephone>
+                           <cbc:ElectronicMail>marchesdr2@dr2.cnrs.fr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">CCIRA de Paris</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Préfecture de la région Île-de-France - Préfecture de
+                              Paris</cbc:StreetName>
+                           <cbc:AdditionalStreetName>Direction des affaires juridiques</cbc:AdditionalStreetName>
+                           <cbc:CityName>PARIS Cedex 15</cbc:CityName>
+                           <cbc:PostalZone>75911 </cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">FR101</cbc:CountrySubentityCode>
+                           <cac:AddressLine>
+                              <cbc:Line>5, rue Leblanc</cbc:Line>
+                           </cac:AddressLine>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>17750000600024</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:ElectronicMail>ccira@paris-idf.gouv.fr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>http://paris.tribunal-administratif.fr/</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">Tribunal Administratif de Paris</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>7 rue de Jouy</cbc:StreetName>
+                           <cbc:CityName>PARIS CEDEX 04</cbc:CityName>
+                           <cbc:PostalZone>75181</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">FR101</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>177 500 055 00013</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+33 144594400</cbc:Telephone>
+                           <cbc:Telefax>+33 144594646</cbc:Telefax>
+                           <cbc:ElectronicMail>greffe.ta-paris@juradm.fr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://qd-europe.com/fr/fr/</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">QUANTUM DESIGN</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Bâtiment Fuji-Yama</cbc:StreetName>
+                           <cbc:AdditionalStreetName>Avenue de l’Atlantique</cbc:AdditionalStreetName>
+                           <cbc:Department>Essonne</cbc:Department>
+                           <cbc:CityName>LES ULIS</cbc:CityName>
+                           <cbc:PostalZone>91940</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">FR104</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>30185534200079</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+33 1 69 19 49 49</cbc:Telephone>
+                           <cbc:ElectronicMail>france@qd-europe.com</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">QINU GmBH</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Windeckstraße 8</cbc:StreetName>
+                           <cbc:CityName>KARLSRUHE</cbc:CityName>
+                           <cbc:PostalZone>76135</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">DE122</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>Nr. 141 660 85 14</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+49 72195791700</cbc:Telephone>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+               <efac:Publication>
+                  <efbc:NoticePublicationID schemeName="ojs-notice-id">00104729-2025</efbc:NoticePublicationID>
+                  <efbc:GazetteID schemeName="ojs-id">33/2025</efbc:GazetteID>
+                  <efbc:PublicationDate>2025-02-17+01:00</efbc:PublicationDate>
+               </efac:Publication>
+            </efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">fe7e0338-baab-4cab-a51c-e314e467623b</cbc:ID>
+   <cbc:ContractFolderID>e143621b-7d43-4e97-8ace-a314f5c08ed3</cbc:ContractFolderID>
+   <cbc:IssueDate>2025-02-13Z</cbc:IssueDate>
+   <cbc:IssueTime>16:49:19Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">FRA</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://www.marches-publics.gouv.fr</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">education</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingTerms>
+      <cac:LotDistribution>
+         <cac:LotsGroup>
+            <cbc:LotsGroupID schemeName="LotsGroup">GLO-0001</cbc:LotsGroupID>
+            <cac:ProcurementProjectLotReference>
+               <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+            </cac:ProcurementProjectLotReference>
+            <cac:ProcurementProjectLotReference>
+               <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+            </cac:ProcurementProjectLotReference>
+         </cac:LotsGroup>
+      </cac:LotDistribution>
+   </cac:TenderingTerms>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">616977-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">2024_AOO_CRYOSTATS_LPENS_3</cbc:ID>
+      <cbc:Name languageID="FRA">2024_AOO_CRYOSTATS_LPENS_3</cbc:Name>
+      <cbc:Description languageID="FRA">Le Laboratoire de Physique de l’Ecole Normale Supérieure
+         (LPENS), unité mixte de recherche de l’ENS et du CNRS (UMR8023), est un laboratoire de
+         recherche fondamentale interdisciplinaire, en physique et ses interfaces, en pointe sur
+         différents aspects du transport quantique dynamique allant de l’optique quantique
+         électronique à l’électrodynamique quantique en cavité.
+         Dans le cadre d’expériences de manipulation de circuits quantiques, le LPENS souhaite
+         acquérir deux cryostats .
+         Le marché est décomposé en deux lots au sens de l’article R2113-10 du Code de la commande
+         publique comme suit :
+         Lot 1 : Cryostat sans bain d'hélium liquide pour des expériences de spintronique THz
+         Lot 2 : Cryostat à dilution pour des expériences de manipulation de circuits quantiques
+         hybrides.
+         Chaque lot fait l’objet d’un marché distinct.
+         Pour chaque lot, le marché comprend à minima :
+         L’acquisition,
+         Performances techniques et fonctionnelles minimales attendues de l’instrument,
+         La livraison assurée par le titulaire,
+         L’installation et la mise en service,
+         La formation aux utilisateurs,
+         La garantie contractuelle et support associé.
+</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">38970000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">38540000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">FR101</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Critère n°1 : Valeur technique
+                     Sous-critère n°1 : garanties apportées en termes de performance cryogénique et
+                     de robustesse aux fuites de mélange (10%)
+                     Sous-critère n°2 : garanties apportées en termes de simplicité d’utilisation
+                     (10%)
+                     Sous-critère n°3 : garanties apportées en termes de minimisation des vibrations
+                     de l’espace expérimental (10%)
+                     Sous-critère n°4 : garanties apportées en termes de câblage : accès des lignes
+                     (10%)
+                     Sous-critère n°5 : garanties apportées en termes de simplicité d’une
+                     intervention en cas de panne (possibilité d’intervention rapide sur site et
+                     sans retour du cryostat, …) (10%)
+                     Sous-critère n°6 : garanties apportées en termes de facilité de maintenance
+                     (10%)
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>20</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">cost</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Critère 2 : Coût global </cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>10</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Critère n° 3 : Délai de livraison</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>10</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Critère n° 4 : Développement durable
+                     Sous-critère n° 1 : Garantie apportée à la sauvegarde des consommables (5%)
+                     Sous-critère n° 2 : Garantie apportée à la minimisation de la consommation
+                     électrique nécessaire au fonctionnement de l’équipement.(5%)</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="FRA">Précisions concernant les délais d'introduction de
+                  recours:
+                  « Précisions concernant les recours susceptibles d’être introduits à l’encontre de
+                  la procédure ou du marché, ainsi que sur les délais d’introduction de ces recours
+                  :
+                  • Référé précontractuel prévu aux articles L. 551-1à L. 551-12 du code de justice
+                  administrative (CJA), pouvant être introduit depuis le début de la procédure de
+                  passation jusqu’à la signature du marché ;
+                  • Référé contractuel prévu aux articles L. 551-13 à L. 551-23 du CJA, pouvant être
+                  exercé dans les délais prévus à l'article R. 551-7 du CJA ;
+                  • Recours de pleine juridiction contestant la validité du marché dans un délai de
+                  2 mois à compter de l'accomplissement des mesures de publicité appropriées au sens
+                  de la décision Département de Tarn-et-Garonne (CE, Ass., 4 avril 2014, n°358994).
+                  Ce recours en contestation de validité peut être assorti d'une demande tendant,
+                  sur le fondement de l'article L. 521-1 du code de justice administrative, à la
+                  suspension de l'exécution du contrat. »
+                  Le présent avis d'attribution correspond à l'accomplissement des mesures de
+                  publicité appropriées au sens de la jurisprudence du Conseil d’Etat (Conseil
+                  d'État, Assemblée, Département du Tarn et Garonne, 04/04/2014, n°358994).
+                  Le contrat sera consultable dans le respect des secrets protégés par les
+                  dispositions du livre III du code des relations entre le public et
+                  l’administration, sur place à l'adresse indiquée à la rubrique 1.1, après une
+                  demande écrite adressée par mail ou courrier au service financier, achats et
+                  comptable de la délégation Paris-Centre et uniquement sur prise de rendez vous du
+                  lundi au vendredi de 9:30 à 11:30 et de 14:30 à 16:00, hors jours fériés et jours
+                  de fermeture du site. »
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">LOT1</cbc:ID>
+         <cbc:Name languageID="FRA">Lot 1 : Cryostat sans bain d'hélium liquide pour des expériences
+            de spintronique THz</cbc:Name>
+         <cbc:Description languageID="FRA">Dans le cadre du projet PEPR SPIN dont l'objectif est de
+            concevoir une technologie terahertz (THz) basée sur la spintronique, le LPENS doit
+            s’équiper d’un cryostat sans bain d’hélium.
+            Ce cryostat doit permettre de refroidir des échantillons spintronique THz (~0.1 - 10
+            THz) à basses températures (4 K) de dispositifs à base des hétérostructures
+            ferromagnétiques – non ferromagnétiques pour manipuler le spin et la charge d’un
+            électron en vue de mettre en œuvre des sources et détecteurs THz.
+            Les performances techniques et fonctionnelles minimales attendues du cryostat sont
+            précisées au cahier des clauses particulières (CCP) n° 2024_Cryostats_LPENS_3.
+</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cbc:EstimatedOverallContractQuantity>1</cbc:EstimatedOverallContractQuantity>
+         <cbc:Note languageID="FRA">Les documents de la consultation sont téléchargeables par voie
+            dématérialisée sur le profil acheteur :
+            https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&amp;AllCons&amp;id=2631338&amp;orgAcronyme=f2h
+            Les candidatures et les offres sont transmises par voie dématérialisée.
+            Le CNRS se réserve la possibilité, conformément aux dispositions de l’article R.2161-4
+            du code de la
+            commande publique, d’examiner les offres avant les candidatures.
+</cbc:Note>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="EUR">200000</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">38970000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">38540000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>ECOLE NORMALE SUPERIEURE </cbc:StreetName>
+               <cbc:AdditionalStreetName>Laboratoire de physiques de l’ENS (LPENS) UMR8023</cbc:AdditionalStreetName>
+               <cbc:CityName>Paris</cbc:CityName>
+               <cbc:PostalZone>75005</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">FR101</cbc:CountrySubentityCode>
+               <cac:AddressLine>
+                  <cbc:Line>24 rue Lhomond </cbc:Line>
+               </cac:AddressLine>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">28</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>50</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Critère n°1 : Valeur technique
+                     Sous-critère n°1 : garanties apportées en termes de performance cryogénique et
+                     de robustesse aux fuites de mélange (20%)
+                     Sous-critère n°2 : garanties apportées en termes d’encombrement minimal (10%)
+                     Sous-critère n°3 : garanties apportées en termes de minimisation des vibrations
+                     de l’espace expérimental (10%)
+                     Sous-critère n°4 : garanties apportées en termes de facilité de maintenance
+                     (10%) </cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>25</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">cost</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Critère n°2 : Coût global </cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>15</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Critère n°3 : Développement durable
+                     Sous-critère n°1 : Garantie apportée à la sauvegarde des consommables (circuit
+                     fermé etc..) (5%)
+                     Sous critère n°2 : Garantie apportée à l’emploi de matériaux recyclés dans le
+                     produit proposé (5%)
+                     Sous critère n°3 : Garantie apportée à la minimisation de la consommation
+                     électrique nécessaire au fonctionnement de l’équipement. (5%)</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>10</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Critère n° 4 : Délai de livraison</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="FRA">Précisions concernant les délais d'introduction de
+                  recours:
+                  « Précisions concernant les recours susceptibles d’être introduits à l’encontre de
+                  la procédure ou du marché, ainsi que sur les délais d’introduction de ces recours
+                  :
+                  • Référé précontractuel prévu aux articles L. 551-1à L. 551-12 du code de justice
+                  administrative (CJA), pouvant être introduit depuis le début de la procédure de
+                  passation jusqu’à la signature du marché ;
+                  • Référé contractuel prévu aux articles L. 551-13 à L. 551-23 du CJA, pouvant être
+                  exercé dans les délais prévus à l'article R. 551-7 du CJA ;
+                  • Recours de pleine juridiction contestant la validité du marché dans un délai de
+                  2 mois à compter de l'accomplissement des mesures de publicité appropriées au sens
+                  de la décision Département de Tarn-et-Garonne (CE, Ass., 4 avril 2014, n°358994).
+                  Ce recours en contestation de validité peut être assorti d'une demande tendant,
+                  sur le fondement de l'article L. 521-1 du code de justice administrative, à la
+                  suspension de l'exécution du contrat. »
+                  Le présent avis d'attribution correspond à l'accomplissement des mesures de
+                  publicité appropriées au sens de la jurisprudence du Conseil d’Etat (Conseil
+                  d'État, Assemblée, Département du Tarn et Garonne, 04/04/2014, n°358994).
+                  Le contrat sera consultable dans le respect des secrets protégés par les
+                  dispositions du livre III du code des relations entre le public et
+                  l’administration, sur place à l'adresse indiquée à la rubrique 1.1, après une
+                  demande écrite adressée par mail ou courrier au service financier, achats et
+                  comptable de la délégation Paris-Centre et uniquement sur prise de rendez vous du
+                  lundi au vendredi de 9:30 à 11:30 et de 14:30 à 16:00, hors jours fériés et jours
+                  de fermeture du site. »
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">LOT2</cbc:ID>
+         <cbc:Name languageID="FRA">Lot n°2 : Un cryostat à dilution pour des expériences de
+            manipulation de circuits quantiques hybrides.</cbc:Name>
+         <cbc:Description languageID="FRA">L’équipe Circuits Quantiques Hybrides utilise des
+            nanotubes de carbone pour façonner des états électroniques particuliers. Dans le cadre
+            du projet MIRACLE_Q, le but est de réaliser des qubits de spin dans des nanotubes de
+            carbone couplés à des résonateurs micro-ondes et de démontrer des portes à 1 et 2 qubits
+            de grande fidélité. Pour répondre à ces objectifs, le LPENS doit s’équiper d’un cryostat
+            à dilution sans hélium.
+            Ce cryostat doit permettre de refroidir des mesures hyperfréquences (~1-10 GHz) à très
+            basses températures (≤30 mK) de dispositifs à base de nanotubes de carbone pour
+            manipuler le spin d’un électron en vue de mettre en œuvre des portes quantiques. Le
+            refroidissement du cryostat doit être rapide (&lt;12h) afin de permettre un cyclage
+            rapide des échantillons.
+            Les performances techniques et fonctionnelles minimales attendues du cryostat sont
+            précisées au cahier des clauses particulières n°2024_CRYOSTAT_LPENS_3.
+            En complément de l’offre de base, le soumissionnaire peut proposer la variante suivante
+            : Un cryostat reconditionné qui a servi à la démonstration conforme aux spécifications
+            techniques et fonctionnelles précisées au cahier des clauses particulières (CCP) n°
+            2024_Cryostats_LPENS_3.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cbc:EstimatedOverallContractQuantity>1</cbc:EstimatedOverallContractQuantity>
+         <cbc:Note languageID="FRA">Les documents de la consultation sont téléchargeables par voie
+            dématérialisée sur le profil acheteur :
+            https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&amp;AllCons&amp;id=2631338&amp;orgAcronyme=f2h
+            Les candidatures et les offres sont transmises par voie dématérialisée.
+            Le CNRS se réserve la possibilité, conformément aux dispositions de l’article R.2161-4
+            du code de la
+            commande publique, d’examiner les offres avant les candidatures.
+</cbc:Note>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="EUR">450000</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">38970000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">38540000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>ECOLE NORMALE SUPERIEURE </cbc:StreetName>
+               <cbc:AdditionalStreetName>Laboratoire de physiques de l’ENS (LPENS) UMR8023</cbc:AdditionalStreetName>
+               <cbc:CityName>Paris</cbc:CityName>
+               <cbc:PostalZone>75005</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">FR101</cbc:CountrySubentityCode>
+               <cac:AddressLine>
+                  <cbc:Line>24 rue Lhomond </cbc:Line>
+               </cac:AddressLine>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">26</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="LotsGroup">GLO-0001</cbc:ID>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">2024_AOO_CRYOSTATS_LPENS_3</cbc:ID>
+         <cbc:Description languageID="FRA">Dans le cadre d’expériences de manipulation de circuits
+            quantiques, le LPENS souhaite acquérir deux cryostats .
+            Le marché est décomposé en deux lots au sens de l’article R2113-10 du Code de la
+            commande publique. Chaque lot fait l’objet d’un marché distinct.
+            Lot 1 : Cryostat sans bain d'hélium liquide pour des expériences de spintronique THz
+            Lot 2 : Cryostat à dilution pour des expériences de manipulation de circuits quantiques
+            hybrides
+            Le contrat est un marché ordinaire traité à prix forfaitaire pour chaque lot.
+            Le montant estimé du lot 1 est de : 200 000.00 € HT
+            Le montant estimé du lot 2 est de : 450 000.00 € HT
+</cbc:Description>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="EUR">650000</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

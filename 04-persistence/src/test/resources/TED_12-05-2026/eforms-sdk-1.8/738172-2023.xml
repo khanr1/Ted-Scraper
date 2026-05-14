@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2"
+    xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+    xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"
+    xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1"
+    xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1"
+    xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1"
+    xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ext:UBLExtensions>
+        <ext:UBLExtension>
+            <ext:ExtensionContent>
+                <efext:EformsExtension>
+                    <efac:NoticeResult>
+                        <cbc:TotalAmount currencyID="EUR">524960.00</cbc:TotalAmount>
+                        <efac:LotResult>
+                            <cbc:ID>RES-0001</cbc:ID>
+                            <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                            <efac:LotTender>
+                                <cbc:ID>TEN-0001</cbc:ID>
+                            </efac:LotTender>
+                            <efac:SettledContract>
+                                <cbc:ID>CON-0001</cbc:ID>
+                            </efac:SettledContract>
+                            <efac:TenderLot>
+                                <cbc:ID>LOT-0001</cbc:ID>
+                            </efac:TenderLot>
+                        </efac:LotResult>
+                        <efac:LotTender>
+                            <cbc:ID>TEN-0001</cbc:ID>
+                            <cbc:RankCode>1</cbc:RankCode>
+                            <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                            <cac:LegalMonetaryTotal>
+                                <cbc:PayableAmount currencyID="EUR">524960</cbc:PayableAmount>
+                            </cac:LegalMonetaryTotal>
+                            <efac:SubcontractingTerm>
+                                <efbc:TermCode>not-known</efbc:TermCode>
+                            </efac:SubcontractingTerm>
+                            <efac:TenderingParty>
+                                <cbc:ID>TPA-0001</cbc:ID>
+                            </efac:TenderingParty>
+                            <efac:TenderLot>
+                                <cbc:ID>LOT-0001</cbc:ID>
+                            </efac:TenderLot>
+                            <efac:TenderReference>
+                                <cbc:ID>ANGEBOT-0001</cbc:ID>
+                            </efac:TenderReference>
+                        </efac:LotTender>
+                        <efac:SettledContract>
+                            <cbc:ID>CON-0001</cbc:ID>
+                            <cbc:AwardDate>2023-11-27+02:00</cbc:AwardDate>
+                            <cbc:IssueDate>2023-11-29+02:00</cbc:IssueDate>
+                            <cbc:Title languageID="DEU">Beschaffung eines fabrikneuen
+                                Trocken-Misch-Kryostaten mit kurzen Kühlzeiten</cbc:Title>
+                            <efac:ContractReference>
+                                <cbc:ID>VERTRAG-0001</cbc:ID>
+                            </efac:ContractReference>
+                            <efac:LotTender>
+                                <cbc:ID>TEN-0001</cbc:ID>
+                            </efac:LotTender>
+                        </efac:SettledContract>
+                        <efac:TenderingParty>
+                            <cbc:ID>TPA-0001</cbc:ID>
+                            <efac:Tenderer>
+                                <cbc:ID>ORG-1001</cbc:ID>
+                            </efac:Tenderer>
+                        </efac:TenderingParty>
+                    </efac:NoticeResult>
+                    <efac:NoticeSubType>
+                        <cbc:SubTypeCode>29</cbc:SubTypeCode>
+                    </efac:NoticeSubType>
+                    <efac:Organizations>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>https://uibk.vemap.com</cbc:WebsiteURI>
+                                <cbc:EndpointID>https://uibk.vemap.com</cbc:EndpointID>
+                                <cac:PartyIdentification>
+                                    <cbc:ID>ORG-0001</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DEU">Universität Innsbruck</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Innrain 52</cbc:StreetName>
+                                    <cbc:CityName>Innsbruck</cbc:CityName>
+                                    <cbc:PostalZone>6020</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts-lvl3">AT332</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode>AUT</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID>9110007928380</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>+43 5125070</cbc:Telephone>
+                                    <cbc:ElectronicMail>wolfgang.lentsch@uibk.ac.at</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>http://www.bvwg.gv.at</cbc:WebsiteURI>
+                                <cbc:EndpointID>http://www.bvwg.gv.at</cbc:EndpointID>
+                                <cac:PartyIdentification>
+                                    <cbc:ID>ORG-0100</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DEU">Bundesverwaltungsgericht</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Erdbergstraße 192 - 196</cbc:StreetName>
+                                    <cbc:CityName>Wien</cbc:CityName>
+                                    <cbc:PostalZone>1030</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts-lvl3">AT130</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode>AUT</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID>9110008059823</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>+43 1601490</cbc:Telephone>
+                                    <cbc:Telefax>+43 1711238891541</cbc:Telefax>
+                                    <cbc:ElectronicMail>einlaufstelle@bvwg.gv.at</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>https://www.vemap.com</cbc:WebsiteURI>
+                                <cbc:EndpointID>https://www.vemap.com</cbc:EndpointID>
+                                <cac:PartyIdentification>
+                                    <cbc:ID>ORG-9999</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DEU">vemap Einkaufsmanagement GmbH</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Berggasse 31</cbc:StreetName>
+                                    <cbc:CityName>Wien</cbc:CityName>
+                                    <cbc:PostalZone>1090</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts-lvl3">AT130</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode>AUT</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID>TED20</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>+43 (0)1 3157940</cbc:Telephone>
+                                    <cbc:ElectronicMail>office@vemap.com</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efbc:ListedOnRegulatedMarketIndicator>0</efbc:ListedOnRegulatedMarketIndicator>
+                            <efac:Company>
+                                <cbc:EndpointID>https://uibk.vemap.com</cbc:EndpointID>
+                                <efbc:CompanySizeCode>sme</efbc:CompanySizeCode>
+                                <cac:PartyIdentification>
+                                    <cbc:ID>ORG-1001</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DEU">Qinu GmbH</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Morgenstraße 8</cbc:StreetName>
+                                    <cbc:CityName>Karlsruhe</cbc:CityName>
+                                    <cbc:PostalZone>76137</cbc:PostalZone>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode>DEU</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID>HRB 739506</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>072195791700</cbc:Telephone>
+                                    <cbc:ElectronicMail>marcel.schrodin@qinu.de</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                    </efac:Organizations>
+                    <efac:Publication>
+                        <efbc:NoticePublicationID schemeName="ojs-notice-id">00738172-2023</efbc:NoticePublicationID>
+                        <efbc:GazetteID schemeName="ojs-id">234/2023</efbc:GazetteID>
+                        <efbc:PublicationDate>2023-12-05Z</efbc:PublicationDate>
+                    </efac:Publication>
+                </efext:EformsExtension>
+            </ext:ExtensionContent>
+        </ext:UBLExtension>
+    </ext:UBLExtensions>
+    <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+    <cbc:CustomizationID>eforms-sdk-1.8</cbc:CustomizationID>
+    <cbc:ID schemeName="notice-id">bac6b9e6-c01b-4591-bdf1-b51f6840af79</cbc:ID>
+    <cbc:ContractFolderID>68d912b5-6429-4961-ae04-c6897ae40dcd</cbc:ContractFolderID>
+    <cbc:IssueDate>2023-12-04+01:00</cbc:IssueDate>
+    <cbc:IssueTime>12:28:33+01:00</cbc:IssueTime>
+    <cbc:VersionID>01</cbc:VersionID>
+    <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+    <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+    <cbc:NoticeLanguageCode>DEU</cbc:NoticeLanguageCode>
+    <cac:ContractingParty>
+        <cbc:BuyerProfileURI>https://uibk.vemap.com</cbc:BuyerProfileURI>
+        <cac:ContractingPartyType>
+            <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+        </cac:ContractingPartyType>
+        <cac:ContractingActivity>
+            <cbc:ActivityTypeCode listName="authority-activity">education</cbc:ActivityTypeCode>
+        </cac:ContractingActivity>
+        <cac:Party>
+            <cac:PartyIdentification>
+                <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+            <cac:ServiceProviderParty>
+                <cbc:ServiceTypeCode>ted-esen</cbc:ServiceTypeCode>
+                <cac:Party>
+                    <cac:PartyIdentification>
+                        <cbc:ID>ORG-9999</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:Party>
+            </cac:ServiceProviderParty>
+        </cac:Party>
+    </cac:ContractingParty>
+    <cac:TenderingProcess>
+        <ext:UBLExtensions>
+            <ext:UBLExtension>
+                <ext:ExtensionContent>
+                    <efext:EformsExtension>
+                        <efbc:ProcedureRelaunchIndicator>0</efbc:ProcedureRelaunchIndicator>
+                    </efext:EformsExtension>
+                </ext:ExtensionContent>
+            </ext:UBLExtension>
+        </ext:UBLExtensions>
+        <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+        <cbc:TerminatedIndicator>1</cbc:TerminatedIndicator>
+        <cac:NoticeDocumentReference>
+            <cbc:ID>556209-2023</cbc:ID>
+        </cac:NoticeDocumentReference>
+        <cac:ProcessJustification>
+            <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+        </cac:ProcessJustification>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+        <cbc:ID>263276/23 W</cbc:ID>
+        <cbc:Name languageID="DEU">Beschaffung eines fabrikneuen Trocken-Misch-Kryostaten mit kurzen
+            Kühlzeiten</cbc:Name>
+        <cbc:Description languageID="DEU">Beschaffung eines fabrikneuen Trocken-Misch-Kryostaten mit
+            kurzen Kühlzeiten für das Institut für Experimentalphysik der Fakultät für Mathematik,
+            Informatik und Physik der Universität Innsbruck.</cbc:Description>
+        <cbc:ProcurementTypeCode listName="eforms-contract-nature">supplies</cbc:ProcurementTypeCode>
+        <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">38000000</cbc:ItemClassificationCode>
+        </cac:MainCommodityClassification>
+        <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">42513100</cbc:ItemClassificationCode>
+        </cac:AdditionalCommodityClassification>
+        <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">42943500</cbc:ItemClassificationCode>
+        </cac:AdditionalCommodityClassification>
+        <cac:RealizedLocation>
+            <cac:Address>
+                <cbc:Region>anyw-cou</cbc:Region>
+                <cac:Country>
+                    <cbc:IdentificationCode>AUT</cbc:IdentificationCode>
+                </cac:Country>
+            </cac:Address>
+        </cac:RealizedLocation>
+    </cac:ProcurementProject>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+            <cac:AwardingTerms>
+                <cac:AwardingCriterion>
+                    <cac:SubordinateAwardingCriterion>
+                        <ext:UBLExtensions>
+                            <ext:UBLExtension>
+                                <ext:ExtensionContent>
+                                    <efext:EformsExtension>
+                                        <efac:AwardCriterionParameter>
+                                            <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                            <efbc:ParameterNumeric>80.00</efbc:ParameterNumeric>
+                                        </efac:AwardCriterionParameter>
+                                    </efext:EformsExtension>
+                                </ext:ExtensionContent>
+                            </ext:UBLExtension>
+                        </ext:UBLExtensions>
+                        <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                        <cbc:Name languageID="DEU">Preis</cbc:Name>
+                        <cbc:Description languageID="DEU">Siehe Verfahrensunterlagen.</cbc:Description>
+                    </cac:SubordinateAwardingCriterion>
+                    <cac:SubordinateAwardingCriterion>
+                        <ext:UBLExtensions>
+                            <ext:UBLExtension>
+                                <ext:ExtensionContent>
+                                    <efext:EformsExtension>
+                                        <efac:AwardCriterionParameter>
+                                            <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                            <efbc:ParameterNumeric>7.00</efbc:ParameterNumeric>
+                                        </efac:AwardCriterionParameter>
+                                    </efext:EformsExtension>
+                                </ext:ExtensionContent>
+                            </ext:UBLExtension>
+                        </ext:UBLExtensions>
+                        <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                        <cbc:Name languageID="DEU">Dauer Abkühlphase von Raumtemperatur auf 15 mK</cbc:Name>
+                        <cbc:Description languageID="DEU">Siehe Verfahrensunterlagen.</cbc:Description>
+                    </cac:SubordinateAwardingCriterion>
+                    <cac:SubordinateAwardingCriterion>
+                        <ext:UBLExtensions>
+                            <ext:UBLExtension>
+                                <ext:ExtensionContent>
+                                    <efext:EformsExtension>
+                                        <efac:AwardCriterionParameter>
+                                            <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                            <efbc:ParameterNumeric>7.00</efbc:ParameterNumeric>
+                                        </efac:AwardCriterionParameter>
+                                    </efext:EformsExtension>
+                                </ext:ExtensionContent>
+                            </ext:UBLExtension>
+                        </ext:UBLExtensions>
+                        <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                        <cbc:Name languageID="DEU">Erfüllungszeitraum</cbc:Name>
+                        <cbc:Description languageID="DEU">Siehe Verfahrensunterlagen.</cbc:Description>
+                    </cac:SubordinateAwardingCriterion>
+                    <cac:SubordinateAwardingCriterion>
+                        <ext:UBLExtensions>
+                            <ext:UBLExtension>
+                                <ext:ExtensionContent>
+                                    <efext:EformsExtension>
+                                        <efac:AwardCriterionParameter>
+                                            <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                            <efbc:ParameterNumeric>6.00</efbc:ParameterNumeric>
+                                        </efac:AwardCriterionParameter>
+                                    </efext:EformsExtension>
+                                </ext:ExtensionContent>
+                            </ext:UBLExtension>
+                        </ext:UBLExtensions>
+                        <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                        <cbc:Name languageID="DEU">Verlängerung Gewährleistungszeitraum</cbc:Name>
+                        <cbc:Description languageID="DEU">Siehe Verfahrensunterlagen.</cbc:Description>
+                    </cac:SubordinateAwardingCriterion>
+                </cac:AwardingCriterion>
+            </cac:AwardingTerms>
+            <cac:AppealTerms>
+                <cac:AppealReceiverParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="Lot">ORG-0100</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:AppealReceiverParty>
+            </cac:AppealTerms>
+        </cac:TenderingTerms>
+        <cac:TenderingProcess>
+            <cbc:GovernmentAgreementConstraintIndicator>1</cbc:GovernmentAgreementConstraintIndicator>
+            <cac:NoticeDocumentReference>
+                <cbc:ID schemeName="Lot">556209-2023</cbc:ID>
+                <cbc:ReferencedDocumentInternalAddress>LOT-0001</cbc:ReferencedDocumentInternalAddress>
+            </cac:NoticeDocumentReference>
+            <cac:AuctionTerms>
+                <cbc:AuctionConstraintIndicator>0</cbc:AuctionConstraintIndicator>
+            </cac:AuctionTerms>
+            <cac:ContractingSystem>
+                <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+            </cac:ContractingSystem>
+            <cac:ContractingSystem>
+                <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+            </cac:ContractingSystem>
+        </cac:TenderingProcess>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="Lot">Beschaffung eines fabrikneuen Trocken-Misch-Kryostaten mit
+                kurzen Kühlzeiten</cbc:ID>
+            <cbc:Name languageID="DEU">Beschaffung eines fabrikneuen Trocken-Misch-Kryostaten mit
+                kurzen Kühlzeiten</cbc:Name>
+            <cbc:Description languageID="DEU">Beschaffung eines fabrikneuen Trocken-Misch-Kryostaten
+                mit kurzen Kühlzeiten für das Institut für Experimentalphysik der Fakultät für
+                Mathematik, Informatik und Physik der Universität Innsbruck.</cbc:Description>
+            <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+            <cac:MainCommodityClassification>
+                <cbc:ItemClassificationCode listName="cpv">38000000</cbc:ItemClassificationCode>
+            </cac:MainCommodityClassification>
+            <cac:AdditionalCommodityClassification>
+                <cbc:ItemClassificationCode listName="cpv">42513100</cbc:ItemClassificationCode>
+            </cac:AdditionalCommodityClassification>
+            <cac:AdditionalCommodityClassification>
+                <cbc:ItemClassificationCode listName="cpv">42943500</cbc:ItemClassificationCode>
+            </cac:AdditionalCommodityClassification>
+            <cac:RealizedLocation>
+                <cac:Address>
+                    <cbc:Region>anyw-cou</cbc:Region>
+                    <cac:Country>
+                        <cbc:IdentificationCode>AUT</cbc:IdentificationCode>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+            <cac:PlannedPeriod>
+                <cbc:StartDate>2023-11-29+02:00</cbc:StartDate>
+                <cbc:EndDate>2024-11-29+02:00</cbc:EndDate>
+            </cac:PlannedPeriod>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:TenderResult>
+        <cbc:AwardDate>2000-01-01+02:00</cbc:AwardDate>
+    </cac:TenderResult>
+</ContractAwardNotice>

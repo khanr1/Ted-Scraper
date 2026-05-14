@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+    xmlns:n2016="http://publications.europa.eu/resource/schema/ted/2016/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+    VERSION="R2.0.9.S03.E01" DOC_ID="120708-2019" EDITION="2019052">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>19-119371-001</RECEPTION_ID>
+        <DELETION_DATE>20190328</DELETION_DATE>
+        <FORM_LG_LIST>EN </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>52</NO_OJ>
+            <DATE_PUB>20190314</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2019/S 052-120708</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:120708-2019:TEXT:EN:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>EN</LG_ORIG>
+            <ISO_COUNTRY VALUE="MK" />
+            <IA_URL_GENERAL>http://www.medf.ukim.edu.mk/</IA_URL_GENERAL>
+            <IA_URL_ETENDERING>https://www.e-nabavki.gov.mk/</IA_URL_ETENDERING>
+            <ORIGINAL_CPV CODE="33100000">Medical equipments</ORIGINAL_CPV>
+            <n2016:PERFORMANCE_NUTS CODE="MK">ПОРАНЕШНА ЈУГОСЛОВЕНСКА РЕПУБЛИКА МАКЕДОНИЈА
+                (PORANEŠNA JUGOSLOVENSKA REPUBLIKA MAKEDONIJA)</n2016:PERFORMANCE_NUTS>
+            <n2016:PERFORMANCE_NUTS CODE="MK0">ПОРАНЕШНА ЈУГОСЛОВЕНСКА РЕПУБЛИКА МАКЕДОНИЈА
+                (PORANEŠNA JUGOSLOVENSKA REPUBLIKA MAKEDONIJA)</n2016:PERFORMANCE_NUTS>
+            <n2016:CA_CE_NUTS CODE="MK">ПОРАНЕШНА ЈУГОСЛОВЕНСКА РЕПУБЛИКА МАКЕДОНИЈА (PORANEŠNA
+                JUGOSLOVENSKA REPUBLIKA MAKEDONIJA)</n2016:CA_CE_NUTS>
+            <VALUES>
+                <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="MKD">4611000.00</VALUE>
+            </VALUES>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20190311</DS_DATE_DISPATCH>
+            <DT_DATE_FOR_SUBMISSION>20190328 10:00</DT_DATE_FOR_SUBMISSION>
+            <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="1">Open procedure</PR_PROC>
+            <RP_REGULATION CODE="8">Other</RP_REGULATION>
+            <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="3">Mixed</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="L">Education</MA_MAIN_ACTIVITIES>
+            <HEADING>02B02</HEADING>
+            <INITIATOR>02</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Северна Македония</TI_CY>
+                <TI_TOWN>Скопие</TI_TOWN>
+                <TI_TEXT>
+                    <P>Медицинско оборудване</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Severní Makedonie</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Zdravotnické přístroje</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Nordmakedonien</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Medicinsk udstyr</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Nordmazedonien</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Medizinische Geräte</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Βόρεια Μακεδονία</TI_CY>
+                <TI_TOWN>Σκόπια</TI_TOWN>
+                <TI_TEXT>
+                    <P>Ιατρικές συσκευές</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>North Macedonia</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Medical equipments</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Macedonia del Norte</TI_CY>
+                <TI_TOWN>Skopie</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipamiento médico</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Põhja-Makedoonia </TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Meditsiiniseadmed</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Pohjois-Makedonia</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Lääketieteelliset laitteet</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Macédoine du Nord</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Équipements médicaux</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>an Mhacadóin Thuaidh</TI_CY>
+                <TI_TOWN>Scóipé</TI_TOWN>
+                <TI_TEXT>
+                    <P>Medical equipments</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Sjeverna Makedonija</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Medicinske naprave</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Észak-Macedónia</TI_CY>
+                <TI_TOWN>Szkopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Orvosi felszerelések</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Macedonia del Nord</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Apparecchiature mediche</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Šiaurės Makedonija</TI_CY>
+                <TI_TOWN>Skopjė</TI_TOWN>
+                <TI_TEXT>
+                    <P>Medicinos įranga</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Ziemeļmaķedonija</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Medicīniskās ierīces</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>Il-Maċedonja ta' Fuq</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Tagħmir mediku</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Noord-Macedonië</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Medische apparatuur</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Macedonia Północna</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Urządzenia medyczne</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Macedónia do Norte</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipamento médico</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Macedonia de Nord</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Echipamente medicale</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Severné Macedónsko</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Zdravotnícke vybavenie</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Severna Makedonija</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Medicinska oprema</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Nordmakedonien</TI_CY>
+                <TI_TOWN>Skopje</TI_TOWN>
+                <TI_TEXT>
+                    <P>Medicinsk utrustning</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="EN">Ss. Cyril and Methodius University Faculty of Medicine Skopje</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="EN">
+            <LEGAL_BASIS VALUE="32014L0024" />
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Ss. Cyril and Methodius University Faculty of Medicine Skopje</OFFICIALNAME>
+                    <ADDRESS>50 Divizija, No.6</ADDRESS>
+                    <TOWN>Skopje</TOWN>
+                    <POSTAL_CODE>1000</POSTAL_CODE>
+                    <COUNTRY VALUE="MK" />
+                    <CONTACT_POINT>Tatjana Veljanovska</CONTACT_POINT>
+                    <PHONE>+389 3103728</PHONE>
+                    <E_MAIL>j.nabavki@medf.ukim.edu.mk</E_MAIL>
+                    <n2016:NUTS CODE="MK" />
+                    <URL_GENERAL>http://www.medf.ukim.edu.mk/</URL_GENERAL>
+                </ADDRESS_CONTRACTING_BODY>
+                <DOCUMENT_RESTRICTED />
+                <URL_DOCUMENT>https://www.e-nabavki.gov.mk/</URL_DOCUMENT>
+                <ADDRESS_FURTHER_INFO_IDEM />
+                <ADDRESS_PARTICIPATION_IDEM />
+                <CA_TYPE VALUE="BODY_PUBLIC" />
+                <CA_ACTIVITY VALUE="EDUCATION" />
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Chemicals and reagents Compatible for the Device for Hybridization BeeBlot or
+                        Equivalent</P>
+                </TITLE>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="33100000" />
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SUPPLIES" />
+                <SHORT_DESCR>
+                    <P>Chemicals and reagents compatible for the device for hybridization BeeBlot or
+                        equivalent.</P>
+                </SHORT_DESCR>
+                <VAL_ESTIMATED_TOTAL CURRENCY="MKD">4611000.00</VAL_ESTIMATED_TOTAL>
+                <LOT_DIVISION>
+                    <LOT_ALL />
+                </LOT_DIVISION>
+                <OBJECT_DESCR ITEM="1">
+                    <TITLE>
+                        <P>Set of Reagents for the Detection of HLA A Alleles. To Include at Least
+                            the Following Reagents: Labeled Strips, Denaturation Solution,
+                            Hybridization Solution, Detergent</P>
+                    </TITLE>
+                    <LOT_NO>1</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33100000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="MK0" />
+                    <MAIN_SITE>
+                        <P>Ss. Cyril and Methodius University, Faculty of Medicine —Skopje, 50
+                            Divizija No. 6, 1000 Skopje, Republic of Macedonia.</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Set of reagents for the detection of HLA A alleles. To include at least
+                            the following reagents: labeled strips, denaturation solution,
+                            hybridization solution, detergent (under strictly controlled conditions
+                            — temperature and time) for washing non-specific bonds, conjugate,
+                            conjugate diluent, substrate BCIP/NBT, substrate buffer and solution,
+                            compatible for device BeeBlot or equivalent.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PROCUREMENT_DOC />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="2">
+                    <TITLE>
+                        <P>Set of reagents for the detection of HLA B alleles.</P>
+                    </TITLE>
+                    <LOT_NO>2</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33100000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="MK" />
+                    <MAIN_SITE>
+                        <P>Ss. Cyril and Methodius University, Faculty of Medicine —Skopje, 50
+                            Divizija No. 6, 1000 Skopje, Republic of Macedonia.</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Set of reagents for the detection of HLA B alleles. To include at least
+                            the following reagents: labeled strips, denaturation solution,
+                            hybridization solution, detergent (under strictly controlled conditions
+                            - temperature and time) for washing the non-specifically bound probes,
+                            conjugate, conjugate diluent, substrate BCIP / NBT, substrate buffer and
+                            washing solution, compatible for device BeeBlot or equivalent.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="3">
+                    <TITLE>
+                        <P>Set of reagents for the detection of HLA C alleles</P>
+                    </TITLE>
+                    <LOT_NO>3</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33100000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="MK" />
+                    <MAIN_SITE>
+                        <P>Ss. Cyril and Methodius University, Faculty of Medicine —Skopje, 50
+                            Divizija No. 6, 1000 Skopje, Republic of Macedonia.</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Set of reagents for the detection of HLA C alleles. To include at least
+                            the following reagents; labeled strips, denaturation solution,
+                            hybridization solution, detergent (under strictly controlled conditions
+                            - temperature and time) for washing the non-specifically bound probes,
+                            conjugate, conjugate diluent, BCIP / NBT substrate, substrate buffer and
+                            washing solution, compatible with the device BeeBlot or equivalent.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="4">
+                    <TITLE>
+                        <P>Set of reagents for the detection of HLA DRB decoder alleles</P>
+                    </TITLE>
+                    <LOT_NO>4</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33100000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="MK0" />
+                    <MAIN_SITE>
+                        <P>Ss. Cyril and Methodius University, Faculty of Medicine —Skopje, 50
+                            Divizija No. 6, 1000 Skopje, Republic of Macedonia.</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Set of reagents for the detection of HLA DRB decoder alleles. To include
+                            at least the following reagents; labeled strips, hybridization solution,
+                            detergent (which under strictly controlled conditions - temperature and
+                            time) for washing the non-specifically bound probes, conjugate,
+                            conjugate diluent, BCIP / NBT substrate, substrate buffer and washing
+                            solution, compatible for device BeeBlot or equivalent.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="5">
+                    <TITLE>
+                        <P>Set of reagents for detection of at least 9 mutations (FV G1691A
+                            (Leiden), FV H1299R (R2), Prothrombin G20210A, MTHFR C677T, MTHFR
+                            A1298C, Factor XIII V34L, PAI-1 4G / 5G, EPCR A4600G, EPCR G4678C)</P>
+                    </TITLE>
+                    <LOT_NO>5</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33100000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="MK" />
+                    <MAIN_SITE>
+                        <P>Ss. Cyril and Methodius University, Faculty of Medicine —Skopje, 50
+                            Divizija No. 6, 1000 Skopje, Republic of Macedonia.</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Set of reagents for detection of at least 9 mutations (FV G1691A
+                            (Leiden), FV H1299R (R2), Prothrombin G20210A, MTHFR C677T, MTHFR
+                            A1298C, Factor XIII V34L, PAI-1 4G / 5G, EPCR A4600G, EPCR G4678C)
+                            cardiovascular diseases. The offered set of reagents shall include at
+                            least the following reagents; labeled strips for the detection of
+                            mutations, lysing solution, amplification mix, Taq Dilution Buffer,
+                            DNAT, hybridization solution, washing solution A, conjugate solution,
+                            washing solution B, compatible for device BeeBlot or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="6">
+                    <TITLE>
+                        <P>Set of reagents for detection of at least 8 mutations (eNOS -786 TC, eNOS
+                            G894T, LTA C804A, ACE I / D, GPIIIa L33P (HPA-1),? -Fibrinogen -455 GA,
+                            Apo B R3500Q, Apo E2 / E3 / E4)</P>
+                    </TITLE>
+                    <LOT_NO>6</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33100000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="MK" />
+                    <MAIN_SITE>
+                        <P>Ss. Cyril and Methodius University, Faculty of Medicine —Skopje, 50
+                            Divizija No. 6, 1000 Skopje, Republic of Macedonia.</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Set of reagents for detection of at least 8 mutations (eNOS -786 TC, eNOS
+                            G894T, LTA C804A, ACE I / D, GPIIIa L33P (HPA-1),? -Fibrinogen -455 GA,
+                            Apo B R3500Q, Apo E2 / E3 / E4) triggers of cardiovascular diseases. The
+                            offered set of reagents includes at least the following reagents:
+                            labeled strips for mutation detection, lysis solution, amplification
+                            mix, Taq Dilution Buffer, DNAT, hybridization solution, washing solution
+                            A, conjugate solution, washing solution B, compatible for device BeeBlot
+                            or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="7">
+                    <TITLE>
+                        <P>Set of reagents for detection of intolerance to lactose and fructose. The
+                            offered set of reagents includes at least the following reagents:
+                            labeled strips for the detection of at least 6 mutations</P>
+                    </TITLE>
+                    <LOT_NO>7</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33100000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="MK" />
+                    <MAIN_SITE>
+                        <P>Ss. Cyril and Methodius University, Faculty of Medicine —Skopje, 50
+                            Divizija No. 6, 1000 Skopje, Republic of Macedonia.</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Set of reagents for detection of intolerance to lactose and fructose. The
+                            offered set of reagents includes at least the following reagents:
+                            labeled strips for the detection of at least 6 mutations (Aldo B delE4,
+                            Aldo B A174D, Aldo B A149P, Aldo B N334K, LCT -13910 T&gt; C, LCT -22018
+                            A&gt; G), lime solution, amplification mix, Taq Dilution Buffer, DNAT,
+                            hybridization solution, washing solution- A, conjugate solution, washing
+                            solution -B, compatible for device BeeBlot or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="8">
+                    <TITLE>
+                        <P>Set of reagent for the detection of cytochrome genetic mutations (CYP),
+                            CYP2C19.</P>
+                    </TITLE>
+                    <LOT_NO>8</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33100000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="MK" />
+                    <MAIN_SITE>
+                        <P>Ss. Cyril and Methodius University, Faculty of Medicine —Skopje, 50
+                            Divizija No. 6, 1000 Skopje, Republic of Macedonia.</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Set of reagent for the detection of cytochrome genetic mutations (CYP),
+                            CYP2C19. The offered set of reagents includes at least the following
+                            reagents: labeled strips for mutation detection, lysis solution,
+                            amplification mix, Taq Dilution Buffer, DNAT, hybridization solution,
+                            washing solution A, conjugate solution, washing solution B, compatible
+                            for device BeeBlot or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="9">
+                    <TITLE>
+                        <P>Set of reagent for the detection of cytochrome genetic mutations (CYP),
+                            CYP2D6 set. The offered set of reagents includes at least the following
+                            reagents:</P>
+                    </TITLE>
+                    <LOT_NO>9</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33100000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="MK" />
+                    <MAIN_SITE>
+                        <P>Ss. Cyril and Methodius University, Faculty of Medicine —Skopje, 50
+                            Divizija No. 6, 1000 Skopje, Republic of Macedonia.</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>Set of reagent for the detection of cytochrome genetic mutations (CYP),
+                            CYP2D6 set. The offered set of reagents includes at least the following
+                            reagents: labeled strips for mutation detection, lysis solution,
+                            amplification mix, Taq Dilution Buffer, DNAT, hybridization solution,
+                            washing solution A, conjugate solution, washing solution B, compatible
+                            for device BeeBlot or equivalent</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="10">
+                    <TITLE>
+                        <P>Set of reagents for the detection of HLA DQB1 alleles. To include at
+                            least the following reagents;</P>
+                    </TITLE>
+                    <LOT_NO>10</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33100000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="MK0" />
+                    <SHORT_DESCR>
+                        <P>Set of reagents for the detection of HLA DQB1 alleles. To include at
+                            least the following reagents; labeled strips, hybridization solution,
+                            detergent (which under strictly controlled conditions -temperature and
+                            time) for washing the non-specifically bound probioconugate, conjugate
+                            diluent, substrateBCIP / NBT, substrate buffer and solvent solution
+                            compatible for device BeeBlot or equivalent.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+                <OBJECT_DESCR ITEM="11">
+                    <TITLE>
+                        <P>GX-HIV Strip Assay (20 tests) for the genotyping of a DNA sample to
+                            determine the response to high active anti-retroviral therapy (HAART)</P>
+                    </TITLE>
+                    <LOT_NO>11</LOT_NO>
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="33100000" />
+                    </CPV_ADDITIONAL>
+                    <n2016:NUTS CODE="MK" />
+                    <SHORT_DESCR>
+                        <P>GX-HIV Strip Assay (20 tests) for the genotyping of a DNA sample to
+                            determine the response to high active anti-retroviral therapy (HAART).
+                            The offered set of reagents to include at least the following reagents;
+                            labeled strips for the detection of mutations, lysing solution,
+                            amplification mix, Taq Dilution Buffer, DNAT, hybridization solution,
+                            washing solution A, conjugate solution, washing solution B, compatible
+                            for device BeeBlot or equivalent.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <DURATION TYPE="MONTH">12</DURATION>
+                    <NO_RENEWAL />
+                    <NO_ACCEPTED_VARIANTS />
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <LEFTI>
+                <SUITABILITY>
+                    <P>— Statement by the economic operator that it has not been sentenced, in the
+                        last 5 years, with effective court decision for participation in criminal
+                        organization, corruption, fraud or money laundering,</P>
+                    <P>— certificate that it is not subject to bankruptcy procedure issued by
+                        competent authority,</P>
+                    <P>— certificate that it is not subject to liquidation procedure issued by
+                        competent authority,</P>
+                    <P>— certificate for paid taxes, contributions and other public dues by the
+                        competent authority in the country where that economic operator is
+                        established,</P>
+                    <P>— certificate from the legal entities penal registry that it is not being
+                        imposed a side sanction — prohibition to participate in public competitions,
+                        public procurement contract award and public-private partnership contract
+                        award procedures,</P>
+                    <P>— certificate from the legal entities penal registry that it is not being
+                        imposed a side sanction — temporary or permanent prohibition to perform
+                        certain professional activity,</P>
+                    <P>— certificate that it is not being sanctioned for misdemeanor with an
+                        effective court decision, resulting in prohibition for pursuing professional
+                        activity or duty, i.e. temporary prohibition for performing certain business
+                        activity,</P>
+                    <P>— ability of the economic operator to perform business activity,</P>
+                    <P>— document for registered business activity,</P>
+                    <P>— certificate for wholesale of medical devices in accordance with the Law on
+                        medicines and medical devices.</P>
+                </SUITABILITY>
+                <PERFORMANCE_CONDITIONS>
+                    <P>Contract performance guarantee: Bank Guarantee of 10 %.</P>
+                </PERFORMANCE_CONDITIONS>
+            </LEFTI>
+            <PROCEDURE>
+                <PT_OPEN />
+                <EAUCTION_USED />
+                <INFO_ADD_EAUCTION>
+                    <P>To participate on electronic auction economic operators need to register on
+                        ESPP (Electronic System for Public Procurement) website:
+                        www.e-nabavki.gov.mk</P>
+                    <P>Tender documentation, technical specification, forms and information for open
+                        procedure No. 16/2019 are provided on the same website</P>
+                </INFO_ADD_EAUCTION>
+                <NO_CONTRACT_COVERED_GPA />
+                <DATE_RECEIPT_TENDERS>2019-03-28</DATE_RECEIPT_TENDERS>
+                <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+                <LANGUAGES>
+                    <LANGUAGE VALUE="MK" />
+                </LANGUAGES>
+                <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+                <OPENING_CONDITION>
+                    <DATE_OPENING_TENDERS>2019-03-28</DATE_OPENING_TENDERS>
+                    <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+                    <PLACE>
+                        <P>Electronically, ESJN (https://www.e-nabavki.gov.mk/); Ss. Cyril and
+                            Methodius University, Faculty of Medicine —Skopje, 50 Divizija No. 6,
+                            1000 Skopje, Republic of Macedonia.</P>
+                    </PLACE>
+                </OPENING_CONDITION>
+            </PROCEDURE>
+            <COMPLEMENTARY_INFO>
+                <NO_RECURRENT_PROCUREMENT />
+                <INFO_ADD>
+                    <P>Note: the economic operator upon delivery should submit a certificate for
+                        placing a medicinal device on the market or temporary or permanent approval
+                        for parallel import, in accordance with the Law on medical products and
+                        medical devices, for the items with code numbers 9423, 7058, 7059, 7959,
+                        8810, 8811, 7042, 7043, 7044, 7045, 9270 (see Tender Documentation).</P>
+                </INFO_ADD>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Body responsible for appeal procedures: State Appeals Commission
+                        for Public Procurement</OFFICIALNAME>
+                    <TOWN>Skopje</TOWN>
+                    <POSTAL_CODE>1000</POSTAL_CODE>
+                    <COUNTRY VALUE="MK" />
+                    <URL>http://www.dkzjn.gov.mk/</URL>
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2019-03-11</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F02_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

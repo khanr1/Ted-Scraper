@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+    xmlns:n2021="http://publications.europa.eu/resource/schema/ted/2021/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+    VERSION="R2.0.9.S05.E01" DOC_ID="417596-2022" EDITION="2022146">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>22-430075-001</RECEPTION_ID>
+        <DELETION_DATE>20221104</DELETION_DATE>
+        <FORM_LG_LIST>FR </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="https://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>146</NO_OJ>
+            <DATE_PUB>20220801</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2022/S 146-417596</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="FR">https://ted.europa.eu/udl?uri=TED:NOTICE:417596-2022:TEXT:FR:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>FR</LG_ORIG>
+            <ISO_COUNTRY VALUE="FR" />
+            <IA_URL_GENERAL>http://www.cnrs.fr</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="39721200">Gas refrigerators</ORIGINAL_CPV>
+            <n2021:PERFORMANCE_NUTS CODE="FR104">Essonne</n2021:PERFORMANCE_NUTS>
+            <n2021:CA_CE_NUTS CODE="FR104">Essonne</n2021:CA_CE_NUTS>
+            <n2021:TENDERER_NUTS CODE="FI1B1">Helsinki-Uusimaa</n2021:TENDERER_NUTS>
+            <VALUES>
+                <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">553000.00</VALUE>
+            </VALUES>
+            <REF_NOTICE>
+                <NO_DOC_OJS>2022/S 075-199566</NO_DOC_OJS>
+            </REF_NOTICE>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20220727</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="1">Open procedure</PR_PROC>
+            <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+            <HEADING>01B03</HEADING>
+            <INITIATOR>01</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Фpaнция</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Газови хладилници</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Francie</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Plynové ledničky</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Frankrig</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Gaskøleskabe</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Frankreich</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Gaskühlschränke</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Γαλλία</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Ψυγεία που λειτουργούν με αέριο</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>France</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Gas refrigerators</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Francia</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Frigoríficos de gas</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Prantsusmaa</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Gaasikülmikud</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Ranska</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Kaasujääkaapit</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>France</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Réfrigérateurs à gaz</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Fhrainc, an</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Gas refrigerators</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Francuska</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Plinski hladnjaci</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Franciaország</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Gázhűtőgépek</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Francia</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Frigoriferi a gas</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Prancūzija</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Dujiniai šaldytuvai</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Francija</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Gāzes ledusskapji</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>Franza</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Rifriġeraturi bil-gass</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Frankrijk</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Koelkasten op gas</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Francja</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Chłodziarki gazowe</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>França</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Frigoríficos a gás</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Franţa</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Frigidere cu gaz</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Francúzsko</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Plynové chladničky</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Francija</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Plinski hladilniki</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Frankrike</TI_CY>
+                <TI_TOWN>Gif-sur-Yvette</TI_TOWN>
+                <TI_TEXT>
+                    <P>Gasolkylskåp</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="FR">Centre National de la Recherche Scientifique</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="FR">
+            <LEGAL_BASIS VALUE="32014L0024" />
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Centre National de la Recherche Scientifique</OFFICIALNAME>
+                    <NATIONALID>18008901300635</NATIONALID>
+                    <ADDRESS>Avenue de la Terrasse</ADDRESS>
+                    <TOWN>Gif sur Yvette</TOWN>
+                    <POSTAL_CODE>91190</POSTAL_CODE>
+                    <COUNTRY VALUE="FR" />
+                    <CONTACT_POINT>Cyril Casiraghi</CONTACT_POINT>
+                    <PHONE>+33 169823285</PHONE>
+                    <E_MAIL>dr04.achats@cnrs.fr</E_MAIL>
+                    <n2021:NUTS CODE="FR104" />
+                    <URL_GENERAL>http://www.cnrs.fr</URL_GENERAL>
+                    <URL_BUYER>https://www.marches-publics.gouv.fr</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="BODY_PUBLIC" />
+                <CA_ACTIVITY_OTHER>Recherche</CA_ACTIVITY_OTHER>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>FOURNITURE D’UN REFRIGERATEUR A DILUTION POUR LES EXPERIENCES AVEC LES
+                        CIRCUITS SUPRACONDUCTEURS DANS LE CADRE DU CALCUL NEUROMORPHIQUE QUANTIQUE
+                        POUR L’UMR 137.</P>
+                </TITLE>
+                <REFERENCE_NUMBER>22013</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="39721200" />
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SUPPLIES" />
+                <SHORT_DESCR>
+                    <P>L'Unité Mixte de Physique CNRS, Thales, Université Paris-Saclay (UMR137) -
+                        UMPHY, laboratoire de recherche situé à Palaiseau (Essonne, 91), souhaite
+                        acquérir un réfrigérateur à dilution pour les expériences avec les circuits
+                        supraconducteurs dans le cadre du calcul neuromorphique quantique. </P>
+                    <P>La consultation prévoit également la présentation et le chiffrage obligatoire
+                        de deux prestations supplémentaires éventuelles. Elles concernent
+                        l’isolation phonique (PSE obligatoire numéro 1), ainsi qu’un aimant 3D (PSE
+                        obligatoire numéro 2).</P>
+                    <P>Le délai de livraison, installation, mise en service et formation dans les
+                        locaux de l’Unité Mixte de Physique CNRS Thales UP-Saclay est d’au maximum 7
+                        mois à compter de la notification du marché au titulaire. </P>
+                    <P>Les sociétés seront incitées à proposer leur propre délai, qui pourra donc
+                        être inférieur. </P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="EUR">553000.00</VAL_TOTAL>
+                <NO_LOT_DIVISION />
+                <OBJECT_DESCR ITEM="1">
+                    <n2021:NUTS CODE="FR104" />
+                    <SHORT_DESCR>
+                        <P>Offre de base (fournitures) : Réfrigérateur à dilution. </P>
+                        <P>Prestation supplémentaire éventuelle obligatoire 1 (fournitures) :
+                            support et isolation phonique.</P>
+                        <P>Prestation supplémentaire éventuelle obligatoire 2 (fournitures) : Aimant
+                            3D à 20 mK.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Critères techniques</AC_CRITERION>
+                            <AC_WEIGHTING>40</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Critère délai</AC_CRITERION>
+                            <AC_WEIGHTING>20</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Critère garantie</AC_CRITERION>
+                            <AC_WEIGHTING>5</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>35</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                    <INFO_ADD>
+                        <P>La consultation prévoit également la présentation et le chiffrage
+                            obligatoire de deux prestations supplémentaires éventuelles
+                            (fournitures).</P>
+                        <P>Elles concernent : </P>
+                        <P>- Support et isolation phonique.</P>
+                        <P>- Aimant 3D à 20 mK.</P>
+                    </INFO_ADD>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <PT_OPEN />
+                <CONTRACT_COVERED_GPA />
+                <NOTICE_NUMBER_OJ>2022/S 075-199566</NOTICE_NUMBER_OJ>
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <CONTRACT_NO>2026024</CONTRACT_NO>
+                <TITLE>
+                    <P>FOURNITURE D’UN REFRIGERATEUR A DILUTION POUR LES EXPERIENCES AVEC LES
+                        CIRCUITS SUPRACONDUCTEURS DANS LE CADRE DU CALCUL NEUROMORPHIQUE QUANTIQUE
+                        POUR L’UMR 137.</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2022-07-24</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>1</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>1</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>BLUEFORS OY</OFFICIALNAME>
+                                <NATIONALID>FI21832199</NATIONALID>
+                                <TOWN>Helsinki</TOWN>
+                                <POSTAL_CODE>00370</POSTAL_CODE>
+                                <COUNTRY VALUE="FI" />
+                                <n2021:NUTS CODE="FI1B1" />
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">553000.00</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">553000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <INFO_ADD>
+                    <P>Condition de remise des plis : les documents de la consultation sont
+                        téléchargeables par voie dématérialisée sur le profil acheteur :
+                        https//www.marches-publics.gouv.fr.</P>
+                    <P>Les candidatures et les offres sont transmises par voie dématérialisée.</P>
+                    <P>La copie de sauvegarde est adressée par voie postale : CNRS - Délégation
+                        Ile-de-France Gif sur Yvette/ Pôle Achats Avenue de la Terrasse - 91198 GIF
+                        SUR YVETTE CEDEX, (indiquer objet de la consultation + AOO).</P>
+                    <P>Le CNRS se réserve la possibilité, conformément aux dispositions de l’article
+                        R.2161-4 du Code de la commande publique, d’examiner les offres avant les
+                        candidatures.</P>
+                    <P>Aucune visite de site n'est prévue.</P>
+                </INFO_ADD>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Tribunal administratif de Versailles</OFFICIALNAME>
+                    <ADDRESS>56 avenue de Saint-Cloud</ADDRESS>
+                    <TOWN>Versailles Cedex</TOWN>
+                    <POSTAL_CODE>78011</POSTAL_CODE>
+                    <COUNTRY VALUE="FR" />
+                    <PHONE>+33 139205400</PHONE>
+                    <E_MAIL>greffe.ta-versailles@juradm.fr</E_MAIL>
+                    <FAX>+33 139205487</FAX>
+                    <URL>http://www.ta-versailles.juradm.fr</URL>
+                </ADDRESS_REVIEW_BODY>
+                <REVIEW_PROCEDURE>
+                    <P>Précisions concernant les recours susceptibles d'être introduits à l'encontre
+                        de la procédure ou du marché, ainsi que sur les délais d'introduction de ces
+                        recours: — référé précontractuel prévu aux articles L. 551-1 à L. 551-12 du
+                        code de justice administrative (CJA), pouvant être introduit depuis le début
+                        de la procédure de passation jusqu'à la signature du marché, — référé
+                        contractuel prévu aux articles L. 551-13 à L. 551-23 du CJA, pouvant être
+                        exercé dans les délais prévus à l'article R. 551-7 du CJA, — recours de
+                        pleine juridiction contestant la validité du marché dans un délai de 2 mois
+                        à compter de l'accomplissement des mesures de publicité appropriées au sens
+                        de la décision département de Tarn-et-Garonne (CE, Ass., 4.4.2014, n°
+                        358994). Ce recours en contestation de validité peut être assorti d'une
+                        demande tendant, sur le fondement de l'article L. 521-1 du code de justice
+                        administrative, à la suspension de l'exécution du contrat».</P>
+                </REVIEW_PROCEDURE>
+                <ADDRESS_REVIEW_INFO>
+                    <OFFICIALNAME>Greffe du Tribunal administratif de Versailles</OFFICIALNAME>
+                    <ADDRESS>56 avenue de Saint-Cloud</ADDRESS>
+                    <TOWN>Versailles Cedex</TOWN>
+                    <POSTAL_CODE>78011</POSTAL_CODE>
+                    <COUNTRY VALUE="FR" />
+                    <PHONE>+33 139205400</PHONE>
+                    <E_MAIL>greffe.ta-versailles@juradm.fr</E_MAIL>
+                    <FAX>+33 139205422</FAX>
+                    <URL>http://www.ta-versailles.juradm.fr</URL>
+                </ADDRESS_REVIEW_INFO>
+                <DATE_DISPATCH_NOTICE>2022-07-27</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F03_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

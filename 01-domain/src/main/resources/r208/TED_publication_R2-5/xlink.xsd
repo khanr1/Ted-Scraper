@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+####################################################################################
+#  XSD name : xlink
+#  RELEASE : "R2.0.8.S04.E01"
+#  Intermediate release number 003-20180515
+#  Last update :20/02/2012
+####################################################################################
+ -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.w3.org/1999/xlink" targetNamespace="http://www.w3.org/1999/xlink" version="R2.0.8.S04.E01">
+	<xs:attribute name="type">
+		<xs:simpleType>
+			<xs:restriction base="xs:NMTOKEN">
+				<xs:enumeration value="simple"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:attribute>
+	<xs:attribute name="href" type="xs:anyURI"/>
+	<xs:attribute name="title" type="xs:string"/>
+	</xs:schema>

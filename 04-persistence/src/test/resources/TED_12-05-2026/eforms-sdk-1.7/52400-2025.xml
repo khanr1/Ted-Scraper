@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2"
+	xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+	xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"
+	xmlns:ccts-cct="urn:un:unece:uncefact:data:specification:CoreComponentTypeSchemaModule:2"
+	xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1"
+	xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1"
+	xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1"
+	xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2"
+	xmlns:qdt="urn:oasis:names:specification:ubl:schema:xsd:QualifiedDataTypes-2"
+	xmlns:udt="urn:oasis:names:specification:bdndr:schema:xsd:UnqualifiedDataTypes-1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ext:UBLExtensions>
+		<ext:UBLExtension>
+			<ext:ExtensionContent>
+				<efext:EformsExtension>
+					<efac:NoticeResult>
+						<cbc:TotalAmount currencyID="EUR">460520.00</cbc:TotalAmount>
+						<efac:LotResult>
+							<cbc:ID>RES-0001</cbc:ID>
+							<cbc:HigherTenderAmount currencyID="EUR">460520.00</cbc:HigherTenderAmount>
+							<cbc:LowerTenderAmount currencyID="EUR">460520.00</cbc:LowerTenderAmount>
+							<cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+							<efbc:DPSTerminationIndicator>false</efbc:DPSTerminationIndicator>
+							<efac:LotTender>
+								<cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+							</efac:LotTender>
+							<efac:ReceivedSubmissionsStatistics>
+								<efbc:StatisticsCode listName="review-decision-type">tenders</efbc:StatisticsCode>
+								<efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+							</efac:ReceivedSubmissionsStatistics>
+							<efac:ReceivedSubmissionsStatistics>
+								<efbc:StatisticsCode listName="review-decision-type">t-esubm</efbc:StatisticsCode>
+								<efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+							</efac:ReceivedSubmissionsStatistics>
+							<efac:ReceivedSubmissionsStatistics>
+								<efbc:StatisticsCode listName="review-decision-type">t-sme</efbc:StatisticsCode>
+								<efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+							</efac:ReceivedSubmissionsStatistics>
+							<efac:ReceivedSubmissionsStatistics>
+								<efbc:StatisticsCode listName="review-decision-type">t-med</efbc:StatisticsCode>
+								<efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+							</efac:ReceivedSubmissionsStatistics>
+							<efac:ReceivedSubmissionsStatistics>
+								<efbc:StatisticsCode listName="review-decision-type">t-small</efbc:StatisticsCode>
+								<efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+							</efac:ReceivedSubmissionsStatistics>
+							<efac:ReceivedSubmissionsStatistics>
+								<efbc:StatisticsCode listName="review-decision-type">t-micro</efbc:StatisticsCode>
+								<efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+							</efac:ReceivedSubmissionsStatistics>
+							<efac:ReceivedSubmissionsStatistics>
+								<efbc:StatisticsCode listName="review-decision-type">t-oth-eea</efbc:StatisticsCode>
+								<efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+							</efac:ReceivedSubmissionsStatistics>
+							<efac:ReceivedSubmissionsStatistics>
+								<efbc:StatisticsCode listName="review-decision-type">t-no-eea</efbc:StatisticsCode>
+								<efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+							</efac:ReceivedSubmissionsStatistics>
+							<efac:ReceivedSubmissionsStatistics>
+								<efbc:StatisticsCode listName="review-decision-type">t-verif-inad</efbc:StatisticsCode>
+								<efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+							</efac:ReceivedSubmissionsStatistics>
+							<efac:ReceivedSubmissionsStatistics>
+								<efbc:StatisticsCode listName="review-decision-type">t-no-verif</efbc:StatisticsCode>
+								<efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+							</efac:ReceivedSubmissionsStatistics>
+							<efac:ReceivedSubmissionsStatistics>
+								<efbc:StatisticsCode listName="review-decision-type">
+									t-verif-inad-low</efbc:StatisticsCode>
+								<efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+							</efac:ReceivedSubmissionsStatistics>
+							<efac:SettledContract>
+								<cbc:ID schemeName="contract">CON-0001</cbc:ID>
+							</efac:SettledContract>
+							<efac:StrategicProcurement>
+								<efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+							</efac:StrategicProcurement>
+							<efac:TenderLot>
+								<cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+							</efac:TenderLot>
+						</efac:LotResult>
+						<efac:LotTender>
+							<cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+							<efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+							<cac:LegalMonetaryTotal>
+								<cbc:PayableAmount currencyID="EUR">460520.00</cbc:PayableAmount>
+							</cac:LegalMonetaryTotal>
+							<efac:SubcontractingTerm>
+								<efbc:TermCode listName="applicability">not-known</efbc:TermCode>
+							</efac:SubcontractingTerm>
+							<efac:TenderingParty>
+								<cbc:ID schemeName="tenderingparty">TPA-0001</cbc:ID>
+							</efac:TenderingParty>
+							<efac:TenderLot>
+								<cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+							</efac:TenderLot>
+						</efac:LotTender>
+						<efac:SettledContract>
+							<cbc:ID schemeName="contract">CON-0001</cbc:ID>
+							<cbc:Title languageID="DEU">Qinu GmbH, 76137 Karlsruhe</cbc:Title>
+							<efac:ContractReference>
+								<cbc:ID>1</cbc:ID>
+							</efac:ContractReference>
+							<efac:LotTender>
+								<cbc:ID>TEN-0001</cbc:ID>
+							</efac:LotTender>
+						</efac:SettledContract>
+						<efac:TenderingParty>
+							<cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+							<efac:Tenderer>
+								<cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+								<efbc:GroupLeadIndicator>true</efbc:GroupLeadIndicator>
+							</efac:Tenderer>
+						</efac:TenderingParty>
+					</efac:NoticeResult>
+					<efac:NoticeSubType>
+						<cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+					</efac:NoticeSubType>
+					<efac:Organizations>
+						<efac:Organization>
+							<efac:Company>
+								<cbc:WebsiteURI>
+									https://www.beschaeftigte.uni-stuttgart.de/uni-services/finanzen/beschaffung/</cbc:WebsiteURI>
+								<cac:PartyIdentification>
+									<cbc:ID>ORG-0001</cbc:ID>
+								</cac:PartyIdentification>
+								<cac:PartyName>
+									<cbc:Name languageID="DEU">Universität Stuttgart</cbc:Name>
+								</cac:PartyName>
+								<cac:PostalAddress>
+									<cbc:StreetName>Keplerstraße 7</cbc:StreetName>
+									<cbc:CityName>Stuttgart</cbc:CityName>
+									<cbc:PostalZone>70174</cbc:PostalZone>
+									<cbc:CountrySubentityCode listName="nuts-lvl3">DE111</cbc:CountrySubentityCode>
+									<cac:Country>
+										<cbc:IdentificationCode>DEU</cbc:IdentificationCode>
+									</cac:Country>
+								</cac:PostalAddress>
+								<cac:PartyLegalEntity>
+									<cbc:CompanyID>23df8ec8-e66d-49e0-98a4-4b15d6f15374</cbc:CompanyID>
+								</cac:PartyLegalEntity>
+								<cac:Contact>
+									<cbc:Telephone>+49 7116850</cbc:Telephone>
+									<cbc:ElectronicMail>beschaffung@verwaltung.uni-stuttgart.de</cbc:ElectronicMail>
+								</cac:Contact>
+							</efac:Company>
+						</efac:Organization>
+						<efac:Organization>
+							<efac:Company>
+								<cac:PartyIdentification>
+									<cbc:ID>ORG-0002</cbc:ID>
+								</cac:PartyIdentification>
+								<cac:PartyName>
+									<cbc:Name languageID="DEU">Universität Stuttgart</cbc:Name>
+								</cac:PartyName>
+								<cac:PostalAddress>
+									<cbc:StreetName>Breitscheidstraße 2 C</cbc:StreetName>
+									<cbc:CityName>Stuttgart</cbc:CityName>
+									<cbc:PostalZone>70174</cbc:PostalZone>
+									<cbc:CountrySubentityCode listName="nuts-lvl3">DE111</cbc:CountrySubentityCode>
+									<cac:Country>
+										<cbc:IdentificationCode>DEU</cbc:IdentificationCode>
+									</cac:Country>
+								</cac:PostalAddress>
+								<cac:PartyLegalEntity>
+									<cbc:CompanyID>63c33eba-c969-44d7-88e0-552bb4a13668</cbc:CompanyID>
+								</cac:PartyLegalEntity>
+								<cac:Contact>
+									<cbc:Name>Zentrale Beschaffungsstelle</cbc:Name>
+									<cbc:Telephone>+49 7116850</cbc:Telephone>
+									<cbc:ElectronicMail>beschaffung@verwaltung.uni-stuttgart.de</cbc:ElectronicMail>
+								</cac:Contact>
+							</efac:Company>
+						</efac:Organization>
+						<efac:Organization>
+							<efac:Company>
+								<cac:PartyIdentification>
+									<cbc:ID>ORG-0003</cbc:ID>
+								</cac:PartyIdentification>
+								<cac:PartyName>
+									<cbc:Name languageID="DEU">Universität Stuttgart, Zentrale
+										Beschaffungsstelle</cbc:Name>
+								</cac:PartyName>
+								<cac:PostalAddress>
+									<cbc:StreetName>Breitscheidstr. 2 C</cbc:StreetName>
+									<cbc:CityName>Stuttgart</cbc:CityName>
+									<cbc:PostalZone>70174</cbc:PostalZone>
+									<cbc:CountrySubentityCode listName="nuts-lvl3">DE111</cbc:CountrySubentityCode>
+									<cac:Country>
+										<cbc:IdentificationCode>DEU</cbc:IdentificationCode>
+									</cac:Country>
+								</cac:PostalAddress>
+								<cac:PartyLegalEntity>
+									<cbc:CompanyID>136d3931-1133-4b6d-b339-dcc2fb729343</cbc:CompanyID>
+								</cac:PartyLegalEntity>
+								<cac:Contact>
+									<cbc:Name>1000</cbc:Name>
+									<cbc:Telephone>+49 7116850</cbc:Telephone>
+									<cbc:ElectronicMail>beschaffung@verwaltung.uni-stuttgart.de</cbc:ElectronicMail>
+								</cac:Contact>
+							</efac:Company>
+						</efac:Organization>
+						<efac:Organization>
+							<efac:Company>
+								<cac:PartyIdentification>
+									<cbc:ID>ORG-0004</cbc:ID>
+								</cac:PartyIdentification>
+								<cac:PartyName>
+									<cbc:Name languageID="DEU">Vergabekammer Baden-Württemberg im
+										Regierungspräsidium Karlsruhe</cbc:Name>
+								</cac:PartyName>
+								<cac:PostalAddress>
+									<cbc:StreetName>Durlacher Allee 100</cbc:StreetName>
+									<cbc:CityName>Karlsruhe</cbc:CityName>
+									<cbc:PostalZone>76137</cbc:PostalZone>
+									<cbc:CountrySubentityCode listName="nuts-lvl3">DE122</cbc:CountrySubentityCode>
+									<cac:Country>
+										<cbc:IdentificationCode>DEU</cbc:IdentificationCode>
+									</cac:Country>
+								</cac:PostalAddress>
+								<cac:PartyLegalEntity>
+									<cbc:CompanyID>898f3d4f-db75-4ee4-8aa3-142d7d2216ee</cbc:CompanyID>
+								</cac:PartyLegalEntity>
+								<cac:Contact>
+									<cbc:Telephone>+49 7219268730</cbc:Telephone>
+									<cbc:Telefax>+49 7219263985</cbc:Telefax>
+									<cbc:ElectronicMail>poststelle@rpk.bwl.de</cbc:ElectronicMail>
+								</cac:Contact>
+							</efac:Company>
+						</efac:Organization>
+						<efac:Organization>
+							<efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator>
+							<efac:UltimateBeneficialOwner>
+								<cbc:ID>UBO-0001</cbc:ID>
+							</efac:UltimateBeneficialOwner>
+							<efac:Company>
+								<efbc:CompanySizeCode listName="economic-operator-size">small</efbc:CompanySizeCode>
+								<cac:PartyIdentification>
+									<cbc:ID>ORG-0005</cbc:ID>
+								</cac:PartyIdentification>
+								<cac:PartyName>
+									<cbc:Name languageID="DEU">Qinu GmbH</cbc:Name>
+								</cac:PartyName>
+								<cac:PostalAddress>
+									<cbc:StreetName>Morgenstraße 8</cbc:StreetName>
+									<cbc:CityName>Karlsruhe</cbc:CityName>
+									<cbc:PostalZone>76137</cbc:PostalZone>
+									<cbc:CountrySubentityCode listName="nuts-lvl3">DE122</cbc:CountrySubentityCode>
+									<cac:Country>
+										<cbc:IdentificationCode>DEU</cbc:IdentificationCode>
+									</cac:Country>
+								</cac:PostalAddress>
+								<cac:PartyLegalEntity>
+									<cbc:CompanyID>be19df3c-43ad-4406-8393-d749bfc5cbb7</cbc:CompanyID>
+								</cac:PartyLegalEntity>
+								<cac:Contact>
+									<cbc:Telephone>072147004458</cbc:Telephone>
+									<cbc:ElectronicMail>marcel.schrodin@qinu.de</cbc:ElectronicMail>
+								</cac:Contact>
+							</efac:Company>
+						</efac:Organization>
+						<efac:Organization>
+							<efac:Company>
+								<cac:PartyIdentification>
+									<cbc:ID schemeName="organization">ORG-0006</cbc:ID>
+								</cac:PartyIdentification>
+								<cac:PartyName>
+									<cbc:Name languageID="DEU">Datenservice Öffentlicher Einkauf (in
+										Verantwortung des Beschaffungsamts des BMI)</cbc:Name>
+								</cac:PartyName>
+								<cac:PostalAddress>
+									<cbc:CityName>Bonn</cbc:CityName>
+									<cbc:PostalZone>53119</cbc:PostalZone>
+									<cbc:CountrySubentityCode listName="nuts">DEA22</cbc:CountrySubentityCode>
+									<cac:Country>
+										<cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+									</cac:Country>
+								</cac:PostalAddress>
+								<cac:PartyLegalEntity>
+									<cbc:CompanyID schemeID="002">0204:994-DOEVD-83</cbc:CompanyID>
+								</cac:PartyLegalEntity>
+								<cac:Contact>
+									<cbc:Telephone>+49228996100</cbc:Telephone>
+									<cbc:ElectronicMail>noreply.esender_hub@bescha.bund.de</cbc:ElectronicMail>
+								</cac:Contact>
+							</efac:Company>
+						</efac:Organization>
+						<efac:UltimateBeneficialOwner>
+							<cbc:ID>UBO-0001</cbc:ID>
+							<efac:Nationality>
+								<cbc:NationalityID>DEU</cbc:NationalityID>
+							</efac:Nationality>
+						</efac:UltimateBeneficialOwner>
+					</efac:Organizations>
+					<efac:Publication>
+						<efbc:NoticePublicationID schemeName="ojs-notice-id">00052400-2025</efbc:NoticePublicationID>
+						<efbc:GazetteID schemeName="ojs-id">17/2025</efbc:GazetteID>
+						<efbc:PublicationDate>2025-01-24+01:00</efbc:PublicationDate>
+					</efac:Publication>
+				</efext:EformsExtension>
+			</ext:ExtensionContent>
+		</ext:UBLExtension>
+	</ext:UBLExtensions>
+	<cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+	<cbc:CustomizationID>eforms-sdk-1.7</cbc:CustomizationID>
+	<cbc:ID schemeName="notice-id">a1d23228-5bd1-425f-901e-47c58747ac05</cbc:ID>
+	<cbc:ContractFolderID>92a86021-5210-40f2-9e24-bf2f758d3102</cbc:ContractFolderID>
+	<cbc:IssueDate>2025-01-23+01:00</cbc:IssueDate>
+	<cbc:IssueTime>09:08:42+01:00</cbc:IssueTime>
+	<cbc:VersionID>01</cbc:VersionID>
+	<cbc:RequestedPublicationDate>2025-01-23+01:00</cbc:RequestedPublicationDate>
+	<cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+	<cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+	<cbc:NoticeLanguageCode listID="eu-official-language">DEU</cbc:NoticeLanguageCode>
+	<cac:ContractingParty>
+		<cbc:BuyerProfileURI>
+			https://www.beschaeftigte.uni-stuttgart.de/uni-services/finanzen/beschaffung/</cbc:BuyerProfileURI>
+		<cac:ContractingPartyType>
+			<cbc:PartyTypeCode listName="buyer-legal-type">body-pl-ra</cbc:PartyTypeCode>
+		</cac:ContractingPartyType>
+		<cac:ContractingActivity>
+			<cbc:ActivityTypeCode listName="authority-activity">education</cbc:ActivityTypeCode>
+		</cac:ContractingActivity>
+		<cac:Party>
+			<cac:PartyIdentification>
+				<cbc:ID>ORG-0001</cbc:ID>
+			</cac:PartyIdentification>
+			<cac:ServiceProviderParty>
+				<cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+				<cac:Party>
+					<cac:PartyIdentification>
+						<cbc:ID schemeName="organization">ORG-0006</cbc:ID>
+					</cac:PartyIdentification>
+				</cac:Party>
+			</cac:ServiceProviderParty>
+		</cac:Party>
+	</cac:ContractingParty>
+	<cac:TenderingTerms>
+		<cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+		<cac:ProcurementLegislationDocumentReference>
+			<cbc:ID>vgv</cbc:ID>
+		</cac:ProcurementLegislationDocumentReference>
+		<cac:AppealTerms>
+			<cac:PresentationPeriod>
+				<cbc:Description languageID="DEU">Es gelten die Bestimmungen des Gesetzes gegen
+					Wettbewerbsbeschränkungen (GWB).
+					Hinsichtlich der Einleitung von Nachprüfungsverfahren wird auf § 160 GWB
+					verwiesen. Dieser lautet:
+					(1) Die Vergabekammer leitet ein Nachprüfungsverfahren nur auf Antrag ein.
+					(2) Antragsbefugt ist jedes Unternehmen, das ein Interesse an dem öffentlichen
+					Auftrag oder der Konzession hat und eine Verletzung in seinen Rechten nach § 97
+					Absatz 6 durch Nichtbeachtung von Vergabevorschriften geltend macht. Dabei ist
+					darzulegen dass dem Unternehmen durch die behauptete Verletzung der
+					Vergabevorschriften ein Schaden entstanden ist oder zu entstehen droht.
+					 
+					(3) Der Antrag ist unzulässig, soweit
+					1. Der Antragsteller den geltend gemachten Verstoß gegen Vergabevorschriften vor
+					Einreichen des Nachprüfungsantrags erkannt und gegenüber dem Auftraggeber nicht
+					innerhalb einer Frist von zehn Kalendertagen gerügt hat;
+					2. Verstöße gegen Vergabevorschriften, die aufgrund der Bekanntmachung erkennbar
+					sind, nicht spätestens bis zum Ablauf der in der Bekanntmachung benannten Frist
+					zur Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden,
+					3. Verstöße gegen Vergabevorschriften, die erst in den Vergabeunterlagen
+					erkennbar sind, nicht spätestens bis zum Ablauf der Frist zur Bewerbung oder zur
+					Angebotsabgabe gegenüber dem Auftraggeber gerügt werden,
+					4. mehr als 15 Kalendertage nach Eingang der Mitteilung des Auftraggebers, einer
+					Rüge nicht abhelfen zu wollen, vergangen sind.
+					 
+					Hinsichtlich der Information nicht berücksichtigter Bieter und Bewerber gelten
+					die §§ 134, 135 GWB. Insbesondere gilt: Bieter deren Angebote für den Zuschlag
+					nicht berücksichtigt werden sollen, werden vor dem Zuschlag gemäß § 134 GWB
+					darüber informiert. Das gilt auch für Bewerber, denen keine Information über die
+					Ablehnung ihrer Bewerbung zur Verfügung gestellt wurde, bevor die Mitteilung
+					über die Zuschlagsentscheidung an die betroffenen Bieter ergangen ist.
+					Ein Vertrag darf erst 15 Kalendertage nach Absendung dieser Information durch
+					den Auftraggeber geschlossen werden; bei Übermittlung per Telefax oder auf
+					elektronischem Wege beträgt diese Frist 10 Kalendertage.</cbc:Description>
+			</cac:PresentationPeriod>
+			<cac:AppealInformationParty>
+				<cac:PartyIdentification>
+					<cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+				</cac:PartyIdentification>
+			</cac:AppealInformationParty>
+			<cac:AppealReceiverParty>
+				<cac:PartyIdentification>
+					<cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+				</cac:PartyIdentification>
+			</cac:AppealReceiverParty>
+		</cac:AppealTerms>
+	</cac:TenderingTerms>
+	<cac:TenderingProcess>
+		<cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+		<cac:ProcessJustification>
+			<cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+		</cac:ProcessJustification>
+		<cac:AuctionTerms>
+			<cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+		</cac:AuctionTerms>
+	</cac:TenderingProcess>
+	<cac:ProcurementProject>
+		<cbc:ID schemeName="internalID">24-227</cbc:ID>
+		<cbc:Name languageID="DEU">Kompakter tabletop Entmischungskryostat mit geschlossenem
+			Heliumkreislauf</cbc:Name>
+		<cbc:Description languageID="DEU">Kompakter tabletop Entmischungskryostat mit geschlossenem
+			Heliumkreislauf
+
+			Compact tabletop cryostat with closed helium loop</cbc:Description>
+		<cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+		<cbc:Note languageID="DEU">Bekanntmachungs-ID: CXUEYY8YTR8UQTCZ
+
+
+			Zuschlagskriterien für diese Ausschreibung:
+
+			1. Preis: 100 Punkte (100 %)
+			-------------------------------------------------------------------- Die
+			Zahlungsbedingungen sind in § 7 der AGB der Universität Stuttgart geregelt. Eine
+			Vorauszahlung muss mittels selbstschuldnerischer Bankbürgschaft oder einer
+			vergleichbaren Sicherheit abgesichert sein. Die Kosten für eine solche Bürgschaft trägt
+			der Auftragnehmer.
+			-------------------------------------------------------------------- Information zur
+			Umsetzung der datenschutzrechtlichen Vorgaben nach der Datenschutzgrundverordnung
+			(DSGVO) an der Universität Stuttgart.
+			-------------------------------------------------------------------- Fragen sind
+			ausschließlich elektronisch über das Vergabeportal unter Bezugnahme auf den jeweiligen
+			Anhang sowie unter Nennung des jeweiligen Abschnitts bzw. des Paragraphen zu stellen.
+			Verbindlicher Bestandteil der Vergabeunterlagen werden nur die über das Vergabeportal
+			erteilten Antworten. Mündliche Auskünfte und Erklärungen haben keine Gültigkeit.
+			-------------------------------------------------------------------- Support und
+			Beratung zum Vergabeportal:
+
+			Anleitungen und Tutorials: https://support.cosinex.de/
+
+			Beratung: support@cosinex.de
+			-------------------------------------------------------------------- Die Angebotsabgabe
+			ist auch in englischer Sprache möglich.
+			This Quotation may also be submitted in English</cbc:Note>
+		<cac:RequestedTenderTotal>
+			<cbc:EstimatedOverallContractAmount currencyID="EUR">506572.00</cbc:EstimatedOverallContractAmount>
+		</cac:RequestedTenderTotal>
+		<cac:MainCommodityClassification>
+			<cbc:ItemClassificationCode listName="cpv">38000000</cbc:ItemClassificationCode>
+		</cac:MainCommodityClassification>
+		<cac:RealizedLocation>
+			<cac:Address>
+				<cbc:StreetName>Universität Stuttgart, Zentrum für Angewandte Quantentechnologie</cbc:StreetName>
+				<cbc:AdditionalStreetName>Allmandring 13</cbc:AdditionalStreetName>
+				<cbc:CityName>Stuttgart</cbc:CityName>
+				<cbc:PostalZone>70569</cbc:PostalZone>
+				<cbc:CountrySubentityCode listName="nuts">DE111</cbc:CountrySubentityCode>
+				<cac:Country>
+					<cbc:IdentificationCode>DEU</cbc:IdentificationCode>
+				</cac:Country>
+			</cac:Address>
+		</cac:RealizedLocation>
+		<cac:ContractExtension>
+			<cbc:MaximumNumberNumeric>0</cbc:MaximumNumberNumeric>
+		</cac:ContractExtension>
+	</cac:ProcurementProject>
+	<cac:ProcurementProjectLot>
+		<cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+		<cac:TenderingTerms>
+			<ext:UBLExtensions>
+				<ext:UBLExtension>
+					<ext:ExtensionContent>
+						<efext:EformsExtension>
+							<efac:StrategicProcurement>
+								<efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+							</efac:StrategicProcurement>
+						</efext:EformsExtension>
+					</ext:ExtensionContent>
+				</ext:UBLExtension>
+			</ext:UBLExtensions>
+			<cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+			<cac:ProcurementLegislationDocumentReference>
+				<cbc:ID>vgv</cbc:ID>
+			</cac:ProcurementLegislationDocumentReference>
+			<cac:AwardingTerms>
+				<cac:AwardingCriterion>
+					<cac:SubordinateAwardingCriterion>
+						<ext:UBLExtensions>
+							<ext:UBLExtension>
+								<ext:ExtensionContent>
+									<efext:EformsExtension>
+										<efac:AwardCriterionParameter>
+											<efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+											<efbc:ParameterNumeric>100.00000000</efbc:ParameterNumeric>
+										</efac:AwardCriterionParameter>
+									</efext:EformsExtension>
+								</ext:ExtensionContent>
+							</ext:UBLExtension>
+						</ext:UBLExtensions>
+						<cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+						<cbc:Name languageID="DEU">Preis</cbc:Name>
+					</cac:SubordinateAwardingCriterion>
+				</cac:AwardingCriterion>
+			</cac:AwardingTerms>
+			<cac:AdditionalInformationParty>
+				<cac:PartyIdentification>
+					<cbc:ID>ORG-0002</cbc:ID>
+				</cac:PartyIdentification>
+			</cac:AdditionalInformationParty>
+			<cac:AppealTerms>
+				<cac:PresentationPeriod>
+					<cbc:Description languageID="DEU">Es gelten die Bestimmungen des Gesetzes gegen
+						Wettbewerbsbeschränkungen (GWB).
+						Hinsichtlich der Einleitung von Nachprüfungsverfahren wird auf § 160 GWB
+						verwiesen. Dieser lautet:
+						(1) Die Vergabekammer leitet ein Nachprüfungsverfahren nur auf Antrag ein.
+						(2) Antragsbefugt ist jedes Unternehmen, das ein Interesse an dem
+						öffentlichen Auftrag oder der Konzession hat und eine Verletzung in seinen
+						Rechten nach § 97 Absatz 6 durch Nichtbeachtung von Vergabevorschriften
+						geltend macht. Dabei ist darzulegen dass dem Unternehmen durch die
+						behauptete Verletzung der Vergabevorschriften ein Schaden entstanden ist
+						oder zu entstehen droht.
+						 
+						(3) Der Antrag ist unzulässig, soweit
+						1. Der Antragsteller den geltend gemachten Verstoß gegen Vergabevorschriften
+						vor Einreichen des Nachprüfungsantrags erkannt und gegenüber dem
+						Auftraggeber nicht innerhalb einer Frist von zehn Kalendertagen gerügt hat;
+						2. Verstöße gegen Vergabevorschriften, die aufgrund der Bekanntmachung
+						erkennbar sind, nicht spätestens bis zum Ablauf der in der Bekanntmachung
+						benannten Frist zur Bewerbung oder zur Angebotsabgabe gegenüber dem
+						Auftraggeber gerügt werden,
+						3. Verstöße gegen Vergabevorschriften, die erst in den Vergabeunterlagen
+						erkennbar sind, nicht spätestens bis zum Ablauf der Frist zur Bewerbung oder
+						zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden,
+						4. mehr als 15 Kalendertage nach Eingang der Mitteilung des Auftraggebers,
+						einer Rüge nicht abhelfen zu wollen, vergangen sind.
+						 
+						Hinsichtlich der Information nicht berücksichtigter Bieter und Bewerber
+						gelten die §§ 134, 135 GWB. Insbesondere gilt: Bieter deren Angebote für den
+						Zuschlag nicht berücksichtigt werden sollen, werden vor dem Zuschlag gemäß §
+						134 GWB darüber informiert. Das gilt auch für Bewerber, denen keine
+						Information über die Ablehnung ihrer Bewerbung zur Verfügung gestellt wurde,
+						bevor die Mitteilung über die Zuschlagsentscheidung an die betroffenen
+						Bieter ergangen ist.
+						Ein Vertrag darf erst 15 Kalendertage nach Absendung dieser Information
+						durch den Auftraggeber geschlossen werden; bei Übermittlung per Telefax oder
+						auf elektronischem Wege beträgt diese Frist 10 Kalendertage.</cbc:Description>
+				</cac:PresentationPeriod>
+				<cac:AppealInformationParty>
+					<cac:PartyIdentification>
+						<cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+					</cac:PartyIdentification>
+				</cac:AppealInformationParty>
+				<cac:AppealReceiverParty>
+					<cac:PartyIdentification>
+						<cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+					</cac:PartyIdentification>
+				</cac:AppealReceiverParty>
+			</cac:AppealTerms>
+		</cac:TenderingTerms>
+		<cac:TenderingProcess>
+			<cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+			<cac:AuctionTerms>
+				<cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+			</cac:AuctionTerms>
+			<cac:ContractingSystem>
+				<cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+			</cac:ContractingSystem>
+			<cac:ContractingSystem>
+				<cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+			</cac:ContractingSystem>
+		</cac:TenderingProcess>
+		<cac:ProcurementProject>
+			<cbc:ID schemeName="internalID">24-227</cbc:ID>
+			<cbc:Name languageID="DEU">Kompakter tabletop Entmischungskryostat mit geschlossenem
+				Heliumkreislauf</cbc:Name>
+			<cbc:Description languageID="DEU">Im Rahmen des vom BMBF finanzierten LichtBriQ Projekts
+				ist es Aufgabe des ZAQuant Seltene-Erd-Ionen (REIs) innerhalb von photonischen
+				Strukturen bei niedrigen Temperaturen zu charakterisieren (z.B. durch
+				Spektroskopie). Die entsprechenden Experimente benötigen einen kompakten Kryostaten,
+				welcher optische Zugänge (Freistrahl und Faser) bietet bei gleichzeitiger Erzeugung
+				von Vektor-Magnetfeldern bis zu 0,5T.
+
+				As part of the LichtBriQ project funded by the BMBF, ZAQuant needs to characterize
+				(e.g. spectroscopy) rare earth ions (REIs) inside photonic structures at low
+				temperatures. The necessary experiments require a tabletop cryostat with a compact
+				formfactor that provides optical access (by freespace and fiber) to the sample.
+				Additionally, vector magnetic fields up to 0.5T need to be applied to the sample.</cbc:Description>
+			<cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+			<cac:ProcurementAdditionalType>
+				<cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+			</cac:ProcurementAdditionalType>
+			<cac:MainCommodityClassification>
+				<cbc:ItemClassificationCode listName="cpv">38000000</cbc:ItemClassificationCode>
+			</cac:MainCommodityClassification>
+			<cac:RealizedLocation>
+				<cac:Address>
+					<cbc:StreetName>Universität Stuttgart, Zentrum für Angewandte Quantentechnologie</cbc:StreetName>
+					<cbc:AdditionalStreetName>Allmandring 13</cbc:AdditionalStreetName>
+					<cbc:CityName>Stuttgart</cbc:CityName>
+					<cbc:PostalZone>70569</cbc:PostalZone>
+					<cbc:CountrySubentityCode listName="nuts">DE111</cbc:CountrySubentityCode>
+					<cac:Country>
+						<cbc:IdentificationCode>DEU</cbc:IdentificationCode>
+					</cac:Country>
+				</cac:Address>
+			</cac:RealizedLocation>
+			<cac:ContractExtension>
+				<cbc:MaximumNumberNumeric>0</cbc:MaximumNumberNumeric>
+			</cac:ContractExtension>
+		</cac:ProcurementProject>
+	</cac:ProcurementProjectLot>
+	<cac:TenderResult>
+		<cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+	</cac:TenderResult>
+</ContractAwardNotice>

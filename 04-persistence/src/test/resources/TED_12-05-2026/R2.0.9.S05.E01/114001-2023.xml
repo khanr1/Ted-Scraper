@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+    xmlns:n2021="http://publications.europa.eu/resource/schema/ted/2021/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+    VERSION="R2.0.9.S05.E01" DOC_ID="114001-2023" EDITION="2023040">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>23-111610-001</RECEPTION_ID>
+        <DELETION_DATE>20230531</DELETION_DATE>
+        <FORM_LG_LIST>EN </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="https://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>40</NO_OJ>
+            <DATE_PUB>20230224</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2023/S 040-114001</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="EN">https://ted.europa.eu/udl?uri=TED:NOTICE:114001-2023:TEXT:EN:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>EN</LG_ORIG>
+            <ISO_COUNTRY VALUE="DK" />
+            <IA_URL_GENERAL>www.KU.dk</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="38000000">Laboratory, optical and precision equipments (excl.
+                glasses)</ORIGINAL_CPV>
+            <n2021:PERFORMANCE_NUTS CODE="DK01">Hovedstaden</n2021:PERFORMANCE_NUTS>
+            <n2021:CA_CE_NUTS CODE="DK01">Hovedstaden</n2021:CA_CE_NUTS>
+            <n2021:TENDERER_NUTS CODE="UK">United Kingdom</n2021:TENDERER_NUTS>
+            <VALUES>
+                <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">1100000.00</VALUE>
+            </VALUES>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20230220</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="V">Voluntary ex ante transparency notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+            <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="Z">Not specified</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="L">Education</MA_MAIN_ACTIVITIES>
+            <HEADING>01B15</HEADING>
+            <INITIATOR>01</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Дaния</TI_CY>
+                <TI_TOWN>Копенхаген</TI_TOWN>
+                <TI_TEXT>
+                    <P>Лабораторно, оптично и прецизно оборудване (без стъклени изделия)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Dánsko</TI_CY>
+                <TI_TOWN>Kodaň</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorní, optické a přesné přístroje a zařízení (mimo skel)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Danmark</TI_CY>
+                <TI_TOWN>København</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorieudstyr, optisk udstyr og præcisionsudstyr (ikke briller)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Dänemark</TI_CY>
+                <TI_TOWN>Kopenhagen</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Δανία</TI_CY>
+                <TI_TOWN>Κοπεγχάγη</TI_TOWN>
+                <TI_TEXT>
+                    <P>Εξοπλισμός εργαστηριακός, οπτικός και ακριβείας (εκτός από γυαλιά)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Denmark</TI_CY>
+                <TI_TOWN>Copenhagen</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory, optical and precision equipments (excl. glasses)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Dinamarca</TI_CY>
+                <TI_TOWN>Copenhague</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipo de laboratorio, óptico y de precisión (excepto gafas)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Taani</TI_CY>
+                <TI_TOWN>Kopenhaagen</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboriseadmed, optika- ja täppisinstrumendid (v.a klaasid)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Tanska</TI_CY>
+                <TI_TOWN>Kööpenhamina</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriolaitteet, optiset ja tarkkuuslaitteet (lukuun ottamatta
+                        silmälaseja)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Danemark</TI_CY>
+                <TI_TOWN>Copenhague</TI_TOWN>
+                <TI_TEXT>
+                    <P>Équipements de laboratoire, d'optique et de précision (excepté les lunettes)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Danmhairg, an</TI_CY>
+                <TI_TOWN>Cóbanhávan</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory, optical and precision equipments (excl. glasses)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Danska</TI_CY>
+                <TI_TOWN>Kopenhagen</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijska, optička i precizna oprema (osim naočala)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Dánia</TI_CY>
+                <TI_TOWN>Koppenhága</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratóriumi, optikai és precíziós felszerelések (kivéve szemüvegek)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Danimarca</TI_CY>
+                <TI_TOWN>Copenaghen</TI_TOWN>
+                <TI_TEXT>
+                    <P>Attrezzature da laboratorio, ottiche e di precisione (escluso vetri)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Danija</TI_CY>
+                <TI_TOWN>Kopenhaga</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Dānija</TI_CY>
+                <TI_TOWN>Kopenhāgena</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijas, optiskās un precīzijas ierīces (izņemot brilles)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>id-Danimarka</TI_CY>
+                <TI_TOWN>Kopenħagen</TI_TOWN>
+                <TI_TEXT>
+                    <P>Tagħmir tal-laboratorju, ottiku u ta' preċiżjoni (minbarra nuċċalijiet)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Denemarken</TI_CY>
+                <TI_TOWN>Kopenhagen</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd
+                        brillen)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Dania</TI_CY>
+                <TI_TOWN>Kopenhaga</TI_TOWN>
+                <TI_TEXT>
+                    <P>Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Dinamarca</TI_CY>
+                <TI_TOWN>Copenhaga</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipamento laboratorial, óptico e de precisão (exc. óculos)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Danemarca</TI_CY>
+                <TI_TOWN>Copenhaga</TI_TOWN>
+                <TI_TEXT>
+                    <P>Echipamente de laborator, optice şi de precizie (cu excepţia ochelarilor)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Dánsko</TI_CY>
+                <TI_TOWN>Kodaň</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratórne, optické a presné prístroje a vybavenie (s výnimkou skiel)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Danska</TI_CY>
+                <TI_TOWN>Kopenhagen</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijska, optična in precizna oprema (razen očal)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Danmark</TI_CY>
+                <TI_TOWN>Köpenhamn</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorieutrustning, optisk utrustning och precisionsutrustning (exkl.
+                        glas)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="EN">University of Copenhagen</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F15_2014 CATEGORY="ORIGINAL" FORM="F15" LG="EN">
+            <LEGAL_BASIS VALUE="32014L0024" />
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>University of Copenhagen</OFFICIALNAME>
+                    <ADDRESS>Nørregade 10</ADDRESS>
+                    <TOWN>Copenhagen K</TOWN>
+                    <POSTAL_CODE>1165</POSTAL_CODE>
+                    <COUNTRY VALUE="DK" />
+                    <CONTACT_POINT>Mahmut Yüksel</CONTACT_POINT>
+                    <E_MAIL>fgn253@ku.dk</E_MAIL>
+                    <n2021:NUTS CODE="DK01" />
+                    <URL_GENERAL>www.KU.dk</URL_GENERAL>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="BODY_PUBLIC" />
+                <CA_ACTIVITY VALUE="EDUCATION" />
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Acquisition of ProteoxMX 500 </P>
+                </TITLE>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="38000000" />
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SUPPLIES" />
+                <SHORT_DESCR>
+                    <P>The Niels Bohr Institute is part of the Faculty of SCIENCE at the University
+                        of Copenhagen. The Niels Bohr Institute has a 100 year long tradition of
+                        excellence within science, in particular within the area of quantum physics.
+                        The institute was inaugurated on March 3, 1921, by Professor Niels Bohr. We
+                        are approx. 430 researchers, 70 administrative and technical staff, 100 PhD
+                        students and 400 students. The European Physical Society has declared the
+                        Niels Bohr Institute a Historic Site of great international importance for
+                        the development of physics and research. </P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="EUR">1100000.00</VAL_TOTAL>
+                <NO_LOT_DIVISION />
+                <OBJECT_DESCR ITEM="1">
+                    <n2021:NUTS CODE="DK01" />
+                    <SHORT_DESCR>
+                        <P>We plan to purchase two cryostats to synergistically work together with
+                            the existing lab infrastructure of the applicants. The cryostats will
+                            play a central part in the research laboratory of Jesper Nygård and
+                            Ferdinand Kuemmeth at the Center for Quantum Devices, where they will be
+                            used for a research programme to develop quantum simulation hardware
+                            (funded by the Novo Nordisk Foundation). The simulation hardware is
+                            based on quantum materials, quantum-electronics devices, and qubit chips
+                            that are controlled by many low-frequency control signals and many
+                            independent high-frequency control signals. The capability to apply
+                            strong magnetic fields and study temperature-dependent quantum
+                            properties in the range 0.01…30 K must not result in long cycle times
+                            (down times) when changing samples. </P>
+                    </SHORT_DESCR>
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <DIRECTIVE_2014_24_EU>
+                    <PT_NEGOTIATED_WITHOUT_PUBLICATION>
+                        <D_ACCORDANCE_ARTICLE>
+                            <D_TECHNICAL />
+                            <D_ADD_DELIVERIES_ORDERED />
+                        </D_ACCORDANCE_ARTICLE>
+                        <D_JUSTIFICATION>
+                            <P>The research groups of Prof. Nygård and Prof. Kuemmeth are extending
+                                their measurement capabilities by adding two mutually compatible
+                                cryostats to their existing Oxford Instruments cryo-free dilution
+                                refrigerator setups. Similar to the existing systems, the new
+                                cryostats must meet temperature ranges between 10 mK and 30 K,
+                                magnetic fields up to at least 6 T, with sufficient cooling power to
+                                handle significant (&gt;20dB) thermalizing attenuation on actively
+                                pulsed coaxial lines with minor vibration levels. The number of DC
+                                channels must be no smaller than 96, the number of coax lines to the
+                                sample no smaller than 28, and cooling water requirements should not
+                                exceed the need of one pulse tube. Sample loading must be possible
+                                (via a bottom loader) without the need to warm up the entire
+                                cryostat. To avoid detrimental aging (in atmospheric conditions) of
+                                various quantum materials to be studied in these cryostats, sample
+                                loading, cool down, warm up, re-cool, and unloading to room
+                                temperature must be possible without breaking vacuum. Cool down must
+                                be as fast as possible, and take no longer than 12 hours. Sample
+                                pucks must be compatible with sample holder systems used on the
+                                existing refrigerator setups (72-mm diameter, with 51-pin
+                                non-magnetic nanoD connectors and SMP bullets), in order to allow
+                                sharing of advanced high-frequency sample holders between cryostats,
+                                as well as to allow sharing of samples between different cryostats.
+                                Technical constraints of the intended lab space applies (such as
+                                cooling water and electrical power limitations), due to the recent
+                                relocation of a nearly identical Oxford Instruments cryo-free
+                                dilution fridges to other buildings. </P>
+                            <P>- Active gas gap heat switch</P>
+                            <P>• Patent number : EU : EP3742076B1</P>
+                            <P>Active gas gap heat switch for rapid thermal cycling control. It
+                                allows for temperature control of the mixing chamber plate from
+                                &lt;10mk up to 30K while operating the magnet at full field. This
+                                feature must be automatic and fully controllable via software (no
+                                manual intervention).</P>
+                            <P>Software </P>
+                            <P>The software is fully web based and allows for analytics and
+                                interactive visualization via embedded Grafana software to allow the
+                                user for interactive data-visualization platform.</P>
+                            <P>- Fully removeable Secondary Insert</P>
+                            <P>• Patent number: USA : US6758059 B2</P>
+                            <P>This removeable self-supporting modular insert provides the ability
+                                to have multiple wiring configuration and hardware set up, depending
+                                on the user application. This is a multi-user platform allowing for
+                                multiple experiments and including at least 1 line of sight ISO100
+                                port for future wiring upgrade.</P>
+                            <P>- Bottom loader</P>
+                            <P>• Patented number EU : EP2409096 B1 and EP2742299 B1</P>
+                            <P>Puck compatibility with the dilution refrigerators currently
+                                installed at the lab (same puck design as Triton product line),
+                                allowing customer to re-use immediately the experimental setup and
+                                mechanical parts, developed for the Tritons dilution refrigerators
+                                on the new Proteox dilution refrigerators.</P>
+                        </D_JUSTIFICATION>
+                    </PT_NEGOTIATED_WITHOUT_PUBLICATION>
+                </DIRECTIVE_2014_24_EU>
+                <CONTRACT_COVERED_GPA />
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2022-12-24</DATE_CONCLUSION_CONTRACT>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Oxford Instruments</OFFICIALNAME>
+                                <TOWN>Abingdon</TOWN>
+                                <POSTAL_CODE>OX13 5QX</POSTAL_CODE>
+                                <COUNTRY VALUE="UK" />
+                                <PHONE>+44 07523929995</PHONE>
+                                <n2021:NUTS CODE="UK" />
+                                <URL>www.oxford-instruments.com</URL>
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_TOTAL CURRENCY="EUR">1100000.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Danish Public Contracts Appeal Board</OFFICIALNAME>
+                    <ADDRESS>Nævnenes hus, tolboden 2</ADDRESS>
+                    <TOWN>Viborg</TOWN>
+                    <POSTAL_CODE>8800</POSTAL_CODE>
+                    <COUNTRY VALUE="DK" />
+                    <PHONE>+45 72405600</PHONE>
+                    <E_MAIL>NH@naevneneshus.dk</E_MAIL>
+                    <URL>www.KLFU.dk</URL>
+                </ADDRESS_REVIEW_BODY>
+                <DATE_DISPATCH_NOTICE>2023-02-20</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F15_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

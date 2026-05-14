@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+####################################################################################
+#  XSD name : common_prod
+#  RELEASE : "R2.0.8.S02.E01"
+#  Intermediate release number 015-20161124
+#  Last update : 05/04/2016
+####################################################################################
+ -->
+<xs:schema xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" version="R2.0.8.S02.E01">
+	<xs:import namespace="http://www.w3.org/1999/xlink" schemaLocation="xlink.xsd"/>
+	<xs:include schemaLocation="common.xsd"/>
+	<!--<xs:include schemaLocation="headings.xsd"/>-->
+	<!--###### TED EXPORT SCHEMA ######-->
+	<!--###### Main Sections ###############-->
+	<!-- TECHNICAL_SECTION -->
+	<xs:complexType name="t_technical_section">
+		<xs:sequence>
+			<xs:element name="RECEPTION_ID" type="t_reception_id"/>
+			<xs:element ref="DELETION_DATE"/>
+			<xs:element name="FORM_LG_LIST" type="xs:string"/>
+			<xs:element ref="COMMENTS" minOccurs="0"/>
+			<xs:element name="OLD_HEADING" type="xs:string" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="TECHNICAL_SECTION" type="t_technical_section"/>
+	<!-- LINKS_SECTION-->
+	<xs:complexType name="t_links_section">
+		<xs:sequence>
+			<xs:element name="XML_SCHEMA_DEFINITION_LINK" type="all_links" minOccurs="0"/>
+			<xs:element name="OFFICIAL_FORMS_LINK" type="all_links" minOccurs="0"/>
+			<xs:element name="FORMS_LABELS_LINK" type="all_links" minOccurs="0"/>
+			<xs:element name="ORIGINAL_CPV_LINK" type="all_links" minOccurs="0"/>
+			<xs:element name="ORIGINAL_NUTS_LINK" type="all_links" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="LINKS_SECTION" type="t_links_section"/>
+	<xs:complexType name="all_links">
+		<xs:attribute ref="xlink:type" use="required"/>
+		<xs:attribute ref="xlink:href" use="required"/>
+		<xs:attribute ref="xlink:title"/>
+	</xs:complexType>
+	<!-- CODED_DATA_SECTION -->
+	<xs:complexType name="t_coded_data_section">
+		<xs:sequence>
+			<xs:element ref="REF_OJS"/>
+			<xs:element ref="NOTICE_DATA"/>
+			<xs:element ref="CODIF_DATA"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="CODED_DATA_SECTION" type="t_coded_data_section"/>
+	<!--Translation Section -->
+	<xs:complexType name="t_translation_section">
+		<xs:sequence>
+			<xs:element ref="ML_TITLES"/>
+			<xs:element ref="ML_AA_NAMES"/>
+			<xs:element ref="TRANSLITERATIONS" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="TRANSLATION_SECTION" type="t_translation_section"/>
+	<!-- ###### Definitions used in main sections ######-->
+	<!--########################################-->
+	<!--t_document_number declaration-->
+	<xs:simpleType name="t_document_number">
+		<xs:annotation>
+			<xs:documentation>Pattern for the Document number (nnnnnn-yyyy - where yyyy = publication year and nnnnnn = document number, with leading zeros)</xs:documentation>
+			<xs:documentation>Currently used by DOCUMENT_NUMBER</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[0-9][0-9]{0,5}\-20[0-9]{2}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="t_reception_id">
+		<xs:annotation>
+			<xs:documentation> Pattern for the Reception ID (nn-nnnnnn-nnn)</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:pattern value="\d{2}-\d{6}-\d{3}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="COMMENTS" type="btx"/>
+	<xs:element name="DELETION_DATE" type="t_simple_date"/>
+	<!--t_ref_ojs declaration-->
+	<xs:complexType name="t_ref_ojs">
+		<xs:sequence>
+			<xs:element name="COLL_OJ">
+				<xs:annotation>
+					<xs:documentation>Restriction for the Type of Journal (x - one char - currently only one value allowed - S = supplement)</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="S"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="NO_OJ" type="t_no_oj"/>
+			<!-- Publication date -->
+			<xs:element name="DATE_PUB" type="t_simple_date"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="t_no_oj">
+		<xs:simpleContent>
+			<xs:extension base="no_oj">
+				<xs:attribute name="CLASS" default="REGULAR">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="REGULAR"/>
+							<xs:enumeration value="ANNEX"/>
+							<xs:enumeration value="ELECTRONIC"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+				<xs:attribute name="LAST">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="YES"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<xs:simpleType name="no_oj">
+		<xs:annotation>
+			<xs:documentation>Pattern for OJ Number (integer - 0 to 999, leading zeros allowed)</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[0-9]{1,3}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="REF_OJS" type="t_ref_ojs"/>
+	<!--t_notice_data_declaration-->
+	<xs:complexType name="t_notice_data">
+		<xs:sequence>
+			<xs:element ref="NO_DOC_OJS" minOccurs="0"/>
+			<xs:element ref="URI_LIST" minOccurs="0"/>
+			<xs:element name="LG_ORIG" type="xs:string"/>
+			<xs:element name="ISO_COUNTRY" type="country"/>
+			<xs:element name="IA_URL_GENERAL" type="xs:string"/>
+			<xs:element name="IA_URL_ETENDERING" type="xs:string" minOccurs="0"/>
+			<xs:element name="ORIGINAL_CPV" type="t_cpv_code" maxOccurs="unbounded"/>
+			<xs:element name="CURRENT_CPV" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="ORIGINAL_NUTS" type="t_nuts_code" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="CURRENT_NUTS" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element ref="VALUES_LIST" minOccurs="0"/>
+			<xs:element name="REF_NOTICE" type="t_ref_notice" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="NOTICE_DATA" type="t_notice_data"/>
+	<!--values declaration -->
+	<xs:element name="VALUES_LIST">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="VALUES" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="VALUES">
+		<xs:complexType>
+			<xs:choice>
+				<xs:element name="SINGLE_VALUE">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="VALUE" type="t_value"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="RANGE_VALUE">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="VALUE" type="t_value" maxOccurs="unbounded"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+			<xs:attribute name="TYPE">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="GLOBAL"/>
+						<xs:enumeration value="PER_LOT"/>
+						<xs:enumeration value="CONTRACT"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="t_value">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="CURRENCY" type="currencies"/>
+				<xs:attribute name="FORMAT">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="NOT_STANDARD"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<xs:complexType name="t_directive">
+		<xs:annotation>
+			<xs:documentation>Directive</xs:documentation>
+		</xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="VALUE" use="required">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="2007/66/EC"/>
+							<xs:enumeration value="2004/17/EC"/>
+							<xs:enumeration value="2004/18/EC"/>
+							<xs:enumeration value="2009/81/EC"/>
+							<xs:enumeration value="1370/2007"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<!--t_codif_data declaration-->
+	<xs:complexType name="t_codif_data">
+		<xs:sequence>
+			<xs:element name="DS_DATE_DISPATCH" type="t_simple_date"/>
+			<xs:element name="DD_DATE_REQUEST_DOCUMENT" type="t_simple_datetime" minOccurs="0"/>
+			<xs:element name="DT_DATE_FOR_SUBMISSION" type="t_simple_datetime" minOccurs="0"/>
+			<xs:element name="AA_AUTHORITY_TYPE" type="t_autority_type"/>
+			<xs:element name="TD_DOCUMENT_TYPE" type="t_document_type"/>
+			<xs:element name="NC_CONTRACT_NATURE" type="t_contract_nature"/>
+			<xs:element name="PR_PROC" type="t_proc"/>
+			<xs:element name="RP_REGULATION" type="t_regulation"/>
+			<xs:element name="TY_TYPE_BID" type="t_type_bid"/>
+			<xs:element name="AC_AWARD_CRIT" type="t_award_crit"/>
+			<xs:element name="MA_MAIN_ACTIVITIES" type="t_main_activities" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="HEADING" type="xs:string"/>
+			<xs:element name="DIRECTIVE" type="t_directive" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="CODIF_DATA" type="t_codif_data"/>
+	<!--#### Declarations of elements used in NOTICE_DATA######-->
+	<xs:simpleType name="t_no_doc_ojs">
+		<xs:annotation>
+			<xs:documentation>Pattern for Notice No (9999/S 999-999999)</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:pattern value="20\d{2}/S \d{1,3}-\d{6}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="NO_DOC_OJS" type="t_no_doc_ojs"/>
+	<!-- url_prod declaration.-->
+	<xs:simpleType name="t_url_prod">
+		<xs:annotation>
+			<xs:documentation>
+				<p>Pattern for URL (enhanced version)</p>
+				<p>Unfortunately the pattern string is very complex</p>
+			</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:pattern value="(((http|https)://)?([a-zA-Z]{1}([a-zA-Z0-9\-])*)(\.([a-zA-Z0-9]{1}([a-zA-Z0-9\-])*))*\.[a-zA-Z]{1,10}(:[0-9]{1,5})?(/([a-zA-Z0-9_\-\.%])*)*((#|\?)([a-zA-Z0-9\?\./:;\-&#x26;_=#%$])*)?)?"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="URI_LIST">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="URI_DOC" type="t_uri_doc" maxOccurs="24"/>
+			</xs:sequence>
+		</xs:complexType>
+		<xs:key name="uri_list.lg">
+			<xs:selector xpath="*"/>
+			<xs:field xpath="@LG"/>
+		</xs:key>
+	</xs:element>
+	<xs:complexType name="t_uri_doc">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="LG" type="languages"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<!-- cost_prod declaration -->
+	<xs:simpleType name="t_cost_prod">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">
+				<p>Pattern for money amounts.</p>
+				<p>The decimal dot (.) is a valid separator between integer and fractional digits.</p>
+				<p>The fractional digits can be omitted.</p>
+				<p>Examples:</p>
+				<p>1234456789.01</p>
+			</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:decimal">
+			<xs:minInclusive value="0"/>
+			<xs:fractionDigits value="2"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<!-- Currently two different formats of CPV codes are being used -->
+	<xs:complexType name="t_cpv_code">
+		<xs:annotation>
+			<xs:documentation>CPV codes</xs:documentation>
+			<xs:documentation>Currently used by ORIGINAL_CPV and CURRENT_CPV</xs:documentation>
+		</xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="CODE" type="t_cpv_code_list" use="required"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<!-- Currently two different formats of NUTS codes are being used -->
+	<xs:complexType name="t_nuts_code">
+		<xs:annotation>
+			<xs:documentation>NUTS codes</xs:documentation>
+			<xs:documentation>Currently used by ORIGINAL_NUTS and CURRENT_NUTS</xs:documentation>
+		</xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="CODE" type="t_nuts_code_list" use="required"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<!--t_ declaration-->
+	<xs:complexType name="t_ref_notice">
+		<xs:sequence>
+			<xs:element ref="NO_DOC_OJS" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!--###### declaration of elements belonging to CODIF_DATA ######-->
+	<!--t_sector declaration -->
+	<xs:complexType name="t_autority_type">
+		<xs:annotation>
+			<xs:documentation>Awarding Authority. Type of awarding authority</xs:documentation>
+		</xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="CODE" use="required">
+					<xs:annotation>
+						<xs:documentation>Restriction for Awarding Autorithy. Type of awarding authority</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="1"/>
+							<xs:enumeration value="2"/>
+							<xs:enumeration value="3"/>
+							<xs:enumeration value="4"/>
+							<xs:enumeration value="5"/>
+							<xs:enumeration value="6"/>
+							<xs:enumeration value="8"/>
+							<xs:enumeration value="9"/>
+							<xs:enumeration value="N"/>
+							<xs:enumeration value="R"/>
+							<xs:enumeration value="Z"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<!--t_nat_notice declaration-->
+	<xs:complexType name="t_document_type">
+		<xs:annotation>
+			<xs:documentation>Type of Document</xs:documentation>
+		</xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="CODE" use="required">
+					<xs:annotation>
+						<xs:documentation>Restriction for Type of Document</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="0"/>
+							<xs:enumeration value="1"/>
+							<xs:enumeration value="2"/>
+							<xs:enumeration value="3"/>
+							<xs:enumeration value="4"/>
+							<xs:enumeration value="5"/>
+							<xs:enumeration value="6"/>
+							<xs:enumeration value="7"/>
+							<xs:enumeration value="8"/>
+							<xs:enumeration value="9"/>
+							<xs:enumeration value="A"/>
+							<xs:enumeration value="B"/>
+							<xs:enumeration value="C"/>
+							<xs:enumeration value="D"/>
+							<xs:enumeration value="E"/>
+							<xs:enumeration value="F"/>
+							<xs:enumeration value="G"/>
+							<xs:enumeration value="H"/>
+							<xs:enumeration value="I"/>
+							<xs:enumeration value="J"/>
+							<xs:enumeration value="K"/>
+							<xs:enumeration value="M"/>
+							<xs:enumeration value="O"/>
+							<xs:enumeration value="P"/>
+							<xs:enumeration value="Q"/>
+							<xs:enumeration value="R"/>
+							<xs:enumeration value="S"/>
+							<xs:enumeration value="V"/>
+							<xs:enumeration value="Y"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<!-- t_market declaration-->
+	<xs:complexType name="t_contract_nature">
+		<xs:annotation>
+			<xs:documentation>Nature of Contract</xs:documentation>
+		</xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="CODE" use="required">
+					<xs:annotation>
+						<xs:documentation>Restriction for Nature of Contract</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="1"/>
+							<xs:enumeration value="2"/>
+							<xs:enumeration value="3"/>
+							<xs:enumeration value="4"/>
+							<xs:enumeration value="9"/>
+							<xs:enumeration value="Z"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<!--t_proc declaration-->
+	<xs:complexType name="t_proc">
+		<xs:annotation>
+			<xs:documentation>Type of Procedure</xs:documentation>
+		</xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="CODE" use="required">
+					<xs:annotation>
+						<xs:documentation>Restriction for Type of Procedure</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="1"/>
+							<xs:enumeration value="2"/>
+							<xs:enumeration value="3"/>
+							<xs:enumeration value="4"/>
+							<xs:enumeration value="5"/>
+							<xs:enumeration value="6"/>
+							<xs:enumeration value="7"/>
+							<xs:enumeration value="8"/>
+							<xs:enumeration value="9"/>
+							<xs:enumeration value="A"/>
+							<xs:enumeration value="B"/>
+							<xs:enumeration value="C"/>
+							<xs:enumeration value="E"/>
+							<xs:enumeration value="F"/>
+							<xs:enumeration value="G"/>
+							<xs:enumeration value="T"/>
+							<xs:enumeration value="V"/>
+							<xs:enumeration value="Z"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<!--t_market_org-->
+	<xs:complexType name="t_regulation">
+		<xs:annotation>
+			<xs:documentation>Regulation of Procurement</xs:documentation>
+		</xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="CODE" use="required">
+					<xs:annotation>
+						<xs:documentation>Restriction for Regulation of Procurement</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="0"/>
+							<xs:enumeration value="1"/>
+							<xs:enumeration value="2"/>
+							<xs:enumeration value="3"/>
+							<xs:enumeration value="4"/>
+							<xs:enumeration value="5"/>
+							<xs:enumeration value="6"/>
+							<xs:enumeration value="7"/>
+							<xs:enumeration value="8"/>
+							<xs:enumeration value="9"/>
+							<xs:enumeration value="A"/>
+							<xs:enumeration value="B"/>
+							<xs:enumeration value="C"/>
+							<xs:enumeration value="S"/>
+							<xs:enumeration value="Z"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<!-- t_type_bid -->
+	<xs:complexType name="t_type_bid">
+		<xs:annotation>
+			<xs:documentation>Type of bid</xs:documentation>
+		</xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="CODE" use="required">
+					<xs:annotation>
+						<xs:documentation>Restriction for Type of bid</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="1"/>
+							<xs:enumeration value="2"/>
+							<xs:enumeration value="3"/>
+							<xs:enumeration value="8"/>
+							<xs:enumeration value="9"/>
+							<xs:enumeration value="Z"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<!-- t_award_crit -->
+	<xs:complexType name="t_award_crit">
+		<xs:annotation>
+			<xs:documentation>Awarding Criteria</xs:documentation>
+		</xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="CODE" use="required">
+					<xs:annotation>
+						<xs:documentation>Restriction for Awarding Criteria</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="1"/>
+							<xs:enumeration value="2"/>
+							<xs:enumeration value="3"/>
+							<xs:enumeration value="8"/>
+							<xs:enumeration value="9"/>
+							<xs:enumeration value="Z"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<!-- t_main_activities declaration-->
+	<xs:complexType name="t_main_activities">
+		<xs:annotation>
+			<xs:documentation>Main Activities</xs:documentation>
+		</xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="CODE" use="required">
+					<xs:annotation>
+						<xs:documentation>Restriction for Main Activities</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="A"/>
+							<xs:enumeration value="B"/>
+							<xs:enumeration value="C"/>
+							<xs:enumeration value="D"/>
+							<xs:enumeration value="E"/>
+							<xs:enumeration value="F"/>
+							<xs:enumeration value="G"/>
+							<xs:enumeration value="H"/>
+							<xs:enumeration value="I"/>
+							<xs:enumeration value="J"/>
+							<xs:enumeration value="K"/>
+							<xs:enumeration value="L"/>
+							<xs:enumeration value="M"/>
+							<xs:enumeration value="N"/>
+							<xs:enumeration value="P"/>
+							<xs:enumeration value="R"/>
+							<xs:enumeration value="S"/>
+							<xs:enumeration value="T"/>
+							<xs:enumeration value="U"/>
+							<xs:enumeration value="W"/>
+							<xs:enumeration value="Z"/>
+							<xs:enumeration value="8"/>
+							<xs:enumeration value="9"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<!-- Currently different formats of date are being used -->
+	<xs:simpleType name="t_simple_date">
+		<xs:annotation>
+			<xs:documentation>Pattern for Dispatch and Receipt date (yyyymmdd -- where yyyy = year, mm = month, dd = day)</xs:documentation>
+			<xs:documentation>Currently used by DATE_DISP</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:pattern value="20[0-9]{2}(1[0-2]|0[1-9])((3[0-1])|([1-2][0-9])|(0[1-9]))"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<!-- Currently many different formats of date are being used -->
+	<xs:simpleType name="t_simple_datetime">
+		<xs:annotation>
+			<xs:documentation>Pattern for the Deadline for Specifications and for the Deadline for Applications/Offers (yyyymmdd[ hh:mm] -- where yyyy = year, mm = month, dd = day, hh = hour, mm=minute)</xs:documentation>
+			<xs:documentation>Currently used by DEADLINE_REC and DEADLINE_REQ</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:pattern value="20[0-9]{2}(1[0-2]|0[1-9])((3[0-1])|([1-2][0-9])|(0[1-9]))( ((2[0-3])|([0-1][0-9])):[0-5][0-9])?"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<!--ML_TITLES declaration -->
+	<!--added for testing minOccurs="0" and mixed "true". Remove? -->
+	<xs:element name="ML_TITLES">
+		<!--	<xs:complexType mixed="true">-->
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="ML_TI_DOC" minOccurs="0" maxOccurs="24"/>
+			</xs:sequence>
+		</xs:complexType>
+		<xs:key name="ml_titles.lg">
+			<xs:selector xpath="*"/>
+			<xs:field xpath="@LG"/>
+		</xs:key>
+	</xs:element>
+	<!-- t_ml_ti_doc declaration -->
+	<xs:complexType name="t_ml_ti_doc">
+		<xs:sequence>
+			<xs:element name="TI_CY" type="xs:string" minOccurs="0"/>
+			<xs:element name="TI_TOWN" type="xs:string" minOccurs="0"/>
+			<xs:element name="TI_TEXT" type="btx" minOccurs="0"/>
+		</xs:sequence>
+		<xs:attribute name="LG" type="languages" use="required"/>
+	</xs:complexType>
+	<xs:element name="ML_TI_DOC" type="t_ml_ti_doc"/>
+	<xs:element name="TRANSLITERATIONS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="TRANSLITERATED_ADDR"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="t_transliterated_addr">
+		<xs:sequence>
+			<xs:element name="ORGANISATION">
+				<xs:complexType mixed="true">
+					<xs:sequence>
+						<xs:element ref="OFFICIALNAME" minOccurs="0"/>
+						<xs:element ref="NATIONALID" minOccurs="0"/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element ref="ADDRESS"/>
+			<xs:element ref="TOWN"/>
+			<xs:element ref="POSTAL_CODE" minOccurs="0"/>
+			<xs:element ref="COUNTRY"/>
+			<xs:element ref="CONTACT_POINT" minOccurs="0"/>
+			<xs:element ref="ATTENTION" minOccurs="0"/>
+			<xs:element ref="PHONE" minOccurs="0"/>
+			<xs:choice>
+				<xs:element ref="E_MAIL" minOccurs="0"/>
+				<xs:element ref="E_MAILS" minOccurs="0"/>
+			</xs:choice>
+			<xs:element ref="FAX" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!--ML_AA_NAMES-->
+	<xs:element name="ML_AA_NAMES">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="AA_NAME" type="t_aa_name" maxOccurs="24"/>
+			</xs:sequence>
+		</xs:complexType>
+		<xs:key name="ml_aa_names.lg">
+			<xs:selector xpath="*"/>
+			<xs:field xpath="@LG"/>
+		</xs:key>
+	</xs:element>
+	<xs:complexType name="t_aa_name">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="LG" type="languages"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<xs:element name="TRANSLITERATED_ADDR" type="t_transliterated_addr"/>
+	<!--#### Definitions of elements used by OTH_NOT and EEIG #### -->
+	<xs:complexType name="btx_oth" mixed="true">
+		<xs:choice minOccurs="0" maxOccurs="unbounded">
+			<xs:element name="FT">
+				<xs:complexType>
+					<xs:complexContent>
+						<xs:extension base="btx_oth">
+							<xs:attribute name="TYPE">
+								<xs:simpleType>
+									<xs:restriction base="xs:NMTOKEN">
+										<xs:enumeration value="REFOJ"/>
+										<xs:enumeration value="SUB"/>
+										<xs:enumeration value="SUP"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:attribute>
+						</xs:extension>
+					</xs:complexContent>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="P" type="btx_oth"/>
+			<xs:element ref="ADDRESS_NOT_STRUCT"/>
+			<xs:element ref="ADDRESS_NOT_MANDATORY"/>
+			<xs:element ref="ANNOTATION"/>
+			<xs:element ref="EXPL_CALL"/>
+			<xs:element ref="CORREC"/>
+			<xs:element ref="FOR_INSERT"/>
+			<xs:element ref="GR_ANNOTATION"/>
+			<xs:element ref="GR_SEQ"/>
+			<xs:element ref="GR_TBL"/>
+			<xs:element ref="LIST"/>
+			<xs:element ref="MARK_LIST"/>
+			<xs:element ref="NOTE"/>
+			<xs:element ref="QT"/>
+			<xs:element ref="SIC"/>
+			<xs:element ref="TBL"/>
+			<xs:element ref="VL"/>
+			<xs:element ref="EM"/>
+		</xs:choice>
+	</xs:complexType>
+	<xs:complexType name="btx_seq_oth" mixed="true">
+		<xs:choice minOccurs="0" maxOccurs="unbounded">
+			<xs:element name="P" type="btx_oth"/>
+			<xs:element ref="ADDRESS_NOT_STRUCT"/>
+			<xs:element ref="ADDRESS_NOT_MANDATORY"/>
+			<xs:element ref="ANNOTATION"/>
+			<xs:element ref="CORREC"/>
+			<xs:element ref="GR_ANNOTATION"/>
+			<xs:element ref="GR_SEQ"/>
+			<xs:element ref="GR_TBL"/>
+			<xs:element ref="LIST"/>
+			<xs:element ref="MARK_LIST"/>
+			<xs:element ref="QT"/>
+			<xs:element ref="TBL"/>
+		</xs:choice>
+	</xs:complexType>
+	<xs:element name="NO_ANNOTATION" type="btx_oth"/>
+	<xs:element name="TI_TOC" type="btx_oth"/>
+	<xs:element name="BLK_BTX" type="btx_oth"/>
+	<xs:element name="ADDRESS_NOT_STRUCT">
+		<xs:complexType>
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element name="ORGANISATION" type="xs:string"/>
+				<xs:element ref="ATTENTION"/>
+				<xs:element ref="ADDRESS"/>
+				<xs:element ref="POSTAL_CODE"/>
+				<xs:element ref="TOWN"/>
+				<xs:element ref="COUNTRY"/>
+				<xs:element ref="PHONE"/>
+				<xs:element ref="FAX"/>
+				<xs:element ref="E_MAIL"/>
+				<xs:element ref="URL"/>
+				<xs:element ref="BLK_BTX"/>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+	<!--Element ANNOTATION-->
+	<xs:element name="ANNOTATION">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="NO_ANNOTATION" minOccurs="0"/>
+				<xs:element ref="BLK_BTX" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="EXPL_CALL">
+		<xs:complexType>
+			<xs:attribute name="IDREF" type="xs:IDREF" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<!--CORREC element is similar to the corr element in form F14-->
+	<!--Element name ADD in CORREC definition was changed to ADDED as it caused collission; element ADD is present in F14 with different declaration -->
+	<xs:element name="CORREC">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="SYMBOL" minOccurs="0"/>
+				<xs:element ref="LOC" minOccurs="0"/>
+				<xs:choice>
+					<xs:choice maxOccurs="unbounded">
+						<xs:element ref="FOR_READ"/>
+						<xs:element ref="ADDED"/>
+						<xs:element ref="DEL"/>
+						<xs:element ref="REPL"/>
+					</xs:choice>
+					<xs:element ref="BLK_BTX"/>
+				</xs:choice>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="SYMBOL" type="btx_oth"/>
+	<xs:element name="LOC" type="btx_oth"/>
+	<xs:element name="FOR_READ">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="SYMBOL" minOccurs="0"/>
+				<xs:element ref="LOC" minOccurs="0"/>
+				<xs:element ref="FOR"/>
+				<xs:element ref="MIXED" minOccurs="0"/>
+				<xs:element ref="READ"/>
+				<xs:element ref="MIXED" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ADDED">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="SYMBOL" minOccurs="0"/>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element ref="MIXED"/>
+					<xs:element ref="FT"/>
+					<xs:element ref="NOTE"/>
+					<xs:element ref="SUBJ"/>
+					<xs:element ref="LOC"/>
+					<xs:element ref="NEW"/>
+				</xs:choice>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="MIXED" type="xs:anySimpleType"/>
+	<xs:element name="NOTE">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="REF_NOTE" minOccurs="0"/>
+				<xs:element ref="BLK_BTX" minOccurs="0"/>
+			</xs:sequence>
+			<xs:attribute name="TYPE" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:NMTOKEN">
+						<xs:enumeration value="ALPHA"/>
+						<xs:enumeration value="AST"/>
+						<xs:enumeration value="NUM"/>
+						<xs:enumeration value="NO.CALL"/>
+						<xs:enumeration value="OTHER"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="SUBJ" type="btx_oth"/>
+	<!--<xs:element name="NEW">
+		<xs:complexType mixed="true">
+			<xs:complexContent mixed="true">
+				<xs:restriction base="xs:anyType">
+					<xs:attribute name="QUOTE" default="NO">
+						<xs:simpleType>
+							<xs:restriction base="xs:NMTOKEN">
+								<xs:enumeration value="YES"/>
+								<xs:enumeration value="NO"/>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:attribute>
+				</xs:restriction>
+			</xs:complexContent>
+		</xs:complexType>
+	</xs:element>-->
+	<xs:element name="NEW">
+		<xs:complexType mixed="true">
+			<xs:sequence minOccurs="0" maxOccurs="unbounded">
+				<xs:any/>
+			</xs:sequence>
+			<xs:attribute name="QUOTE" default="NO">
+				<xs:simpleType>
+					<xs:restriction base="xs:NMTOKEN">
+						<xs:enumeration value="YES"/>
+						<xs:enumeration value="NO"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="DEL">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="SYMBOL" minOccurs="0"/>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element ref="MIXED"/>
+					<xs:element ref="FT"/>
+					<xs:element ref="NOTE"/>
+					<xs:element ref="SUBJ"/>
+					<xs:element ref="LOC"/>
+					<xs:element ref="OLD"/>
+				</xs:choice>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="REPL">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="SYMBOL" minOccurs="0"/>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element ref="MIXED"/>
+					<xs:element ref="FT"/>
+					<xs:element ref="NOTE"/>
+					<xs:element ref="SUBJ"/>
+					<xs:element ref="LOC"/>
+					<xs:element ref="OLD"/>
+					<xs:element ref="NEW"/>
+				</xs:choice>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="OLD">
+		<xs:complexType mixed="true">
+			<xs:sequence minOccurs="0" maxOccurs="unbounded">
+				<xs:any/>
+			</xs:sequence>
+			<xs:attribute name="QUOTE" default="NO">
+				<xs:simpleType>
+					<xs:restriction base="xs:NMTOKEN">
+						<xs:enumeration value="YES"/>
+						<xs:enumeration value="NO"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="REF_NOTE" type="btx_oth"/>
+	<xs:element name="FOR">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="SYMBOL" minOccurs="0"/>
+				<xs:element name="INT_FOR" type="int_for"/>
+				<xs:sequence maxOccurs="unbounded">
+					<xs:element ref="LOC" minOccurs="0"/>
+					<xs:element ref="OLD"/>
+				</xs:sequence>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="READ">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="SYMBOL" minOccurs="0"/>
+				<xs:element ref="INT_READ"/>
+				<xs:sequence maxOccurs="unbounded">
+					<xs:element ref="LOC" minOccurs="0"/>
+					<xs:element ref="NEW"/>
+				</xs:sequence>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="INT_READ" type="btx_oth"/>
+	<xs:complexType name="int_for">
+		<xs:complexContent>
+			<xs:extension base="btx_oth">
+				<xs:attribute name="KEY" type="xs:string"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:complexType name="for_insert">
+		<xs:complexContent>
+			<xs:extension base="btx_oth">
+				<xs:attribute name="LG" type="xs:string" use="required"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:element name="FOR_INSERT" type="for_insert"/>
+	<xs:element name="GR_ANNOTATION">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="TI_GRANNOTATION"/>
+				<xs:element ref="ANNOTATION" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="TYPE" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:NMTOKEN">
+						<xs:enumeration value="SUBH"/>
+						<xs:enumeration value="ADD"/>
+						<xs:enumeration value="GEN"/>
+						<xs:enumeration value="REM"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="TI_GRANNOTATION" type="btx_oth"/>
+	<xs:element name="GR_SEQ">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:choice minOccurs="0">
+					<xs:element ref="NO_GRSEQ"/>
+					<xs:sequence>
+						<xs:element ref="TI_GRSEQ"/>
+						<xs:element ref="STI_GRSEQ" minOccurs="0" maxOccurs="unbounded"/>
+					</xs:sequence>
+				</xs:choice>
+				<xs:element ref="BLK_BTX_SEQ"/>
+			</xs:sequence>
+			<xs:attribute name="ID" type="xs:string"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="NO_GRSEQ" type="btx_oth"/>
+	<xs:element name="TI_GRSEQ">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="PREFIX" minOccurs="0"/>
+				<xs:element ref="BLK_BTX" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="STI_GRSEQ" type="btx_oth"/>
+	<xs:element name="BLK_BTX_SEQ" type="btx_seq_oth"/>
+	<xs:element name="GR_TBL">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="NOTES" minOccurs="0"/>
+				<xs:sequence minOccurs="0">
+					<xs:element ref="TI_GRTBL"/>
+					<xs:element name="STI_GRTBL" type="sti_grtbl" minOccurs="0" maxOccurs="unbounded"/>
+				</xs:sequence>
+				<xs:element name="INT_GRTBL" type="int_grtbl" minOccurs="0"/>
+				<xs:element name="NOTCOL" type="notcol" minOccurs="0"/>
+				<xs:element ref="TBL" minOccurs="2" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="NO_SEQ" type="xs:string" use="required"/>
+			<xs:attribute name="LG" type="xs:string"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="NOTES">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="TI_NOTES" minOccurs="0"/>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element ref="BLK_BTX"/>
+					<xs:element ref="EXPL_TXT"/>
+				</xs:choice>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="TI_NOTES" type="btx_oth"/>
+	<xs:element name="EXPL_TXT">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="REF_EXPL" minOccurs="0"/>
+				<xs:element ref="BLK_BTX" minOccurs="0"/>
+			</xs:sequence>
+			<xs:attribute name="ID" type="xs:ID" use="required"/>
+			<xs:attribute name="TYPE" default="NUM">
+				<xs:simpleType>
+					<xs:restriction base="xs:NMTOKEN">
+						<xs:enumeration value="ALPHA"/>
+						<xs:enumeration value="AST"/>
+						<xs:enumeration value="NUM"/>
+						<xs:enumeration value="OTHER"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="TI_GRTBL">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="PREFIX" minOccurs="0"/>
+				<xs:element ref="BLK_BTX" minOccurs="0"/>
+			</xs:sequence>
+			<xs:attribute name="LG" type="xs:string"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="TBL">
+		<xs:complexType>
+			<xs:choice>
+				<xs:sequence>
+					<xs:element ref="NOTES" minOccurs="0"/>
+					<xs:sequence minOccurs="0">
+						<xs:element ref="TI_TBL"/>
+						<xs:element name="STI_TBL" type="sti_tbl" minOccurs="0" maxOccurs="unbounded"/>
+					</xs:sequence>
+					<xs:element name="INT_TBL" type="int_tbl" minOccurs="0"/>
+					<xs:sequence>
+						<xs:element ref="HEADER_COL"/>
+						<xs:element ref="HEADER_ROW" minOccurs="0"/>
+						<xs:element ref="CORPUS"/>
+					</xs:sequence>
+				</xs:sequence>
+				<xs:element ref="TBL_PIC" maxOccurs="unbounded"/>
+			</xs:choice>
+			<xs:attribute name="NO_SEQ" type="xs:string" use="required"/>
+			<xs:attribute name="CLASS" default="GEN">
+				<xs:simpleType>
+					<xs:restriction base="xs:NMTOKEN">
+						<xs:enumeration value="GEN"/>
+						<xs:enumeration value="TOC"/>
+						<xs:enumeration value="RECAP"/>
+						<xs:enumeration value="SCHEDULE"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="TYPE" type="xs:string"/>
+			<xs:attribute name="LG" type="xs:string"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="int_tbl">
+		<xs:complexContent>
+			<xs:extension base="btx_oth">
+				<xs:attribute name="LG" type="xs:string"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:element name="TI_TBL">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="PREFIX" minOccurs="0"/>
+				<xs:element ref="BLK_BTX" minOccurs="0"/>
+			</xs:sequence>
+			<xs:attribute name="LG" type="xs:string"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="HEADER_COL">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="COL_TXT" type="col_text" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element name="NOTCOL" type="notcol" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="HD_C" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="LG" type="xs:string"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="HD_C">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="BLK_BTX" minOccurs="0"/>
+				<xs:element ref="HD_C" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="LG" type="xs:string"/>
+			<xs:attribute name="TYPE">
+				<xs:simpleType>
+					<xs:restriction base="xs:NMTOKEN">
+						<xs:enumeration value="TARIC"/>
+						<xs:enumeration value="FT"/>
+						<xs:enumeration value="DEC"/>
+						<xs:enumeration value="TOT"/>
+						<xs:enumeration value="INT"/>
+						<xs:enumeration value="CN"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="ALIAS" type="xs:string"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="col_text">
+		<xs:complexContent>
+			<xs:extension base="btx_oth">
+				<xs:attribute name="LG" type="xs:string"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:complexType name="notcol">
+		<xs:complexContent>
+			<xs:extension base="btx_oth">
+				<xs:attribute name="LOC" type="xs:string"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:element name="HEADER_ROW">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="ROW_TXT" type="row_txt" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="HD_R" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="LG" type="xs:string"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="CORPUS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element ref="ROW"/>
+					<xs:element ref="BLK"/>
+					<xs:element name="NOTCOL" type="notcol"/>
+				</xs:choice>
+			</xs:sequence>
+			<xs:attribute name="LG" type="xs:string"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="TBL_PIC">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="INCLUDE_ELEM" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="sti_tbl">
+		<xs:complexContent>
+			<xs:extension base="btx_oth">
+				<xs:attribute name="LG" type="xs:string"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:complexType name="sti_grtbl">
+		<xs:complexContent>
+			<xs:extension base="btx_oth">
+				<xs:attribute name="LG" type="xs:string"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:complexType name="int_grtbl">
+		<xs:complexContent>
+			<xs:extension base="btx_oth">
+				<xs:attribute name="LG" type="xs:string"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:element name="HD_R">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="BLK_BTX" minOccurs="0"/>
+				<xs:element ref="HD_R" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="LG" type="xs:string"/>
+			<xs:attribute name="TYPE">
+				<xs:simpleType>
+					<xs:restriction base="xs:NMTOKEN">
+						<xs:enumeration value="TARIC"/>
+						<xs:enumeration value="FT"/>
+						<xs:enumeration value="DEC"/>
+						<xs:enumeration value="TOT"/>
+						<xs:enumeration value="INT"/>
+						<xs:enumeration value="CN"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="ALIAS" type="xs:string"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="row_txt">
+		<xs:complexContent>
+			<xs:extension base="btx_oth">
+				<xs:attribute name="LG" type="xs:string"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:element name="REF_EXPL" type="btx_oth"/>
+	<xs:element name="PREFIX" type="btx_oth"/>
+	<xs:element name="INCLUDE_ELEM">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="CAPTION" minOccurs="0"/>
+				<xs:element ref="LEGEND" minOccurs="0"/>
+			</xs:sequence>
+			<xs:attribute name="TYPE">
+				<xs:simpleType>
+					<xs:restriction base="xs:NMTOKEN">
+						<xs:enumeration value="PDF"/>
+						<xs:enumeration value="EPS"/>
+						<xs:enumeration value="CAMREAD"/>
+						<xs:enumeration value="TIF"/>
+						<xs:enumeration value="BTX"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="PARAM" type="xs:string"/>
+			<xs:attribute name="LOC" type="xs:string"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="CAPTION" type="btx_oth"/>
+	<xs:element name="LEGEND" type="btx_oth"/>
+	<xs:element name="ROW">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="CELL" type="cell" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="LG" type="xs:string"/>
+			<xs:attribute name="TYPE">
+				<xs:simpleType>
+					<xs:restriction base="xs:NMTOKEN">
+						<xs:enumeration value="TARIC"/>
+						<xs:enumeration value="FT"/>
+						<xs:enumeration value="DEC"/>
+						<xs:enumeration value="TOT"/>
+						<xs:enumeration value="INT"/>
+						<xs:enumeration value="CN"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="cell">
+		<xs:complexContent>
+			<xs:extension base="btx_oth">
+				<xs:attribute name="LOC" type="xs:string" use="required"/>
+				<xs:attribute name="TYPE">
+					<xs:simpleType>
+						<xs:restriction base="xs:NMTOKEN">
+							<xs:enumeration value="TARIC"/>
+							<xs:enumeration value="TXT"/>
+							<xs:enumeration value="DEC"/>
+							<xs:enumeration value="TOT"/>
+							<xs:enumeration value="INT"/>
+							<xs:enumeration value="CN"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+				<xs:attribute name="LG" type="xs:string"/>
+				<xs:attribute name="ASSV" type="xs:string"/>
+				<xs:attribute name="ACCV" type="xs:string"/>
+				<xs:attribute name="ASSH" type="xs:string"/>
+				<xs:attribute name="ACCH" type="xs:string"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:element name="BLK">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:sequence minOccurs="0">
+					<xs:element ref="TI_BLK"/>
+					<xs:element name="STI_BLK" type="sti_blk" minOccurs="0" maxOccurs="unbounded"/>
+				</xs:sequence>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element ref="ROW"/>
+					<xs:element ref="BLK"/>
+				</xs:choice>
+			</xs:sequence>
+			<xs:attribute name="LG" type="xs:string"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="TI_BLK">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="PREFIX" minOccurs="0"/>
+				<xs:element ref="BLK_BTX" minOccurs="0"/>
+			</xs:sequence>
+			<xs:attribute name="LOC" type="xs:string" use="required"/>
+			<xs:attribute name="LG" type="xs:string"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="sti_blk">
+		<xs:complexContent>
+			<xs:extension base="btx_oth">
+				<xs:attribute name="LOC" type="xs:string" use="required"/>
+				<xs:attribute name="LG" type="xs:string"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:element name="LIST">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="INT_LI" minOccurs="0"/>
+				<xs:element ref="ITEM" maxOccurs="unbounded"/>
+				<xs:element ref="CLOSE_LI" minOccurs="0"/>
+			</xs:sequence>
+			<xs:attribute name="TYPE" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:NMTOKEN">
+						<xs:enumeration value="BULLET"/>
+						<xs:enumeration value="UC"/>
+						<xs:enumeration value="ROMUC"/>
+						<xs:enumeration value="DASH"/>
+						<xs:enumeration value="LC"/>
+						<xs:enumeration value="ROMLC"/>
+						<xs:enumeration value="OTHER"/>
+						<xs:enumeration value="ARAB"/>
+						<xs:enumeration value="NONE"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="INT_LI" type="btx_oth"/>
+	<xs:element name="ITEM">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="SYMBOL" minOccurs="0"/>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element ref="P"/>
+					<xs:element ref="TBL"/>
+					<xs:element ref="GR_TBL"/>
+				</xs:choice>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="CLOSE_LI" type="btx_oth"/>
+	<xs:element name="MARK_LIST">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="NOTES" minOccurs="0"/>
+				<xs:element ref="TI_MLIST" minOccurs="0"/>
+				<xs:element ref="INT_MLI" minOccurs="0"/>
+				<xs:element ref="MLI_OCCUR" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="SEP" type="xs:string"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="TI_MLIST">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="PREFIX" minOccurs="0"/>
+				<xs:element ref="BLK_BTX" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="INT_MLI" type="btx_oth"/>
+	<xs:element name="MLI_OCCUR">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="NO_MARK"/>
+				<xs:element ref="TI_MARK" minOccurs="0"/>
+				<xs:element ref="TXT_MARK" minOccurs="0"/>
+			</xs:sequence>
+			<xs:attribute name="NO_SEQ" type="xs:string" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="TXT_MARK" type="btx_oth"/>
+	<xs:complexType name="ti_mark">
+		<xs:complexContent>
+			<xs:extension base="btx_oth">
+				<xs:attribute name="KEY" type="xs:string"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:element name="TI_MARK" type="ti_mark"/>
+	<xs:element name="QT">
+		<xs:complexType mixed="true">
+			<xs:sequence minOccurs="0" maxOccurs="unbounded">
+				<xs:any/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="SIC">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="ORIG"/>
+				<xs:element ref="CORRECT" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ORIG" type="xs:anySimpleType"/>
+	<xs:element name="CORRECT" type="xs:anySimpleType"/>
+	<xs:complexType name="vl">
+		<xs:complexContent>
+			<xs:extension base="btx_oth">
+				<xs:attribute name="LG" type="xs:string" use="required"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:element name="VL" type="vl"/>
+	<!-- em declaration -->
+	<xs:complexType name="em">
+		<xs:complexContent>
+			<xs:extension base="btx_oth">
+				<xs:attribute name="TYPE" type="xs:string" use="required"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:element name="EM" type="em"/>
+	<xs:complexType name="prod_long_address_no_mandatory">
+		<xs:sequence>
+			<xs:element name="ORGANISATION" type="xs:string" minOccurs="0"/>
+			<xs:element ref="ATTENTION" minOccurs="0"/>
+			<xs:element ref="ADDRESS" minOccurs="0"/>
+			<xs:element ref="POSTAL_CODE" minOccurs="0"/>
+			<xs:element ref="TOWN" minOccurs="0"/>
+			<xs:element ref="COUNTRY" minOccurs="0"/>
+			<xs:element ref="PHONE" minOccurs="0"/>
+			<xs:element ref="FAX" minOccurs="0"/>
+			<xs:element ref="E_MAIL" minOccurs="0"/>
+			<xs:element ref="URL" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="ADDRESS_NOT_MANDATORY" type="prod_long_address_no_mandatory"/>
+	<xs:element name="NO_MARK" type="xs:anySimpleType"/>
+</xs:schema>

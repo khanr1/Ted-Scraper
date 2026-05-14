@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="ted/R2.0.8.S03/publication"
+    xmlns:n2016="ted/2016/nuts"
+    xsi:schemaLocation="ted/R2.0.8.S03/publication TED_EXPORT.xsd"
+    DOC_ID="274848-2018"
+    EDITION="2018120">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>18-279467-001</RECEPTION_ID>
+        <DELETION_DATE>20180930</DELETION_DATE>
+        <FORM_LG_LIST>EN </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple " xlink:href="http://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>120</NO_OJ>
+            <DATE_PUB>20180626</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2018/S 120-274848</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:274848-2018:TEXT:EN:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>EN</LG_ORIG>
+            <ISO_COUNTRY VALUE="DE" />
+            <IA_URL_GENERAL />
+            <ORIGINAL_CPV CODE="73300000">Design and execution of research and development</ORIGINAL_CPV>
+            <n2016:PERFORMANCE_NUTS CODE="DE21H">München, Landkreis</n2016:PERFORMANCE_NUTS>
+            <VALUES_LIST>
+                <VALUES TYPE="GLOBAL">
+                    <SINGLE_VALUE>
+                        <VALUE CURRENCY="EUR">380 000,00</VALUE>
+                    </SINGLE_VALUE>
+                </VALUES>
+                <VALUES TYPE="CONTRACT">
+                    <SINGLE_VALUE>
+                        <VALUE CURRENCY="EUR">378 000,00</VALUE>
+                    </SINGLE_VALUE>
+                </VALUES>
+            </VALUES_LIST>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20180622</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="8">Other</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+            <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="L">Education</MA_MAIN_ACTIVITIES>
+            <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+            <HEADING>01203</HEADING>
+            <DIRECTIVE VALUE="2004/18/EC" />
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Гepмaния</TI_CY>
+                <TI_TOWN>Мюнхен</TI_TOWN>
+                <TI_TEXT>Проектиране и изпълнение в областта на научните изследвания и
+                    експерименталните разработки</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Německo</TI_CY>
+                <TI_TOWN>Mnichov</TI_TOWN>
+                <TI_TEXT>Návrh a realizace výzkumu a vývoje</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Tyskland</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>Planlægning og udførelse af forskning og udvikling</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Deutschland</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>Planung und Ausführung von Forschung und Entwicklung</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Γερμανία</TI_CY>
+                <TI_TOWN>Μόναχο</TI_TOWN>
+                <TI_TEXT>Μελέτη και εκτέλεση ερευνητικών και αναπτυξιακών δραστηριοτήτων</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Germany</TI_CY>
+                <TI_TOWN>Munich</TI_TOWN>
+                <TI_TEXT>Design and execution of research and development</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Alemania</TI_CY>
+                <TI_TOWN>Múnich</TI_TOWN>
+                <TI_TEXT>Diseño y ejecución en materia de investigación y desarrollo</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Saksamaa</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>Uurimis- ja arendustöö planeerimine ning elluviimine</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Saksa</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>Tutkimus- ja kehitystoiminnan suunnittelu ja toteutus</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Allemagne</TI_CY>
+                <TI_TOWN>Munich</TI_TOWN>
+                <TI_TEXT>Conception et exécution dans le domaine de la recherche et du développement</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Ghearmáin, an</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>Design and execution of research and development</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Njemačka</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>Projektiranje i izvođenje istraživanja i razvoja</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Németország</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>Kutatás és fejlesztés tervezése és kivitelezése</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Germania</TI_CY>
+                <TI_TOWN>Monaco di Baviera</TI_TOWN>
+                <TI_TEXT>Progettazione e realizzazione di ricerca e sviluppo</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Vokietija, VFR</TI_CY>
+                <TI_TOWN>Miunchenas</TI_TOWN>
+                <TI_TEXT>Mokslinių tyrimų ir taikomosios veiklos projektavimas bei atlikimas</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Vācija</TI_CY>
+                <TI_TOWN>Minhene</TI_TOWN>
+                <TI_TEXT>Pētniecības un izstrādes plānošana un izpilde</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>il-Ġermanja</TI_CY>
+                <TI_TOWN>Munich</TI_TOWN>
+                <TI_TEXT>Disinn u eżekuzzjoni tar-riċerka u l-iżvilupp</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Duitsland</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>Planning en uitvoering van onderzoek en ontwikkeling</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Niemcy</TI_CY>
+                <TI_TOWN>Monachium</TI_TOWN>
+                <TI_TEXT>Projekt i realizacja badań oraz rozwój</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Alemanha</TI_CY>
+                <TI_TOWN>Munique</TI_TOWN>
+                <TI_TEXT>Concepção e execução em matéria de investigação e desenvolvimento</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Germania</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>Proiectare şi executare în domeniul cercetării şi dezvoltării</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Nemecko</TI_CY>
+                <TI_TOWN>Mníchov</TI_TOWN>
+                <TI_TEXT>Projektovanie a realizácia výskumu a vývoja</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Nemčija</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>Načrtovanje in izvedba raziskav in razvoja</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Tyskland</TI_CY>
+                <TI_TOWN>München</TI_TOWN>
+                <TI_TEXT>Planering och genomförande av forskning och utveckling</TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="EN">Technische Universität München</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <CONTRACT_AWARD CATEGORY="ORIGINAL" FORM="3" LG="EN" VERSION="R2.0.8.S03.E01">
+            <FD_CONTRACT_AWARD CTYPE="SUPPLIES">
+                <CONTRACTING_AUTHORITY_INFORMATION_CONTRACT_AWARD>
+                    <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+                        <CA_CE_CONCESSIONAIRE_PROFILE>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Technische Universität München</OFFICIALNAME>
+                                <NATIONALID>DE212</NATIONALID>
+                            </ORGANISATION>
+                            <ADDRESS>Arcisstr. 21</ADDRESS>
+                            <TOWN>München</TOWN>
+                            <POSTAL_CODE>80333</POSTAL_CODE>
+                            <COUNTRY VALUE="DE" />
+                            <CONTACT_POINT>Physik-Department</CONTACT_POINT>
+                            <ATTENTION>Prof. Dr. Christan Pfleiderer</ATTENTION>
+                            <PHONE>+49 8928914720</PHONE>
+                            <E_MAILS>
+                                <E_MAIL>christian.pfleiderer@frm2.tum.de</E_MAIL>
+                            </E_MAILS>
+                        </CA_CE_CONCESSIONAIRE_PROFILE>
+                    </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+                    <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                        <TYPE_AND_ACTIVITIES>
+                            <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="OTHER">University</TYPE_OF_CONTRACTING_AUTHORITY_OTHER>
+                            <TYPE_OF_ACTIVITY VALUE="EDUCATION" />
+                            <TYPE_OF_ACTIVITY_OTHER VALUE="OTHER">Research</TYPE_OF_ACTIVITY_OTHER>
+                        </TYPE_AND_ACTIVITIES>
+                        <PURCHASING_ON_BEHALF>
+                            <PURCHASING_ON_BEHALF_NO />
+                        </PURCHASING_ON_BEHALF>
+                    </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                </CONTRACTING_AUTHORITY_INFORMATION_CONTRACT_AWARD>
+                <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+                    <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+                        <TITLE_CONTRACT>
+                            <P>Dilution Refrigerator</P>
+                        </TITLE_CONTRACT>
+                        <TYPE_CONTRACT_LOCATION_W_PUB>
+                            <TYPE_CONTRACT VALUE="SUPPLIES" />
+                            <TYPE_SUPPLIES_CONTRACT VALUE="PURCHASE" />
+                        </TYPE_CONTRACT_LOCATION_W_PUB>
+                        <LOCATION_NUTS>
+                            <LOCATION>
+                                <P>Physik-Department</P>
+                                <P>TU München</P>
+                                <P>James-Franck-Strasse 1</P>
+                                <P>D-85748 Garching</P>
+                            </LOCATION>
+                            <n2016:NUTS CODE="DE21H" />
+                        </LOCATION_NUTS>
+                        <SHORT_CONTRACT_DESCRIPTION>
+                            <P>dilution refrigerator for existing recondensing high-field magnet
+                                system</P>
+                        </SHORT_CONTRACT_DESCRIPTION>
+                        <CPV>
+                            <CPV_MAIN>
+                                <CPV_CODE CODE="73300000" />
+                            </CPV_MAIN>
+                        </CPV>
+                    </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+                    <TOTAL_FINAL_VALUE>
+                        <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="EUR">
+                            <VALUE_COST FMTVAL="380000.00">380 000,00</VALUE_COST>
+                            <INCLUDING_VAT>
+                                <VAT_PRCT FMTVAL="19.00">19,00</VAT_PRCT>
+                            </INCLUDING_VAT>
+                        </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+                    </TOTAL_FINAL_VALUE>
+                </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+                <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+                    <TYPE_OF_PROCEDURE_DEF>
+                        <F03_PT_NEGOTIATED_WITHOUT_COMPETITION>
+                            <ANNEX_D>
+                                <NO_MANUFACTURED_BY_DIRECTIVE />
+                                <JUSTIFICATION_CHOICE_NEGOCIATED_PROCEDURE>
+                                    <REASONS_PROVIDED_PARTICULAR_TENDERER>
+                                        <REASONS_PROVIDED_PARTICULAR_TENDERER_TECHNICAL />
+                                    </REASONS_PROVIDED_PARTICULAR_TENDERER>
+                                    <NO_EXTREME_URGENCY_EVENTS_UNFORESEEABLE />
+                                    <NO_ADDITIONAL_WORKS />
+                                    <NO_SUPPLIES_QUOTED_PURCHASED_COMMODITY_MARKET />
+                                </JUSTIFICATION_CHOICE_NEGOCIATED_PROCEDURE>
+                                <NO_ONLY_IRREGULAR_INACCEPTABLE_TENDERERS />
+                                <REASON_CONTRACT_LAWFUL />
+                            </ANNEX_D>
+                        </F03_PT_NEGOTIATED_WITHOUT_COMPETITION>
+                    </TYPE_OF_PROCEDURE_DEF>
+                    <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+                        <AWARD_CRITERIA_DETAIL_F03>
+                            <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT>
+                                <CRITERIA_DEFINITION>
+                                    <ORDER_C>1</ORDER_C>
+                                    <CRITERIA>lowest accessible temperature</CRITERIA>
+                                    <WEIGHTING>20</WEIGHTING>
+                                </CRITERIA_DEFINITION>
+                                <CRITERIA_DEFINITION>
+                                    <ORDER_C>2</ORDER_C>
+                                    <CRITERIA>sensitivity to existing magnetic field profile</CRITERIA>
+                                    <WEIGHTING>50</WEIGHTING>
+                                </CRITERIA_DEFINITION>
+                                <CRITERIA_DEFINITION>
+                                    <ORDER_C>3</ORDER_C>
+                                    <CRITERIA>compatibility with recondensation cryostat</CRITERIA>
+                                    <WEIGHTING>20</WEIGHTING>
+                                </CRITERIA_DEFINITION>
+                                <CRITERIA_DEFINITION>
+                                    <ORDER_C>4</ORDER_C>
+                                    <CRITERIA>flexibility for diverse wiring</CRITERIA>
+                                    <WEIGHTING>10</WEIGHTING>
+                                </CRITERIA_DEFINITION>
+                            </MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT>
+                        </AWARD_CRITERIA_DETAIL_F03>
+                        <F03_IS_ELECTRONIC_AUCTION_USABLE VALUE="NO" />
+                    </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+                    <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+                        <FILE_REFERENCE_NUMBER>
+                            <P>51-2010462-27704</P>
+                        </FILE_REFERENCE_NUMBER>
+                        <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+                            <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+                        </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+                    </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+                </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+                <AWARD_OF_CONTRACT>
+                    <CONTRACT_NUMBER>51-2010462-27704</CONTRACT_NUMBER>
+                    <CONTRACT_TITLE>
+                        <P>dilution refrigerator for recondensing high-magnetic field croystat</P>
+                    </CONTRACT_TITLE>
+                    <CONTRACT_AWARD_DATE>
+                        <DAY>30</DAY>
+                        <MONTH>04</MONTH>
+                        <YEAR>2018</YEAR>
+                    </CONTRACT_AWARD_DATE>
+                    <OFFERS_RECEIVED_NUMBER>1</OFFERS_RECEIVED_NUMBER>
+                    <OFFERS_RECEIVED_NUMBER_MEANING>1</OFFERS_RECEIVED_NUMBER_MEANING>
+                    <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                        <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Oxford Instruments GmbH</OFFICIALNAME>
+                            </ORGANISATION>
+                            <ADDRESS>Bossigstr. 15a</ADDRESS>
+                            <TOWN>Wiesbaden</TOWN>
+                            <POSTAL_CODE>65205</POSTAL_CODE>
+                            <COUNTRY VALUE="DE" />
+                            <PHONE>+49 6122-937153</PHONE>
+                        </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    </ECONOMIC_OPERATOR_NAME_ADDRESS>
+                    <CONTRACT_VALUE_INFORMATION>
+                        <INITIAL_ESTIMATED_TOTAL_VALUE_CONTRACT CURRENCY="EUR">
+                            <VALUE_COST FMTVAL="378000.00">378 000,00</VALUE_COST>
+                            <INCLUDING_VAT>
+                                <VAT_PRCT FMTVAL="19.00">19,00</VAT_PRCT>
+                            </INCLUDING_VAT>
+                        </INITIAL_ESTIMATED_TOTAL_VALUE_CONTRACT>
+                        <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="EUR">
+                            <VALUE_COST FMTVAL="378000.00">378 000,00</VALUE_COST>
+                            <INCLUDING_VAT>
+                                <VAT_PRCT FMTVAL="19.00">19,00</VAT_PRCT>
+                            </INCLUDING_VAT>
+                        </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+                    </CONTRACT_VALUE_INFORMATION>
+                    <MORE_INFORMATION_TO_SUB_CONTRACTED>
+                        <NO_CONTRACT_LIKELY_SUB_CONTRACTED />
+                    </MORE_INFORMATION_TO_SUB_CONTRACTED>
+                </AWARD_OF_CONTRACT>
+                <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+                    <RELATES_TO_EU_PROJECT_NO />
+                    <PROCEDURES_FOR_APPEAL>
+                        <APPEAL_PROCEDURE_BODY_RESPONSIBLE>
+                            <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                                <ORGANISATION>
+                                    <OFFICIALNAME>Vergabekammer Südbayern bei Regierung Oberbayern</OFFICIALNAME>
+                                </ORGANISATION>
+                                <ADDRESS>Maximilianstr. 39</ADDRESS>
+                                <TOWN>München</TOWN>
+                                <POSTAL_CODE>80538</POSTAL_CODE>
+                                <COUNTRY VALUE="DE" />
+                                <PHONE>+49 8921760</PHONE>
+                                <FAX>+49 8921762914</FAX>
+                            </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                        </APPEAL_PROCEDURE_BODY_RESPONSIBLE>
+                    </PROCEDURES_FOR_APPEAL>
+                    <NOTICE_DISPATCH_DATE>
+                        <DAY>22</DAY>
+                        <MONTH>06</MONTH>
+                        <YEAR>2018</YEAR>
+                    </NOTICE_DISPATCH_DATE>
+                </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+            </FD_CONTRACT_AWARD>
+        </CONTRACT_AWARD>
+    </FORM_SECTION>
+</TED_EXPORT>

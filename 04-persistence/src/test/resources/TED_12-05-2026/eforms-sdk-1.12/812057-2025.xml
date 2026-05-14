@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<urn:ContractAwardNotice
+    xmlns:urn="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2"
+    xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+    xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"
+    xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1"
+    xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1"
+    xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1"
+    xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+    <ext:UBLExtensions>
+        <ext:UBLExtension>
+            <ext:ExtensionContent>
+                <efext:EformsExtension>
+                    <efac:NoticeResult>
+                        <cbc:TotalAmount currencyID="EUR">1</cbc:TotalAmount>
+                        <efac:LotResult>
+                            <cbc:ID>RES-8065</cbc:ID>
+                            <efac:LotTender>
+                                <cbc:ID>TEN-1340</cbc:ID>
+                            </efac:LotTender>
+                            <efac:SettledContract>
+                                <cbc:ID>CON-0005</cbc:ID>
+                            </efac:SettledContract>
+                            <efac:TenderLot>
+                                <cbc:ID>LOT-2734</cbc:ID>
+                            </efac:TenderLot>
+                        </efac:LotResult>
+                        <efac:LotTender>
+                            <cbc:ID>TEN-1340</cbc:ID>
+                            <efbc:TenderRankedIndicator>false</efbc:TenderRankedIndicator>
+                            <cac:LegalMonetaryTotal>
+                                <cbc:PayableAmount currencyID="EUR">1</cbc:PayableAmount>
+                            </cac:LegalMonetaryTotal>
+                            <efac:SubcontractingTerm>
+                                <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                            </efac:SubcontractingTerm>
+                            <efac:TenderingParty>
+                                <cbc:ID>TPA-4748</cbc:ID>
+                            </efac:TenderingParty>
+                            <efac:TenderLot>
+                                <cbc:ID>LOT-2734</cbc:ID>
+                            </efac:TenderLot>
+                            <efac:TenderReference>
+                                <cbc:ID>Q-10342 / OF08489/06</cbc:ID>
+                            </efac:TenderReference>
+                        </efac:LotTender>
+                        <efac:SettledContract>
+                            <cbc:ID>CON-0005</cbc:ID>
+                            <cbc:AwardDate>2025-12-01+01:00</cbc:AwardDate>
+                            <cbc:Title languageID="DEU">Customer Dilution Refrigerator</cbc:Title>
+                            <efac:ContractReference>
+                                <cbc:ID>2025-256</cbc:ID>
+                            </efac:ContractReference>
+                            <efac:LotTender>
+                                <cbc:ID>TEN-1340</cbc:ID>
+                            </efac:LotTender>
+                        </efac:SettledContract>
+                        <efac:TenderingParty>
+                            <cbc:ID>TPA-4748</cbc:ID>
+                            <efac:Tenderer>
+                                <cbc:ID>ORG-0654</cbc:ID>
+                            </efac:Tenderer>
+                        </efac:TenderingParty>
+                    </efac:NoticeResult>
+                    <efac:NoticeSubType>
+                        <cbc:SubTypeCode listName="notice-subtype">25</cbc:SubTypeCode>
+                    </efac:NoticeSubType>
+                    <efac:Organizations>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>https://ist.ac.at/</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID>ORG-1283</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DEU">Institute of Science and Technology
+                                        Austria</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Am Campus 1</cbc:StreetName>
+                                    <cbc:Department>Procurement</cbc:Department>
+                                    <cbc:CityName>Klosterneuburg</cbc:CityName>
+                                    <cbc:PostalZone>3400</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">AT126</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">AUT</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID>9110005615732</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Name>Procurement</cbc:Name>
+                                    <cbc:Telephone>+43 22439000</cbc:Telephone>
+                                    <cbc:ElectronicMail>tendering@ist.ac.at</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>https://www.bvwg.gv.at/</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID>ORG-3776</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DEU">Bundesverwaltungsgericht</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Erdbergstraße 192-196</cbc:StreetName>
+                                    <cbc:CityName>Wien</cbc:CityName>
+                                    <cbc:PostalZone>1030</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">AT130</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">AUT</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID>9110008059823</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>+43 160149</cbc:Telephone>
+                                    <cbc:ElectronicMail>einlaufstelle@bvwg.gv.at</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator>
+                            <efac:Company>
+                                <cbc:WebsiteURI>https://www.bluefors.com</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID>ORG-0654</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DEU">Bluefors Oy</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Arinatie 10</cbc:StreetName>
+                                    <cbc:CityName>Helsinki</cbc:CityName>
+                                    <cbc:PostalZone>00370</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID>2183219-9</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Name>Hr. Vojko Kunej</cbc:Name>
+                                    <cbc:Telephone>+358 9 5617 4800</cbc:Telephone>
+                                    <cbc:ElectronicMail>vojko.kunej@bluefors.com</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                    </efac:Organizations>
+                    <efac:Publication>
+                        <efbc:NoticePublicationID schemeName="ojs-notice-id">00812057-2025</efbc:NoticePublicationID>
+                        <efbc:GazetteID schemeName="ojs-id">236/2025</efbc:GazetteID>
+                        <efbc:PublicationDate>2025-12-08+01:00</efbc:PublicationDate>
+                    </efac:Publication>
+                </efext:EformsExtension>
+            </ext:ExtensionContent>
+        </ext:UBLExtension>
+    </ext:UBLExtensions>
+    <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+    <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+    <cbc:ID schemeName="notice-id">93987229-f48c-49db-b432-87f0bd5b7f7c</cbc:ID>
+    <cbc:ContractFolderID>135fabc0-db1e-4547-bdc9-83d2acee19bb</cbc:ContractFolderID>
+    <cbc:IssueDate>2025-12-04+01:00</cbc:IssueDate>
+    <cbc:IssueTime>15:09:00+01:00</cbc:IssueTime>
+    <cbc:VersionID>01</cbc:VersionID>
+    <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+    <cbc:NoticeTypeCode listName="dir-awa-pre">veat</cbc:NoticeTypeCode>
+    <cbc:NoticeLanguageCode listName="language">DEU</cbc:NoticeLanguageCode>
+    <cac:ContractingParty>
+        <cac:ContractingPartyType>
+            <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+        </cac:ContractingPartyType>
+        <cac:ContractingActivity>
+            <cbc:ActivityTypeCode listName="authority-activity">education</cbc:ActivityTypeCode>
+        </cac:ContractingActivity>
+        <cac:Party>
+            <cac:PartyIdentification>
+                <cbc:ID>ORG-1283</cbc:ID>
+            </cac:PartyIdentification>
+        </cac:Party>
+    </cac:ContractingParty>
+    <cac:TenderingProcess>
+        <cbc:ProcedureCode listName="procurement-procedure-type">neg-wo-call</cbc:ProcedureCode>
+        <cac:ProcessJustification>
+            <cbc:ProcessReasonCode listName="direct-award-justification">technical</cbc:ProcessReasonCode>
+            <cbc:ProcessReason languageID="DEU">Bei mehreren Anbietern auf dem Markt erfüllt nur ein
+                Produkt alle von der ISTA geforderten technischen Mindestanforderungen. Die
+                Beschaffung erfolgte im Wege eines Verhandlungsverfahrens mit einem einzigen Bieter
+                ohne vorherige Bekanntmachung gemäß § 36 Abs. 1 Z 3 lit. a Bundesvergabegesetz 2018
+                i.d.g.F. Nähere Informationen zur Begründung der technischen Ausschließlichkeit
+                werden unter folgendem Link zum Download bereitgestellt:
+                https://seafile.ist.ac.at/seafhttp/f/5bf6f9b4ac3c4f8d9cf9/?op=view</cbc:ProcessReason>
+        </cac:ProcessJustification>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+        <cbc:ID>2025-256</cbc:ID>
+        <cbc:Name languageID="DEU">Customer Dilution Refrigerator</cbc:Name>
+        <cbc:Description languageID="DEU">Kauf eines "Custom Dilution Refrigerator" mit
+            kundenspezifischer Bodenbeladung für schnelle und wiederholte Temperaturzyklen</cbc:Description>
+        <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+        <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">38400000</cbc:ItemClassificationCode>
+        </cac:MainCommodityClassification>
+    </cac:ProcurementProject>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="Lot">LOT-2734</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+            <cac:AwardingTerms>
+                <cac:AwardingCriterion>
+                    <cbc:CalculationExpression languageID="DEU">Technische Mindestkriterien laut
+                        Vorgabe müssen erfüllt werden.</cbc:CalculationExpression>
+                    <cac:SubordinateAwardingCriterion>
+                        <cbc:AwardingCriterionTypeCode listName="award-criterion-type">cost</cbc:AwardingCriterionTypeCode>
+                        <cbc:Description languageID="DEU">Bestangebot</cbc:Description>
+                    </cac:SubordinateAwardingCriterion>
+                </cac:AwardingCriterion>
+            </cac:AwardingTerms>
+            <cac:AppealTerms>
+                <cac:PresentationPeriod>
+                    <cbc:Description languageID="DEU">siehe §§ 342 ff BVergG 2018</cbc:Description>
+                </cac:PresentationPeriod>
+                <cac:AppealReceiverParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID>ORG-3776</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:AppealReceiverParty>
+            </cac:AppealTerms>
+        </cac:TenderingTerms>
+        <cac:TenderingProcess>
+            <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+            <cac:ContractingSystem>
+                <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+            </cac:ContractingSystem>
+            <cac:ContractingSystem>
+                <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+            </cac:ContractingSystem>
+        </cac:TenderingProcess>
+        <cac:ProcurementProject>
+            <cbc:ID>1</cbc:ID>
+            <cbc:Name languageID="DEU">Customer Dilution Refrigerator</cbc:Name>
+            <cbc:Description languageID="DEU">Kauf eines "Custom Dilution Refrigerator"</cbc:Description>
+            <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+            <cbc:Note languageID="DEU">Der Auftragswert wird gem. § 61 Abs 4 ff BVergG aufgrund der
+                potentiellen Schädigung berechtigter geschäftlicher Interessen des Unternehmers
+                nicht bekannt gegeben.</cbc:Note>
+            <cac:MainCommodityClassification>
+                <cbc:ItemClassificationCode listName="cpv">38400000</cbc:ItemClassificationCode>
+            </cac:MainCommodityClassification>
+            <cac:RealizedLocation>
+                <cac:Address>
+                    <cbc:StreetName>Am Campus 1</cbc:StreetName>
+                    <cbc:CityName>Klosterneuburg</cbc:CityName>
+                    <cbc:PostalZone>3400</cbc:PostalZone>
+                    <cbc:CountrySubentityCode listName="nuts">AT126</cbc:CountrySubentityCode>
+                    <cac:Country>
+                        <cbc:IdentificationCode listName="country">AUT</cbc:IdentificationCode>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+            <cac:PlannedPeriod>
+                <cbc:StartDate>2025-12-22+01:00</cbc:StartDate>
+                <cbc:DurationMeasure unitCode="MONTH">8</cbc:DurationMeasure>
+            </cac:PlannedPeriod>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:TenderResult>
+        <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+    </cac:TenderResult>
+</urn:ContractAwardNotice>

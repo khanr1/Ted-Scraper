@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+    xmlns:n2021="http://publications.europa.eu/resource/schema/ted/2021/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+    VERSION="R2.0.9.S05.E01" DOC_ID="642425-2022" EDITION="2022223">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>22-662497-001</RECEPTION_ID>
+        <DELETION_DATE>20230222</DELETION_DATE>
+        <FORM_LG_LIST>DE </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="https://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>223</NO_OJ>
+            <DATE_PUB>20221118</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2022/S 223-642425</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="DE">https://ted.europa.eu/udl?uri=TED:NOTICE:642425-2022:TEXT:DE:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>DE</LG_ORIG>
+            <ISO_COUNTRY VALUE="DE" />
+            <IA_URL_GENERAL>http://www.uni-wuerzburg.de</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="42513100">Freezing equipment</ORIGINAL_CPV>
+            <n2021:PERFORMANCE_NUTS CODE="DE263">Würzburg, Kreisfreie Stadt</n2021:PERFORMANCE_NUTS>
+            <n2021:CA_CE_NUTS CODE="DE263">Würzburg, Kreisfreie Stadt</n2021:CA_CE_NUTS>
+            <n2021:TENDERER_NUTS CODE="DE12">Karlsruhe</n2021:TENDERER_NUTS>
+            <VALUES>
+                <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">890290</VALUE>
+            </VALUES>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20221114</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="8">Other</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+            <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="L">Education</MA_MAIN_ACTIVITIES>
+            <HEADING>01B03</HEADING>
+            <INITIATOR>01</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Гepмaния</TI_CY>
+                <TI_TOWN>Вюрцбург</TI_TOWN>
+                <TI_TEXT>
+                    <P>Оборудване за замразяване</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Německo</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Mrazící zařízení</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Tyskland</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Fryseapparatur</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Deutschland</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Tiefkühlvorrichtungen</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Γερμανία</TI_CY>
+                <TI_TOWN>Βύρτσμπουργκ</TI_TOWN>
+                <TI_TEXT>
+                    <P>Εξοπλισμός κατάψυξης</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Germany</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Freezing equipment</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Alemania</TI_CY>
+                <TI_TOWN>Wurzburgo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipo de congelación</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Saksamaa</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Külmutusseadmed</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Saksa</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Pakastinlaitteet</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Allemagne</TI_CY>
+                <TI_TOWN>Wurtzbourg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Matériel de congélation</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Ghearmáin, an</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Freezing equipment</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Njemačka</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Naprave za zamrzavanje</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Németország</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Fagyasztóberendezés</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Germania</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Apparecchi congelatori</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Vokietija, VFR</TI_CY>
+                <TI_TOWN>Viurcburgas</TI_TOWN>
+                <TI_TEXT>
+                    <P>Užšaldymo įrenginiai</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Vācija</TI_CY>
+                <TI_TOWN>Vircburga</TI_TOWN>
+                <TI_TEXT>
+                    <P>Saldēšanas iekārtas</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>il-Ġermanja</TI_CY>
+                <TI_TOWN>Wurzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Apparat ta' l-iffriżar</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Duitsland</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Diepvriesuitrusting</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Niemcy</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Urządzenia mrożące</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Alemanha</TI_CY>
+                <TI_TOWN>Wurzburgo</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipamento de congelação</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Germania</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Echipamente de congelare</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Nemecko</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Mraziace zariadenia</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Nemčija</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Naprave za zamrzovanje</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Tyskland</TI_CY>
+                <TI_TOWN>Würzburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Frysutrustning</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="DE">Freistaat Bayern vertreten durch die Julius-Maximilians-Universität
+                Würzburg</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="DE">
+            <LEGAL_BASIS VALUE="32014L0024" />
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Freistaat Bayern vertreten durch die
+                        Julius-Maximilians-Universität Würzburg</OFFICIALNAME>
+                    <ADDRESS>Sanderring 2</ADDRESS>
+                    <TOWN>Würzburg</TOWN>
+                    <POSTAL_CODE>97070</POSTAL_CODE>
+                    <COUNTRY VALUE="DE" />
+                    <CONTACT_POINT>Kremer, Carolin</CONTACT_POINT>
+                    <PHONE>+49 931/31-80589</PHONE>
+                    <E_MAIL>einkauf@uni-wuerzburg.de</E_MAIL>
+                    <n2021:NUTS CODE="DE263" />
+                    <URL_GENERAL>http://www.uni-wuerzburg.de</URL_GENERAL>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE_OTHER>staatliche Behörde</CA_TYPE_OTHER>
+                <CA_ACTIVITY VALUE="EDUCATION" />
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Magnetkryostaten Lehrstuhl für Technische Physik 2022 </P>
+                </TITLE>
+                <REFERENCE_NUMBER>2022000528</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="42513100" />
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SUPPLIES" />
+                <SHORT_DESCR>
+                    <P>Im Rahmen des vorliegenden Vergabeverfahrens vergibt der Freistaat Bayern
+                        (Auftraggeber) – hier vertreten durch die Julius-Maximilians-Universität
+                        Würzburg – die Beschaffung von zwei Magnetkryostaten für den Lehrstuhl für
+                        Technische Physik an der Julius-Maximilians-Universität Würzburg gemäß dem
+                        Leistungsverzeichnis des Verfahrens.</P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="EUR">890290</VAL_TOTAL>
+                <NO_LOT_DIVISION />
+                <OBJECT_DESCR ITEM="1">
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="42513100" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="DE263" />
+                    <SHORT_DESCR>
+                        <P>Im Rahmen des vorliegenden Vergabeverfahrens vergibt der Freistaat Bayern
+                            (Auftraggeber) – hier vertreten durch die Julius-Maximilians-Universität
+                            Würzburg – die Beschaffung von zwei Magnetkryostaten für den Lehrstuhl
+                            für Technische Physik an der Julius-Maximilians-Universität Würzburg
+                            gemäß dem Leistungsverzeichnis des Verfahrens.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_PRICE />
+                    </AC>
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <PT_AWARD_CONTRACT_WITHOUT_CALL>
+                    <D_ACCORDANCE_ARTICLE>
+                        <D_TECHNICAL />
+                    </D_ACCORDANCE_ARTICLE>
+                    <D_JUSTIFICATION>
+                        <P>- Die betreffenden Erzeugnisse werden gemäß den in der Richtlinie
+                            genannten Bedingungen ausschließlich für Forschungs-, Versuchs-,
+                            Untersuchungs- oder Entwicklungszwecke hergestellt</P>
+                        <P>- Die Bauleistungen/Lieferungen/Dienstleistungen können aus folgenden
+                            Gründen nur von einem bestimmten Wirtschaftsteilnehmer ausgeführt
+                            werden:</P>
+                        <P>nicht vorhandener Wettbewerb aus technischen Gründen</P>
+                        <P>Erläuterung:</P>
+                        <P>Gerät 1:</P>
+                        <P>Für die Erfüllung der Projektarbeiten im Projekt MHLASQU ist die
+                            Anschaffung eines vibrationsarmen, ultra-low temperature closed-cycle
+                            Kryostaten, der höchste Temperaturstabilität und mechanische Stabilität
+                            sowie speziell kundenangepasste optische Aufbauten aufweisen muss,
+                            zwingend notwendig. Dieser muss folgende Eigenschaften und
+                            Spezifikationen aufweisen:</P>
+                        <P>1. Das System muss eine Basistemperatur von ≤30mK erreichen und eine
+                            Temperaturstabilität von mindestens ±0.1mK besitzen.</P>
+                        <P>2. Das System muss einen Magnet mit einer magnetischen Flussdichte von
+                            ≥4.5T bei 4.2K besitzen.</P>
+                        <P>3. Das System muss für einen flexiblen optischen Zugang sowie
+                            vibrationsarmen Betrieb mit höchster mechanischer Stabilität vom
+                            Kühlkreislauf entkoppelt in einen optischen Tisch integrierbar sein. Die
+                            konfokale Stabilität muss bei ≤10nm über einen Zeitraum von ≥24h liegen.</P>
+                        <P>4. Das System muss mit einem integrierten kundenangepassten optischen
+                            Einbau für Freistrahl-Konfokalmikroskopie Messungen an offenen
+                            Mikrokavitäten mit closed-loop x,y,z-Positionierern ausgestattet sein.</P>
+                        <P>5. Das System muss mit den Punkten 2, 3 und 4 ausgestattet sein und dabei
+                            Punkt 1 einhalten.</P>
+                        <P>6. Das System muss für eine hohe Probeniteration ein Abkühlen von
+                            Raumtemperatur auf 30mK in ≤4h sowie ein Aufwärmen von 30mK auf
+                            Raumtemperatur in ≤1.5h ermöglichen.</P>
+                        <P>Nur der Anbieter Qinu kann alle Punkte erfüllen. Punkte 1, 2, 3, 4 können
+                            auch von anderen Anbietern erreicht werden. Punkte 5 und 6 können nicht
+                            von anderen Anbietern erfüllt werden.</P>
+                        <P>Eine Beschaffung von Geräten der Firma Qinu ist aus o.g. Gründen zwingend
+                            erforderlich.</P>
+                        <P>Gerät 2:</P>
+                        <P>Für die Erfüllung der Projektarbeiten im Projekt QR.X ist die Anschaffung
+                            eines vibrationsarmen, ultra-low temperature closed-cycle Kryostaten,
+                            der höchste Temperaturstabilität und mechanische Stabilität sowie
+                            speziell kundenangepasste optische Aufbauten aufweisen muss, zwingend
+                            notwendig. Dieser muss folgende Eigenschaften und Spezifikationen
+                            aufweisen:</P>
+                        <P>1. Das System muss eine Basistemperatur von ≤30mK erreichen und eine
+                            Temperaturstabilität von mindestens ±0.1mK besitzen.</P>
+                        <P>2. Das System muss einen 3D-Vektormagnet mit einer magnetischen
+                            Flussdichte von ≥1T/0.4T/0.4T (Bz/Bx/By) besitzen.</P>
+                        <P>3. Das System muss für einen flexiblen optischen Zugang sowie
+                            vibrationsarmen Betrieb mit höchster mechanischer Stabilität vom
+                            Kühlkreislauf entkoppelt in einen optischen Tisch integrierbar sein. Die
+                            konfokale Stabilität muss bei ≤10nm über einen Zeitraum von ≥24h liegen.</P>
+                        <P>4. Das System muss mit einem integrierten kundenangepassten optischen
+                            Einbau für Freistrahl-Konfokalmikroskopie Messungen an offenen
+                            Mikrokavitäten mit closed-loop x,y,z-Positionierern ausgestattet sein.</P>
+                        <P>5. Das System muss mit den Punkten 2, 3 und 4 ausgestattet sein und dabei
+                            Punkt 1 einhalten.</P>
+                        <P>6. Das System muss für eine hohe Probeniteration ein Abkühlen von
+                            Raumtemperatur auf 30mK in ≤4h sowie ein Aufwärmen von 30mK auf
+                            Raumtemperatur in ≤1.5h ermöglichen.</P>
+                        <P>Nur der Anbieter Qinu kann alle Punkte erfüllen. Punkte 1, 2, 3, 4 können
+                            auch von anderen Anbietern erreicht werden. Punkte 5 und 6 können nicht
+                            von anderen Anbietern erfüllt werden.</P>
+                        <P>Eine Beschaffung von Geräten der Firma Qinu ist aus o.g. Gründen zwingend
+                            erforderlich.</P>
+                    </D_JUSTIFICATION>
+                </PT_AWARD_CONTRACT_WITHOUT_CALL>
+                <CONTRACT_COVERED_GPA />
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <TITLE>
+                    <P>Magnetkryostaten Lehrstuhl für Technische Physik 2022</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2022-11-08</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+                        <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+                        <NB_TENDERS_RECEIVED_OTHER_EU>1</NB_TENDERS_RECEIVED_OTHER_EU>
+                        <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+                        <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Qinu GmbH</OFFICIALNAME>
+                                <ADDRESS>Morgenstraße 8</ADDRESS>
+                                <TOWN>Karlsruhe</TOWN>
+                                <POSTAL_CODE>76137</POSTAL_CODE>
+                                <COUNTRY VALUE="DE" />
+                                <n2021:NUTS CODE="DE12" />
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_TOTAL CURRENCY="EUR">890290</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Regierung von Mittelfranken - Vergabekammer Nordbayern</OFFICIALNAME>
+                    <ADDRESS>Promenade 27</ADDRESS>
+                    <TOWN>Ansbach</TOWN>
+                    <POSTAL_CODE>91522</POSTAL_CODE>
+                    <COUNTRY VALUE="DE" />
+                    <PHONE>+49 981531277</PHONE>
+                    <E_MAIL>vergabekammer.nordbayern@reg-mfr.bayern.de</E_MAIL>
+                    <FAX>+49 981531837</FAX>
+                </ADDRESS_REVIEW_BODY>
+                <REVIEW_PROCEDURE>
+                    <P>Der Antrag auf Einleitung eines Nachprüfungsverfahrens ist unzulässig, soweit
+                        nicht nach</P>
+                    <P>Maßgabe des § 160 Abs. 3 GWB Verstöße gegen Vergabevorschriften innerhalb der
+                        in § 160</P>
+                    <P>Abs. 3 Nrn. 1 – 3 GWB genannten Fristen gerügt worden sind. Rügen sind an
+                        folgende</P>
+                    <P>Adresse zu richten:</P>
+                    <P> Julius-Maximilians-Universität Würzburg</P>
+                    <P>Referat 3.3 Einkauf</P>
+                    <P>Sanderring 2</P>
+                    <P>97070 Würzburg</P>
+                    <P>Die Julius-Maximilians-Universität Würzburg wird schriftlich mitteilen, ob
+                        einer Rüge</P>
+                    <P>abgeholfen wird.</P>
+                    <P>Wird einer Rüge nicht abgeholfen, so ist ein Antrag auf Einleitung eines</P>
+                    <P>Nachprüfungsverfahrens unzulässig, soweit mehr als 15 Kalendertage nach
+                        Eingang der</P>
+                    <P>Mitteilung der Julius-Maximilians-Universität Würzburg, einer Rüge nicht
+                        abhelfen zu wollen,</P>
+                    <P>vergangen sind. Der Antrag auf Einleitung eines Nachprüfungsverfahrens ist
+                        schriftlich bei der</P>
+                    <P>Vergabekammer (s. Nr. 9) einzureichen und unverzüglich zu begründen.</P>
+                    <P>Sofortige Beschwerde (§ 171 GWB)</P>
+                    <P>Gegen Entscheidungen der Vergabekammer ist die sofortige Beschwerde zulässig
+                        (§ 171 Abs.</P>
+                    <P>1 GWB). Die sofortige Beschwerde ist auch zulässig, wenn die Vergabekammer
+                        über einen</P>
+                    <P>Nachprüfungsantrag nicht innerhalb der Frist des § 167 Abs. 1 GWB entschieden
+                        hat (§ 167</P>
+                    <P>Abs. 2 GWB). Die sofortige Beschwerde ist binnen einer Notfrist von zwei
+                        Wochen, die mit der</P>
+                    <P>Zustellung der Entscheidung, im Fall des § 167 Abs. 2 GWB mit dem Ablauf der
+                        Frist beginnt,</P>
+                    <P>schriftlich bei dem Beschwerdegericht einzulegen. Die sofortige Beschwerde
+                        ist zugleich mit</P>
+                    <P>ihrer Einlegung zu begründen. Für die sofortige Beschwerde ist das
+                        Oberlandesgericht</P>
+                    <P>München – Vergabesenat zuständig, der darüber entscheidet.</P>
+                    <P>Auf die Präklusionsvorschrift des § 160 Abs. 3 GWB wird hingewiesen.</P>
+                </REVIEW_PROCEDURE>
+                <ADDRESS_REVIEW_INFO>
+                    <OFFICIALNAME>Referat 3.3 Einkauf - Universität Würzburg</OFFICIALNAME>
+                    <ADDRESS>Sanderring 2</ADDRESS>
+                    <TOWN>Würzburg</TOWN>
+                    <POSTAL_CODE>97070</POSTAL_CODE>
+                    <COUNTRY VALUE="DE" />
+                    <E_MAIL>einkauf@uni-wuerzburg.de</E_MAIL>
+                </ADDRESS_REVIEW_INFO>
+                <DATE_DISPATCH_NOTICE>2022-11-14</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F03_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

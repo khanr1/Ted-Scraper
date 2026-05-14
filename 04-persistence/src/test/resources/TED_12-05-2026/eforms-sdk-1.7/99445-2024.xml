@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2"
+    xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+    xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"
+    xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1"
+    xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1"
+    xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1"
+    xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+    <ext:UBLExtensions>
+        <ext:UBLExtension>
+            <ext:ExtensionContent>
+                <efext:EformsExtension>
+                    <efbc:TransmissionDate>2024-02-14+00:00</efbc:TransmissionDate>
+                    <efbc:TransmissionTime>14:59:11+00:00</efbc:TransmissionTime>
+                    <efac:NoticeResult>
+                        <cbc:TotalAmount currencyID="EUR">429070</cbc:TotalAmount>
+                        <efac:LotResult>
+                            <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                            <cac:FinancingParty>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                                </cac:PartyIdentification>
+                            </cac:FinancingParty>
+                            <cac:PayerParty>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                                </cac:PartyIdentification>
+                            </cac:PayerParty>
+                            <efac:LotTender>
+                                <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                            </efac:LotTender>
+                            <efac:SettledContract>
+                                <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                            </efac:SettledContract>
+                            <efac:TenderLot>
+                                <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+                            </efac:TenderLot>
+                        </efac:LotResult>
+                        <efac:LotTender>
+                            <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                            <efbc:TenderRankedIndicator>false</efbc:TenderRankedIndicator>
+                            <cac:LegalMonetaryTotal>
+                                <cbc:PayableAmount currencyID="EUR">429070</cbc:PayableAmount>
+                            </cac:LegalMonetaryTotal>
+                            <efac:SubcontractingTerm>
+                                <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                            </efac:SubcontractingTerm>
+                            <efac:TenderingParty>
+                                <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                            </efac:TenderingParty>
+                            <efac:TenderLot>
+                                <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+                            </efac:TenderLot>
+                            <efac:TenderReference>
+                                <cbc:ID>T73072</cbc:ID>
+                            </efac:TenderReference>
+                        </efac:LotTender>
+                        <efac:SettledContract>
+                            <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                            <cbc:AwardDate>2024-02-13+01:00</cbc:AwardDate>
+                            <cbc:Title languageID="ENG">Contract for Andor Dragonfly 202 Imaging
+                                System</cbc:Title>
+                            <cac:SignatoryParty>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                                </cac:PartyIdentification>
+                            </cac:SignatoryParty>
+                            <efac:ContractReference>
+                                <cbc:ID>RKDRQ1055</cbc:ID>
+                            </efac:ContractReference>
+                            <efac:LotTender>
+                                <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                            </efac:LotTender>
+                            <efac:Funding>
+                                <efbc:FinancingIdentifier>101118999</efbc:FinancingIdentifier>
+                                <cbc:FundingProgramCode listName="eu-programme">HORIZONEU</cbc:FundingProgramCode>
+                                <cbc:Description languageID="ENG">Catalysis for Cancer Treatment,
+                                    Horizon Europe - ERC Synergy, Cat4CanCenter
+</cbc:Description>
+                            </efac:Funding>
+                        </efac:SettledContract>
+                        <efac:TenderingParty>
+                            <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                            <efac:Tenderer>
+                                <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                            </efac:Tenderer>
+                        </efac:TenderingParty>
+                    </efac:NoticeResult>
+                    <efac:NoticeSubType>
+                        <cbc:SubTypeCode listName="notice-subtype">25</cbc:SubTypeCode>
+                    </efac:NoticeSubType>
+                    <efac:Organizations>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>https://www.universiteitleiden.nl/</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="ENG">Universiteit Leiden</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Kolffpad 1</cbc:StreetName>
+                                    <cbc:CityName>Leiden</cbc:CityName>
+                                    <cbc:PostalZone>2333BN</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">NL337</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">NLD</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID schemeID="002">27368929</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Name>Govert Schipperheijn</cbc:Name>
+                                    <cbc:Telephone>+31715273304</cbc:Telephone>
+                                    <cbc:ElectronicMail>inkoop@ufb.leidenuniv.nl</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>
+                                    https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Rechtbanken/Rechtbank-Den-Haag</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="ENG">Rechtbank Den Haag</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Postbus 20303</cbc:StreetName>
+                                    <cbc:Department>Civiel</cbc:Department>
+                                    <cbc:CityName>Den Haag</cbc:CityName>
+                                    <cbc:PostalZone>2500 EH</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">NL332</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">NLD</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID schemeID="002">82946175</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Name>Informatie</cbc:Name>
+                                    <cbc:Telephone>+31883622200</cbc:Telephone>
+                                    <cbc:ElectronicMail>info@rechtspraak.nl</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator>
+                            <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                            <efac:Company>
+                                <cbc:WebsiteURI>https://andor.oxinst.com</cbc:WebsiteURI>
+                                <efbc:CompanySizeCode listName="economic-operator-size">sme</efbc:CompanySizeCode>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="ENG">Andor Technology Ltd</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>7 Millenium Way</cbc:StreetName>
+                                    <cbc:CityName>Belfast</cbc:CityName>
+                                    <cbc:PostalZone>BT12 7AL</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">UKN06</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">GBR</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID schemeID="002">NI022466</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>447484508230</cbc:Telephone>
+                                    <cbc:ElectronicMail>info@andor.com</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                    </efac:Organizations>
+                    <efac:Publication>
+                        <efbc:NoticePublicationID schemeName="ojs-notice-id">00099445-2024</efbc:NoticePublicationID>
+                        <efbc:GazetteID schemeName="ojs-id">34/2024</efbc:GazetteID>
+                        <efbc:PublicationDate>2024-02-16Z</efbc:PublicationDate>
+                    </efac:Publication>
+                </efext:EformsExtension>
+            </ext:ExtensionContent>
+        </ext:UBLExtension>
+    </ext:UBLExtensions>
+    <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+    <cbc:CustomizationID>eforms-sdk-1.7</cbc:CustomizationID>
+    <cbc:ID schemeName="notice-id">e780737f-b9dd-4591-b138-373e2234d9fd</cbc:ID>
+    <cbc:ContractFolderID>4848392f-988e-4779-81fa-052cfba55c44</cbc:ContractFolderID>
+    <cbc:IssueDate>2024-02-14+00:00</cbc:IssueDate>
+    <cbc:IssueTime>14:57:33+00:00</cbc:IssueTime>
+    <cbc:VersionID>01</cbc:VersionID>
+    <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+    <cbc:NoticeTypeCode listName="dir-awa-pre">veat</cbc:NoticeTypeCode>
+    <cbc:NoticeLanguageCode>ENG</cbc:NoticeLanguageCode>
+    <cac:ContractingParty>
+        <cbc:BuyerProfileURI>https://s2c.mercell.com/buyer/19549</cbc:BuyerProfileURI>
+        <cac:ContractingPartyType>
+            <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+        </cac:ContractingPartyType>
+        <cac:ContractingActivity>
+            <cbc:ActivityTypeCode listName="authority-activity">education</cbc:ActivityTypeCode>
+        </cac:ContractingActivity>
+        <cac:Party>
+            <cac:PartyIdentification>
+                <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+        </cac:Party>
+    </cac:ContractingParty>
+    <cac:TenderingProcess>
+        <cbc:ProcedureCode listName="procurement-procedure-type">neg-wo-call</cbc:ProcedureCode>
+        <cac:ProcessJustification>
+            <cbc:ProcessReasonCode listName="direct-award-justification">technical</cbc:ProcessReasonCode>
+            <cbc:ProcessReason languageID="ENG">The Leiden Institute of Chemistry (LIC) seeks to
+                purchase an Andor Dragonfly 202 Imaging system for the performance of high speed
+                multi-colour image acquisition in combination with deep tissue penetration and high
+                sensitivity, for the ERC SyG-project ‘Catalysis for Cancer Treatment’. In this
+                project we will study glioblastoma treatment using intratumoral catalysis to locally
+                convert non-toxic prodrugs into active potent drugs. Furthermore we aim to target
+                specifically, tumor cells, all macrophages, lipid laden macrophages and endothelial
+                cells. Specifically the instrument will be used for:
+
+                (1) High speed zebrafish time-lapse imaging for visualizing intratumoral prodrug
+                activation.
+                (2) Large scale image stitching for organoid expansion microscopy purposes (e.g.
+                imaging of expanded organoids and/or expanded zebrafish brains)
+
+                Since many of the prodrugs catalysts are fluorescent we require high speed
+                multi-colour time-lapse imaging for visualizing the catalyst, lipid nanoparticles,
+                as well as fluorescent protein expression. These fast processes can only be
+                visualized with spinning disk microscopes. Furthermore the expansion microscopy
+                dilutes the fluorophores within a sample so much that high laser powers and
+                sensitive detection are essential. In addition the experiments require the freedom
+                to set imaging positions in a flexible manner which is not restricted to or mainly
+                aimed at multi-well plate imaging.
+
+                All of these are offered by the Dragonfly system and in addition several aspects of
+                this instrument are unique and essential for the success of the experiments within
+                the needed time scale:
+
+                (1) One of the unique features of this instrument is the Borealis illumination
+                system ensures the even illumination of the entire imaging field within the specimen
+                making sure that stitched images have no stitching artifacts and signal
+                quantification is equally possible from any position within the image.
+                (2) In addition the fully synchronized camera acquisition between the first and
+                second camera will make sure different color images are acquired at exactly the same
+                time. Ensuring optimal synchronicity for fast time lapse imaging.
+                (3) The wider spacing of the pinholes in the spinning disk compared to competitors
+                makes sure that there is a better out of focus noise reduction, allowing deeper
+                imaging without background signals leaking in from other layers in the sample.
+
+                In conclusion the Andor Dragonfly is the only system that allows simultaneous
+                multi-color image acquisition at 400 frames per second with perfectly even
+                illumination at high laser powers, and the best out of focus light reduction in the
+                market which is essential for expanded tissue imaging. These combined properties are
+                necessary for the successful completion of this ERC SyG research project.
+</cbc:ProcessReason>
+        </cac:ProcessJustification>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+        <cbc:ID schemeName="InternalID">T73072</cbc:ID>
+        <cbc:Name languageID="ENG">Spinning Disk Confocal Microscope</cbc:Name>
+        <cbc:Description languageID="ENG">This announcement is to indicate the intend to award this
+            contract to Andor Technology Ltd for a Andor Dragonfly 202 Imaging System spinning disk
+            confocal microscope.</cbc:Description>
+        <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+        <cbc:Note languageID="ENG">This publication is to indicate our intention to award the
+            contract. If no representations are received within 20 days after the sending date of
+            this publication, the contract will be awarded.</cbc:Note>
+        <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">38510000</cbc:ItemClassificationCode>
+        </cac:MainCommodityClassification>
+        <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">38515200</cbc:ItemClassificationCode>
+        </cac:AdditionalCommodityClassification>
+        <cac:RealizedLocation>
+            <cbc:Description languageID="ENG">See documentation</cbc:Description>
+            <cac:Address>
+                <cbc:CountrySubentityCode listName="nuts">NL337</cbc:CountrySubentityCode>
+                <cac:Country>
+                    <cbc:IdentificationCode listName="country">NLD</cbc:IdentificationCode>
+                </cac:Country>
+            </cac:Address>
+        </cac:RealizedLocation>
+    </cac:ProcurementProject>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:FundingProgramCode listName="eu-funded">eu-funds</cbc:FundingProgramCode>
+            <cac:AwardingTerms>
+                <cac:AwardingCriterion>
+                    <cac:SubordinateAwardingCriterion>
+                        <ext:UBLExtensions>
+                            <ext:UBLExtension>
+                                <ext:ExtensionContent>
+                                    <efext:EformsExtension>
+                                        <efac:AwardCriterionParameter>
+                                            <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                            <efbc:ParameterNumeric>100</efbc:ParameterNumeric>
+                                        </efac:AwardCriterionParameter>
+                                    </efext:EformsExtension>
+                                </ext:ExtensionContent>
+                            </ext:UBLExtension>
+                        </ext:UBLExtensions>
+                        <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                        <cbc:Name languageID="ENG">Price</cbc:Name>
+                        <cbc:Description languageID="ENG">Price</cbc:Description>
+                    </cac:SubordinateAwardingCriterion>
+                </cac:AwardingCriterion>
+            </cac:AwardingTerms>
+            <cac:AppealTerms>
+                <cac:AppealReceiverParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:AppealReceiverParty>
+            </cac:AppealTerms>
+        </cac:TenderingTerms>
+        <cac:TenderingProcess>
+            <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+            <cac:ContractingSystem>
+                <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+            </cac:ContractingSystem>
+            <cac:ContractingSystem>
+                <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+            </cac:ContractingSystem>
+        </cac:TenderingProcess>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="InternalID">T73072</cbc:ID>
+            <cbc:Name languageID="ENG">Spinning Disk Confocal Microscope</cbc:Name>
+            <cbc:Description languageID="ENG">This announcement is to indicate the intend to award
+                this contract to Andor Technology Ltd for a Andor Dragonfly 202 Imaging System
+                spinning disk confocal microscope.</cbc:Description>
+            <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+            <cbc:Note languageID="ENG">This publication is to indicate our intention to award the
+                contract. If no representations are received within 20 days after the sending date
+                of this publication, the contract will be awarded.</cbc:Note>
+            <cac:MainCommodityClassification>
+                <cbc:ItemClassificationCode listName="cpv">38510000</cbc:ItemClassificationCode>
+            </cac:MainCommodityClassification>
+            <cac:AdditionalCommodityClassification>
+                <cbc:ItemClassificationCode listName="cpv">38515200</cbc:ItemClassificationCode>
+            </cac:AdditionalCommodityClassification>
+            <cac:RealizedLocation>
+                <cbc:Description languageID="ENG">See documentation</cbc:Description>
+                <cac:Address>
+                    <cbc:CountrySubentityCode listName="nuts">NL337</cbc:CountrySubentityCode>
+                    <cac:Country>
+                        <cbc:IdentificationCode listName="country">NLD</cbc:IdentificationCode>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:TenderResult>
+        <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+    </cac:TenderResult>
+</ContractAwardNotice>

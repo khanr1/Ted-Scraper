@@ -1,0 +1,9 @@
+package io.github.khanr1.tedscraper.r208
+
+import types.*
+case class TypeAndActivities(
+    authorityType: Option[RichText],
+    authorityOther: Option[RichText],
+    activities: List[RichText],
+    activityOther: Option[RichText]
+)

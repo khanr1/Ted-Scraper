@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2"
+    xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+    xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"
+    xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1"
+    xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1"
+    xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1"
+    xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+    <ext:UBLExtensions>
+        <ext:UBLExtension>
+            <ext:ExtensionContent>
+                <efext:EformsExtension>
+                    <efac:NoticeResult>
+                        <cbc:TotalAmount currencyID="EUR">221000</cbc:TotalAmount>
+                        <efac:LotResult>
+                            <cbc:ID schemeName="result">RES-0000</cbc:ID>
+                            <cbc:HigherTenderAmount currencyID="EUR">221000</cbc:HigherTenderAmount>
+                            <cbc:LowerTenderAmount currencyID="EUR">221000</cbc:LowerTenderAmount>
+                            <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                            <cac:FinancingParty>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                                </cac:PartyIdentification>
+                            </cac:FinancingParty>
+                            <cac:PayerParty>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                                </cac:PartyIdentification>
+                            </cac:PayerParty>
+                            <efac:LotTender>
+                                <cbc:ID schemeName="tender">TEN-0000</cbc:ID>
+                            </efac:LotTender>
+                            <efac:ReceivedSubmissionsStatistics>
+                                <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                                <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                            </efac:ReceivedSubmissionsStatistics>
+                            <efac:SettledContract>
+                                <cbc:ID schemeName="contract">CON-0000</cbc:ID>
+                            </efac:SettledContract>
+                            <efac:TenderLot>
+                                <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+                            </efac:TenderLot>
+                        </efac:LotResult>
+                        <efac:LotTender>
+                            <cbc:ID schemeName="tender">TEN-0000</cbc:ID>
+                            <cbc:RankCode>1</cbc:RankCode>
+                            <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                            <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                            <cac:LegalMonetaryTotal>
+                                <cbc:PayableAmount currencyID="EUR">221000</cbc:PayableAmount>
+                            </cac:LegalMonetaryTotal>
+                            <efac:SubcontractingTerm>
+                                <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                            </efac:SubcontractingTerm>
+                            <efac:TenderingParty>
+                                <cbc:ID schemeName="tendering-party">TPA-0000</cbc:ID>
+                            </efac:TenderingParty>
+                            <efac:TenderLot>
+                                <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+                            </efac:TenderLot>
+                            <efac:TenderReference>
+                                <cbc:ID>Q-224-070-B</cbc:ID>
+                            </efac:TenderReference>
+                        </efac:LotTender>
+                        <efac:SettledContract>
+                            <cbc:ID schemeName="contract">CON-0000</cbc:ID>
+                            <cac:SignatoryParty>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                                </cac:PartyIdentification>
+                            </cac:SignatoryParty>
+                            <efac:ContractReference>
+                                <cbc:ID>W10-42369463</cbc:ID>
+                            </efac:ContractReference>
+                            <efac:LotTender>
+                                <cbc:ID schemeName="tender">TEN-0000</cbc:ID>
+                            </efac:LotTender>
+                        </efac:SettledContract>
+                        <efac:TenderingParty>
+                            <cbc:ID schemeName="tendering-party">TPA-0000</cbc:ID>
+                            <cbc:Name>Qinu GmbH</cbc:Name>
+                            <efac:Tenderer>
+                                <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                            </efac:Tenderer>
+                        </efac:TenderingParty>
+                    </efac:NoticeResult>
+                    <efac:NoticeSubType>
+                        <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+                    </efac:NoticeSubType>
+                    <efac:Organizations>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>http://www.fz-juelich.de</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DEU">Forschungszentrum Jülich GmbH</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Wilhelm-Johnen -Str.</cbc:StreetName>
+                                    <cbc:CityName>Jülich</cbc:CityName>
+                                    <cbc:PostalZone>52428</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts-lvl3">DEA26</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID>992-03005FZJ-26</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>+492461612358</cbc:Telephone>
+                                    <cbc:Telefax>+492461618041</cbc:Telefax>
+                                    <cbc:ElectronicMail>n.breker@fz-juelich.de</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>https://www.bundeskartellamt.de</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DEU">Vergabekammer des Bundes</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Villemombler Str 176</cbc:StreetName>
+                                    <cbc:CityName>Bonn</cbc:CityName>
+                                    <cbc:PostalZone>53123</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts-lvl3">DEA22</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID>t:0228/9499-0</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>+4922894990</cbc:Telephone>
+                                    <cbc:Telefax>+492289499163</cbc:Telefax>
+                                    <cbc:ElectronicMail>vk@bundeskartellamt.bund.de</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator>
+                            <efac:Company>
+                                <cbc:WebsiteURI>www.qinu.de</cbc:WebsiteURI>
+                                <efbc:CompanySizeCode listName="economic-operator-size">medium</efbc:CompanySizeCode>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DEU">Qinu GmbH</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Windeckstraße 8</cbc:StreetName>
+                                    <cbc:CityName>Karlsruhe</cbc:CityName>
+                                    <cbc:PostalZone>76135</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts-lvl3">DE122</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID>HRB739506</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:ElectronicMail>info@qinu.de</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="DEU">Datenservice Öffentlicher Einkauf (in
+                                        Verantwortung des Beschaffungsamts des BMI)</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:CityName>Bonn</cbc:CityName>
+                                    <cbc:PostalZone>53119</cbc:PostalZone>
+                                    <cbc:CountrySubentityCode listName="nuts">DEA22</cbc:CountrySubentityCode>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID schemeID="002">0204:994-DOEVD-83</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>+49228996100</cbc:Telephone>
+                                    <cbc:ElectronicMail>noreply.esender_hub@bescha.bund.de</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                    </efac:Organizations>
+                    <efac:Publication>
+                        <efbc:NoticePublicationID schemeName="ojs-notice-id">00294182-2025</efbc:NoticePublicationID>
+                        <efbc:GazetteID schemeName="ojs-id">88/2025</efbc:GazetteID>
+                        <efbc:PublicationDate>2025-05-07+02:00</efbc:PublicationDate>
+                    </efac:Publication>
+                </efext:EformsExtension>
+            </ext:ExtensionContent>
+        </ext:UBLExtension>
+    </ext:UBLExtensions>
+    <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+    <cbc:CustomizationID>eforms-sdk-1.13</cbc:CustomizationID>
+    <cbc:ProfileID>eforms-sdk-1.13</cbc:ProfileID>
+    <cbc:ID schemeName="notice-id">981110cf-0e08-4093-bfd9-aed9fb4fad28</cbc:ID>
+    <cbc:ContractFolderID>a98d794d-bdd2-4819-908d-175c80cfe8e4</cbc:ContractFolderID>
+    <cbc:IssueDate>2025-05-06+02:00</cbc:IssueDate>
+    <cbc:IssueTime>12:59:37.537048656+02:00</cbc:IssueTime>
+    <cbc:VersionID>01</cbc:VersionID>
+    <cbc:RequestedPublicationDate>2025-05-06+02:00</cbc:RequestedPublicationDate>
+    <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+    <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+    <cbc:NoticeLanguageCode listName="eu-official-language">DEU</cbc:NoticeLanguageCode>
+    <cac:ContractingParty>
+        <cac:ContractingPartyType>
+            <cbc:PartyTypeCode listName="buyer-legal-type">pub-undert-cga</cbc:PartyTypeCode>
+        </cac:ContractingPartyType>
+        <cac:ContractingActivity>
+            <cbc:ActivityTypeCode listName="authority-activity">education</cbc:ActivityTypeCode>
+        </cac:ContractingActivity>
+        <cac:Party>
+            <cac:PartyIdentification>
+                <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+            </cac:PartyIdentification>
+            <cac:ServiceProviderParty>
+                <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+                <cac:Party>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:Party>
+            </cac:ServiceProviderParty>
+        </cac:Party>
+    </cac:ContractingParty>
+    <cac:TenderingTerms>
+        <cac:ProcurementLegislationDocumentReference>
+            <cbc:ID>vgv</cbc:ID>
+        </cac:ProcurementLegislationDocumentReference>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+        <ext:UBLExtensions>
+            <ext:UBLExtension>
+                <ext:ExtensionContent>
+                    <efext:EformsExtension>
+                        <efbc:ProcedureRelaunchIndicator>false</efbc:ProcedureRelaunchIndicator>
+                    </efext:EformsExtension>
+                </ext:ExtensionContent>
+            </ext:UBLExtension>
+        </ext:UBLExtensions>
+        <cbc:ProcedureCode listName="procurement-procedure-type">neg-wo-call</cbc:ProcedureCode>
+        <cac:ProcessJustification>
+            <cbc:ProcessReasonCode listName="direct-award-justification">technical</cbc:ProcessReasonCode>
+            <cbc:ProcessReason languageID="DEU">Nachfolgende technische Anforderungen werden nur
+                durch das System der Fa. Qinu GmbH vollumfänglich erfüllt:
+
+                Situation am PGI-11:
+
+                1. Die am Institut verfügbaren Kryostaten zeichnen sich durch lange Ein- und
+                Abkühlzeiten aus (ca. 36h). Die Verwendung einer Ladevorrichtung, mit der der
+                Kryostat nicht komplett aufgewärmt werden muss, kann diesen Zeitraum auf ca. 13
+                Stunden reduzieren, lässt jedoch auf Grund der technischen Einschränkungen nur eine
+                Messung von max. 2 Proben bei einer äußerst geringen Anzahl an Leitungen (max. 48
+                Gleichstromleitungen und 14 Hochfrequenz Leitungen) gleichzeitig zu. Für
+                Langzeitmessungen weniger einfacher Proben ist dies ausreichend, jedoch würde dieser
+                Rhythmus keinen statistisch relevanten Durchsatz für die Zwecke des PGI-11
+                ermöglichen.
+
+                2. Die Größe und Unterbringung eines handelsüblichen Mischkryostaten, der eine
+                Raumhöhe von 4m (mit Ladevorrichtung) notwendig macht und sowohl den einfachen
+                Zugriff zur Oberseite mit der Messverkabelung als auch zur Unterseite, wo die Proben
+                eingebaut werden, erlauben muss, macht neben dem hohen Anschaffungspreis den
+                parallelen Betrieb von mehreren Kryostaten zur Durchsatzsteigerung zum einen
+                wirtschaftlich schwierig und zum anderen muss passender Laborraum bereitgestellt
+                werden.
+
+                Technische Anforderungen
+
+                Das PGI-11 benötigt daher zur agilen Massencharakterisierung von Halbleiterproben
+                einen neuen Kryostaten, der:
+
+                1. eine Abkühlzeit von wenigen (2-5) Stunden aufweist
+                2. eine Aufwärmzeit von wenigen (1-2) Stunden aufweist
+                3. Ohne Ladevorrichtung auskommt und somit viele Proben auf einmal bzw. komplexe
+                Proben mit vielen Leitungen (&gt;100) aufnehmen kann
+                4. einen guten barrierefreien Zugriff zur Messverkabelung aber auch Proben zulässt
+                (Tischgerät)
+                5. eine kleine Grundfläche hat (ca. 300 mm)
+                6. keine besonderen Anforderungen an die Laborräume stellt (kompaktes,
+                alleinstehendes System)</cbc:ProcessReason>
+        </cac:ProcessJustification>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+        <cbc:ID schemeName="InternalID">W10-42369463</cbc:ID>
+        <cbc:Name languageID="DEU">W10-42369463 Spezieller Kryostat und Zubehör für das PGI-11.</cbc:Name>
+        <cbc:Description languageID="DEU">Spezieller Kryostat und Zubehör für das PGI-11.</cbc:Description>
+        <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+        <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="EUR">221000</cbc:EstimatedOverallContractAmount>
+        </cac:RequestedTenderTotal>
+        <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">38000000</cbc:ItemClassificationCode>
+        </cac:MainCommodityClassification>
+        <cac:RealizedLocation>
+            <cac:Address>
+                <cbc:StreetName>Leo-Brandt-Straße</cbc:StreetName>
+                <cbc:CityName>Jülich</cbc:CityName>
+                <cbc:PostalZone>52428</cbc:PostalZone>
+                <cbc:CountrySubentityCode listName="nuts-lvl3">DEA26</cbc:CountrySubentityCode>
+                <cac:Country>
+                    <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                </cac:Country>
+            </cac:Address>
+        </cac:RealizedLocation>
+    </cac:ProcurementProject>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+        <cac:TenderingTerms>
+            <ext:UBLExtensions>
+                <ext:UBLExtension>
+                    <ext:ExtensionContent>
+                        <efext:EformsExtension>
+                            <efac:StrategicProcurement>
+                                <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                            </efac:StrategicProcurement>
+                        </efext:EformsExtension>
+                    </ext:ExtensionContent>
+                </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+            <cac:AwardingTerms>
+                <cac:AwardingCriterion>
+                    <cbc:Description languageID="DEU">Wir verweisen diesbezüglich auf § 160 GWB: (1)
+                        Die Vergabekammer
+                        leitet ein Nachprüfungsverfahren nur auf Antrag ein. (2) Antragsbefugt ist
+                        jedes
+                        Unternehmen, das ein Interesse an dem öffentlichen Auftrag oder der
+                        Konzession
+                        hat und eine Verletzung in seinen Rechten nach § 97 Absatz 6 durch
+                        Nichtbeachtung von Vergabevorschriften geltend macht. Dabei ist darzulegen,
+                        dass dem Unternehmen durch die behauptete Verletzung der Vergabevorschriften
+                        ein Schaden entstanden ist oder zu entstehen droht. (3) Der Antrag ist
+                        unzulässig,
+                        soweit 1. der Antragsteller den geltend gemachten Verstoß gegen
+                        Vergabevorschriften vor Einreichen des Nachprüfungsantrags erkannt und
+                        gegenüber dem Auftraggeber nicht innerhalb einer Frist von zehn
+                        Kalendertagen
+                        gerügt hat; der Ablauf der Frist nach § 134 Absatz 2 bleibt unberührt, 2.
+                        Verstöße gegen Vergabevorschriften, die aufgrund der Bekanntmachung
+                        erkennbar sind,
+                        nicht spätestens bis zum Ablauf der in der Bekanntmachung benannten Frist
+                        zur
+                        Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt
+                        werden, 3. Verstöße gegen Vergabevorschriften, die erst in den
+                        Vergabeunterlagen erkennbar sind, nicht spätestens bis zum Ablauf der Frist
+                        zur
+                        Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt
+                        werden, 4. mehr als 15 Kalendertage nach Eingang der Mitteilung des
+                        Auftraggebers, einer Rüge nicht abhelfen zu wollen, vergangen sind. Satz 1
+                        gilt
+                        nicht bei einem Antrag auf Feststellung der Unwirksamkeit des Vertrags nach
+                        §
+                        135 Absatz 1 Nummer 2. § 134 Absatz 1 Satz 2 bleibt unberührt.</cbc:Description>
+                    <cbc:CalculationExpression languageID="DEU">Siehe technische Spezifikation.</cbc:CalculationExpression>
+                    <cac:SubordinateAwardingCriterion>
+                        <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung siehe oben.</cbc:Description>
+                    </cac:SubordinateAwardingCriterion>
+                </cac:AwardingCriterion>
+            </cac:AwardingTerms>
+            <cac:AdditionalInformationParty>
+                <cac:PartyIdentification>
+                    <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                </cac:PartyIdentification>
+            </cac:AdditionalInformationParty>
+            <cac:DocumentProviderParty>
+                <cac:PartyIdentification>
+                    <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                </cac:PartyIdentification>
+            </cac:DocumentProviderParty>
+            <cac:AppealTerms>
+                <cac:PresentationPeriod>
+                    <cbc:Description languageID="DEU">Gemäß VgV.</cbc:Description>
+                </cac:PresentationPeriod>
+                <cac:AppealInformationParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:AppealInformationParty>
+                <cac:AppealReceiverParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:AppealReceiverParty>
+            </cac:AppealTerms>
+        </cac:TenderingTerms>
+        <cac:TenderingProcess>
+            <ext:UBLExtensions>
+                <ext:UBLExtension>
+                    <ext:ExtensionContent>
+                        <efext:EformsExtension>
+                            <efbc:ProcedureRelaunchIndicator>false</efbc:ProcedureRelaunchIndicator>
+                        </efext:EformsExtension>
+                    </ext:ExtensionContent>
+                </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+            <cac:AuctionTerms>
+                <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+            </cac:AuctionTerms>
+            <cac:FrameworkAgreement>
+                <cac:SubsequentProcessTenderRequirement>
+                    <cbc:Name>buyer-categories</cbc:Name>
+                </cac:SubsequentProcessTenderRequirement>
+            </cac:FrameworkAgreement>
+            <cac:ContractingSystem>
+                <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+            </cac:ContractingSystem>
+            <cac:ContractingSystem>
+                <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+            </cac:ContractingSystem>
+        </cac:TenderingProcess>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="InternalID">W10-42369463</cbc:ID>
+            <cbc:Name languageID="DEU">W10-42369463 Spezieller Kryostat und Zubehör für das PGI-11</cbc:Name>
+            <cbc:Description languageID="DEU">Spezieller Kryostat und Zubehör für das PGI-11</cbc:Description>
+            <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+            <cbc:Note languageID="DEU">Gemäß § 39, Abs. 6, Nr. 3 VgV zählt der
+                tatsächliche Preis zu den Informationen, die den geschäftlichen Interessen des
+                Unternehmens schaden könnten. Daher wird in dieser Bekanntmachung lediglich
+                der Schwellenwert angegeben.</cbc:Note>
+            <cac:ProcurementAdditionalType>
+                <cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+            </cac:ProcurementAdditionalType>
+            <cac:RequestedTenderTotal>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">221000</cbc:EstimatedOverallContractAmount>
+            </cac:RequestedTenderTotal>
+            <cac:MainCommodityClassification>
+                <cbc:ItemClassificationCode listName="cpv">38000000</cbc:ItemClassificationCode>
+            </cac:MainCommodityClassification>
+            <cac:RealizedLocation>
+                <cac:Address>
+                    <cbc:CityName>Jülich</cbc:CityName>
+                    <cbc:CountrySubentityCode listName="nuts-lvl3">DEA26</cbc:CountrySubentityCode>
+                    <cac:Country>
+                        <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:TenderResult>
+        <cbc:AwardDate>2000-01-01+01:00</cbc:AwardDate>
+    </cac:TenderResult>
+</ContractAwardNotice>

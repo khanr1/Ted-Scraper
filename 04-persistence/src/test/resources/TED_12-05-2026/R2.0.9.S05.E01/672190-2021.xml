@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+    xmlns:n2021="http://publications.europa.eu/resource/schema/ted/2021/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+    VERSION="R2.0.9.S05.E01" DOC_ID="672190-2021" EDITION="2021253">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>21-695945-001</RECEPTION_ID>
+        <DELETION_DATE>20220403</DELETION_DATE>
+        <FORM_LG_LIST>DE </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="https://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>253</NO_OJ>
+            <DATE_PUB>20211229</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2021/S 253-672190</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="DE">https://ted.europa.eu/udl?uri=TED:NOTICE:672190-2021:TEXT:DE:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>DE</LG_ORIG>
+            <ISO_COUNTRY VALUE="AT" />
+            <IA_URL_GENERAL>https://ist.ac.at/</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="38000000">Laboratory, optical and precision equipments (excl.
+                glasses)</ORIGINAL_CPV>
+            <n2021:PERFORMANCE_NUTS CODE="AT12">Niederösterreich</n2021:PERFORMANCE_NUTS>
+            <n2021:CA_CE_NUTS CODE="AT126">Wiener Umland / Nordteil</n2021:CA_CE_NUTS>
+            <n2021:TENDERER_NUTS CODE="FI">Suomi / Finland</n2021:TENDERER_NUTS>
+            <VALUES>
+                <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">463130</VALUE>
+            </VALUES>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20211224</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+            <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+            <HEADING>01B03</HEADING>
+            <INITIATOR>01</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Aвcтpия</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Лабораторно, оптично и прецизно оборудване (без стъклени изделия)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Rakousko</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorní, optické a přesné přístroje a zařízení (mimo skel)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Østrig</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorieudstyr, optisk udstyr og præcisionsudstyr (ikke briller)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Österreich</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Αυστρία</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Εξοπλισμός εργαστηριακός, οπτικός και ακριβείας (εκτός από γυαλιά)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Austria</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory, optical and precision equipments (excl. glasses)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Austria</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipo de laboratorio, óptico y de precisión (excepto gafas)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Austria</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboriseadmed, optika- ja täppisinstrumendid (v.a klaasid)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Itävalta</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriolaitteet, optiset ja tarkkuuslaitteet (lukuun ottamatta
+                        silmälaseja)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Autriche</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Équipements de laboratoire, d'optique et de précision (excepté les lunettes)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Ostair, an</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory, optical and precision equipments (excl. glasses)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Austrija</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijska, optička i precizna oprema (osim naočala)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Ausztria</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratóriumi, optikai és precíziós felszerelések (kivéve szemüvegek)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Austria</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Attrezzature da laboratorio, ottiche e di precisione (escluso vetri)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Austrija</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Austrija</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijas, optiskās un precīzijas ierīces (izņemot brilles)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>l-Awstrija</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Tagħmir tal-laboratorju, ottiku u ta' preċiżjoni (minbarra nuċċalijiet)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Oostenrijk</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd
+                        brillen)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Austria</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Áustria</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipamento laboratorial, óptico e de precisão (exc. óculos)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Austria</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Echipamente de laborator, optice şi de precizie (cu excepţia ochelarilor)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Rakúsko</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratórne, optické a presné prístroje a vybavenie (s výnimkou skiel)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Avstrija</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijska, optična in precizna oprema (razen očal)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Österrike</TI_CY>
+                <TI_TOWN>Klosterneuburg</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorieutrustning, optisk utrustning och precisionsutrustning (exkl.
+                        glas)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="DE">Institute of Science and Technology Austria</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="DE">
+            <LEGAL_BASIS VALUE="32014L0024" />
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Institute of Science and Technology Austria</OFFICIALNAME>
+                    <ADDRESS>Am Campus 1</ADDRESS>
+                    <TOWN>Klosterneuburg</TOWN>
+                    <POSTAL_CODE>3400</POSTAL_CODE>
+                    <COUNTRY VALUE="AT" />
+                    <PHONE>+43 22439000</PHONE>
+                    <E_MAIL>Florian.SCHOENTHAL-GUTTMANN@ist.ac.at</E_MAIL>
+                    <n2021:NUTS CODE="AT126" />
+                    <URL_GENERAL>https://ist.ac.at/</URL_GENERAL>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="BODY_PUBLIC" />
+                <CA_ACTIVITY_OTHER>basic research</CA_ACTIVITY_OTHER>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Dry dilution refrigerator with 3D magnet</P>
+                </TITLE>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="38000000" />
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SUPPLIES" />
+                <SHORT_DESCR>
+                    <P>1 dry dilution refrigerator with a 3D magnet is needed for research purposes
+                        at IST Austria.</P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="EUR">463130</VAL_TOTAL>
+                <NO_LOT_DIVISION />
+                <OBJECT_DESCR ITEM="1">
+                    <n2021:NUTS CODE="AT12" />
+                    <MAIN_SITE>
+                        <P>Am Campus 1</P>
+                        <P>3400 Klosterneuburg</P>
+                        <P>Österreich</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>1 dry dilution refrigerator with a 3D magnet was required for research
+                            purposes at IST Austria.</P>
+                    </SHORT_DESCR>
+                    <AC>
+                        <AC_QUALITY>
+                            <AC_CRITERION>Fulfilment of minimum technical requirements</AC_CRITERION>
+                            <AC_WEIGHTING>100</AC_WEIGHTING>
+                        </AC_QUALITY>
+                        <AC_PRICE>
+                            <AC_WEIGHTING>100</AC_WEIGHTING>
+                        </AC_PRICE>
+                    </AC>
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                    <INFO_ADD>
+                        <P />
+                    </INFO_ADD>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <PT_AWARD_CONTRACT_WITHOUT_CALL>
+                    <D_ACCORDANCE_ARTICLE>
+                        <D_TECHNICAL />
+                    </D_ACCORDANCE_ARTICLE>
+                    <D_JUSTIFICATION>
+                        <P>In the Nanoelectronics group, dilution refrigerators are needed for
+                            investigating spin qubits in Germanium. Magnetic fields are needed in
+                            order to realize such qubits. Furthermore, in order to study the
+                            fundamental properties of the qubits one needs to be able to align the
+                            magnetic field in allpossible directions. This allows to get a good
+                            understanding of physics and to improve the qubit properties, namely
+                            their spin relaxation time and coherence. So far the group has 4
+                            dilution refrigerators. However, as the qubit devices become
+                            increasingly complex the experiments can last longer than a year and
+                            therefore an additional system is needed in order that all students and
+                            postdocs have sufficient measurement time.</P>
+                        <P>The scientific research activities as mentioned above represent the
+                            following minimal technical requirements for the system:</P>
+                        <P>A. Vibrations: It is vital to be able to switch off the pulse tube while
+                            performing qubit experiments</P>
+                        <P>B. Long run operation time (additional internal cold trap): It is
+                            necessary to keep the sample continuously cold and therefore be able to
+                            perform an experiment for two years, i.e. the interval between the
+                            required maintenance period of the helium compressors.</P>
+                        <P>C/D Compatibility: The sample loader and magnet power supplies should be
+                            interchangeable with as many as possible other dilution refrigerators
+                            already existing in the lab.</P>
+                        <P>The investigation shows clearly that only the Bluefors Oy fridge LD250
+                            fulfills all required minimum technical specifications presented by all
+                            planned experiments.</P>
+                        <P>With several suppliers on the market only one product distributed by one
+                            company meets the technical minimum requirements which necessitate the
+                            planned test configurations provided by IST Austria: LD250 by Bluefors
+                            Oy. The product can solely be bought via this company, there are no
+                            other distributors. Therefore procurement is to be made by way of a
+                            negotiated procedure with a single tenderer without prior notice
+                            pursuant to § 36 para1 no3 Bundesvergabegesetz 2006 i.d.g.F. [Austrian
+                            Federal Law on Public Procurement].</P>
+                    </D_JUSTIFICATION>
+                </PT_AWARD_CONTRACT_WITHOUT_CALL>
+                <CONTRACT_COVERED_GPA />
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2021-07-20</DATE_CONCLUSION_CONTRACT>
+                    <TENDERS>
+                        <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+                    </TENDERS>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>Bluefors Oy</OFFICIALNAME>
+                                <NATIONALID>31000438</NATIONALID>
+                                <ADDRESS>Arinatie 10</ADDRESS>
+                                <TOWN>Helsinki</TOWN>
+                                <POSTAL_CODE>00370</POSTAL_CODE>
+                                <COUNTRY VALUE="FI" />
+                                <E_MAIL>sales@bluefors.com</E_MAIL>
+                                <n2021:NUTS CODE="FI" />
+                            </ADDRESS_CONTRACTOR>
+                            <NO_SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_ESTIMATED_TOTAL CURRENCY="EUR">463130</VAL_ESTIMATED_TOTAL>
+                        <VAL_TOTAL CURRENCY="EUR">463130</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <INFO_ADD>
+                    <P />
+                </INFO_ADD>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Bundesverwaltungsgericht</OFFICIALNAME>
+                    <ADDRESS>Erdbergstraße 192/196</ADDRESS>
+                    <TOWN>Wien</TOWN>
+                    <POSTAL_CODE>1030</POSTAL_CODE>
+                    <COUNTRY VALUE="AT" />
+                    <URL>https://www.bvwg.gv.at</URL>
+                </ADDRESS_REVIEW_BODY>
+                <REVIEW_PROCEDURE>
+                    <P />
+                </REVIEW_PROCEDURE>
+                <DATE_DISPATCH_NOTICE>2021-12-24</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F03_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

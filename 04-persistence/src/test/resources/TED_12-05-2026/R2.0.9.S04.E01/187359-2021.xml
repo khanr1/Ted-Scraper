@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+    xmlns:n2021="http://publications.europa.eu/resource/schema/ted/2021/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+    VERSION="R2.0.9.S04.E01" DOC_ID="187359-2021" EDITION="2021074">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>21-189086-001</RECEPTION_ID>
+        <DELETION_DATE>20220412</DELETION_DATE>
+        <FORM_LG_LIST>IT </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="https://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>74</NO_OJ>
+            <DATE_PUB>20210416</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2021/S 074-187359</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="IT">https://ted.europa.eu/udl?uri=TED:NOTICE:187359-2021:TEXT:IT:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>IT</LG_ORIG>
+            <ISO_COUNTRY VALUE="IT" />
+            <IA_URL_GENERAL>www.sns.it</IA_URL_GENERAL>
+            <IA_URL_ETENDERING>https://start.toscana.it/</IA_URL_ETENDERING>
+            <ORIGINAL_CPV CODE="31682210">Instrumentation and control equipment</ORIGINAL_CPV>
+            <n2021:PERFORMANCE_NUTS CODE="ITI17">Pisa</n2021:PERFORMANCE_NUTS>
+            <n2021:CA_CE_NUTS CODE="ITI17">Pisa</n2021:CA_CE_NUTS>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20210412</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="B">Buyer profile</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="9">Not applicable</PR_PROC>
+            <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="9">Not applicable</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="L">Education</MA_MAIN_ACTIVITIES>
+            <HEADING>01B08</HEADING>
+            <INITIATOR>01</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Итaлия</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Инструменти и оборудване за управление и контрол</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Itálie</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Přístrojové a řídící zařízení</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Italien</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrument- og betjeningsudstyr</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Italien</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Messgeräte und Steuer- und Überwachungsanlagen</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Ιταλία</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Όργανα και εξοπλισμός ελέγχου</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Italy</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumentation and control equipment</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Italia</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipo de instrumentación y control</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Itaalia</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Mõõteriistad ja juhtseadmed</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Italia</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumentointi ja ohjauslaitteet</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Italie</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instruments et équipement de commande et de contrôle</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Iodáil, an</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumentation and control equipment</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Italija</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Mjerna i upravljačka oprema</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Olaszország</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Műszer- és vezérlőberendezések</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Italia</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Apparecchiatura di controllo e strumentazione</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Italija</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Matavimo ir valdymo aparatūra</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Itāija</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Mērinstrumenti un vadības un kontroles ierīces</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>l-Italja</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Apparat ta' l-istrumentazzjoni u l-kontroll</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Italië</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumenten- en besturingsuitrusting</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Włochy</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Aparatura i sprzęt sterujący</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Itália</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipamento de instrumentação e de comando</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Italia</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumente şi echipament de comandă</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Taliansko</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Prístrojové vybavenie a regulačné zariadenia</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Italija</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Merilne naprave in oprema za upravljanje in nadzor</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Italien</TI_CY>
+                <TI_TOWN>Pisa</TI_TOWN>
+                <TI_TEXT>
+                    <P>Instrumenterings- och styrsystem</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="IT">Scuola Normale Superiore</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F08_2014 CATEGORY="ORIGINAL" FORM="F08" LG="IT">
+            <LEGAL_BASIS VALUE="32014L0024" />
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Scuola Normale Superiore</OFFICIALNAME>
+                    <ADDRESS>piazza dei cavalieri 7</ADDRESS>
+                    <TOWN>Pisa</TOWN>
+                    <POSTAL_CODE>56126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT" />
+                    <CONTACT_POINT>Enrico Gemmino</CONTACT_POINT>
+                    <PHONE>+39 050509028</PHONE>
+                    <E_MAIL>enrico.gemmino@sns.it</E_MAIL>
+                    <n2021:NUTS CODE="ITI17" />
+                    <URL_GENERAL>www.sns.it</URL_GENERAL>
+                    <URL_BUYER>
+                        https://amministrazionetrasparente.sns.it/amministrazione-trasparente/bandi-di-gara-e-contratti/atti-della-scuola-normale-superiore-distintamente-ogni-procedura</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <DOCUMENT_FULL />
+                <URL_DOCUMENT>https://start.toscana.it/</URL_DOCUMENT>
+                <ADDRESS_FURTHER_INFO_IDEM />
+                <CA_TYPE VALUE="BODY_PUBLIC" />
+                <CA_ACTIVITY VALUE="EDUCATION" />
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Avviso esplorativo per verifica unicità del fornitore per affidamento ex art.
+                        63, comma 2, lett. B), punto 2 del D.Lgs. 50/2016 di upgrade di un dilution
+                        fridge Kelvinox 400</P>
+                </TITLE>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="31682210" />
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SUPPLIES" />
+                <OBJECT_DESCR>
+                    <n2021:NUTS CODE="ITI17" />
+                    <SHORT_DESCR>
+                        <P>Il laboratorio NEST della SNS possiede, tra le sue attrezzature, un
+                            sistema di criogenia Oxford instruments, modello Kelvinox 400, un
+                            dilution fridge con magnete da 16 Tesla, accesso ottico, temperatura
+                            base 80 mK e sistema di condensazione con miscela He3/He4. Abbiamo la
+                            necessità di effettuare un upgrade del sistema per trasformarlo in un
+                            sistema a ciclo chiuso (cryogen free) sfruttando quanto in
+                            disponibilità, inclusi controller, dewar, He3 (circa 40 litri) e
+                            magnete.</P>
+                    </SHORT_DESCR>
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2021-04-12</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F08_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

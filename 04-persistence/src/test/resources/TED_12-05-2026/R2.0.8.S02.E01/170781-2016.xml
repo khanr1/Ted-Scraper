@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns="http://publications.europa.eu/TED_schema/Export"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xsi:schemaLocation="http://publications.europa.eu/TED_schema/Export/R2.0.8.S02.E01 TED_EXPORT.xsd"
+    DOC_ID="170781-2016" EDITION="2016095">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>16-182350-001</RECEPTION_ID>
+        <DELETION_DATE>20160825</DELETION_DATE>
+        <FORM_LG_LIST>DE </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:title="TED WEBSITE" xlink:href="http://ted.europa.eu"
+            xlink:type="simple" />
+        <OFFICIAL_FORMS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple" />
+        <FORMS_LABELS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple" />
+        <ORIGINAL_CPV_LINK xlink:href="http://ted.europa.eu" xlink:type="simple " />
+        <ORIGINAL_NUTS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>95</NO_OJ>
+            <DATE_PUB>20160519</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2016/S 095-170781</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:170781-2016:TEXT:DE:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>DE</LG_ORIG>
+            <ISO_COUNTRY VALUE="DE" />
+            <IA_URL_GENERAL>www.ptb.de</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="38500000">Checking and testing apparatus</ORIGINAL_CPV>
+            <VALUES_LIST />
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20160517</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="1">Ministry or any other national or federal authority</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+            <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+            <HEADING>01203</HEADING>
+            <DIRECTIVE VALUE="2004/18/EC" />
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Гepмaния</TI_CY>
+                <TI_TOWN>Брауншвайг</TI_TOWN>
+                <TI_TEXT>Уреди за контрол и изпитания</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Německo</TI_CY>
+                <TI_TOWN>Brunšvik</TI_TOWN>
+                <TI_TEXT>Kontrolní a zkušební přístroje</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Tyskland</TI_CY>
+                <TI_TOWN>Braunschweig</TI_TOWN>
+                <TI_TEXT>Apparatur til kontrol og prøvning</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Deutschland</TI_CY>
+                <TI_TOWN>Braunschweig</TI_TOWN>
+                <TI_TEXT>Apparate und Geräte zum Prüfen und Testen</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Γερμανία</TI_CY>
+                <TI_TOWN>Μπραουνσβάιγκ</TI_TOWN>
+                <TI_TEXT>Συσκευές ελέγχου και δοκιμών</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Germany</TI_CY>
+                <TI_TOWN>Brunswick</TI_TOWN>
+                <TI_TEXT>Checking and testing apparatus</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Alemania</TI_CY>
+                <TI_TOWN>Braunschweig</TI_TOWN>
+                <TI_TEXT>Aparatos de control y prueba</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Saksamaa</TI_CY>
+                <TI_TOWN>Braunschweig</TI_TOWN>
+                <TI_TEXT>Kontrolli- ja katseaparatuur</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Saksa</TI_CY>
+                <TI_TOWN>Braunschweig</TI_TOWN>
+                <TI_TEXT>Testaus- ja koelaitteet</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Allemagne</TI_CY>
+                <TI_TOWN>Brunswick</TI_TOWN>
+                <TI_TEXT>Appareils de contrôle et d'essai</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Ghearmáin, an</TI_CY>
+                <TI_TOWN>Braunschweig</TI_TOWN>
+                <TI_TEXT>Checking and testing apparatus</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Njemačka</TI_CY>
+                <TI_TOWN>Brunswick</TI_TOWN>
+                <TI_TEXT>Aparati za provjeru i ispitivanje</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Németország</TI_CY>
+                <TI_TOWN>Braunschweig</TI_TOWN>
+                <TI_TEXT>Ellenőrző és tesztelőkészülékek</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Germania</TI_CY>
+                <TI_TOWN>Braunschweig</TI_TOWN>
+                <TI_TEXT>Apparecchi di prova e controllo</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Vokietija, VFR</TI_CY>
+                <TI_TOWN>Brunsvikas</TI_TOWN>
+                <TI_TEXT>Tikrinimo ir bandymo aparatai</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Vācija</TI_CY>
+                <TI_TOWN>Brunsvika</TI_TOWN>
+                <TI_TEXT>Pārbaudes un analīžu aparāti</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>il-Ġermanja</TI_CY>
+                <TI_TOWN>Brunswick</TI_TOWN>
+                <TI_TEXT>Apparat tal-verifika u t-testijiet</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Duitsland</TI_CY>
+                <TI_TOWN>Braunschweig</TI_TOWN>
+                <TI_TEXT>Controle- en testapparatuur</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Niemcy</TI_CY>
+                <TI_TOWN>Brunszwik</TI_TOWN>
+                <TI_TEXT>Aparatura kontrolna i badawcza</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Alemanha</TI_CY>
+                <TI_TOWN>Braunschweig</TI_TOWN>
+                <TI_TEXT>Aparelhos de controlo e ensaio</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Germania</TI_CY>
+                <TI_TOWN>Brunswick</TI_TOWN>
+                <TI_TEXT>Aparate de control şi de testare</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Nemecko</TI_CY>
+                <TI_TOWN>Braunschweig</TI_TOWN>
+                <TI_TEXT>Kontrolné a testovacie prístroje</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Nemčija</TI_CY>
+                <TI_TOWN>Braunschweig</TI_TOWN>
+                <TI_TEXT>Aparati za preverjanje in preskušanje</TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Tyskland</TI_CY>
+                <TI_TOWN>Braunschweig</TI_TOWN>
+                <TI_TEXT>Apparater för kontroll och provning</TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="DE">Physikalisch-Technische Bundesanstalt</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <CONTRACT_AWARD CATEGORY="ORIGINAL" FORM="3" LG="DE" VERSION="R2.0.8.S02.E01">
+            <FD_CONTRACT_AWARD CTYPE="SUPPLIES">
+                <CONTRACTING_AUTHORITY_INFORMATION_CONTRACT_AWARD>
+                    <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+                        <CA_CE_CONCESSIONAIRE_PROFILE>
+                            <ORGANISATION>
+                                <OFFICIALNAME>Physikalisch-Technische Bundesanstalt</OFFICIALNAME>
+                            </ORGANISATION>
+                            <ADDRESS>Bundesallee 100</ADDRESS>
+                            <TOWN>Braunschweig</TOWN>
+                            <POSTAL_CODE>38116</POSTAL_CODE>
+                            <COUNTRY VALUE="DE" />
+                            <CONTACT_POINT>Physikalisch-Technische Bundesanstalt</CONTACT_POINT>
+                            <ATTENTION>Frau Hopf</ATTENTION>
+                            <PHONE>+49 5315929181</PHONE>
+                            <E_MAILS>
+                                <E_MAIL>stephanie.hopf@ptb.de</E_MAIL>
+                            </E_MAILS>
+                            <FAX>+49 5315929119</FAX>
+                        </CA_CE_CONCESSIONAIRE_PROFILE>
+                        <INTERNET_ADDRESSES_CONTRACT_AWARD>
+                            <URL_GENERAL>www.ptb.de</URL_GENERAL>
+                        </INTERNET_ADDRESSES_CONTRACT_AWARD>
+                    </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+                    <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                        <TYPE_AND_ACTIVITIES>
+                            <TYPE_OF_CONTRACTING_AUTHORITY VALUE="MINISTRY" />
+                            <TYPE_OF_ACTIVITY_OTHER VALUE="OTHER">Wissenschaft und Forschung</TYPE_OF_ACTIVITY_OTHER>
+                        </TYPE_AND_ACTIVITIES>
+                        <PURCHASING_ON_BEHALF>
+                            <PURCHASING_ON_BEHALF_NO />
+                        </PURCHASING_ON_BEHALF>
+                    </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+                </CONTRACTING_AUTHORITY_INFORMATION_CONTRACT_AWARD>
+                <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+                    <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+                        <TITLE_CONTRACT>
+                            <P>Lieferung eines Kryostat-Systems.</P>
+                        </TITLE_CONTRACT>
+                        <TYPE_CONTRACT_LOCATION_W_PUB>
+                            <TYPE_CONTRACT VALUE="SUPPLIES" />
+                            <TYPE_SUPPLIES_CONTRACT VALUE="PURCHASE" />
+                        </TYPE_CONTRACT_LOCATION_W_PUB>
+                        <SHORT_CONTRACT_DESCRIPTION>
+                            <P>Lieferung eines Kryostat-Systems.</P>
+                        </SHORT_CONTRACT_DESCRIPTION>
+                        <CPV>
+                            <CPV_MAIN>
+                                <CPV_CODE CODE="38500000" />
+                            </CPV_MAIN>
+                        </CPV>
+                        <CONTRACT_COVERED_GPA VALUE="YES" />
+                    </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+                </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+                <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+                    <TYPE_OF_PROCEDURE_DEF>
+                        <F03_PT_NEGOTIATED_WITHOUT_COMPETITION>
+                            <ANNEX_D>
+                                <JUSTIFICATION_CHOICE_NEGOCIATED_PROCEDURE>
+                                    <REASONS_PROVIDED_PARTICULAR_TENDERER>
+                                        <REASONS_PROVIDED_PARTICULAR_TENDERER_EXCLUSIVE_RIGHTS />
+                                    </REASONS_PROVIDED_PARTICULAR_TENDERER>
+                                </JUSTIFICATION_CHOICE_NEGOCIATED_PROCEDURE>
+                            </ANNEX_D>
+                        </F03_PT_NEGOTIATED_WITHOUT_COMPETITION>
+                    </TYPE_OF_PROCEDURE_DEF>
+                    <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+                        <AWARD_CRITERIA_DETAIL_F03>
+                            <LOWEST_PRICE />
+                        </AWARD_CRITERIA_DETAIL_F03>
+                        <F03_IS_ELECTRONIC_AUCTION_USABLE VALUE="NO" />
+                    </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+                    <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+                        <FILE_REFERENCE_NUMBER>
+                            <P>Z.1132H / 4500100678</P>
+                        </FILE_REFERENCE_NUMBER>
+                        <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+                            <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+                        </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+                    </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+                </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+                <AWARD_OF_CONTRACT>
+                    <CONTRACT_NUMBER>1</CONTRACT_NUMBER>
+                    <LOT_NUMBER>1</LOT_NUMBER>
+                    <CONTRACT_TITLE>
+                        <P>Lieferung eines Kryostat-Systems</P>
+                    </CONTRACT_TITLE>
+                    <CONTRACT_AWARD_DATE>
+                        <DAY>02</DAY>
+                        <MONTH>05</MONTH>
+                        <YEAR>2016</YEAR>
+                    </CONTRACT_AWARD_DATE>
+                    <ECONOMIC_OPERATOR_NAME_ADDRESS>
+                        <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                            <ORGANISATION>
+                                <OFFICIALNAME>BlueFors Cryogenics Oy Ltd</OFFICIALNAME>
+                            </ORGANISATION>
+                            <ADDRESS>Arinatie 10</ADDRESS>
+                            <TOWN>Helsinki</TOWN>
+                            <POSTAL_CODE>00370</POSTAL_CODE>
+                            <COUNTRY VALUE="FI" />
+                        </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+                    </ECONOMIC_OPERATOR_NAME_ADDRESS>
+                </AWARD_OF_CONTRACT>
+                <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+                    <RELATES_TO_EU_PROJECT_NO />
+                    <NOTICE_DISPATCH_DATE>
+                        <DAY>17</DAY>
+                        <MONTH>05</MONTH>
+                        <YEAR>2016</YEAR>
+                    </NOTICE_DISPATCH_DATE>
+                </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+            </FD_CONTRACT_AWARD>
+        </CONTRACT_AWARD>
+    </FORM_SECTION>
+</TED_EXPORT>

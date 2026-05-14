@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+    xmlns:n2021="http://publications.europa.eu/resource/schema/ted/2021/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+    VERSION="R2.0.9.S05.E01" DOC_ID="163312-2022" EDITION="2022062">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>22-166222-001</RECEPTION_ID>
+        <DELETION_DATE>20220702</DELETION_DATE>
+        <FORM_LG_LIST>EN </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="https://ted.europa.eu"
+            xlink:title="TED WEBSITE" />
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="https://ted.europa.eu" />
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>62</NO_OJ>
+            <DATE_PUB>20220329</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2022/S 062-163312</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="EN">https://ted.europa.eu/udl?uri=TED:NOTICE:163312-2022:TEXT:EN:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>EN</LG_ORIG>
+            <ISO_COUNTRY VALUE="NL" />
+            <IA_URL_GENERAL>https://www.universiteitleiden.nl/</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="38000000">Laboratory, optical and precision equipments (excl.
+                glasses)</ORIGINAL_CPV>
+            <n2021:PERFORMANCE_NUTS CODE="NL">Nederland</n2021:PERFORMANCE_NUTS>
+            <n2021:CA_CE_NUTS CODE="NL">Nederland</n2021:CA_CE_NUTS>
+            <n2021:TENDERER_NUTS CODE="NL">Nederland</n2021:TENDERER_NUTS>
+            <VALUES>
+                <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">324862.00</VALUE>
+            </VALUES>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20220324</DS_DATE_DISPATCH>
+            <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="V">Voluntary ex ante transparency notice</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+            <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+            <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="Z">Not specified</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+            <HEADING>01B15</HEADING>
+            <INITIATOR>01</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Холандия</TI_CY>
+                <TI_TOWN>Лайден</TI_TOWN>
+                <TI_TEXT>
+                    <P>Лабораторно, оптично и прецизно оборудване (без стъклени изделия)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Nizozemsko</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorní, optické a přesné přístroje a zařízení (mimo skel)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Nederlandene</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorieudstyr, optisk udstyr og præcisionsudstyr (ikke briller)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>die Niederlande</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Κάτω Χώρες</TI_CY>
+                <TI_TOWN>Λέιντεν</TI_TOWN>
+                <TI_TEXT>
+                    <P>Εξοπλισμός εργαστηριακός, οπτικός και ακριβείας (εκτός από γυαλιά)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Netherlands</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory, optical and precision equipments (excl. glasses)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Países Bajos</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipo de laboratorio, óptico y de precisión (excepto gafas)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Madalmaad</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboriseadmed, optika- ja täppisinstrumendid (v.a klaasid)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Alankomaat</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriolaitteet, optiset ja tarkkuuslaitteet (lukuun ottamatta
+                        silmälaseja)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Pays-Bas</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Équipements de laboratoire, d'optique et de précision (excepté les lunettes)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Ísiltír, an</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratory, optical and precision equipments (excl. glasses)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Nizozemska</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijska, optička i precizna oprema (osim naočala)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Hollandia</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratóriumi, optikai és precíziós felszerelések (kivéve szemüvegek)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Paesi Bassi</TI_CY>
+                <TI_TOWN>Leida</TI_TOWN>
+                <TI_TEXT>
+                    <P>Attrezzature da laboratorio, ottiche e di precisione (escluso vetri)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Nyderlandai, Olandija</TI_CY>
+                <TI_TOWN>Leidenas</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Nīderlande</TI_CY>
+                <TI_TOWN>Leidene</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijas, optiskās un precīzijas ierīces (izņemot brilles)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>in-Netherlands</TI_CY>
+                <TI_TOWN>Lejden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Tagħmir tal-laboratorju, ottiku u ta' preċiżjoni (minbarra nuċċalijiet)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Nederland</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd
+                        brillen)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Niderlandy</TI_CY>
+                <TI_TOWN>Lejda</TI_TOWN>
+                <TI_TEXT>
+                    <P>Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Países Baixos</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Equipamento laboratorial, óptico e de precisão (exc. óculos)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Ţările de Jos</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Echipamente de laborator, optice şi de precizie (cu excepţia ochelarilor)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Holandsko</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratórne, optické a presné prístroje a vybavenie (s výnimkou skiel)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Nizozemska</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorijska, optična in precizna oprema (razen očal)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Nederländerna</TI_CY>
+                <TI_TOWN>Leiden</TI_TOWN>
+                <TI_TEXT>
+                    <P>Laboratorieutrustning, optisk utrustning och precisionsutrustning (exkl.
+                        glas)</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="EN">Universiteit Leiden</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F15_2014 CATEGORY="ORIGINAL" FORM="F15" LG="EN">
+            <LEGAL_BASIS VALUE="32014L0024" />
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Universiteit Leiden</OFFICIALNAME>
+                    <NATIONALID>27368929</NATIONALID>
+                    <ADDRESS>Postbus 905</ADDRESS>
+                    <TOWN>Leiden</TOWN>
+                    <POSTAL_CODE>2300 AX</POSTAL_CODE>
+                    <COUNTRY VALUE="NL" />
+                    <CONTACT_POINT>Universiteit Leiden</CONTACT_POINT>
+                    <PHONE>+31 715273304</PHONE>
+                    <E_MAIL>inkoop@ufb.leidenuniv.nl</E_MAIL>
+                    <n2021:NUTS CODE="NL" />
+                    <URL_GENERAL>https://www.universiteitleiden.nl/</URL_GENERAL>
+                    <URL_BUYER>https://platform.negometrix.com/PublishedTenders.aspx?tenderid=197422</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+                <CA_TYPE VALUE="BODY_PUBLIC" />
+                <CA_ACTIVITY_OTHER>Scientific research and higher education</CA_ACTIVITY_OTHER>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Transfer system inside a dry dilution refrigerator</P>
+                </TITLE>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="38000000" />
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SUPPLIES" />
+                <SHORT_DESCR>
+                    <P>We wish to order two copies of a transfer system inside a Leiden Cryogenics
+                        dry dilution refrigerator. We found a company willing and able to design,
+                        develop and fabricate such a system. This company is BWI BV. in Leiden, the
+                        Netherlands.</P>
+                    <P>Based on the requirements and market research we believe that BWI BV is the
+                        only company able and willing to design, develop and fabricate the transfer
+                        system and that a negotiated procedure is justified. Please see the attached
+                        memo for a description of the goal and requirements of the transfer probe.</P>
+                    <P>This publication is done to indication of our intention to award the contract
+                        based on the negotiated procedure. Other companies can make representations
+                        if they don't agree with our decision to use the negotiated procedure.
+                        Protests have to made within 20 days after publication by lodging summary
+                        proceedings at the Rechtbank Den Haag. Questions can be raised using the
+                        Question &amp; Answer module on Negometrix.</P>
+                </SHORT_DESCR>
+                <VAL_TOTAL CURRENCY="EUR">324862.00</VAL_TOTAL>
+                <NO_LOT_DIVISION />
+                <OBJECT_DESCR ITEM="1">
+                    <CPV_ADDITIONAL>
+                        <CPV_CODE CODE="38000000" />
+                    </CPV_ADDITIONAL>
+                    <n2021:NUTS CODE="NL" />
+                    <MAIN_SITE>
+                        <P>Leiden</P>
+                    </MAIN_SITE>
+                    <SHORT_DESCR>
+                        <P>We wish to order two copies of a transfer system inside a Leiden
+                            Cryogenics dry dilution refrigerator. </P>
+                        <P>The systems consist of a transfer system for a range of scanning probe
+                            microscopes and a vibration isolation system that is part of the
+                            transfer system:</P>
+                        <P>1. The first instrument to be transferred from room temperature to the
+                            low temperature stage is a Scanning Tunneling Microscope. </P>
+                        <P>2. The system must be compatible with a sample cleaver.</P>
+                        <P>3. Further future scanning probe microscopes that need to be transferred
+                            are a ‘magnetic resonance force microscope’ and a ‘fiber/tuning fork
+                            SPM’.</P>
+                        <P>4. The transfer system must be able to transfer an SPM as well as just
+                            the tip (or the sample).</P>
+                    </SHORT_DESCR>
+                    <NO_OPTIONS />
+                    <NO_EU_PROGR_RELATED />
+                </OBJECT_DESCR>
+            </OBJECT_CONTRACT>
+            <PROCEDURE>
+                <DIRECTIVE_2014_24_EU>
+                    <PT_NEGOTIATED_WITHOUT_PUBLICATION>
+                        <D_ACCORDANCE_ARTICLE>
+                            <D_TECHNICAL />
+                        </D_ACCORDANCE_ARTICLE>
+                        <D_JUSTIFICATION>
+                            <P>We wish to order two copies of a transfer system inside a Leiden
+                                Cryogenics dry dilution refrigerator. We found a company willing and
+                                able to design, develop and fabricate such a system. This company is
+                                BWI BV in Leiden, the Netherlands. </P>
+                            <P>Based on the requirements and market research we believe that BWI BV
+                                is the only company able and willing to design, develop and
+                                fabricate the transfer system and that a negotiated procedure is
+                                justified. </P>
+                            <P>The goals of the project are to interrogate quantum materials,
+                                devices for quantum computation and experiments that interrogate the
+                                foundations of quantum mechanics. To this end we perform scanning
+                                probe microscopies at extremely low temperatures. For the STM
+                                experiments we strive for an effective electron temperatures of 10mK
+                                while for the force measurements in magnetic resonance microscopy we
+                                strive for cantilever temperatures down to 2 mK. Both microscopies
+                                require extremely good vibration isolation. For the magnetic
+                                resonance force microscopy technique the vibration isolation at
+                                acoustic frequencies needs to be state of the art. This vibration
+                                requirement is especially hard to reach in combination with the
+                                required low temperatures.</P>
+                            <P>The systems consist of a transfer system for a range of scanning
+                                probe microscopes and a vibration isolation system that is part of
+                                the transfer system:</P>
+                            <P>1. The first instrument to be transferred from room temperature to
+                                the low temperature stage is a Scanning Tunneling Microscope. </P>
+                            <P>2. The system must be compatible with a sample cleaver.</P>
+                            <P>3. Further future scanning probe microscopes that need to be
+                                transferred are a ‘magnetic resonance force microscope’ and a
+                                ‘fiber/tuning fork SPM’.</P>
+                            <P>4. The transfer system must be able to transfer an SPM as well as
+                                just the tip (or the sample).</P>
+                            <P>See document on Negometrix for further information.</P>
+                        </D_JUSTIFICATION>
+                    </PT_NEGOTIATED_WITHOUT_PUBLICATION>
+                </DIRECTIVE_2014_24_EU>
+                <CONTRACT_COVERED_GPA />
+            </PROCEDURE>
+            <AWARD_CONTRACT ITEM="1">
+                <CONTRACT_NO>1</CONTRACT_NO>
+                <LOT_NO>1</LOT_NO>
+                <TITLE>
+                    <P>Transfer system inside a Leiden Cryogenics dry dilution refrigerator</P>
+                </TITLE>
+                <AWARDED_CONTRACT>
+                    <DATE_CONCLUSION_CONTRACT>2022-03-11</DATE_CONCLUSION_CONTRACT>
+                    <CONTRACTORS>
+                        <NO_AWARDED_TO_GROUP />
+                        <CONTRACTOR>
+                            <ADDRESS_CONTRACTOR>
+                                <OFFICIALNAME>BWI BV</OFFICIALNAME>
+                                <ADDRESS>Zwanenzijde 20</ADDRESS>
+                                <TOWN>Leiden</TOWN>
+                                <COUNTRY VALUE="NL" />
+                                <n2021:NUTS CODE="NL" />
+                            </ADDRESS_CONTRACTOR>
+                            <SME />
+                        </CONTRACTOR>
+                    </CONTRACTORS>
+                    <VALUES>
+                        <VAL_TOTAL CURRENCY="EUR">324862.00</VAL_TOTAL>
+                    </VALUES>
+                </AWARDED_CONTRACT>
+            </AWARD_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <INFO_ADD>
+                    <P>This publication is to indicate our intent to award the contract.
+                        Representations can be made within 20 days after this publication. If no
+                        representations are received, the contract will be awarded. </P>
+                </INFO_ADD>
+                <ADDRESS_REVIEW_BODY>
+                    <OFFICIALNAME>Rechtbank Den Haag</OFFICIALNAME>
+                    <TOWN>Den Haag</TOWN>
+                    <COUNTRY VALUE="NL" />
+                </ADDRESS_REVIEW_BODY>
+                <REVIEW_PROCEDURE>
+                    <P>Within 20 days after this publication.</P>
+                </REVIEW_PROCEDURE>
+                <DATE_DISPATCH_NOTICE>2022-03-24</DATE_DISPATCH_NOTICE>
+            </COMPLEMENTARY_INFO>
+        </F15_2014>
+    </FORM_SECTION>
+</TED_EXPORT>

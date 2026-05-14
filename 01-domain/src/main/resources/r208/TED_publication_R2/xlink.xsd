@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+####################################################################################
+#  XSD name : xlink
+#  RELEASE : "R2.0.8.S02.E01"
+#  Intermediate release number 015-20161124
+#  Last update :20/02/2012
+####################################################################################
+ -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ns="http://www.w3.org/1999/xlink" targetNamespace="http://www.w3.org/1999/xlink" version="R2.0.8.S02.E01">
+	<!--implementation of Simple xlink -->
+	<!--Simple link links two locations in one direction, the start of the link is its declaration.-->
+	<!-- As the link part is mostly informative, the Schema is kept basic. The commented part contains more advanced linking options-->
+	<xs:attribute name="type">
+		<xs:simpleType>
+			<xs:restriction base="xs:NMTOKEN">
+				<xs:enumeration value="simple"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:attribute>
+	<xs:attribute name="href" type="xs:anyURI"/>
+	<xs:attribute name="title" type="xs:string"/>
+	<!--<xs:attribute name="show">
+		<xs:simpleType>
+			<xs:restriction base="xs:NMTOKEN">
+				<xs:enumeration value="new"/>
+				<xs:enumeration value="replace"/>
+				<xs:enumeration value="embed"/>
+				<xs:enumeration value="other"/>
+				<xs:enumeration value="none"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:attribute>
+	<xs:attribute name="label" type="xs:NMTOKEN"/>
+	<xs:attribute name="actuate">
+		<xs:simpleType>
+			<xs:restriction base="xs:NMTOKEN">
+				<xs:enumeration value="onLoad"/>
+				<xs:enumeration value="onRequest"/>
+				<xs:enumeration value="other"/>
+				<xs:enumeration value="none"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:attribute>-->
+	<!--the following attributes should only be used with extended links -->
+	<!--<xs:attribute name="from" type="xs:NMTOKEN"/>
+	<xs:attribute name="to" type="xs:NMTOKEN"/>-->
+</xs:schema>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+####################################################################################
+#  XSD name : TED_EXPORT (.xd)
+#  RELEASE : "R2.0.8.S05.E01"
+#  Intermediate release number 002-20201027
+#  Last update : 27/10/2020
+####################################################################################
+ -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" version="R2.0.8.S05.E01">
+	<!-- *********************************** -->
+	<!-- include schemas                    -->
+	<!-- *********************************** -->
+	<xs:include schemaLocation="F14_ADDITIONAL_INFORMATION_CORRIGENDUM.xsd"/>
+	<xs:include schemaLocation="F16_PRIOR_INFORMATION_DEFENCE.xsd"/>
+	<xs:include schemaLocation="F17_CONTRACT_DEFENCE.xsd"/>
+	<xs:include schemaLocation="F18_CONTRACT_AWARD_DEFENCE.xsd"/>
+	<xs:include schemaLocation="F19_CONTRACT_SUB_DEFENCE.xsd"/>
+	<xs:include schemaLocation="OTH_NOT.xsd"/>
+	<xs:include schemaLocation="EEIG.xsd"/>
+	<!--t_license_holders declaration-->
+	<xs:complexType name="t_ted_export">
+		<xs:sequence>
+			<xs:element ref="TECHNICAL_SECTION"/>
+			<xs:element ref="LINKS_SECTION"/>
+			<xs:element name="SENDER" minOccurs="0">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element ref="LOGIN"/>
+						<xs:element name="USER" minOccurs="0">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element ref="ORGANISATION" minOccurs="0"/>
+									<xs:element ref="ATTENTION" minOccurs="0"/>
+									<xs:element ref="ADDRESS" minOccurs="0"/>
+									<xs:element ref="POSTAL_CODE" minOccurs="0"/>
+									<xs:element ref="TOWN" minOccurs="0"/>
+									<xs:element name="COUNTRY" minOccurs="0">
+										<xs:complexType>
+											<xs:attribute name="VALUE" type="t_country_list_eu_union" use="required"/>
+										</xs:complexType>
+									</xs:element>
+									<xs:element ref="PHONE" minOccurs="0"/>
+									<xs:element ref="FAX" minOccurs="0"/>
+									<xs:element ref="USER_E_MAILS" minOccurs="0"/>
+									<xs:element ref="URL" minOccurs="0"/>
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+						<xs:element ref="NO_DOC_EXT"/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element ref="CODED_DATA_SECTION"/>
+			<xs:element ref="TRANSLATION_SECTION"/>
+			<xs:element ref="FORM_SECTION"/>
+		</xs:sequence>
+		<xs:attribute name="EDITION" use="required">
+			<xs:annotation>
+				<xs:documentation>Pattern for Edition (yyyynnn, where yyyy = year, nnn = OJ number, leading zero allowed)</xs:documentation>
+			</xs:annotation>
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:pattern value="20[0-9]{2}[0-9][0-9]{0,2}"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+		<xs:attribute name="DOC_ID" type="t_document_number" use="required"/>
+	</xs:complexType>
+	<!-- ******************************************************************************************* -->
+	<!-- Integrated forms; F14, F16 - F19, OTH_NOT and EEIG                              -->
+	<!-- ******************************************************************************************* -->
+	<xs:complexType name="t_form_section">
+		<xs:choice>
+			<xs:element ref="ADDITIONAL_INFORMATION_CORRIGENDUM" maxOccurs="24"/>
+			<xs:element ref="PRIOR_INFORMATION_DEFENCE" maxOccurs="24"/>
+			<xs:element ref="CONTRACT_DEFENCE" maxOccurs="24"/>
+			<xs:element ref="CONTRACT_AWARD_DEFENCE" maxOccurs="24"/>
+			<xs:element ref="CONTRACT_CONCESSIONAIRE_DEFENCE" maxOccurs="24"/>
+			<xs:element ref="OTH_NOT" maxOccurs="24"/>
+			<xs:element ref="EEIG" maxOccurs="24"/>
+		</xs:choice>
+	</xs:complexType>
+	<xs:element name="FORM_SECTION" type="t_form_section">
+		<xs:key name="form.lg">
+			<xs:selector xpath="*"/>
+			<xs:field xpath="@LG"/>
+		</xs:key>
+	</xs:element>
+	<!-- *********************************** -->
+	<!--             Root element            -->
+	<!-- *********************************** -->
+	<xs:element name="TED_EXPORT" type="t_ted_export">
+		<xs:annotation>
+			<xs:documentation>Root element</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+</xs:schema>

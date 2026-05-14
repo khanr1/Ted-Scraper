@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+####################################################################################
+#  XSD name : OTH_NOT
+#  RELEASE : "R2.0.8.S03.E01"
+#  Intermediate release number 002-20171128
+#  Last update :20/02/2012
+####################################################################################
+ -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" version="R2.0.8.S03.E01">
+	<xs:include schemaLocation="common_prod.xsd"/>
+	<!--toc declaration -->
+	<xs:complexType name="obj_not">
+		<xs:sequence>
+			<xs:element name="INT_OBJ_NOT" type="btx_oth"/>
+			<xs:element ref="CPV" minOccurs="0"/>
+			<xs:element ref="BLK_BTX" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="sti_doc">
+		<xs:sequence>
+			<xs:element name="P" type="btx_oth" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="toc">
+		<xs:sequence>
+			<xs:sequence minOccurs="0">
+				<xs:element ref="TI_TOC"/>
+				<xs:element name="STI_TOC" type="btx_oth" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:element ref="BLK_BTX" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!--fd_oth_not declaration -->
+	<xs:complexType name="fd_oth_not">
+		<xs:sequence>
+			<xs:choice>
+				<xs:sequence>
+					<xs:element name="TOC" type="toc"/>
+					<xs:element name="TI_DOC" type="sti_doc"/>
+					<xs:element name="STI_DOC" type="sti_doc" minOccurs="0" maxOccurs="unbounded"/>
+				</xs:sequence>
+				<xs:sequence>
+					<xs:element name="TI_DOC" type="sti_doc"/>
+					<xs:element name="STI_DOC" type="sti_doc" minOccurs="0" maxOccurs="unbounded"/>
+					<xs:element name="TOC" type="toc" minOccurs="0"/>
+				</xs:sequence>
+			</xs:choice>
+			<xs:element name="OBJ_NOT" type="obj_not" minOccurs="0"/>
+			<xs:element name="CONTENTS" type="btx_oth"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!--oth_not declaration -->
+	<xs:complexType name="oth_not">
+		<xs:sequence>
+			<xs:element name="FD_OTH_NOT" type="fd_oth_not"/>
+		</xs:sequence>
+		<xs:attribute name="LG" type="languages" use="required"/>
+		<xs:attribute name="CATEGORY" type="category" use="required"/>
+		<xs:attribute name="VERSION" use="optional" fixed="R2.0.8.S03.E01"/>
+	</xs:complexType>
+	<!-- Root element -->
+	<xs:element name="OTH_NOT" type="oth_not">
+		<xs:annotation>
+			<xs:documentation>OTH_NOT root element</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+</xs:schema>
