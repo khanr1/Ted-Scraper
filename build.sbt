@@ -100,6 +100,7 @@ lazy val delivery =
 lazy val persistence =
   project
     .in(file("04-persistence"))
+    .settings(testDependencies)
     .settings(
       libraryDependencies ++= Seq(
         Library.xml.value
