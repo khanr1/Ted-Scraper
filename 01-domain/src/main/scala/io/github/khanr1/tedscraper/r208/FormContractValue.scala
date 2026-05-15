@@ -1,6 +1,6 @@
 package io.github.khanr1.tedscraper.r208
 
-import types.*
+import io.github.khanr1.tedscraper.common.types.{MonetaryAmount, Currency}
 
 sealed trait FormContractValue
 case class ExactValue(value: ValueCost)    extends FormContractValue

@@ -5,7 +5,8 @@ import cats.effect.Async
 import fs2.Stream
 
 import r208.*
-import r208.types.*
+import io.github.khanr1.tedscraper.common.*
+import io.github.khanr1.tedscraper.common.types.*
 
 trait r208Services[F[_]]:
   def toCSV(notices: Stream[F, r208.Notice]): Stream[F, String]

@@ -1,7 +1,7 @@
 package io.github.khanr1.tedscraper.r209
 
-import io.github.khanr1.tedscraper.r208.RichText
-import io.github.khanr1.tedscraper.r208.types.{CpvCode, NutsCode, MonetaryAmount, Currency}
+import io.github.khanr1.tedscraper.common.RichText
+import io.github.khanr1.tedscraper.common.types.{CpvCode, NutsCode, MonetaryAmount, Currency}
 
 // Mirrors OBJECT_DESCR ITEM="N" element (object_fXX types in XSD) — one per lot.
 case class ObjectDescr(

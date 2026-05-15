@@ -1,6 +1,6 @@
 package io.github.khanr1.tedscraper.r209
 
-import io.github.khanr1.tedscraper.r208.FormMeta
+import io.github.khanr1.tedscraper.common.FormMeta
 
 // ── sealed trait ──────────────────────────────────────────────────────────────
 

@@ -1,11 +1,10 @@
 package io.github.khanr1.tedscraper.r209
 
-import io.github.khanr1.tedscraper.r208.{
+import io.github.khanr1.tedscraper.common.{
   TechnicalSection, LinksSection, Sender,
   CodedDataSection, TranslationSection
 }
-import io.github.khanr1.tedscraper.r208.types.{DocumentId, Edition}
-import types.SchemaVersion
+import io.github.khanr1.tedscraper.common.types.{DocumentId, Edition, SchemaVersion}
 
 /** TED Notice parsed from the R2.0.9 (2014-directive) schema family.
  *

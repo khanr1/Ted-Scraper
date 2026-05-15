@@ -1,6 +1,7 @@
 package io.github.khanr1.tedscraper.r208
 
-import types.*
+import io.github.khanr1.tedscraper.common.types.*
+import io.github.khanr1.tedscraper.common.RichText
 
 /** CA_CE_CONCESSIONAIRE_PROFILE (common.xsd). ORGANISATION, ADDRESS, TOWN,
   * COUNTRY required — typed non-Option.

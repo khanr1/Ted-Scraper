@@ -1,7 +1,7 @@
 package io.github.khanr1.tedscraper.r209
 
-import io.github.khanr1.tedscraper.r208.RichText
-import io.github.khanr1.tedscraper.r208.types.{OfficialName, CountryCode}
+import io.github.khanr1.tedscraper.common.RichText
+import io.github.khanr1.tedscraper.common.types.{OfficialName, CountryCode}
 
 // Mirrors COMPLEMENTARY_INFO element (ci_fXX in XSD) — Section VI.
 case class ComplementaryInfo(

@@ -1,6 +1,6 @@
 package io.github.khanr1.tedscraper.r209
 
-import io.github.khanr1.tedscraper.r208.types.Url
+import io.github.khanr1.tedscraper.common.types.Url
 
 // Mirrors CONTRACTING_BODY (body_fXX types in XSD) — Section I of all forms.
 case class ContractingBody(

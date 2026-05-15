@@ -1,6 +1,6 @@
 package io.github.khanr1.tedscraper.r208
 
-import types.*
+import io.github.khanr1.tedscraper.common.RichText
 
 // Not to be confused with TedDate (flat yyyymmdd from coded-data section).
 

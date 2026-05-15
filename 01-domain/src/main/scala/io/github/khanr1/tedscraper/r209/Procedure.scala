@@ -1,6 +1,6 @@
 package io.github.khanr1.tedscraper.r209
 
-import io.github.khanr1.tedscraper.r208.RichText
+import io.github.khanr1.tedscraper.common.RichText
 
 // Procedure type as defined by element presence in PROCEDURE section.
 // Maps: PT_OPEN, PT_RESTRICTED, PT_COMPETITIVE_NEGOTIATION, PT_COMPETITIVE_DIALOGUE,

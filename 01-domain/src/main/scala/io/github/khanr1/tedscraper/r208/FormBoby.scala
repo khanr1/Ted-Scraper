@@ -1,6 +1,8 @@
 package io.github.khanr1.tedscraper.r208
 
-import types.*
+import io.github.khanr1.tedscraper.common.types.*
+import io.github.khanr1.tedscraper.common.*
+import io.github.khanr1.tedscraper.r208.types.{FileReference, SuppliesType}
 
 // ── F01 ───────────────────────────────────────────────────────────────────────
 

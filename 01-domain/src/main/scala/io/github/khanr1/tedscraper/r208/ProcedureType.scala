@@ -1,5 +1,7 @@
 package io.github.khanr1.tedscraper.r208
 
+import io.github.khanr1.tedscraper.common.RichText
+
 sealed trait ProcedureType
 case object OpenProcedure                extends ProcedureType
 case object RestrictedProcedure          extends ProcedureType

@@ -1,7 +1,7 @@
 package io.github.khanr1.tedscraper.r209
 
-import io.github.khanr1.tedscraper.r208.RichText
-import io.github.khanr1.tedscraper.r208.types.{CpvCode, MonetaryAmount, Currency}
+import io.github.khanr1.tedscraper.common.RichText
+import io.github.khanr1.tedscraper.common.types.{CpvCode, MonetaryAmount, Currency}
 
 // Mirrors OBJECT_CONTRACT element (object_contract_fXX in XSD) — Section II.
 case class ObjectContract(

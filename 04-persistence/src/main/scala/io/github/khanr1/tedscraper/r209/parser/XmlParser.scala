@@ -6,19 +6,18 @@ import scala.xml.*
 import scala.util.Try
 import java.io.File
 
-import r208.types.*
-import r208.{
+import io.github.khanr1.tedscraper.common.types.*
+import io.github.khanr1.tedscraper.common.{
   TechnicalSection, LinksSection, Link, Sender, SenderUser, Login,
   CodedDataSection, RefOjs, OjNumber, NoticeData, UriDoc, CpvEntry,
   NutsEntry, RefNotice, CodifData, AuthorityTypeField, DocumentTypeField,
   ContractNatureField, ProcedureField, RegulationField, TypeBidField,
   AwardCritField, MainActivityField, HeadingCode, TranslationSection,
   TitleTranslation, AuthorityNameTranslation, TransliteratedAddress,
-  FormMeta, RichText, StructuredDate
+  FormMeta, RichText
 }
 
 import r209.*
-import r209.types.SchemaVersion
 
 /** XML parser for R2.0.9 (2014-directive) TED notices. */
 object XmlParser:
@@ -636,7 +635,7 @@ object XmlParser:
 
   // ── Envelope section parsers (mirror r208, produce r208 domain types) ────────
 
-  private def parseTechnical(root: Elem): Either[ParseError, r208.TechnicalSection] =
+  private def parseTechnical(root: Elem): Either[ParseError, TechnicalSection] =
     val tech = root \ "TECHNICAL_SECTION"
     val recId = txt(tech, "RECEPTION_ID")
     val delDate = txt(tech, "DELETION_DATE")
@@ -679,12 +678,12 @@ object XmlParser:
         esenderLogin  = RichText(txt(s, "LOGIN", "ESENDER_LOGIN")),
         customerLogin = opt(s, "LOGIN", "CUSTOMER_LOGIN").map(RichText(_)),
         loginClass    = Option(atr(s \ "LOGIN", "CLASS")).filter(_.nonEmpty).map {
-          case "A" => r208.types.LoginClass.A; case "B" => r208.types.LoginClass.B
-          case "C" => r208.types.LoginClass.C; case "D" => r208.types.LoginClass.D
-          case _   => r208.types.LoginClass.Unknown
+          case "A" => LoginClass.A; case "B" => LoginClass.B
+          case "C" => LoginClass.C; case "D" => LoginClass.D
+          case _   => LoginClass.Unknown
         }
       )
-      Some(Sender(login, None, r208.types.ExternalDocRef(txt(s, "NO_DOC_EXT"))))
+      Some(Sender(login, None, ExternalDocRef(txt(s, "NO_DOC_EXT"))))
 
   private def parseCodedDataSection(root: Elem): Either[ParseError, CodedDataSection] =
     val cds  = root \ "CODED_DATA_SECTION"
@@ -696,25 +695,25 @@ object XmlParser:
     else
       val refOjs = RefOjs(
         number = OjNumber(
-          r208.types.OjIssueNumber.unsafe(noOj),
-          r208.types.OjClass.from(atr(rOjs \ "NO_OJ", "CLASS")),
+          OjIssueNumber.unsafe(noOj),
+          OjClass.from(atr(rOjs \ "NO_OJ", "CLASS")),
           atr(rOjs \ "NO_OJ", "LAST") == "YES"
         ),
         publicationDate = TedDate.unsafe(datePub)
       )
       val nd  = cds \ "NOTICE_DATA"
       val noticeData = NoticeData(
-        noDocOjs = opt(nd, "NO_DOC_OJS").flatMap(r208.types.NoticeNumber.from(_).toOption),
+        noDocOjs = opt(nd, "NO_DOC_OJS").flatMap(NoticeNumber.from(_).toOption),
         uriList  = {
           val uris = (nd \ "URI_LIST" \ "URI_DOC")
-            .map(e => UriDoc(Language.from(e \@ "LG"), r208.types.IaUrl.unsafe(e.text.trim)))
+            .map(e => UriDoc(Language.from(e \@ "LG"), IaUrl.unsafe(e.text.trim)))
             .toList
           if uris.isEmpty then None else Some(uris)
         },
         originalLanguage = Language.from(txt(nd, "LG_ORIG")),
         isoCountry       = CountryCode.toDomain(atr(nd \ "ISO_COUNTRY", "VALUE")),
-        iaUrlGeneral     = r208.types.IaUrl.unsafe(txt(nd, "IA_URL_GENERAL")),
-        iaUrlEtendering  = opt(nd, "IA_URL_ETENDERING").map(r208.types.IaUrl.unsafe),
+        iaUrlGeneral     = IaUrl.unsafe(txt(nd, "IA_URL_GENERAL")),
+        iaUrlEtendering  = opt(nd, "IA_URL_ETENDERING").map(IaUrl.unsafe),
         originalCpvCodes = (nd \ "ORIGINAL_CPV").map { e =>
           CpvEntry(CpvCode.unsafe(e \@ "CODE"), RichText(e.text.trim))
         }.toList,
@@ -730,7 +729,7 @@ object XmlParser:
           val rn = nd \ "REF_NOTICE"
           if rn.isEmpty then None
           else Some(RefNotice((rn \ "NO_DOC_OJS").flatMap { e =>
-            r208.types.NoticeNumber.from(e.text.trim).toOption
+            NoticeNumber.from(e.text.trim).toOption
           }.toList))
         }
       )
@@ -742,43 +741,43 @@ object XmlParser:
           dispatchDate           = TedDate.unsafe(dispDate),
           documentRequestDate    = opt(cd, "DD_DATE_REQUEST_DOCUMENT").map(TedDateTime.unsafe),
           submissionDate         = opt(cd, "DT_DATE_FOR_SUBMISSION").map(TedDateTime.unsafe),
-          authorityType = r208.AuthorityTypeField(
-            r208.types.AuthorityTypeCode.from(atr(cd \ "AA_AUTHORITY_TYPE", "CODE")),
+          authorityType = AuthorityTypeField(
+            AuthorityTypeCode.from(atr(cd \ "AA_AUTHORITY_TYPE", "CODE")),
             RichText(txt(cd, "AA_AUTHORITY_TYPE"))
           ),
-          documentType = r208.DocumentTypeField(
-            r208.types.DocumentTypeCode.from(atr(cd \ "TD_DOCUMENT_TYPE", "CODE")),
+          documentType = DocumentTypeField(
+            DocumentTypeCode.from(atr(cd \ "TD_DOCUMENT_TYPE", "CODE")),
             RichText(txt(cd, "TD_DOCUMENT_TYPE"))
           ),
-          contractNature = r208.ContractNatureField(
-            r208.types.ContractNatureCode.from(atr(cd \ "NC_CONTRACT_NATURE", "CODE")),
+          contractNature = ContractNatureField(
+            ContractNatureCode.from(atr(cd \ "NC_CONTRACT_NATURE", "CODE")),
             RichText(txt(cd, "NC_CONTRACT_NATURE"))
           ),
-          procedure = r208.ProcedureField(
-            r208.types.ProcedureCode.from(atr(cd \ "PR_PROC", "CODE")),
+          procedure = ProcedureField(
+            ProcedureCode.from(atr(cd \ "PR_PROC", "CODE")),
             RichText(txt(cd, "PR_PROC"))
           ),
-          regulation = r208.RegulationField(
-            r208.types.RegulationCode.from(atr(cd \ "RP_REGULATION", "CODE")),
+          regulation = RegulationField(
+            RegulationCode.from(atr(cd \ "RP_REGULATION", "CODE")),
             RichText(txt(cd, "RP_REGULATION"))
           ),
-          typeBid = r208.TypeBidField(
-            r208.types.TypeBidCode.from(atr(cd \ "TY_TYPE_BID", "CODE")),
+          typeBid = TypeBidField(
+            TypeBidCode.from(atr(cd \ "TY_TYPE_BID", "CODE")),
             RichText(txt(cd, "TY_TYPE_BID"))
           ),
-          awardCriteria = r208.AwardCritField(
-            r208.types.AwardCritCode.from(atr(cd \ "AC_AWARD_CRIT", "CODE")),
+          awardCriteria = AwardCritField(
+            AwardCritCode.from(atr(cd \ "AC_AWARD_CRIT", "CODE")),
             RichText(txt(cd, "AC_AWARD_CRIT"))
           ),
           mainActivities = (cd \ "MA_MAIN_ACTIVITIES").map { e =>
-            r208.MainActivityField(
-              r208.types.MainActivityCode.from(e \@ "CODE"),
+            MainActivityField(
+              MainActivityCode.from(e \@ "CODE"),
               RichText(e.text.trim)
             )
           }.toList,
           heading   = HeadingCode(txt(cd, "HEADING")),
           directive = opt(cd, "DIRECTIVE")
-            .flatMap(_ => r208.types.Directive.from(atr(cd \ "DIRECTIVE", "VALUE")))
+            .flatMap(_ => Directive.from(atr(cd \ "DIRECTIVE", "VALUE")))
         )
         Right(CodedDataSection(refOjs, noticeData, codifData))
 

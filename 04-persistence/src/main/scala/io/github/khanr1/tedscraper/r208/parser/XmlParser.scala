@@ -2,7 +2,9 @@ package io.github.khanr1.tedscraper
 package r208
 package parser
 
-import types.*
+import io.github.khanr1.tedscraper.common.types.*
+import io.github.khanr1.tedscraper.common.*
+import io.github.khanr1.tedscraper.r208.types.{FileReference, SuppliesType}
 
 import scala.xml.*
 import scala.util.Try

@@ -1,6 +1,6 @@
 package io.github.khanr1.tedscraper.r209
 
-import io.github.khanr1.tedscraper.r208.RichText
+import io.github.khanr1.tedscraper.common.RichText
 
 // Mirrors LEFTI element (lefti_fXX in XSD) — Section III.
 // Present in F01, F02, F04, F05, F12, F21. Absent in F03, F08, F14, F15.

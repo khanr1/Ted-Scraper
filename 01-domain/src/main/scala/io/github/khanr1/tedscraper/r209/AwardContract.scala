@@ -1,7 +1,7 @@
 package io.github.khanr1.tedscraper.r209
 
-import io.github.khanr1.tedscraper.r208.RichText
-import io.github.khanr1.tedscraper.r208.types.{MonetaryAmount, Currency}
+import io.github.khanr1.tedscraper.common.RichText
+import io.github.khanr1.tedscraper.common.types.{MonetaryAmount, Currency}
 
 // A single contractor from CONTRACTOR > ADDRESS_CONTRACTOR + SME/NO_SME.
 case class Contractor(

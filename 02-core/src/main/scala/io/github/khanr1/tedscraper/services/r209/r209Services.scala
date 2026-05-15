@@ -5,8 +5,7 @@ import cats.effect.Async
 import fs2.Stream
 
 import r209.*
-import r209.types.SchemaVersion
-import r208.types.{Currency, MonetaryAmount, NutsCode, CpvCode}
+import io.github.khanr1.tedscraper.common.types.*
 
 trait r209Services[F[_]]:
   def toCSV(notices: Stream[F, r209.Notice]): Stream[F, String]
