@@ -114,6 +114,78 @@ object EFormsParserSuite extends SimpleIOSuite:
     }
   }
 
+  test("pin-* notices are wrapped as PinNotice") {
+    IO.blocking {
+      allEFormsFiles
+        .map(f => parser.EFormsXmlParser.parse(f))
+        .collect { case Right(n) if n.noticeSubtype.value.startsWith("pin-") => n }
+    }.map { pinNotices =>
+      if pinNotices.isEmpty then expect(true)
+      else
+        pinNotices.foldLeft(expect(true)) { (acc, n) =>
+          acc and expect(n.isInstanceOf[PinNotice])
+        }
+    }
+  }
+
+  test("cn-* notices are wrapped as CnNotice") {
+    IO.blocking {
+      allEFormsFiles
+        .map(f => parser.EFormsXmlParser.parse(f))
+        .collect { case Right(n) if n.noticeSubtype.value.startsWith("cn-") => n }
+    }.map { cnNotices =>
+      if cnNotices.isEmpty then expect(true)
+      else
+        cnNotices.foldLeft(expect(true)) { (acc, n) =>
+          acc and expect(n.isInstanceOf[CnNotice])
+        }
+    }
+  }
+
+  test("sdkVersion matches 'eforms-sdk-X.Y' format for every parsed notice") {
+    IO.blocking(allEFormsFiles.flatMap(f => parser.EFormsXmlParser.parse(f).toOption)).map { notices =>
+      val sdkPattern = "^eforms-sdk-\\d+\\.\\d+".r
+      notices.foldLeft(expect(notices.nonEmpty)) { (acc, n) =>
+        val sdk = n.data.metadata.sdkVersion.value
+        acc and expect(sdkPattern.findFirstIn(sdk).isDefined)
+      }
+    }
+  }
+
+  test("issueDate, when present, matches YYYY-MM-DD format") {
+    IO.blocking(allEFormsFiles.flatMap(f => parser.EFormsXmlParser.parse(f).toOption)).map { notices =>
+      val datePattern = "^\\d{4}-\\d{2}-\\d{2}".r
+      notices.foldLeft(expect(notices.nonEmpty)) { (acc, n) =>
+        n.data.metadata.issueDate match
+          case None    => acc
+          case Some(d) => acc and expect(datePattern.findFirstIn(d.value).isDefined)
+      }
+    }
+  }
+
+  test("every organization has a non-empty organizationId") {
+    IO.blocking(allEFormsFiles.flatMap(f => parser.EFormsXmlParser.parse(f).toOption)).map { notices =>
+      notices.foldLeft(expect(notices.nonEmpty)) { (acc, n) =>
+        n.data.organizations.foldLeft(acc) { (inner, org) =>
+          inner and expect(org.company.organizationId.value.nonEmpty)
+        }
+      }
+    }
+  }
+
+  test("every lot has a non-empty lotId") {
+    IO.blocking(allEFormsFiles.flatMap(f => parser.EFormsXmlParser.parse(f).toOption)).map { notices =>
+      val withLots = notices.filter(_.data.lots.nonEmpty)
+      if withLots.isEmpty then expect(true)
+      else
+        withLots.foldLeft(expect(true)) { (acc, n) =>
+          n.data.lots.foldLeft(acc) { (inner, lot) =>
+            inner and expect(lot.lotId.value.nonEmpty)
+          }
+        }
+    }
+  }
+
   test("generate eformNotice.csv") {
     IO.blocking(allEFormsFiles.flatMap(f => parser.EFormsXmlParser.parse(f).toOption))
       .flatMap { notices =>

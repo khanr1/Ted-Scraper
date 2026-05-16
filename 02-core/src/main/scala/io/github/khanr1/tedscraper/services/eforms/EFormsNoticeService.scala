@@ -238,8 +238,8 @@ object EFormsNoticeService:
             nutsCode           = nutsCode,
             lotNumber          = lr.lotRef.map(_.value).getOrElse(""),
             awardContractNumber= contract.flatMap(_.contractReference).map(_.value).getOrElse(""),
-            awardContractTitle = contract.flatMap(_.title).map(_.value)
-                                   .orElse(scope.flatMap(_.lotTitle).map(_.value)).getOrElse(""),
+            awardContractTitle = scope.flatMap(_.lotTitle).map(_.value)
+                                   .orElse(contract.flatMap(_.title).map(_.value)).getOrElse(""),
             lotDescription     = scope.flatMap(_.lotDescription).map(_.value).getOrElse(""),
             lotCpv             = lotCpv,
             awardDate          = contract.flatMap(_.awardDate).map(_.value).getOrElse(""),
