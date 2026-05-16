@@ -1,32 +1,27 @@
-package io.github.khanr1
-package tedscraper
+package io.github.khanr1.tedscraper.r208
 
 import cats.effect.IO
 import cats.syntax.all.*
-import weaver.*
 import fs2.Stream
+import weaver.*
 
 import java.io.File
 import java.nio.file.Files as JFiles
 
-import r208.Notice
-import r208.parser.XmlParser
-import services.r208.r208Services
+import io.github.khanr1.tedscraper.repositories.r208.NoticeRepository
+import io.github.khanr1.tedscraper.services.r208.r208Services
 
 /** Runs XmlParser over every R2.0.8 XML file in the three test-resource
  *  directories, emits per-file results to stdout, and writes r208Notice.csv
- *  to the project root.  Each file is a Weaver pureTest so failures surface
- *  individually.
+ *  to the project root.
  */
 object R208ParserSuite extends SimpleIOSuite:
 
   // ── Path helpers ──────────────────────────────────────────────────────────
 
-  /** Walk up from the JVM working directory until we find build.sbt. */
   private lazy val projectRoot: File =
     var dir = new File(".").getAbsoluteFile
-    while dir != null && !new File(dir, "build.sbt").exists() do
-      dir = dir.getParentFile
+    while dir != null && !new File(dir, "build.sbt").exists() do dir = dir.getParentFile
     dir
 
   private val resourceDirs = List(
@@ -45,7 +40,7 @@ object R208ParserSuite extends SimpleIOSuite:
 
   // ── Stub repository (toCSV does not use it) ───────────────────────────────
 
-  private val stubRepo = new repositories.r208.NoticeRepository[IO]:
+  private val stubRepo = new NoticeRepository[IO]:
     def getAll: Stream[IO, Notice] = Stream.empty
 
   private val svc = r208Services.make[IO](stubRepo)
@@ -53,7 +48,7 @@ object R208ParserSuite extends SimpleIOSuite:
   // ── Tests ─────────────────────────────────────────────────────────────────
 
   test("parse all R2.0.8 XML files") {
-    IO.blocking(allXmlFiles.map(f => f -> XmlParser.parse(f))).flatMap { results =>
+    IO.blocking(allXmlFiles.map(f => f -> parser.XmlParser.parse(f))).flatMap { results =>
       val errors  = results.collect { case (f, Left(e))  => f.getName -> e.message }
       val notices = results.collect { case (_, Right(n)) => n }
 
@@ -76,7 +71,7 @@ object R208ParserSuite extends SimpleIOSuite:
   }
 
   test("generate r208Notice.csv") {
-    IO.blocking(allXmlFiles.flatMap(f => XmlParser.parse(f).toOption)).flatMap { notices =>
+    IO.blocking(allXmlFiles.flatMap(f => parser.XmlParser.parse(f).toOption)).flatMap { notices =>
       for
         csvLines <- svc
                       .toCSV(Stream.emits[IO, Notice](notices))

@@ -1,17 +1,15 @@
-package io.github.khanr1
-package tedscraper
+package io.github.khanr1.tedscraper.r209
 
 import cats.effect.IO
 import cats.syntax.all.*
-import weaver.*
 import fs2.Stream
+import weaver.*
 
 import java.io.File
 import java.nio.file.Files as JFiles
 
-import r209.Notice
-import r209.parser.XmlParser
-import services.r209.r209Services
+import io.github.khanr1.tedscraper.repositories.r209.NoticeRepository
+import io.github.khanr1.tedscraper.services.r209.r209Services
 
 /** Runs XmlParser over every R2.0.9 XML file in the five test-resource
  *  directories, emits per-file results to stdout, and writes r209Notice.csv
@@ -23,8 +21,7 @@ object R209ParserSuite extends SimpleIOSuite:
 
   private lazy val projectRoot: File =
     var dir = new File(".").getAbsoluteFile
-    while dir != null && !new File(dir, "build.sbt").exists() do
-      dir = dir.getParentFile
+    while dir != null && !new File(dir, "build.sbt").exists() do dir = dir.getParentFile
     dir
 
   private val resourceDirs = List(
@@ -45,7 +42,7 @@ object R209ParserSuite extends SimpleIOSuite:
 
   // ── Stub repository ───────────────────────────────────────────────────────
 
-  private val stubRepo = new repositories.r209.NoticeRepository[IO]:
+  private val stubRepo = new NoticeRepository[IO]:
     def getAll: Stream[IO, Notice] = Stream.empty
 
   private val svc = r209Services.make[IO](stubRepo)
@@ -53,7 +50,7 @@ object R209ParserSuite extends SimpleIOSuite:
   // ── Tests ─────────────────────────────────────────────────────────────────
 
   test("parse all R2.0.9 XML files") {
-    IO.blocking(allXmlFiles.map(f => f -> XmlParser.parse(f))).flatMap { results =>
+    IO.blocking(allXmlFiles.map(f => f -> parser.XmlParser.parse(f))).flatMap { results =>
       val errors  = results.collect { case (f, Left(e))  => f.getName -> e.message }
       val notices = results.collect { case (_, Right(n)) => n }
 
@@ -76,7 +73,7 @@ object R209ParserSuite extends SimpleIOSuite:
   }
 
   test("generate r209Notice.csv") {
-    IO.blocking(allXmlFiles.flatMap(f => XmlParser.parse(f).toOption)).flatMap { notices =>
+    IO.blocking(allXmlFiles.flatMap(f => parser.XmlParser.parse(f).toOption)).flatMap { notices =>
       for
         csvLines <- svc
                       .toCSV(Stream.emits[IO, Notice](notices))
